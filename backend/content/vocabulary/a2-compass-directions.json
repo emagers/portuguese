@@ -1,0 +1,139 @@
+{
+  "id": "a2-compass-directions",
+  "level": "A2",
+  "title": "Compass Directions",
+  "theme": "directions",
+  "description": "The complete basic compass directions for maps, travel and orientation.",
+  "cards": [
+    {
+      "id": "comp-norte",
+      "pt": "norte",
+      "en": "north",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈnɔʁ.tʃi",
+      "example": {
+        "pt": "Manaus fica no norte do Brasil.",
+        "en": "Manaus is in the north of Brazil."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    },
+    {
+      "id": "comp-sul",
+      "pt": "sul",
+      "en": "south",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "suw",
+      "example": {
+        "pt": "Porto Alegre fica no sul.",
+        "en": "Porto Alegre is in the south."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    },
+    {
+      "id": "comp-leste",
+      "pt": "leste",
+      "en": "east",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈlɛs.tʃi",
+      "example": {
+        "pt": "O sol nasce no leste.",
+        "en": "The sun rises in the east."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    },
+    {
+      "id": "comp-oeste",
+      "pt": "oeste",
+      "en": "west",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "oˈɛs.tʃi",
+      "example": {
+        "pt": "O sol se põe no oeste.",
+        "en": "The sun sets in the west."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    },
+    {
+      "id": "comp-nordeste",
+      "pt": "nordeste",
+      "en": "northeast",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "nɔʁˈdɛs.tʃi",
+      "example": {
+        "pt": "O Nordeste tem praias famosas.",
+        "en": "The Northeast has famous beaches."
+      },
+      "tags": [
+        "directions",
+        "compass",
+        "regions"
+      ]
+    },
+    {
+      "id": "comp-noroeste",
+      "pt": "noroeste",
+      "en": "northwest",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "nɔɾoˈɛs.tʃi",
+      "example": {
+        "pt": "A chuva veio do noroeste.",
+        "en": "The rain came from the northwest."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    },
+    {
+      "id": "comp-sudeste",
+      "pt": "sudeste",
+      "en": "southeast",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "suˈdɛs.tʃi",
+      "example": {
+        "pt": "São Paulo fica no Sudeste.",
+        "en": "São Paulo is in the Southeast."
+      },
+      "tags": [
+        "directions",
+        "compass",
+        "regions"
+      ]
+    },
+    {
+      "id": "comp-sudoeste",
+      "pt": "sudoeste",
+      "en": "southwest",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "sudoˈɛs.tʃi",
+      "example": {
+        "pt": "O vento sopra do sudoeste.",
+        "en": "The wind blows from the southwest."
+      },
+      "tags": [
+        "directions",
+        "compass"
+      ]
+    }
+  ]
+}

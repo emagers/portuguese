@@ -60,6 +60,8 @@ export const api = {
   ) => post<any>("/progress/quiz", { quiz_id, level, score, total, details }),
   markLesson: (lesson_id: string, status = "completed") =>
     post<any>("/progress/lesson", { lesson_id, status }),
+  markDeck: (deck_id: string, status = "completed") =>
+    post<any>("/progress/deck", { deck_id, status }),
   quizHistory: () => get<any[]>("/progress/quiz/history"),
   pronunciationHistory: () => get<any[]>("/progress/pronunciation/history"),
 

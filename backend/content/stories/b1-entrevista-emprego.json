@@ -7,17 +7,17 @@
   "summary": "A candidate explains her experience and goals during a job interview.",
   "lines": [
     {
-      "speaker": "Entrevistador",
-      "pt": "Bom dia, Renata. Obrigado por vir à entrevista.",
-      "en": "Good morning, Renata. Thank you for coming to the interview."
+      "speaker": "Camila",
+      "pt": "Bom dia, Renata. Obrigada por vir à entrevista. Encontrou o prédio com facilidade?",
+      "en": "Good morning, Renata. Thank you for coming to the interview. Did you find the building easily?"
     },
     {
       "speaker": "Renata",
-      "pt": "Eu que agradeço pela oportunidade.",
-      "en": "I am the one who thanks you for the opportunity."
+      "pt": "Encontrei, sim. Eu que agradeço pela oportunidade.",
+      "en": "Yes, I did. I am the one who thanks you for the opportunity."
     },
     {
-      "speaker": "Entrevistador",
+      "speaker": "Camila",
       "pt": "Você pode falar um pouco sobre sua experiência?",
       "en": "Can you talk a little about your experience?"
     },
@@ -27,19 +27,19 @@
       "en": "Of course. I worked for three years in a clothing store and learned to serve customers patiently."
     },
     {
-      "speaker": "Entrevistador",
-      "pt": "E por que você quer mudar de área?",
-      "en": "And why do you want to change fields?"
+      "speaker": "Camila",
+      "pt": "Vejo aqui que você também fez um curso recente.",
+      "en": "I see here that you also took a recent course."
     },
     {
       "speaker": "Renata",
-      "pt": "Porque sempre gostei de tecnologia e fiz um curso de suporte técnico no ano passado.",
-      "en": "Because I have always liked technology and took a technical support course last year."
+      "pt": "Sim, fiz suporte técnico no ano passado. Sempre gostei de tecnologia, mas precisei estudar à noite para mudar de área.",
+      "en": "Yes, I took technical support last year. I have always liked technology, but I needed to study at night to change fields."
     },
     {
-      "speaker": "Entrevistador",
-      "pt": "Como você lida com problemas difíceis?",
-      "en": "How do you deal with difficult problems?"
+      "speaker": "Camila",
+      "pt": "Isso mostra disciplina. Como você lida com problemas difíceis?",
+      "en": "That shows discipline. How do you deal with difficult problems?"
     },
     {
       "speaker": "Renata",
@@ -47,9 +47,24 @@
       "en": "First, I listen to the person. Then I look for the cause of the problem and explain the solution calmly."
     },
     {
-      "speaker": "Entrevistador",
+      "speaker": "Camila",
+      "pt": "E quando o cliente está nervoso?",
+      "en": "And when the customer is nervous?"
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Eu tento não levar para o lado pessoal. Se a pessoa se sente ouvida, a conversa melhora.",
+      "en": "I try not to take it personally. If the person feels heard, the conversation improves."
+    },
+    {
+      "speaker": "Camila",
       "pt": "Ótimo. Entraremos em contato até sexta-feira.",
       "en": "Great. We will get in touch by Friday."
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Obrigada, Camila. Fico no aguardo.",
+      "en": "Thank you, Camila. I'll be waiting."
     }
   ],
   "glossary": [

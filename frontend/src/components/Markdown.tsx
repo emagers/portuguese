@@ -1,8 +1,13 @@
 import type { ReactNode } from "react";
+import { speak } from "../api/audio";
 
 // Minimal, safe markdown renderer for lesson bodies. Supports **bold**,
 // `inline code`, pipe tables, and paragraphs. Outputs React nodes (no HTML
 // injection). Content is local and authored, so scope is intentionally small.
+
+function stripMd(text: string): string {
+  return text.replace(/\*\*/g, "").replace(/`/g, "").trim();
+}
 
 function inline(text: string, keyBase: string): ReactNode[] {
   const nodes: ReactNode[] = [];
@@ -72,9 +77,20 @@ export default function Markdown({ text }: { text: string }) {
           <tbody>
             {rows.map((r, ri) => (
               <tr key={ri}>
-                {r.map((c, ci) => (
-                  <td key={ci}>{inline(c, `r${ri}c${ci}`)}</td>
-                ))}
+                {r.map((c, ci) => {
+                  const spoken = stripMd(c);
+                  const clickable = spoken.length > 0;
+                  return (
+                    <td
+                      key={ci}
+                      onClick={clickable ? () => speak(spoken) : undefined}
+                      className={clickable ? "speak-cell" : undefined}
+                      title={clickable ? "Click to listen 🔊" : undefined}
+                    >
+                      {inline(c, `r${ri}c${ci}`)}
+                    </td>
+                  );
+                })}
               </tr>
             ))}
           </tbody>

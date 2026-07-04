@@ -66,6 +66,12 @@ def init_db() -> None:
                 updated_at TEXT NOT NULL
             );
 
+            CREATE TABLE IF NOT EXISTS deck_progress (
+                deck_id    TEXT PRIMARY KEY,
+                status     TEXT NOT NULL,
+                updated_at TEXT NOT NULL
+            );
+
             CREATE TABLE IF NOT EXISTS pronunciation_attempts (
                 id         INTEGER PRIMARY KEY AUTOINCREMENT,
                 phrase     TEXT NOT NULL,
@@ -223,6 +229,26 @@ def lesson_statuses() -> dict:
     with get_conn() as conn:
         rows = conn.execute("SELECT lesson_id, status FROM lesson_progress").fetchall()
     return {r["lesson_id"]: r["status"] for r in rows}
+
+
+# --------------------------------------------------------------------------- #
+# Vocabulary deck completion
+# --------------------------------------------------------------------------- #
+def set_deck_status(deck_id: str, status: str) -> None:
+    with get_conn() as conn:
+        conn.execute(
+            "INSERT INTO deck_progress(deck_id, status, updated_at) VALUES(?,?,?) "
+            "ON CONFLICT(deck_id) DO UPDATE SET status=excluded.status, updated_at=excluded.updated_at",
+            (deck_id, status, _now()),
+        )
+        conn.commit()
+    log_activity()
+
+
+def deck_statuses() -> dict:
+    with get_conn() as conn:
+        rows = conn.execute("SELECT deck_id, status FROM deck_progress").fetchall()
+    return {r["deck_id"]: r["status"] for r in rows}
 
 
 # --------------------------------------------------------------------------- #

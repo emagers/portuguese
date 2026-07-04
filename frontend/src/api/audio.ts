@@ -46,7 +46,21 @@ if (typeof window !== "undefined" && "speechSynthesis" in window) {
   window.speechSynthesis.onvoiceschanged = () => pickBrazilianVoice();
 }
 
-export async function speak(text: string, rate = 1): Promise<void> {
+let voiceList: string[] | null = null;
+
+export async function getVoices(): Promise<string[]> {
+  if (voiceList !== null) return voiceList;
+  try {
+    const res = await fetch("/api/tts/voices");
+    const j = await res.json();
+    voiceList = Array.isArray(j.voices) ? j.voices : [];
+  } catch {
+    voiceList = [];
+  }
+  return voiceList!;
+}
+
+export async function speak(text: string, rate = 1, voice?: string): Promise<void> {
   const t = text.trim();
   if (!t) return;
   const hasPiper = await checkTts();
@@ -56,11 +70,21 @@ export async function speak(text: string, rate = 1): Promise<void> {
         currentAudio.pause();
         currentAudio = null;
       }
-      const audio = new Audio(`/api/tts?text=${encodeURIComponent(t)}`);
+      const url =
+        `/api/tts?text=${encodeURIComponent(t)}` +
+        (voice ? `&voice=${encodeURIComponent(voice)}` : "");
+      const audio = new Audio(url);
       audio.playbackRate = rate;
       currentAudio = audio;
-      await audio.play();
-      return;
+      // Resolve only when playback *finishes* so callers (e.g. Play all) can
+      // sequence lines without cutting them off. Falls back to the browser
+      // voice if the audio fails to load/play.
+      const ok = await new Promise<boolean>((resolve) => {
+        audio.onended = () => resolve(true);
+        audio.onerror = () => resolve(false);
+        audio.play().catch(() => resolve(false));
+      });
+      if (ok) return;
     } catch {
       // fall through to browser TTS
     }

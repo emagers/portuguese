@@ -1,0 +1,96 @@
+{
+  "id": "a2-13-adverbs-of-frequency",
+  "level": "A2",
+  "order": 13,
+  "title": "Adverbs of Frequency",
+  "titlePt": "Advérbios de frequência",
+  "summary": "Say how often things happen with sempre, geralmente, às vezes, raramente, and nunca.",
+  "tags": [
+    "adverbs",
+    "frequency",
+    "word-order"
+  ],
+  "sections": [
+    {
+      "heading": "Core frequency adverbs",
+      "body": "Frequency adverbs describe how often an action happens. They usually appear before or after the main verb phrase, depending on emphasis.\n\n| Portuguese | English |\n|---|---|\n| sempre | always |\n| geralmente / normalmente | usually |\n| muitas vezes | often |\n| às vezes | sometimes |\n| raramente | rarely |\n| nunca | never |",
+      "examples": [
+        {
+          "pt": "Eu sempre tomo café de manhã.",
+          "en": "I always drink coffee in the morning."
+        },
+        {
+          "pt": "Ela geralmente trabalha em casa.",
+          "en": "She usually works from home."
+        },
+        {
+          "pt": "A gente às vezes almoça fora.",
+          "en": "We sometimes eat out."
+        }
+      ]
+    },
+    {
+      "heading": "Nunca and negative meaning",
+      "body": "**Nunca** already has negative meaning. It can appear before the verb or after a verb with **não**. In everyday sentences, **nunca** before the verb is very common.",
+      "examples": [
+        {
+          "pt": "Eu nunca fumo.",
+          "en": "I never smoke."
+        },
+        {
+          "pt": "Ela não chega atrasada nunca.",
+          "en": "She never arrives late.",
+          "note": "emphatic spoken order"
+        },
+        {
+          "pt": "Nunca fui a Manaus.",
+          "en": "I have never been to Manaus."
+        }
+      ]
+    },
+    {
+      "heading": "Precise frequency expressions",
+      "body": "Use expressions with **por**, **vez(es)**, and time periods to be more precise. In Brazil, **uma vez por semana** and **duas vezes por mês** are standard patterns.",
+      "examples": [
+        {
+          "pt": "Faço exercício três vezes por semana.",
+          "en": "I exercise three times a week."
+        },
+        {
+          "pt": "Visito meus pais uma vez por mês.",
+          "en": "I visit my parents once a month."
+        },
+        {
+          "pt": "Temos reunião todo dia.",
+          "en": "We have a meeting every day."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Sempre, geralmente, às vezes, raramente, and nunca are core frequency adverbs.",
+    "Nunca is negative by itself.",
+    "Use vezes por semana/mês/ano for exact frequency.",
+    "Todo dia means every day; todos os dias is also common.",
+    "Adverb position is flexible, but before the main verb is a safe default."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu não nunca vou.",
+      "right": "Eu nunca vou.",
+      "note": "Do not use não before nunca in the standard pre-verbal pattern."
+    },
+    {
+      "wrong": "duas vezes na semana",
+      "right": "duas vezes por semana",
+      "note": "For frequency, por semana is the standard expression."
+    },
+    {
+      "wrong": "Sempre eu tomo café.",
+      "right": "Eu sempre tomo café.",
+      "note": "Subject + adverb + verb is the neutral order."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

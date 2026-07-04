@@ -30,8 +30,8 @@
       ]
     },
     {
-      "heading": "Regular forms",
-      "body": "For regular verbs, the future subjunctive often looks like the infinitive for eu/você/ele/ela and adds normal personal endings for nós and eles.\n\n| falar | comer | abrir |\n|---|---|---|\n| quando eu falar | se eu comer | quando eu abrir |\n| quando nós falarmos | se nós comermos | quando nós abrirmos |\n| quando eles falarem | se eles comerem | quando eles abrirem |",
+      "heading": "Regular future subjunctive tables",
+      "body": "For regular verbs, the future subjunctive often looks like the infinitive for eu and você/ele/ela, then adds **-mos** and **-em** for plural subjects.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| quando/se eu | **falar** | **comer** | **abrir** |\n| quando/se você/ele/ela | **falar** | **comer** | **abrir** |\n| quando/se nós | **falarmos** | **comermos** | **abrirmos** |\n| quando/se vocês/eles/elas | **falarem** | **comerem** | **abrirem** |",
       "examples": [
         {
           "pt": "Quando nós falarmos com ela, vamos explicar.",
@@ -48,20 +48,20 @@
       ]
     },
     {
-      "heading": "Irregular stems from the preterite",
-      "body": "Many irregular future subjunctives come from the preterite stem: **tiver**, **for**, **fizer**, **puder**, **quiser**, **vier**, **disser**.",
+      "heading": "Common irregular future subjunctive forms",
+      "body": "Many irregular future subjunctives come from the preterite stem.\n\n| Subject | ser/ir | ter | fazer | poder | querer | vir | dizer |\n|---|---|---|---|---|---|---|---|\n| se eu | **for** | **tiver** | **fizer** | **puder** | **quiser** | **vier** | **disser** |\n| se você/ele/ela | **for** | **tiver** | **fizer** | **puder** | **quiser** | **vier** | **disser** |\n| se nós | **formos** | **tivermos** | **fizermos** | **pudermos** | **quisermos** | **viermos** | **dissermos** |\n| se vocês/eles/elas | **forem** | **tiverem** | **fizerem** | **puderem** | **quiserem** | **vierem** | **disserem** |",
       "examples": [
         {
           "pt": "Se eu tiver tempo, passo aí.",
-          "en": "If I have time, I'll stop by."
+          "en": "If I have time, I will stop by."
         },
         {
-          "pt": "Quando você for ao mercado, compre leite.",
-          "en": "When you go to the market, buy milk."
+          "pt": "Quando nós formos ao mercado, compraremos leite.",
+          "en": "When we go to the market, we will buy milk."
         },
         {
-          "pt": "Se ela puder, vai ajudar.",
-          "en": "If she can, she will help."
+          "pt": "Se eles disserem a verdade, tudo muda.",
+          "en": "If they tell the truth, everything changes."
         }
       ]
     }
@@ -69,8 +69,9 @@
   "keyPoints": [
     "Use future subjunctive after se/quando for future conditions.",
     "English often uses present where Portuguese uses future subjunctive.",
-    "Regular forms resemble the infinitive but add endings for nós and plural subjects.",
-    "Common irregulars include for, tiver, fizer, puder, quiser, vier."
+    "Regular forms resemble the infinitive for singular subjects and add -mos/-em for plural subjects.",
+    "Common irregulars include for, tiver, fizer, puder, quiser, vier, disser.",
+    "Do not use the future indicative after se in conditional clauses."
   ],
   "commonMistakes": [
     {

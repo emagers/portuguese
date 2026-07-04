@@ -1,0 +1,100 @@
+{
+  "id": "b2-11-word-order-emphasis",
+  "level": "B2",
+  "order": 11,
+  "title": "Word Order and Emphasis",
+  "titlePt": "Ordem das palavras e ênfase",
+  "summary": "Use fronting, cleft sentences, topicalization, and adverb placement to emphasize information naturally.",
+  "tags": [
+    "word-order",
+    "emphasis",
+    "syntax"
+  ],
+  "sections": [
+    {
+      "heading": "Neutral order and flexible emphasis",
+      "body": "Neutral Brazilian Portuguese usually follows **subject + verb + object**, but speakers can move elements to highlight contrast or connect to previous context.",
+      "examples": [
+        {
+          "pt": "Eu comprei esse livro ontem.",
+          "en": "I bought this book yesterday.",
+          "note": "neutral"
+        },
+        {
+          "pt": "Esse livro, eu comprei ontem.",
+          "en": "This book, I bought yesterday.",
+          "note": "topic/contrast"
+        },
+        {
+          "pt": "Ontem eu comprei esse livro.",
+          "en": "Yesterday I bought this book.",
+          "note": "time emphasized"
+        }
+      ]
+    },
+    {
+      "heading": "Cleft sentences with é que / foi que",
+      "body": "Cleft structures emphasize one element by framing it with **é que** or **foi que**. They are common in speech and writing, but should not be overused.",
+      "examples": [
+        {
+          "pt": "Foi a Marina que ligou.",
+          "en": "It was Marina who called."
+        },
+        {
+          "pt": "É disso que eu estou falando.",
+          "en": "That is what I am talking about."
+        },
+        {
+          "pt": "Foi ontem que eles chegaram.",
+          "en": "It was yesterday that they arrived."
+        }
+      ]
+    },
+    {
+      "heading": "Adverb placement and scope",
+      "body": "Where an adverb appears can change what it modifies. Place adverbs near the word or phrase they affect, especially **só**, **também**, **ainda**, and **já**.",
+      "examples": [
+        {
+          "pt": "Só eu falei com ela.",
+          "en": "Only I spoke with her."
+        },
+        {
+          "pt": "Eu só falei com ela.",
+          "en": "I only spoke with her.",
+          "note": "I did not do anything else"
+        },
+        {
+          "pt": "Eu falei só com ela.",
+          "en": "I spoke only with her.",
+          "note": "with nobody else"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Neutral order is subject + verb + object, but Portuguese allows fronting for emphasis.",
+    "Topicalized elements often appear at the beginning followed by a pause/comma.",
+    "É que and foi que create strong focus.",
+    "Adverb position affects meaning and scope.",
+    "Use marked word order for a reason: contrast, continuity, or emphasis."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Moving words randomly to sound advanced.",
+      "right": "Move words only when the focus or context justifies it.",
+      "note": "Marked word order creates marked meaning."
+    },
+    {
+      "wrong": "Eu falei com só ela.",
+      "right": "Eu falei só com ela.",
+      "note": "Só normally comes before the phrase it limits."
+    },
+    {
+      "wrong": "Foi que a Marina ligou.",
+      "right": "Foi a Marina que ligou.",
+      "note": "The focused element goes between foi and que."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -8,48 +8,58 @@
   "lines": [
     {
       "speaker": "Rita",
-      "pt": "Com licença. Onde fica o ponto de ônibus?",
-      "en": "Excuse me. Where is the bus stop?"
+      "pt": "Com licença, Seu Alberto. Onde fica o ponto de ônibus?",
+      "en": "Excuse me, Seu Alberto. Where is the bus stop?"
     },
     {
-      "speaker": "Homem",
-      "pt": "Fica perto da praça.",
-      "en": "It is near the square."
-    },
-    {
-      "speaker": "Rita",
-      "pt": "É longe daqui?",
-      "en": "Is it far from here?"
-    },
-    {
-      "speaker": "Homem",
-      "pt": "Não, é perto. Siga em frente.",
-      "en": "No, it is close. Go straight ahead."
+      "speaker": "Seu Alberto",
+      "pt": "Fica perto da praça, minha filha.",
+      "en": "It is near the square, my dear."
     },
     {
       "speaker": "Rita",
-      "pt": "Depois?",
-      "en": "After that?"
+      "pt": "É longe daqui? Eu estou um pouco atrasada.",
+      "en": "Is it far from here? I am a little late."
     },
     {
-      "speaker": "Homem",
-      "pt": "Vire à direita na padaria.",
-      "en": "Turn right at the bakery."
-    },
-    {
-      "speaker": "Rita",
-      "pt": "O ponto fica na praça?",
-      "en": "Is the stop in the square?"
-    },
-    {
-      "speaker": "Homem",
-      "pt": "Sim, fica em frente ao banco.",
-      "en": "Yes, it is across from the bank."
+      "speaker": "Seu Alberto",
+      "pt": "Não, é perto. Siga em frente nesta rua.",
+      "en": "No, it is close. Go straight ahead on this street."
     },
     {
       "speaker": "Rita",
-      "pt": "Muito obrigada!",
-      "en": "Thank you very much!"
+      "pt": "Depois eu viro onde?",
+      "en": "Then where do I turn?"
+    },
+    {
+      "speaker": "Seu Alberto",
+      "pt": "Vire à direita na padaria da Dona Neide.",
+      "en": "Turn right at Dona Neide's bakery."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "Ah, eu vi a padaria. Tem uma porta amarela.",
+      "en": "Ah, I saw the bakery. It has a yellow door."
+    },
+    {
+      "speaker": "Seu Alberto",
+      "pt": "Isso mesmo. O ponto fica em frente ao banco.",
+      "en": "That's right. The stop is across from the bank."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "O ônibus passa agora?",
+      "en": "Does the bus come now?"
+    },
+    {
+      "speaker": "Seu Alberto",
+      "pt": "Passa em dez minutos. Dá tempo.",
+      "en": "It comes in ten minutes. There is time."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "Muito obrigada! O senhor me ajudou muito.",
+      "en": "Thank you very much! You helped me a lot."
     }
   ],
   "glossary": [

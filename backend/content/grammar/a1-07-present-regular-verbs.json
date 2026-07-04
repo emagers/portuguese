@@ -12,20 +12,20 @@
   ],
   "sections": [
     {
-      "heading": "Regular -AR verbs",
-      "body": "Remove **-ar** and add the present endings.\n\n| falar | English |\n|---|---|\n| eu **falo** | I speak |\n| você/ele/ela **fala** | you/he/she speak(s) |\n| nós **falamos** | we speak |\n| vocês/eles/elas **falam** | you all/they speak |",
+      "heading": "Regular present endings: -AR, -ER, -IR",
+      "body": "Remove the infinitive ending and add the present endings. This table shows one regular verb from each conjugation group.\n\n| Subject | falar (-ar) | comer (-er) | abrir (-ir) |\n|---|---|---|---|\n| eu | **falo** | **como** | **abro** |\n| você/ele/ela | **fala** | **come** | **abre** |\n| nós | **falamos** | **comemos** | **abrimos** |\n| vocês/eles/elas | **falam** | **comem** | **abrem** |",
       "examples": [
         {
-          "pt": "Eu trabalho no centro.",
-          "en": "I work downtown."
+          "pt": "Eu falo português.",
+          "en": "I speak Portuguese."
         },
         {
-          "pt": "Você fala português muito bem.",
-          "en": "You speak Portuguese very well."
+          "pt": "Ela come arroz e feijão.",
+          "en": "She eats rice and beans."
         },
         {
-          "pt": "Nós estudamos à noite.",
-          "en": "We study at night."
+          "pt": "Nós abrimos a loja às nove.",
+          "en": "We open the store at nine."
         }
       ]
     },

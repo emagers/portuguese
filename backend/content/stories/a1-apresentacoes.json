@@ -7,9 +7,9 @@
   "summary": "New classmates introduce themselves and share basic personal information.",
   "lines": [
     {
-      "speaker": "Professor",
-      "pt": "Boa tarde, turma. Esta é a Marina.",
-      "en": "Good afternoon, class. This is Marina."
+      "speaker": "Prof. André",
+      "pt": "Boa tarde, turma. Hoje temos uma nova colega.",
+      "en": "Good afternoon, class. Today we have a new classmate."
     },
     {
       "speaker": "Marina",
@@ -33,23 +33,33 @@
     },
     {
       "speaker": "Marina",
-      "pt": "Não, eu sou de Recife.",
-      "en": "No, I am from Recife."
+      "pt": "Não, eu sou de Recife. Minha família chegou ontem.",
+      "en": "No, I am from Recife. My family arrived yesterday."
     },
     {
-      "speaker": "Professor",
+      "speaker": "Prof. André",
       "pt": "Marina fala português e inglês.",
       "en": "Marina speaks Portuguese and English."
     },
     {
       "speaker": "Marina",
-      "pt": "Eu gosto de música e de livros.",
-      "en": "I like music and books."
+      "pt": "Eu gosto de música e de livros. Também gosto de futebol.",
+      "en": "I like music and books. I also like soccer."
     },
     {
       "speaker": "João",
-      "pt": "Legal! Bem-vinda à escola.",
-      "en": "Cool! Welcome to the school."
+      "pt": "Legal! No recreio, eu mostro a biblioteca.",
+      "en": "Cool! At recess, I'll show you the library."
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Obrigada, João. Eu ainda não conheço a escola.",
+      "en": "Thank you, João. I don't know the school yet."
+    },
+    {
+      "speaker": "Prof. André",
+      "pt": "Muito bem. Seja bem-vinda, Marina.",
+      "en": "Very good. Welcome, Marina."
     }
   ],
   "glossary": [

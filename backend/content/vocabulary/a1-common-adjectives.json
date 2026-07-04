@@ -124,6 +124,131 @@
       "tags": [
         "adjectives"
       ]
+    },
+    {
+      "id": "adj-bom",
+      "pt": "bom / boa",
+      "en": "good",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "bõ / ˈbo.ɐ",
+      "example": {
+        "pt": "O café está bom.",
+        "en": "The coffee is good."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-ruim",
+      "pt": "ruim",
+      "en": "bad",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ʁuˈĩ",
+      "example": {
+        "pt": "O sinal está ruim hoje.",
+        "en": "The signal is bad today."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-quente",
+      "pt": "quente",
+      "en": "hot",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈkẽ.tʃi",
+      "example": {
+        "pt": "A sopa está quente.",
+        "en": "The soup is hot."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-frio",
+      "pt": "frio / fria",
+      "en": "cold",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈfɾi.u",
+      "example": {
+        "pt": "A água está fria.",
+        "en": "The water is cold."
+      },
+      "tags": [
+        "adjectives",
+        "weather"
+      ]
+    },
+    {
+      "id": "adj-caro",
+      "pt": "caro / cara",
+      "en": "expensive",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈka.ɾu",
+      "example": {
+        "pt": "Esse sapato é caro.",
+        "en": "This shoe is expensive."
+      },
+      "tags": [
+        "adjectives",
+        "shopping"
+      ]
+    },
+    {
+      "id": "adj-barato",
+      "pt": "barato / barata",
+      "en": "cheap",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "baˈɾa.tu",
+      "example": {
+        "pt": "A passagem foi barata.",
+        "en": "The ticket was cheap."
+      },
+      "tags": [
+        "adjectives",
+        "shopping"
+      ]
+    },
+    {
+      "id": "adj-limpo",
+      "pt": "limpo / limpa",
+      "en": "clean",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈlĩ.pu",
+      "example": {
+        "pt": "O quarto está limpo.",
+        "en": "The room is clean."
+      },
+      "tags": [
+        "adjectives",
+        "home"
+      ]
+    },
+    {
+      "id": "adj-sujo",
+      "pt": "sujo / suja",
+      "en": "dirty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈsu.ʒu",
+      "example": {
+        "pt": "A mesa está suja.",
+        "en": "The table is dirty."
+      },
+      "tags": [
+        "adjectives",
+        "home"
+      ]
     }
   ]
 }

@@ -1,0 +1,121 @@
+{
+  "id": "a1-15-present-common-irregular-verbs",
+  "level": "A1",
+  "order": 15,
+  "title": "Present Tense: Common Irregular Verbs",
+  "titlePt": "Presente: verbos irregulares comuns",
+  "summary": "Conjugate the essential present-tense verbs ter, ir, fazer, poder, and querer.",
+  "tags": [
+    "verbs",
+    "present",
+    "irregular-verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Full present conjugation table",
+      "body": "These verbs are irregular and very frequent. Learn them as complete forms because they appear in everyday sentences from the beginning.\n\n| Subject | ter | ir | fazer | poder | querer |\n|---|---|---|---|---|---|\n| eu | **tenho** | **vou** | **faço** | **posso** | **quero** |\n| você/ele/ela | **tem** | **vai** | **faz** | **pode** | **quer** |\n| nós | **temos** | **vamos** | **fazemos** | **podemos** | **queremos** |\n| vocês/eles/elas | **têm** | **vão** | **fazem** | **podem** | **querem** |",
+      "examples": [
+        {
+          "pt": "Eu tenho uma pergunta.",
+          "en": "I have a question."
+        },
+        {
+          "pt": "Ela vai ao mercado.",
+          "en": "She goes/is going to the market."
+        },
+        {
+          "pt": "Nós fazemos café de manhã.",
+          "en": "We make coffee in the morning."
+        }
+      ]
+    },
+    {
+      "heading": "Ter: possession, age, and obligation",
+      "body": "**Ter** means 'to have'. It is used for possession, age, and, with **que**, obligation. The accent distinguishes **tem** (singular) from **têm** (plural) in writing.",
+      "examples": [
+        {
+          "pt": "Tenho vinte anos.",
+          "en": "I am twenty years old.",
+          "note": "Portuguese says 'have years'."
+        },
+        {
+          "pt": "Você tem tempo agora?",
+          "en": "Do you have time now?"
+        },
+        {
+          "pt": "Eles têm que estudar.",
+          "en": "They have to study.",
+          "note": "ter que + infinitive = have to"
+        }
+      ]
+    },
+    {
+      "heading": "Ir, fazer, poder, querer in daily speech",
+      "body": "These verbs combine with infinitives to make useful expressions: **vou sair**, **posso ajudar**, **quero comer**. **Fazer** also appears in weather and time expressions.",
+      "examples": [
+        {
+          "pt": "Vou falar com ela hoje.",
+          "en": "I am going to talk to her today."
+        },
+        {
+          "pt": "Você pode repetir, por favor?",
+          "en": "Can you repeat, please?"
+        },
+        {
+          "pt": "Faz dois anos que moro aqui.",
+          "en": "I have lived here for two years.",
+          "note": "literally: it makes two years"
+        }
+      ]
+    },
+    {
+      "heading": "Questions and negatives",
+      "body": "For questions, keep normal word order and use intonation. For negatives, place **não** before the conjugated verb.",
+      "examples": [
+        {
+          "pt": "Você quer água?",
+          "en": "Do you want water?"
+        },
+        {
+          "pt": "Não posso sair agora.",
+          "en": "I cannot leave now."
+        },
+        {
+          "pt": "Eles não fazem isso.",
+          "en": "They do not do that."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ter, ir, fazer, poder, and querer are core irregular present-tense verbs.",
+    "Você uses the same form as ele/ela; vocês uses the same form as eles/elas.",
+    "Tem and têm sound similar but are written differently in standard Portuguese.",
+    "Use ir + infinitive for the near future: vou estudar.",
+    "Use poder and querer before an infinitive without a preposition."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu tem uma dúvida.",
+      "right": "Eu tenho uma dúvida.",
+      "note": "Eu uses tenho."
+    },
+    {
+      "wrong": "Eles tem tempo.",
+      "right": "Eles têm tempo.",
+      "note": "Plural têm has a circumflex in writing."
+    },
+    {
+      "wrong": "Você pode de ajudar?",
+      "right": "Você pode ajudar?",
+      "note": "Poder is followed directly by the infinitive."
+    },
+    {
+      "wrong": "Nós vai sair.",
+      "right": "Nós vamos sair.",
+      "note": "Nós needs vamos."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

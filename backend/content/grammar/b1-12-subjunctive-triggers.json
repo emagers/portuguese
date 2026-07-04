@@ -1,0 +1,113 @@
+{
+  "id": "b1-12-subjunctive-triggers",
+  "level": "B1",
+  "order": 12,
+  "title": "Subjunctive Triggers",
+  "titlePt": "Gatilhos do subjuntivo",
+  "summary": "Recognize expressions that commonly require the subjunctive, including emotion, doubt, necessity, and indefiniteness.",
+  "tags": [
+    "subjunctive",
+    "triggers",
+    "clauses"
+  ],
+  "sections": [
+    {
+      "heading": "Desire, emotion, and influence",
+      "body": "Verbs and expressions of wanting, hoping, preferring, fearing, and requesting often trigger the subjunctive in a **que** clause when the subjects differ.",
+      "examples": [
+        {
+          "pt": "Quero que você venha cedo.",
+          "en": "I want you to come early."
+        },
+        {
+          "pt": "Espero que tudo dê certo.",
+          "en": "I hope everything works out."
+        },
+        {
+          "pt": "Tenho medo que eles se atrasem.",
+          "en": "I am afraid they will be late."
+        }
+      ]
+    },
+    {
+      "heading": "Doubt, denial, and uncertainty",
+      "body": "Use the subjunctive after expressions that deny certainty: **duvido que**, **não acho que**, **não tenho certeza de que**, and often **talvez**.",
+      "examples": [
+        {
+          "pt": "Duvido que ele saiba a resposta.",
+          "en": "I doubt he knows the answer."
+        },
+        {
+          "pt": "Não acho que seja caro.",
+          "en": "I do not think it is expensive."
+        },
+        {
+          "pt": "Talvez a gente precise de ajuda.",
+          "en": "Maybe we need help."
+        }
+      ]
+    },
+    {
+      "heading": "Necessity and impersonal expressions",
+      "body": "Impersonal expressions such as **é importante que**, **é necessário que**, **é melhor que**, and **basta que** usually take the subjunctive.",
+      "examples": [
+        {
+          "pt": "É importante que todos participem.",
+          "en": "It is important that everyone participate."
+        },
+        {
+          "pt": "É melhor que você espere aqui.",
+          "en": "It is better that you wait here."
+        },
+        {
+          "pt": "Basta que ela assine o documento.",
+          "en": "It is enough that she sign the document."
+        }
+      ]
+    },
+    {
+      "heading": "Indefinite or nonexistent antecedents",
+      "body": "The subjunctive can appear after relative clauses when the thing or person is unknown, desired, or may not exist.",
+      "examples": [
+        {
+          "pt": "Procuro alguém que fale japonês.",
+          "en": "I am looking for someone who speaks Japanese."
+        },
+        {
+          "pt": "Quero um apartamento que tenha varanda.",
+          "en": "I want an apartment that has a balcony."
+        },
+        {
+          "pt": "Não conheço ninguém que more aqui.",
+          "en": "I do not know anyone who lives here."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "The subjunctive often appears in a dependent que clause.",
+    "Desire, emotion, doubt, denial, necessity, and indefiniteness are major triggers.",
+    "If the subject is the same, Portuguese often uses an infinitive instead of que + subjunctive.",
+    "Não acho que usually takes the subjunctive; acho que usually takes the indicative.",
+    "Relative clauses can use the subjunctive when the antecedent is indefinite or nonexistent."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Quero que você vem cedo.",
+      "right": "Quero que você venha cedo.",
+      "note": "Querer que triggers subjunctive."
+    },
+    {
+      "wrong": "É importante que eles chegam cedo.",
+      "right": "É importante que eles cheguem cedo.",
+      "note": "Impersonal necessity triggers subjunctive."
+    },
+    {
+      "wrong": "Procuro alguém que fala japonês.",
+      "right": "Procuro alguém que fale japonês.",
+      "note": "Unknown/desired person triggers subjunctive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

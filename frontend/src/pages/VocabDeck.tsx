@@ -19,20 +19,33 @@ export default function VocabDeckPage() {
   const [idx, setIdx] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [reviewed, setReviewed] = useState(0);
+  const [completed, setCompleted] = useState(false);
 
   useEffect(() => {
     if (!id) return;
     api.vocab(id).then(setDeck).catch(() => setDeck(null));
+    api
+      .progressSummary()
+      .then((p) => setCompleted((p.decks || {})[id] === "completed"))
+      .catch(() => {});
   }, [id]);
 
   const card = useMemo(() => deck?.cards[idx], [deck, idx]);
 
   if (!deck) return <Loading what="deck" />;
 
+  const markComplete = () => {
+    setCompleted(true);
+    api.markDeck(deck.id).catch(() => {});
+  };
+
   const grade = (g: number) => {
     if (!card) return;
     api.reviewCard(card.id, deck.id, g).catch(() => {});
-    setReviewed((r) => r + 1);
+    const nextReviewed = reviewed + 1;
+    setReviewed(nextReviewed);
+    // Auto-complete once the learner has graded every card at least once.
+    if (nextReviewed >= deck.cards.length && !completed) markComplete();
     setFlipped(false);
     setIdx((i) => (i + 1 < deck.cards.length ? i + 1 : 0));
   };
@@ -47,7 +60,8 @@ export default function VocabDeckPage() {
       <Link to="/vocab" className="small">← All decks</Link>
       <div className="page-head mt">
         <div>
-          <LevelBadge level={deck.level} />
+          <LevelBadge level={deck.level} />{" "}
+          {completed && <span className="badge done">✓ Completed</span>}
           <h1 style={{ marginTop: 8 }}>{deck.title}</h1>
           <p className="muted">{deck.description}</p>
         </div>
@@ -63,6 +77,9 @@ export default function VocabDeckPage() {
             onClick={() => setMode("browse")}
           >
             Browse
+          </button>
+          <button className="btn green" onClick={markComplete} disabled={completed}>
+            {completed ? "✓ Completed" : "Mark complete"}
           </button>
         </div>
       </div>

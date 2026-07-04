@@ -124,6 +124,358 @@
       "tags": [
         "months"
       ]
+    },
+    {
+      "id": "cal-terca",
+      "pt": "terça-feira",
+      "en": "Tuesday",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈteʁ.sɐ ˈfej.ɾɐ",
+      "example": {
+        "pt": "Terça-feira tenho aula de português.",
+        "en": "On Tuesday I have Portuguese class."
+      },
+      "tags": [
+        "calendar",
+        "days"
+      ]
+    },
+    {
+      "id": "cal-quarta",
+      "pt": "quarta-feira",
+      "en": "Wednesday",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkwaʁ.tɐ ˈfej.ɾɐ",
+      "example": {
+        "pt": "Quarta-feira vamos ao mercado.",
+        "en": "On Wednesday we are going to the market."
+      },
+      "tags": [
+        "calendar",
+        "days"
+      ]
+    },
+    {
+      "id": "cal-quinta",
+      "pt": "quinta-feira",
+      "en": "Thursday",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkĩ.tɐ ˈfej.ɾɐ",
+      "example": {
+        "pt": "A consulta é quinta-feira.",
+        "en": "The appointment is on Thursday."
+      },
+      "tags": [
+        "calendar",
+        "days"
+      ]
+    },
+    {
+      "id": "cal-sabado",
+      "pt": "sábado",
+      "en": "Saturday",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈsa.ba.du",
+      "example": {
+        "pt": "Sábado eu descanso.",
+        "en": "On Saturday I rest."
+      },
+      "tags": [
+        "calendar",
+        "days"
+      ]
+    },
+    {
+      "id": "cal-domingo",
+      "pt": "domingo",
+      "en": "Sunday",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "doˈmĩ.gu",
+      "example": {
+        "pt": "Domingo almoçamos em família.",
+        "en": "On Sunday we have lunch with family."
+      },
+      "tags": [
+        "calendar",
+        "days"
+      ]
+    },
+    {
+      "id": "cal-fevereiro",
+      "pt": "fevereiro",
+      "en": "February",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "feveˈɾej.ɾu",
+      "example": {
+        "pt": "Fevereiro é um mês curto.",
+        "en": "February is a short month."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-marco",
+      "pt": "março",
+      "en": "March",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈmaʁ.su",
+      "example": {
+        "pt": "Março começa depois do carnaval em alguns anos.",
+        "en": "March begins after Carnival in some years."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-abril",
+      "pt": "abril",
+      "en": "April",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aˈbɾiw",
+      "example": {
+        "pt": "Abril costuma ter muita chuva aqui.",
+        "en": "April usually has a lot of rain here."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-maio",
+      "pt": "maio",
+      "en": "May",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈmaj.u",
+      "example": {
+        "pt": "Maio é o mês do aniversário dela.",
+        "en": "May is the month of her birthday."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-junho",
+      "pt": "junho",
+      "en": "June",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʒu.ɲu",
+      "example": {
+        "pt": "Junho tem festas juninas.",
+        "en": "June has June festivals."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-julho",
+      "pt": "julho",
+      "en": "July",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʒu.ʎu",
+      "example": {
+        "pt": "Julho é mês de férias escolares.",
+        "en": "July is a month of school vacation."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-agosto",
+      "pt": "agosto",
+      "en": "August",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aˈgos.tu",
+      "example": {
+        "pt": "Agosto foi muito seco.",
+        "en": "August was very dry."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-setembro",
+      "pt": "setembro",
+      "en": "September",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "seˈtẽ.bɾu",
+      "example": {
+        "pt": "Setembro começa na próxima semana.",
+        "en": "September begins next week."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-outubro",
+      "pt": "outubro",
+      "en": "October",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "owˈtu.bɾu",
+      "example": {
+        "pt": "Outubro tem um feriado nacional.",
+        "en": "October has a national holiday."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-novembro",
+      "pt": "novembro",
+      "en": "November",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "noˈvẽ.bɾu",
+      "example": {
+        "pt": "Novembro passou rápido.",
+        "en": "November passed quickly."
+      },
+      "tags": [
+        "calendar",
+        "months"
+      ]
+    },
+    {
+      "id": "cal-semana",
+      "pt": "semana",
+      "en": "week",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "seˈmɐ̃.nɐ",
+      "example": {
+        "pt": "Esta semana estou ocupado.",
+        "en": "This week I am busy."
+      },
+      "tags": [
+        "calendar",
+        "time"
+      ]
+    },
+    {
+      "id": "cal-mes",
+      "pt": "mês",
+      "en": "month",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "mes",
+      "example": {
+        "pt": "O mês termina amanhã.",
+        "en": "The month ends tomorrow."
+      },
+      "tags": [
+        "calendar",
+        "time"
+      ]
+    },
+    {
+      "id": "cal-ano",
+      "pt": "ano",
+      "en": "year",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈɐ̃.nu",
+      "example": {
+        "pt": "O ano começou bem.",
+        "en": "The year started well."
+      },
+      "tags": [
+        "calendar",
+        "time"
+      ]
+    },
+    {
+      "id": "cal-primavera",
+      "pt": "primavera",
+      "en": "spring",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾimɐˈvɛ.ɾɐ",
+      "example": {
+        "pt": "A primavera traz muitas flores.",
+        "en": "Spring brings many flowers."
+      },
+      "tags": [
+        "calendar",
+        "seasons"
+      ]
+    },
+    {
+      "id": "cal-verao",
+      "pt": "verão",
+      "en": "summer",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "veˈɾɐ̃w",
+      "example": {
+        "pt": "O verão no Rio é muito quente.",
+        "en": "Summer in Rio is very hot."
+      },
+      "tags": [
+        "calendar",
+        "seasons"
+      ]
+    },
+    {
+      "id": "cal-outono",
+      "pt": "outono",
+      "en": "autumn; fall",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "owˈto.nu",
+      "example": {
+        "pt": "O outono deixa o clima mais fresco.",
+        "en": "Autumn makes the weather cooler."
+      },
+      "tags": [
+        "calendar",
+        "seasons"
+      ]
+    },
+    {
+      "id": "cal-inverno",
+      "pt": "inverno",
+      "en": "winter",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈvɛʁ.nu",
+      "example": {
+        "pt": "No inverno, uso casaco.",
+        "en": "In winter, I wear a coat."
+      },
+      "tags": [
+        "calendar",
+        "seasons"
+      ]
     }
   ]
 }

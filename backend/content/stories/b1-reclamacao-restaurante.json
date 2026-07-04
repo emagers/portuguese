@@ -7,49 +7,59 @@
   "summary": "A customer politely complains about a wrong order and the waiter fixes the problem.",
   "lines": [
     {
-      "speaker": "Cliente",
-      "pt": "Com licença, acho que houve um engano no meu pedido.",
-      "en": "Excuse me, I think there was a mistake with my order."
+      "speaker": "Luís",
+      "pt": "Com licença, Marcos. Acho que houve um engano no meu pedido.",
+      "en": "Excuse me, Marcos. I think there was a mistake with my order."
     },
     {
-      "speaker": "Garçom",
-      "pt": "Sinto muito. O que aconteceu?",
-      "en": "I'm sorry. What happened?"
+      "speaker": "Marcos",
+      "pt": "Sinto muito, Luís. O que aconteceu?",
+      "en": "I'm sorry, Luís. What happened?"
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Luís",
       "pt": "Eu pedi peixe grelhado, mas recebi frango.",
       "en": "I ordered grilled fish, but I received chicken."
     },
     {
-      "speaker": "Garçom",
-      "pt": "O senhor tem razão. Vou verificar na cozinha agora.",
-      "en": "You are right. I'll check in the kitchen now."
+      "speaker": "Marcos",
+      "pt": "O senhor tem razão. A mesa ao lado também pediu frango; devo ter trocado os pratos.",
+      "en": "You are right. The table next to you also ordered chicken; I must have switched the dishes."
     },
     {
-      "speaker": "Cliente",
-      "pt": "Obrigado. Também pedi a salada sem cebola.",
-      "en": "Thank you. I also asked for the salad without onion."
+      "speaker": "Luís",
+      "pt": "Tudo bem, acontece. Também pedi a salada sem cebola.",
+      "en": "That's okay, it happens. I also asked for the salad without onion."
     },
     {
-      "speaker": "Garçom",
-      "pt": "Peço desculpas. Vamos preparar outro prato imediatamente.",
-      "en": "I apologize. We will prepare another dish immediately."
+      "speaker": "Marcos",
+      "pt": "Peço desculpas. Vou avisar a cozinha agora e conferir antes de trazer.",
+      "en": "I apologize. I'll tell the kitchen now and check before bringing it."
     },
     {
-      "speaker": "Cliente",
-      "pt": "Tudo bem, eu entendo que o restaurante está cheio.",
-      "en": "That's okay, I understand that the restaurant is full."
+      "speaker": "Luís",
+      "pt": "Obrigado. Eu só estou com um pouco de pressa por causa do cinema.",
+      "en": "Thank you. I'm just in a bit of a hurry because of the movie."
     },
     {
-      "speaker": "Garçom",
+      "speaker": "Marcos",
+      "pt": "Entendo. Vou pedir prioridade para o seu prato.",
+      "en": "I understand. I'll ask for priority for your dish."
+    },
+    {
+      "speaker": "Luís",
+      "pt": "Agradeço. O restaurante está cheio hoje.",
+      "en": "I appreciate it. The restaurant is full today."
+    },
+    {
+      "speaker": "Marcos",
       "pt": "Para compensar, a sobremesa ficará por conta da casa.",
       "en": "To make up for it, dessert will be on the house."
     },
     {
-      "speaker": "Cliente",
-      "pt": "Agradeço a atenção.",
-      "en": "I appreciate the attention."
+      "speaker": "Luís",
+      "pt": "Obrigado pela atenção, Marcos. Assim fica resolvido.",
+      "en": "Thank you for your attention, Marcos. That settles it."
     }
   ],
   "glossary": [

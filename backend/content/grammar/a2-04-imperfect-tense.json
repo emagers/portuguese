@@ -31,7 +31,7 @@
     },
     {
       "heading": "Regular forms",
-      "body": "Regular **-ar** verbs use **-ava** endings; **-er/-ir** verbs use **-ia** endings.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu/você/ele/ela | falava | comia | abria |\n| nós | falávamos | comíamos | abríamos |\n| vocês/eles/elas | falavam | comiam | abriam |",
+      "body": "Regular **-ar** verbs use **-ava** endings; **-er/-ir** verbs use **-ia** endings. The eu and você/ele/ela forms are identical, but the full paradigm is still useful.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu | **falava** | **comia** | **abria** |\n| você/ele/ela | **falava** | **comia** | **abria** |\n| nós | **falávamos** | **comíamos** | **abríamos** |\n| vocês/eles/elas | **falavam** | **comiam** | **abriam** |",
       "examples": [
         {
           "pt": "Eu estudava de manhã.",
@@ -69,6 +69,7 @@
   "keyPoints": [
     "Use the imperfect for habits, background, age, time, and ongoing past states.",
     "-ar verbs use -ava endings; -er/-ir verbs use -ia endings.",
+    "The eu and você/ele/ela forms are identical in the regular imperfect.",
     "Ser, ter, vir, and pôr are the main irregular imperfect verbs.",
     "Preterite advances the story; imperfect describes the setting."
   ],

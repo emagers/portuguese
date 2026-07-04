@@ -7,49 +7,64 @@
   "summary": "A patient describes common symptoms and receives simple advice.",
   "lines": [
     {
-      "speaker": "Médica",
-      "pt": "Bom dia, Carlos. O que você está sentindo?",
-      "en": "Good morning, Carlos. What are you feeling?"
+      "speaker": "Dra. Beatriz",
+      "pt": "Bom dia, Carlos. Sente-se. O que você está sentindo?",
+      "en": "Good morning, Carlos. Have a seat. What are you feeling?"
     },
     {
       "speaker": "Carlos",
-      "pt": "Estou com dor de garganta e febre.",
-      "en": "I have a sore throat and a fever."
+      "pt": "Bom dia, doutora. Estou com dor de garganta e febre.",
+      "en": "Good morning, doctor. I have a sore throat and a fever."
     },
     {
-      "speaker": "Médica",
+      "speaker": "Dra. Beatriz",
       "pt": "Quando começou?",
       "en": "When did it start?"
     },
     {
       "speaker": "Carlos",
-      "pt": "Começou ontem à noite, depois do trabalho.",
-      "en": "It started last night, after work."
+      "pt": "Começou ontem à noite, depois do trabalho. Achei que era cansaço.",
+      "en": "It started last night, after work. I thought it was tiredness."
     },
     {
-      "speaker": "Médica",
+      "speaker": "Dra. Beatriz",
       "pt": "Você tossiu muito?",
       "en": "Did you cough a lot?"
     },
     {
       "speaker": "Carlos",
-      "pt": "Sim, tossi a madrugada inteira.",
-      "en": "Yes, I coughed the whole early morning."
+      "pt": "Sim, tossi a madrugada inteira e dormi mal.",
+      "en": "Yes, I coughed the whole early morning and slept badly."
     },
     {
-      "speaker": "Médica",
-      "pt": "Vou examinar sua garganta. Parece uma gripe leve.",
-      "en": "I am going to examine your throat. It seems like a mild flu."
+      "speaker": "Dra. Beatriz",
+      "pt": "Vou examinar sua garganta. Respire fundo, por favor.",
+      "en": "I am going to examine your throat. Breathe deeply, please."
     },
     {
       "speaker": "Carlos",
-      "pt": "Preciso tomar remédio?",
-      "en": "Do I need to take medicine?"
+      "pt": "Está muito vermelha?",
+      "en": "Is it very red?"
     },
     {
-      "speaker": "Médica",
-      "pt": "Sim, e você deve beber água e descansar.",
-      "en": "Yes, and you should drink water and rest."
+      "speaker": "Dra. Beatriz",
+      "pt": "Um pouco. Parece uma gripe leve, mas você precisa se cuidar.",
+      "en": "A little. It seems like a mild flu, but you need to take care of yourself."
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Preciso tomar remédio? Tenho uma reunião amanhã.",
+      "en": "Do I need to take medicine? I have a meeting tomorrow."
+    },
+    {
+      "speaker": "Dra. Beatriz",
+      "pt": "Sim, e você deve beber água e descansar. Se a febre continuar, volte aqui.",
+      "en": "Yes, and you should drink water and rest. If the fever continues, come back here."
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Entendi. Vou avisar meu chefe e descansar hoje.",
+      "en": "I understand. I'll tell my boss and rest today."
     }
   ],
   "glossary": [

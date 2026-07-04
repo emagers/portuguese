@@ -124,6 +124,194 @@
       "tags": [
         "verbs"
       ]
+    },
+    {
+      "id": "verb-comer",
+      "pt": "comer",
+      "en": "to eat",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "koˈmeʁ",
+      "example": {
+        "pt": "Eu como frutas no café da manhã.",
+        "en": "I eat fruit for breakfast."
+      },
+      "tags": [
+        "verbs",
+        "food"
+      ]
+    },
+    {
+      "id": "verb-beber",
+      "pt": "beber",
+      "en": "to drink",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "beˈbeʁ",
+      "example": {
+        "pt": "Ela bebe água depois da corrida.",
+        "en": "She drinks water after the run."
+      },
+      "tags": [
+        "verbs",
+        "food"
+      ]
+    },
+    {
+      "id": "verb-falar",
+      "pt": "falar",
+      "en": "to speak; talk",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "faˈlaʁ",
+      "example": {
+        "pt": "Nós falamos português em casa.",
+        "en": "We speak Portuguese at home."
+      },
+      "tags": [
+        "verbs",
+        "communication"
+      ]
+    },
+    {
+      "id": "verb-ouvir",
+      "pt": "ouvir",
+      "en": "to hear; listen",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "owˈviʁ",
+      "example": {
+        "pt": "Gosto de ouvir música brasileira.",
+        "en": "I like to listen to Brazilian music."
+      },
+      "tags": [
+        "verbs",
+        "communication"
+      ]
+    },
+    {
+      "id": "verb-ver",
+      "pt": "ver",
+      "en": "to see",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "veʁ",
+      "example": {
+        "pt": "Você quer ver o filme?",
+        "en": "Do you want to see the movie?"
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-ler",
+      "pt": "ler",
+      "en": "to read",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "leʁ",
+      "example": {
+        "pt": "Eu leio um livro por mês.",
+        "en": "I read one book per month."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-escrever",
+      "pt": "escrever",
+      "en": "to write",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "eskɾeˈveʁ",
+      "example": {
+        "pt": "Ela escreve mensagens curtas.",
+        "en": "She writes short messages."
+      },
+      "tags": [
+        "verbs",
+        "communication"
+      ]
+    },
+    {
+      "id": "verb-abrir",
+      "pt": "abrir",
+      "en": "to open",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "aˈbɾiʁ",
+      "example": {
+        "pt": "Pode abrir a janela?",
+        "en": "Can you open the window?"
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-fechar",
+      "pt": "fechar",
+      "en": "to close",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "feˈʃaʁ",
+      "example": {
+        "pt": "Feche a porta, por favor.",
+        "en": "Close the door, please."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-dormir",
+      "pt": "dormir",
+      "en": "to sleep",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "doʁˈmiʁ",
+      "example": {
+        "pt": "Preciso dormir cedo hoje.",
+        "en": "I need to sleep early today."
+      },
+      "tags": [
+        "verbs",
+        "routine"
+      ]
+    },
+    {
+      "id": "verb-trabalhar",
+      "pt": "trabalhar",
+      "en": "to work",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "tɾabaˈʎaʁ",
+      "example": {
+        "pt": "Ele trabalha no centro.",
+        "en": "He works downtown."
+      },
+      "tags": [
+        "verbs",
+        "work"
+      ]
+    },
+    {
+      "id": "verb-estudar",
+      "pt": "estudar",
+      "en": "to study",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "estuˈdaʁ",
+      "example": {
+        "pt": "Vamos estudar para a prova.",
+        "en": "We are going to study for the test."
+      },
+      "tags": [
+        "verbs",
+        "education"
+      ]
     }
   ]
 }

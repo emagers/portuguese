@@ -7,44 +7,59 @@
   "summary": "A tenant and landlord negotiate repairs and a rent increase with polite but firm language.",
   "lines": [
     {
-      "speaker": "Inquilina",
+      "speaker": "Júlia",
       "pt": "Dona Sônia, recebi o aviso de reajuste, mas gostaria de conversar antes de assinar o novo contrato.",
       "en": "Dona Sônia, I received the notice of adjustment, but I would like to talk before signing the new contract."
     },
     {
-      "speaker": "Proprietária",
+      "speaker": "Dona Sônia",
       "pt": "Claro, Júlia. O aumento segue o índice previsto, mas estou disposta a ouvir sua proposta.",
       "en": "Of course, Júlia. The increase follows the expected index, but I am willing to hear your proposal."
     },
     {
-      "speaker": "Inquilina",
+      "speaker": "Júlia",
       "pt": "Entendo o índice. Ainda assim, o apartamento precisa de reparos: a torneira vaza e a janela do quarto não fecha direito.",
       "en": "I understand the index. Even so, the apartment needs repairs: the faucet leaks and the bedroom window does not close properly."
     },
     {
-      "speaker": "Proprietária",
-      "pt": "Você deveria ter me avisado antes. Posso mandar alguém verificar esta semana.",
-      "en": "You should have told me earlier. I can send someone to check this week."
+      "speaker": "Dona Sônia",
+      "pt": "Você deveria ter me avisado antes. Eu não sabia que a janela tinha piorado.",
+      "en": "You should have told me earlier. I didn't know the window had gotten worse."
     },
     {
-      "speaker": "Inquilina",
+      "speaker": "Júlia",
+      "pt": "Eu mandei uma mensagem no mês passado, mas talvez tenha se perdido. Posso reenviar as fotos.",
+      "en": "I sent a message last month, but maybe it got lost. I can resend the photos."
+    },
+    {
+      "speaker": "Dona Sônia",
+      "pt": "Pode, por favor. Posso mandar alguém verificar esta semana.",
+      "en": "Please do. I can send someone to check this week."
+    },
+    {
+      "speaker": "Júlia",
       "pt": "Agradeço. Se os reparos forem feitos, aceito parte do reajuste, mas não o valor completo.",
       "en": "I appreciate it. If the repairs are made, I accept part of the increase, but not the full amount."
     },
     {
-      "speaker": "Proprietária",
+      "speaker": "Dona Sônia",
       "pt": "Que tal dividirmos a diferença por seis meses e revisarmos depois?",
       "en": "How about we split the difference for six months and review it afterward?"
     },
     {
-      "speaker": "Inquilina",
+      "speaker": "Júlia",
       "pt": "Parece justo, desde que o prazo dos reparos fique registrado por escrito.",
       "en": "That seems fair, as long as the repair deadline is recorded in writing."
     },
     {
-      "speaker": "Proprietária",
-      "pt": "Combinado. Vou atualizar o contrato e enviar ainda hoje.",
-      "en": "Agreed. I will update the contract and send it today."
+      "speaker": "Dona Sônia",
+      "pt": "Combinado. Vou atualizar o contrato e incluir a visita do encanador e do serralheiro.",
+      "en": "Agreed. I will update the contract and include the plumber's and locksmith's visits."
+    },
+    {
+      "speaker": "Júlia",
+      "pt": "Obrigada, Dona Sônia. Prefiro resolver assim, com transparência.",
+      "en": "Thank you, Dona Sônia. I prefer to solve it this way, with transparency."
     }
   ],
   "glossary": [

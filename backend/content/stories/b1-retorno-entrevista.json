@@ -7,9 +7,9 @@
   "summary": "A candidate calls to follow up politely after a job interview.",
   "lines": [
     {
-      "speaker": "Secretária",
-      "pt": "Bom dia, empresa NovaTech. Como posso ajudar?",
-      "en": "Good morning, NovaTech company. How can I help?"
+      "speaker": "Tainá",
+      "pt": "Bom dia, empresa NovaTech. Aqui é a Tainá. Como posso ajudar?",
+      "en": "Good morning, NovaTech company. This is Tainá. How can I help?"
     },
     {
       "speaker": "Luana",
@@ -17,17 +17,22 @@
       "en": "Good morning. My name is Luana Reis. I took part in an interview on Monday."
     },
     {
-      "speaker": "Secretária",
-      "pt": "Claro, Luana. Você gostaria de falar com o setor de recursos humanos?",
-      "en": "Of course, Luana. Would you like to speak with the human resources department?"
+      "speaker": "Tainá",
+      "pt": "Claro, Luana. Foi para a vaga de suporte, certo?",
+      "en": "Of course, Luana. It was for the support position, right?"
     },
     {
       "speaker": "Luana",
-      "pt": "Sim, por favor. Quero saber se há alguma previsão de retorno.",
-      "en": "Yes, please. I want to know if there is any expected time for feedback."
+      "pt": "Isso mesmo. Quero saber se há alguma previsão de retorno.",
+      "en": "That's right. I want to know if there is any expected time for feedback."
     },
     {
-      "speaker": "Analista",
+      "speaker": "Tainá",
+      "pt": "Vou transferir para o Felipe, de recursos humanos.",
+      "en": "I'll transfer you to Felipe from human resources."
+    },
+    {
+      "speaker": "Felipe",
       "pt": "Oi, Luana. Ainda estamos avaliando os candidatos, mas seu perfil foi bem recebido.",
       "en": "Hi, Luana. We are still evaluating the candidates, but your profile was well received."
     },
@@ -37,9 +42,19 @@
       "en": "I am happy to hear that. Do I need to send any other document?"
     },
     {
-      "speaker": "Analista",
-      "pt": "Por enquanto, não. A decisão deve sair até quarta-feira.",
-      "en": "Not for now. The decision should come out by Wednesday."
+      "speaker": "Felipe",
+      "pt": "Por enquanto, não. Gostamos do seu teste prático, principalmente da forma como você explicou a solução.",
+      "en": "Not for now. We liked your practical test, especially the way you explained the solution."
+    },
+    {
+      "speaker": "Luana",
+      "pt": "Que bom. Eu tentei ser clara, porque o cliente nem sempre conhece termos técnicos.",
+      "en": "That's good. I tried to be clear, because the customer doesn't always know technical terms."
+    },
+    {
+      "speaker": "Felipe",
+      "pt": "A decisão deve sair até quarta-feira.",
+      "en": "The decision should come out by Wednesday."
     },
     {
       "speaker": "Luana",

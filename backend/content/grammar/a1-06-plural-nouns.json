@@ -48,6 +48,24 @@
       ]
     },
     {
+      "heading": "Nouns ending in -l",
+      "body": "Words ending in **-l** usually change the final **-l** to **-is** in the plural. If the word ends in **-il**, the pattern depends on stress: **fácil → fáceis**, **funil → funis**.",
+      "examples": [
+        {
+          "pt": "o papel → os papéis",
+          "en": "the paper → the papers"
+        },
+        {
+          "pt": "o hotel → os hotéis",
+          "en": "the hotel → the hotels"
+        },
+        {
+          "pt": "fácil → fáceis",
+          "en": "easy → easy (plural)"
+        }
+      ]
+    },
+    {
       "heading": "Words ending in -ão",
       "body": "Nouns ending in **-ão** have several plural patterns: **-ões**, **-ães**, or **-ãos**. The most common is **-ões**, but you must learn each word.",
       "examples": [
@@ -70,7 +88,8 @@
     "Most plurals add -s.",
     "Nouns ending in -r, -s, or -z often add -es.",
     "Nouns ending in -m change m to ns.",
-    "-ão plurals are irregular and must be memorized."
+    "-ão plurals are irregular and must be memorized.",
+    "Nouns ending in -l usually form plurals in -is, often with an accent change."
   ],
   "commonMistakes": [
     {
@@ -87,6 +106,11 @@
       "wrong": "os casa bonita",
       "right": "as casas bonitas",
       "note": "Article, noun, and adjective must all agree."
+    },
+    {
+      "wrong": "os papels",
+      "right": "os papéis",
+      "note": "Final -l usually changes to -is: papel → papéis."
     }
   ],
   "relatedVocab": [],

@@ -29,8 +29,8 @@
       ]
     },
     {
-      "heading": "Regular formation",
-      "body": "For regular verbs, start from the **eu** form of the present, remove **-o**, and add the opposite vowel endings: -ar verbs use **e**, -er/-ir verbs use **a**.\n\n| Infinitive | Present subjunctive examples |\n|---|---|\n| falar | que eu fale, que eles falem |\n| comer | que eu coma, que eles comam |\n| abrir | que eu abra, que eles abram |",
+      "heading": "Regular present subjunctive tables",
+      "body": "For regular verbs, start from the **eu** form of the present, remove **-o**, and add the opposite vowel endings: -ar verbs use **e**, -er/-ir verbs use **a**.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| que eu | **fale** | **coma** | **abra** |\n| que você/ele/ela | **fale** | **coma** | **abra** |\n| que nós | **falemos** | **comamos** | **abramos** |\n| que vocês/eles/elas | **falem** | **comam** | **abram** |",
       "examples": [
         {
           "pt": "Quero que ela fale comigo.",
@@ -47,20 +47,20 @@
       ]
     },
     {
-      "heading": "Common irregulars",
-      "body": "Very common verbs have irregular subjunctive forms: **ser → seja**, **estar → esteja**, **ter → tenha**, **ir → vá**, **saber → saiba**, **fazer → faça**, **poder → possa**.",
+      "heading": "Key irregular present subjunctive forms",
+      "body": "Very common verbs have irregular subjunctive forms. Learn these as full paradigms.\n\n| Subject | ser | estar | ter | ir | fazer | poder | saber |\n|---|---|---|---|---|---|---|---|\n| que eu | **seja** | **esteja** | **tenha** | **vá** | **faça** | **possa** | **saiba** |\n| que você/ele/ela | **seja** | **esteja** | **tenha** | **vá** | **faça** | **possa** | **saiba** |\n| que nós | **sejamos** | **estejamos** | **tenhamos** | **vamos** | **façamos** | **possamos** | **saibamos** |\n| que vocês/eles/elas | **sejam** | **estejam** | **tenham** | **vão** | **façam** | **possam** | **saibam** |",
       "examples": [
         {
           "pt": "Tomara que seja fácil.",
           "en": "I hope it is easy."
         },
         {
-          "pt": "Espero que você esteja bem.",
-          "en": "I hope you are well."
+          "pt": "Espero que nós tenhamos tempo.",
+          "en": "I hope we have time."
         },
         {
-          "pt": "Talvez eu possa ajudar.",
-          "en": "Maybe I can help."
+          "pt": "Talvez eles possam ajudar.",
+          "en": "Maybe they can help."
         }
       ]
     }
@@ -68,8 +68,9 @@
   "keyPoints": [
     "Subjunctive often follows que after desire, doubt, emotion, and necessity.",
     "Regular -ar verbs use e endings; -er/-ir verbs use a endings.",
+    "The eu and você/ele/ela forms are identical in the present subjunctive.",
     "Talvez often triggers the subjunctive when uncertainty is real.",
-    "Learn common irregulars early: seja, esteja, tenha, vá, faça, possa."
+    "Learn common irregulars as paradigms: seja, esteja, tenha, vá, faça, possa, saiba."
   ],
   "commonMistakes": [
     {
@@ -86,6 +87,11 @@
       "wrong": "Talvez ele vem.",
       "right": "Talvez ele venha.",
       "note": "Talvez + uncertainty uses subjunctive."
+    },
+    {
+      "wrong": "Espero que nós vamos amanhã.",
+      "right": "Espero que nós vamos amanhã. / Espero que nós possamos ir amanhã.",
+      "note": "Vamos is both present indicative and subjunctive of ir for nós; avoid confusion by context or rephrasing."
     }
   ],
   "relatedVocab": [],

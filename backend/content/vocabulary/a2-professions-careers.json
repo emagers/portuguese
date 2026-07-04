@@ -1,0 +1,260 @@
+{
+  "id": "a2-professions-careers",
+  "level": "A2",
+  "title": "Professions & Careers",
+  "theme": "professions",
+  "description": "Common profession words for introducing people and talking about work in Brazilian Portuguese.",
+  "cards": [
+    {
+      "id": "prof-professor",
+      "pt": "professor / professora",
+      "en": "teacher",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "pɾofeˈsoʁ",
+      "example": {
+        "pt": "Minha professora fala devagar.",
+        "en": "My teacher speaks slowly."
+      },
+      "tags": [
+        "professions",
+        "people"
+      ]
+    },
+    {
+      "id": "prof-medico",
+      "pt": "médico / médica",
+      "en": "doctor",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈmɛ.dʒi.ku",
+      "example": {
+        "pt": "O médico atendeu o paciente.",
+        "en": "The doctor saw the patient."
+      },
+      "tags": [
+        "professions",
+        "health"
+      ]
+    },
+    {
+      "id": "prof-enfermeiro",
+      "pt": "enfermeiro / enfermeira",
+      "en": "nurse",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ẽfeʁˈmej.ɾu",
+      "example": {
+        "pt": "A enfermeira trabalha à noite.",
+        "en": "The nurse works at night."
+      },
+      "tags": [
+        "professions",
+        "health"
+      ]
+    },
+    {
+      "id": "prof-engenheiro",
+      "pt": "engenheiro / engenheira",
+      "en": "engineer",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ẽʒeˈɲej.ɾu",
+      "example": {
+        "pt": "O engenheiro revisou a planta.",
+        "en": "The engineer reviewed the plan."
+      },
+      "tags": [
+        "professions"
+      ]
+    },
+    {
+      "id": "prof-advogado",
+      "pt": "advogado / advogada",
+      "en": "lawyer",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "adʒivoˈga.du",
+      "example": {
+        "pt": "A advogada explicou o contrato.",
+        "en": "The lawyer explained the contract."
+      },
+      "tags": [
+        "professions",
+        "law"
+      ]
+    },
+    {
+      "id": "prof-motorista",
+      "pt": "motorista",
+      "en": "driver",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "motoˈɾis.tɐ",
+      "example": {
+        "pt": "O motorista conhece bem a cidade.",
+        "en": "The driver knows the city well."
+      },
+      "tags": [
+        "professions",
+        "transportation"
+      ]
+    },
+    {
+      "id": "prof-cozinheiro",
+      "pt": "cozinheiro / cozinheira",
+      "en": "cook; chef",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "koziˈɲej.ɾu",
+      "example": {
+        "pt": "A cozinheira preparou feijoada.",
+        "en": "The cook prepared feijoada."
+      },
+      "tags": [
+        "professions",
+        "food"
+      ]
+    },
+    {
+      "id": "prof-vendedor",
+      "pt": "vendedor / vendedora",
+      "en": "salesperson",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "vẽdeˈdoʁ",
+      "example": {
+        "pt": "O vendedor mostrou outro tamanho.",
+        "en": "The salesperson showed another size."
+      },
+      "tags": [
+        "professions",
+        "shopping"
+      ]
+    },
+    {
+      "id": "prof-caixa",
+      "pt": "caixa",
+      "en": "cashier",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈkaj.ʃɐ",
+      "example": {
+        "pt": "A caixa deu o troco certo.",
+        "en": "The cashier gave the correct change."
+      },
+      "tags": [
+        "professions",
+        "shopping"
+      ]
+    },
+    {
+      "id": "prof-pedreiro",
+      "pt": "pedreiro",
+      "en": "bricklayer; construction worker",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "peˈdɾej.ɾu",
+      "example": {
+        "pt": "O pedreiro chegou cedo à obra.",
+        "en": "The construction worker arrived early at the site."
+      },
+      "tags": [
+        "professions"
+      ]
+    },
+    {
+      "id": "prof-bombeiro",
+      "pt": "bombeiro / bombeira",
+      "en": "firefighter",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "bõˈbej.ɾu",
+      "example": {
+        "pt": "Os bombeiros apagaram o incêndio.",
+        "en": "The firefighters put out the fire."
+      },
+      "tags": [
+        "professions"
+      ]
+    },
+    {
+      "id": "prof-policial",
+      "pt": "policial",
+      "en": "police officer",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "poliˈsjaw",
+      "example": {
+        "pt": "A policial ajudou o turista.",
+        "en": "The police officer helped the tourist."
+      },
+      "tags": [
+        "professions"
+      ]
+    },
+    {
+      "id": "prof-jornalista",
+      "pt": "jornalista",
+      "en": "journalist",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ʒoʁnaˈlis.tɐ",
+      "example": {
+        "pt": "O jornalista entrevistou a prefeita.",
+        "en": "The journalist interviewed the mayor."
+      },
+      "tags": [
+        "professions",
+        "media"
+      ]
+    },
+    {
+      "id": "prof-programador",
+      "pt": "programador / programadora",
+      "en": "programmer",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "pɾogɾamaˈdoʁ",
+      "example": {
+        "pt": "A programadora corrigiu o erro.",
+        "en": "The programmer fixed the bug."
+      },
+      "tags": [
+        "professions",
+        "technology"
+      ]
+    },
+    {
+      "id": "prof-arquiteto",
+      "pt": "arquiteto / arquiteta",
+      "en": "architect",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "aʁkiˈtɛ.tu",
+      "example": {
+        "pt": "A arquiteta desenhou a casa.",
+        "en": "The architect designed the house."
+      },
+      "tags": [
+        "professions"
+      ]
+    },
+    {
+      "id": "prof-garcom",
+      "pt": "garçom / garçonete",
+      "en": "waiter / waitress",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "gaʁˈsõ / gaʁsoˈnɛ.tʃi",
+      "example": {
+        "pt": "A garçonete trouxe a conta.",
+        "en": "The waitress brought the bill."
+      },
+      "tags": [
+        "professions",
+        "restaurant"
+      ]
+    }
+  ]
+}

@@ -7,49 +7,59 @@
   "summary": "A customer buys fruit at a street market and practices numbers and prices.",
   "lines": [
     {
-      "speaker": "Feirante",
-      "pt": "Bom dia! Vai querer banana hoje?",
-      "en": "Good morning! Would you like bananas today?"
+      "speaker": "Seu Nivaldo",
+      "pt": "Bom dia, Clara! As bananas estão bonitas hoje.",
+      "en": "Good morning, Clara! The bananas are nice today."
     },
     {
       "speaker": "Clara",
-      "pt": "Bom dia! Quanto custa a dúzia?",
-      "en": "Good morning! How much does a dozen cost?"
+      "pt": "Bom dia, Seu Nivaldo! Quanto custa a dúzia?",
+      "en": "Good morning, Seu Nivaldo! How much does a dozen cost?"
     },
     {
-      "speaker": "Feirante",
+      "speaker": "Seu Nivaldo",
       "pt": "A dúzia custa oito reais.",
       "en": "A dozen costs eight reais."
     },
     {
       "speaker": "Clara",
-      "pt": "Eu quero seis bananas, por favor.",
-      "en": "I want six bananas, please."
+      "pt": "Hoje eu quero só seis bananas.",
+      "en": "Today I want only six bananas."
     },
     {
-      "speaker": "Feirante",
+      "speaker": "Seu Nivaldo",
       "pt": "Seis bananas são quatro reais.",
       "en": "Six bananas are four reais."
     },
     {
       "speaker": "Clara",
-      "pt": "Também quero três maçãs.",
-      "en": "I also want three apples."
+      "pt": "Também quero três maçãs para levar ao trabalho.",
+      "en": "I also want three apples to take to work."
     },
     {
-      "speaker": "Feirante",
+      "speaker": "Seu Nivaldo",
+      "pt": "Boa escolha. Estas maçãs estão doces.",
+      "en": "Good choice. These apples are sweet."
+    },
+    {
+      "speaker": "Clara",
+      "pt": "Então tudo fica quanto?",
+      "en": "So how much is everything?"
+    },
+    {
+      "speaker": "Seu Nivaldo",
       "pt": "Tudo fica nove reais.",
       "en": "Everything comes to nine reais."
     },
     {
       "speaker": "Clara",
-      "pt": "Aqui está o dinheiro. Obrigada!",
-      "en": "Here is the money. Thank you!"
+      "pt": "Aqui está o dinheiro. Até sábado!",
+      "en": "Here is the money. See you Saturday!"
     },
     {
-      "speaker": "Feirante",
-      "pt": "De nada. Boa feira!",
-      "en": "You're welcome. Enjoy the market!"
+      "speaker": "Seu Nivaldo",
+      "pt": "Até, Clara. Boa feira!",
+      "en": "See you, Clara. Enjoy the market!"
     }
   ],
   "glossary": [

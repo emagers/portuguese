@@ -127,6 +127,439 @@
       "tags": [
         "quantity"
       ]
+    },
+    {
+      "id": "num-quatro",
+      "pt": "quatro",
+      "en": "four",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈkwa.tɾu",
+      "example": {
+        "pt": "Tenho quatro livros na mochila.",
+        "en": "I have four books in my backpack."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-seis",
+      "pt": "seis",
+      "en": "six",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "sejs",
+      "example": {
+        "pt": "O ônibus sai às seis.",
+        "en": "The bus leaves at six."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-sete",
+      "pt": "sete",
+      "en": "seven",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈsɛ.tʃi",
+      "example": {
+        "pt": "Sete alunos chegaram cedo.",
+        "en": "Seven students arrived early."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-oito",
+      "pt": "oito",
+      "en": "eight",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈoj.tu",
+      "example": {
+        "pt": "Ela trabalha oito horas por dia.",
+        "en": "She works eight hours a day."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-nove",
+      "pt": "nove",
+      "en": "nine",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈnɔ.vi",
+      "example": {
+        "pt": "A loja abre às nove.",
+        "en": "The store opens at nine."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-onze",
+      "pt": "onze",
+      "en": "eleven",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈõ.zi",
+      "example": {
+        "pt": "Onze pessoas vieram à festa.",
+        "en": "Eleven people came to the party."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-doze",
+      "pt": "doze",
+      "en": "twelve",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈdo.zi",
+      "example": {
+        "pt": "Há doze meses em um ano.",
+        "en": "There are twelve months in a year."
+      },
+      "tags": [
+        "numbers",
+        "calendar"
+      ]
+    },
+    {
+      "id": "num-treze",
+      "pt": "treze",
+      "en": "thirteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈtɾe.zi",
+      "example": {
+        "pt": "Comprei treze laranjas.",
+        "en": "I bought thirteen oranges."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-catorze",
+      "pt": "catorze",
+      "en": "fourteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "kaˈtoʁ.zi",
+      "example": {
+        "pt": "Ela tem catorze anos.",
+        "en": "She is fourteen years old."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-quinze",
+      "pt": "quinze",
+      "en": "fifteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈkĩ.zi",
+      "example": {
+        "pt": "A reunião dura quinze minutos.",
+        "en": "The meeting lasts fifteen minutes."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-dezesseis",
+      "pt": "dezesseis",
+      "en": "sixteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dezeˈsejs",
+      "example": {
+        "pt": "Dezesseis alunos fizeram a prova.",
+        "en": "Sixteen students took the test."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-dezessete",
+      "pt": "dezessete",
+      "en": "seventeen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dezeˈsɛ.tʃi",
+      "example": {
+        "pt": "O filme começa às dezessete horas.",
+        "en": "The movie starts at seventeen hundred hours."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-dezoito",
+      "pt": "dezoito",
+      "en": "eighteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "deˈzoj.tu",
+      "example": {
+        "pt": "Ele completou dezoito anos.",
+        "en": "He turned eighteen."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-dezenove",
+      "pt": "dezenove",
+      "en": "nineteen",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dezeˈnɔ.vi",
+      "example": {
+        "pt": "Foram dezenove votos a favor.",
+        "en": "There were nineteen votes in favor."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-trinta",
+      "pt": "trinta",
+      "en": "thirty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈtɾĩ.tɐ",
+      "example": {
+        "pt": "Tenho trinta minutos livres.",
+        "en": "I have thirty free minutes."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-quarenta",
+      "pt": "quarenta",
+      "en": "forty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "kwaˈɾẽ.tɐ",
+      "example": {
+        "pt": "A viagem custa quarenta reais.",
+        "en": "The trip costs forty reais."
+      },
+      "tags": [
+        "numbers",
+        "money"
+      ]
+    },
+    {
+      "id": "num-cinquenta",
+      "pt": "cinquenta",
+      "en": "fifty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "sĩˈkwẽ.tɐ",
+      "example": {
+        "pt": "Cinquenta pessoas participaram.",
+        "en": "Fifty people participated."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-sessenta",
+      "pt": "sessenta",
+      "en": "sixty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "seˈsẽ.tɐ",
+      "example": {
+        "pt": "Uma hora tem sessenta minutos.",
+        "en": "An hour has sixty minutes."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-setenta",
+      "pt": "setenta",
+      "en": "seventy",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "seˈtẽ.tɐ",
+      "example": {
+        "pt": "O ônibus passou a setenta quilômetros por hora.",
+        "en": "The bus went seventy kilometers per hour."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-oitenta",
+      "pt": "oitenta",
+      "en": "eighty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ojˈtẽ.tɐ",
+      "example": {
+        "pt": "Minha avó tem oitenta anos.",
+        "en": "My grandmother is eighty years old."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-noventa",
+      "pt": "noventa",
+      "en": "ninety",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "noˈvẽ.tɐ",
+      "example": {
+        "pt": "O desconto chega a noventa por cento.",
+        "en": "The discount reaches ninety percent."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-cem",
+      "pt": "cem",
+      "en": "one hundred",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "sẽj",
+      "example": {
+        "pt": "O ingresso custa cem reais.",
+        "en": "The ticket costs one hundred reais."
+      },
+      "tags": [
+        "numbers",
+        "money"
+      ]
+    },
+    {
+      "id": "num-duzentos",
+      "pt": "duzentos / duzentas",
+      "en": "two hundred",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "duˈzẽ.tus",
+      "example": {
+        "pt": "A sala tem duzentas cadeiras.",
+        "en": "The room has two hundred chairs."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-quinhentos",
+      "pt": "quinhentos / quinhentas",
+      "en": "five hundred",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "kiˈɲẽ.tus",
+      "example": {
+        "pt": "O aluguel é quinhentos reais.",
+        "en": "The rent is five hundred reais."
+      },
+      "tags": [
+        "numbers",
+        "money"
+      ]
+    },
+    {
+      "id": "num-mil",
+      "pt": "mil",
+      "en": "one thousand",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "miw",
+      "example": {
+        "pt": "Mil pessoas assistiram ao show.",
+        "en": "One thousand people watched the concert."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-primeiro",
+      "pt": "primeiro / primeira",
+      "en": "first",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "pɾiˈmej.ɾu",
+      "example": {
+        "pt": "Hoje é meu primeiro dia de aula.",
+        "en": "Today is my first day of class."
+      },
+      "tags": [
+        "numbers",
+        "ordinals"
+      ]
+    },
+    {
+      "id": "num-segundo",
+      "pt": "segundo / segunda",
+      "en": "second",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "seˈgũ.du",
+      "example": {
+        "pt": "Ela mora no segundo andar.",
+        "en": "She lives on the second floor."
+      },
+      "tags": [
+        "numbers",
+        "ordinals"
+      ]
+    },
+    {
+      "id": "num-terceiro",
+      "pt": "terceiro / terceira",
+      "en": "third",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "teʁˈsej.ɾu",
+      "example": {
+        "pt": "O terceiro capítulo é curto.",
+        "en": "The third chapter is short."
+      },
+      "tags": [
+        "numbers",
+        "ordinals"
+      ]
     }
   ]
 }

@@ -126,6 +126,115 @@
       "tags": [
         "directions"
       ]
+    },
+    {
+      "id": "dir-em-frente",
+      "pt": "em frente",
+      "en": "in front; ahead",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ẽ ˈfɾẽ.tʃi",
+      "example": {
+        "pt": "A farmácia fica em frente ao banco.",
+        "en": "The pharmacy is in front of the bank."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-atras",
+      "pt": "atrás",
+      "en": "behind",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "aˈtɾas",
+      "example": {
+        "pt": "O estacionamento fica atrás do prédio.",
+        "en": "The parking lot is behind the building."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-ao-lado",
+      "pt": "ao lado",
+      "en": "beside; next to",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "aw ˈla.du",
+      "example": {
+        "pt": "A padaria é ao lado da escola.",
+        "en": "The bakery is next to the school."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-cruzamento",
+      "pt": "cruzamento",
+      "en": "intersection",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kɾuzaˈmẽ.tu",
+      "example": {
+        "pt": "Vire no próximo cruzamento.",
+        "en": "Turn at the next intersection."
+      },
+      "tags": [
+        "directions",
+        "city"
+      ]
+    },
+    {
+      "id": "dir-avenida",
+      "pt": "avenida",
+      "en": "avenue",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "aveˈni.dɐ",
+      "example": {
+        "pt": "Siga pela avenida principal.",
+        "en": "Follow the main avenue."
+      },
+      "tags": [
+        "directions",
+        "city"
+      ]
+    },
+    {
+      "id": "dir-rua",
+      "pt": "rua",
+      "en": "street",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈʁu.ɐ",
+      "example": {
+        "pt": "Minha rua é tranquila.",
+        "en": "My street is quiet."
+      },
+      "tags": [
+        "directions",
+        "city"
+      ]
+    },
+    {
+      "id": "dir-retorno",
+      "pt": "retorno",
+      "en": "U-turn; return",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁeˈtoʁ.nu",
+      "example": {
+        "pt": "Faça o retorno depois do posto.",
+        "en": "Make the U-turn after the gas station."
+      },
+      "tags": [
+        "directions",
+        "transportation"
+      ]
     }
   ]
 }

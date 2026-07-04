@@ -13,7 +13,7 @@
   "sections": [
     {
       "heading": "Form and basic meaning",
-      "body": "The conditional, called **futuro do pretérito**, adds endings to the infinitive: **-ia, -ia, -íamos, -iam**. It expresses 'would' and is useful for hypothetical situations.",
+      "body": "The conditional, called **futuro do pretérito**, adds endings to the infinitive: **-ia, -ia, -íamos, -iam**. It expresses 'would' and is useful for hypothetical situations.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu | **falaria** | **comeria** | **abriria** |\n| você/ele/ela | **falaria** | **comeria** | **abriria** |\n| nós | **falaríamos** | **comeríamos** | **abriríamos** |\n| vocês/eles/elas | **falariam** | **comeriam** | **abririam** |",
       "examples": [
         {
           "pt": "Eu viajaria mais se tivesse dinheiro.",
@@ -49,7 +49,7 @@
     },
     {
       "heading": "Common irregular stems",
-      "body": "Some verbs use modified stems: **fazer → faria**, **dizer → diria**, **trazer → traria**. Most verbs keep the infinitive as the stem.",
+      "body": "Some verbs use modified stems, but the endings are the same.\n\n| Subject | fazer | dizer | trazer |\n|---|---|---|---|\n| eu | **faria** | **diria** | **traria** |\n| você/ele/ela | **faria** | **diria** | **traria** |\n| nós | **faríamos** | **diríamos** | **traríamos** |\n| vocês/eles/elas | **fariam** | **diriam** | **trariam** |",
       "examples": [
         {
           "pt": "Eu faria diferente.",
@@ -68,7 +68,8 @@
   ],
   "keyPoints": [
     "Conditional endings attach to the infinitive for most verbs.",
-    "Use it for would, hypothetical results, and polite requests.",
+    "Eu and você/ele/ela have the same conditional form.",
+    "Use the conditional for would, hypothetical results, and polite requests.",
     "Gostaria de is the safest polite way to say 'I would like'.",
     "Irregular stems include faria, diria, traria."
   ],

@@ -125,6 +125,190 @@
         "shopping",
         "food"
       ]
+    },
+    {
+      "id": "food-macarrao",
+      "pt": "macarrão",
+      "en": "pasta",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "makaˈʁɐ̃w",
+      "example": {
+        "pt": "Fiz macarrão para o jantar.",
+        "en": "I made pasta for dinner."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-batata",
+      "pt": "batata",
+      "en": "potato",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "baˈta.tɐ",
+      "example": {
+        "pt": "A batata está assada.",
+        "en": "The potato is baked."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-salada",
+      "pt": "salada",
+      "en": "salad",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "saˈla.dɐ",
+      "example": {
+        "pt": "Quero salada com tomate.",
+        "en": "I want salad with tomato."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-tomate",
+      "pt": "tomate",
+      "en": "tomato",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "toˈma.tʃi",
+      "example": {
+        "pt": "O tomate está maduro.",
+        "en": "The tomato is ripe."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-cebola",
+      "pt": "cebola",
+      "en": "onion",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "seˈbo.lɐ",
+      "example": {
+        "pt": "Corte a cebola bem fina.",
+        "en": "Cut the onion very thin."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-alho",
+      "pt": "alho",
+      "en": "garlic",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈa.ʎu",
+      "example": {
+        "pt": "O alho deixou o molho cheiroso.",
+        "en": "The garlic made the sauce fragrant."
+      },
+      "tags": [
+        "food",
+        "cooking"
+      ]
+    },
+    {
+      "id": "food-ovo",
+      "pt": "ovo",
+      "en": "egg",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈo.vu",
+      "example": {
+        "pt": "Comi um ovo cozido.",
+        "en": "I ate a boiled egg."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-leite",
+      "pt": "leite",
+      "en": "milk",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈlej.tʃi",
+      "example": {
+        "pt": "Bebo leite no café da manhã.",
+        "en": "I drink milk at breakfast."
+      },
+      "tags": [
+        "food",
+        "drink"
+      ]
+    },
+    {
+      "id": "food-cafe",
+      "pt": "café",
+      "en": "coffee",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaˈfɛ",
+      "example": {
+        "pt": "O café está quente.",
+        "en": "The coffee is hot."
+      },
+      "tags": [
+        "food",
+        "drink"
+      ]
+    },
+    {
+      "id": "food-cerveja",
+      "pt": "cerveja",
+      "en": "beer",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "seʁˈve.ʒɐ",
+      "example": {
+        "pt": "Eles pediram uma cerveja gelada.",
+        "en": "They ordered a cold beer."
+      },
+      "tags": [
+        "drink"
+      ]
+    },
+    {
+      "id": "food-sobremesa",
+      "pt": "sobremesa",
+      "en": "dessert",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "sobɾeˈme.zɐ",
+      "example": {
+        "pt": "A sobremesa é pudim.",
+        "en": "The dessert is flan."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-tempero",
+      "pt": "tempero",
+      "en": "seasoning",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "tẽˈpe.ɾu",
+      "example": {
+        "pt": "Esse tempero é muito forte.",
+        "en": "This seasoning is very strong."
+      },
+      "tags": [
+        "food",
+        "cooking"
+      ]
     }
   ]
 }

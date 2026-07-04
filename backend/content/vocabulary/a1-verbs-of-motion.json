@@ -133,6 +133,120 @@
         "verbs",
         "transportation"
       ]
+    },
+    {
+      "id": "motion-vir",
+      "pt": "vir",
+      "en": "to come",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "viʁ",
+      "example": {
+        "pt": "Você pode vir aqui?",
+        "en": "Can you come here?"
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-levar",
+      "pt": "levar",
+      "en": "to take; carry",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "leˈvaʁ",
+      "example": {
+        "pt": "Vou levar as malas para o carro.",
+        "en": "I will take the suitcases to the car."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-trazer",
+      "pt": "trazer",
+      "en": "to bring",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "tɾaˈzeʁ",
+      "example": {
+        "pt": "Pode trazer água?",
+        "en": "Can you bring water?"
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-pular",
+      "pt": "pular",
+      "en": "to jump",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "puˈlaʁ",
+      "example": {
+        "pt": "As crianças gostam de pular corda.",
+        "en": "The children like to jump rope."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-nadar",
+      "pt": "nadar",
+      "en": "to swim",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "naˈdaʁ",
+      "example": {
+        "pt": "Ela sabe nadar no mar.",
+        "en": "She knows how to swim in the sea."
+      },
+      "tags": [
+        "motion",
+        "verbs",
+        "sports"
+      ]
+    },
+    {
+      "id": "motion-voar",
+      "pt": "voar",
+      "en": "to fly",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "voˈaʁ",
+      "example": {
+        "pt": "O avião vai voar à noite.",
+        "en": "The airplane will fly at night."
+      },
+      "tags": [
+        "motion",
+        "verbs",
+        "transportation"
+      ]
+    },
+    {
+      "id": "motion-cair",
+      "pt": "cair",
+      "en": "to fall",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "kaˈiʁ",
+      "example": {
+        "pt": "Cuidado para não cair.",
+        "en": "Be careful not to fall."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
     }
   ]
 }

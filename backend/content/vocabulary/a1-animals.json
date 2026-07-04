@@ -130,6 +130,131 @@
         "animals",
         "zoo"
       ]
+    },
+    {
+      "id": "animal-porco",
+      "pt": "porco",
+      "en": "pig",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpoʁ.ku",
+      "example": {
+        "pt": "O porco vive na fazenda.",
+        "en": "The pig lives on the farm."
+      },
+      "tags": [
+        "animals",
+        "farm"
+      ]
+    },
+    {
+      "id": "animal-ovelha",
+      "pt": "ovelha",
+      "en": "sheep",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "oˈve.ʎɐ",
+      "example": {
+        "pt": "A ovelha tem lã macia.",
+        "en": "The sheep has soft wool."
+      },
+      "tags": [
+        "animals",
+        "farm"
+      ]
+    },
+    {
+      "id": "animal-pato",
+      "pt": "pato",
+      "en": "duck",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpa.tu",
+      "example": {
+        "pt": "O pato nada no lago.",
+        "en": "The duck swims in the lake."
+      },
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "animal-rato",
+      "pt": "rato",
+      "en": "mouse; rat",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʁa.tu",
+      "example": {
+        "pt": "Vi um rato perto do lixo.",
+        "en": "I saw a mouse near the trash."
+      },
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "animal-coelho",
+      "pt": "coelho",
+      "en": "rabbit",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "koˈe.ʎu",
+      "example": {
+        "pt": "O coelho come cenoura.",
+        "en": "The rabbit eats carrot."
+      },
+      "tags": [
+        "animals",
+        "pets"
+      ]
+    },
+    {
+      "id": "animal-leao",
+      "pt": "leão",
+      "en": "lion",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "leˈɐ̃w",
+      "example": {
+        "pt": "O leão dorme no zoológico.",
+        "en": "The lion sleeps at the zoo."
+      },
+      "tags": [
+        "animals",
+        "zoo"
+      ]
+    },
+    {
+      "id": "animal-elefante",
+      "pt": "elefante",
+      "en": "elephant",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "eleˈfɐ̃.tʃi",
+      "example": {
+        "pt": "O elefante é enorme.",
+        "en": "The elephant is enormous."
+      },
+      "tags": [
+        "animals",
+        "zoo"
+      ]
+    },
+    {
+      "id": "animal-cobra",
+      "pt": "cobra",
+      "en": "snake",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkɔ.bɾɐ",
+      "example": {
+        "pt": "A cobra se escondeu no mato.",
+        "en": "The snake hid in the grass."
+      },
+      "tags": [
+        "animals"
+      ]
     }
   ]
 }

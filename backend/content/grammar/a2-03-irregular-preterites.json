@@ -12,39 +12,38 @@
   ],
   "sections": [
     {
-      "heading": "High-frequency irregular verbs",
-      "body": "Many essential verbs have irregular preterite stems. These forms are common in conversation and storytelling.\n\n| Infinitive | eu | você/ele/ela | nós | eles/elas |\n|---|---|---|---|---|\n| ir/ser | fui | foi | fomos | foram |\n| ter | tive | teve | tivemos | tiveram |\n| fazer | fiz | fez | fizemos | fizeram |\n| dizer | disse | disse | dissemos | disseram |",
+      "heading": "High-frequency irregular preterite table",
+      "body": "Many essential verbs have irregular preterite stems. These forms are common in conversation and storytelling.\n\n| Infinitive | eu | você/ele/ela | nós | vocês/eles/elas |\n|---|---|---|---|---|\n| ser/ir | **fui** | **foi** | **fomos** | **foram** |\n| ter | **tive** | **teve** | **tivemos** | **tiveram** |\n| estar | **estive** | **esteve** | **estivemos** | **estiveram** |\n| fazer | **fiz** | **fez** | **fizemos** | **fizeram** |\n| poder | **pude** | **pôde** | **pudemos** | **puderam** |\n| pôr | **pus** | **pôs** | **pusemos** | **puseram** |\n| ver | **vi** | **viu** | **vimos** | **viram** |\n| vir | **vim** | **veio** | **viemos** | **vieram** |\n| dar | **dei** | **deu** | **demos** | **deram** |",
       "examples": [
         {
           "pt": "Eu fui ao mercado.",
           "en": "I went to the market."
         },
         {
-          "pt": "Ela teve uma ideia ótima.",
-          "en": "She had a great idea."
+          "pt": "Ela esteve aqui ontem.",
+          "en": "She was here yesterday."
         },
         {
-          "pt": "Nós fizemos o jantar.",
-          "en": "We made dinner."
+          "pt": "Nós demos um presente para ele.",
+          "en": "We gave him a gift."
         }
       ]
     },
     {
-      "heading": "More useful irregulars",
-      "body": "Other everyday verbs include **estar → estive**, **poder → pude**, **querer → quis**, **saber → soube**, and **vir → vim**. Their meanings can be specific in the preterite.",
+      "heading": "Meanings that change in the preterite",
+      "body": "Some irregular verbs have special nuances in the preterite. **Pude** often means managed to/could in that situation; **não pude** means could not. **Soube** means found out; **quis** can mean wanted or was willing.",
       "examples": [
         {
           "pt": "Ontem eu não pude ir.",
-          "en": "Yesterday I couldn't go."
-        },
-        {
-          "pt": "Ele quis falar com você.",
-          "en": "He wanted to talk to you."
+          "en": "Yesterday I could not go."
         },
         {
           "pt": "Eu soube da notícia hoje.",
-          "en": "I found out the news today.",
-          "note": "saber in the preterite often means find out"
+          "en": "I found out the news today."
+        },
+        {
+          "pt": "Ele quis falar com você.",
+          "en": "He wanted/was willing to talk to you."
         }
       ]
     },
@@ -71,10 +70,11 @@
     }
   ],
   "keyPoints": [
-    "Irregular preterites must be memorized as whole forms.",
-    "Ser and ir are identical in the preterite: fui, foi, fomos, foram.",
+    "Irregular preterites must be memorized as full paradigms.",
+    "Ser and ir have identical preterite forms: fui, foi, fomos, foram.",
+    "Pôde has an accent in the ele/ela preterite to distinguish it from present pode.",
     "Saber in the preterite often means 'found out'.",
-    "Poder in the preterite often means 'managed/could in that situation'."
+    "Use context to tell whether fui/foi/fomos/foram means was/were or went."
   ],
   "commonMistakes": [
     {
@@ -88,9 +88,14 @@
       "note": "Temporary state in the past uses estar: esteve."
     },
     {
-      "wrong": "Nós fomos em São Paulo.",
-      "right": "Nós fomos para São Paulo.",
-      "note": "For destination, use para/a, not em."
+      "wrong": "Ele pode ir ontem.",
+      "right": "Ele pôde ir ontem.",
+      "note": "Preterite of poder in the ele/ela form is pôde."
+    },
+    {
+      "wrong": "Nós vimos de São Paulo ontem.",
+      "right": "Nós viemos de São Paulo ontem.",
+      "note": "Vir in the preterite is vim/veio/viemos/vieram; vimos is from ver or present of vir."
     }
   ],
   "relatedVocab": [],

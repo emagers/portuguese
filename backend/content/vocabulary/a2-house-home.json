@@ -128,6 +128,161 @@
       "tags": [
         "home"
       ]
+    },
+    {
+      "id": "home-sala",
+      "pt": "sala",
+      "en": "living room; room",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈsa.lɐ",
+      "example": {
+        "pt": "A sala tem uma janela grande.",
+        "en": "The living room has a large window."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-area-servico",
+      "pt": "área de serviço",
+      "en": "laundry area",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈa.ɾe.ɐ dʒi seʁˈvi.su",
+      "example": {
+        "pt": "A máquina fica na área de serviço.",
+        "en": "The machine is in the laundry area."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-mesa",
+      "pt": "mesa",
+      "en": "table",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈme.zɐ",
+      "example": {
+        "pt": "O jantar está na mesa.",
+        "en": "Dinner is on the table."
+      },
+      "tags": [
+        "home",
+        "furniture"
+      ]
+    },
+    {
+      "id": "home-cadeira",
+      "pt": "cadeira",
+      "en": "chair",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kaˈdej.ɾɐ",
+      "example": {
+        "pt": "Pegue uma cadeira para sentar.",
+        "en": "Get a chair to sit down."
+      },
+      "tags": [
+        "home",
+        "furniture"
+      ]
+    },
+    {
+      "id": "home-armario",
+      "pt": "armário",
+      "en": "cabinet; closet",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aʁˈma.ɾju",
+      "example": {
+        "pt": "Guarde os pratos no armário.",
+        "en": "Put the plates in the cabinet."
+      },
+      "tags": [
+        "home",
+        "furniture"
+      ]
+    },
+    {
+      "id": "home-janela",
+      "pt": "janela",
+      "en": "window",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʒaˈnɛ.lɐ",
+      "example": {
+        "pt": "Abra a janela, por favor.",
+        "en": "Open the window, please."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-porta",
+      "pt": "porta",
+      "en": "door",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpɔʁ.tɐ",
+      "example": {
+        "pt": "A porta está trancada.",
+        "en": "The door is locked."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-pia",
+      "pt": "pia",
+      "en": "sink",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpi.ɐ",
+      "example": {
+        "pt": "A louça está na pia.",
+        "en": "The dishes are in the sink."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-chuveiro",
+      "pt": "chuveiro",
+      "en": "shower",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʃuˈvej.ɾu",
+      "example": {
+        "pt": "O chuveiro não está esquentando.",
+        "en": "The shower is not heating up."
+      },
+      "tags": [
+        "home",
+        "bathroom"
+      ]
+    },
+    {
+      "id": "home-aluguel",
+      "pt": "aluguel",
+      "en": "rent",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aluˈgɛw",
+      "example": {
+        "pt": "O aluguel vence amanhã.",
+        "en": "The rent is due tomorrow."
+      },
+      "tags": [
+        "home",
+        "money"
+      ]
     }
   ]
 }

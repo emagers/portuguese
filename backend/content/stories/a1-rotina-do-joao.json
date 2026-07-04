@@ -7,12 +7,16 @@
   "summary": "A very short story about a boy's simple daily routine.",
   "paragraphs": [
     {
-      "pt": "João acorda às sete horas. Ele lava o rosto, escova os dentes e toma café com a mãe. Depois, ele coloca o uniforme e pega o ônibus para a escola.",
-      "en": "João wakes up at seven o'clock. He washes his face, brushes his teeth, and has coffee with his mother. Then he puts on his uniform and takes the bus to school."
+      "pt": "João acorda às sete horas. Ele lava o rosto, escova os dentes e toma café com a mãe, Dona Lúcia. Depois, coloca o uniforme e pega o ônibus para a escola.",
+      "en": "João wakes up at seven o'clock. He washes his face, brushes his teeth, and has coffee with his mother, Dona Lúcia. Then he puts on his uniform and takes the bus to school."
     },
     {
-      "pt": "Na escola, João estuda português e matemática. Ao meio-dia, ele almoça arroz, feijão e frango. À tarde, ele volta para casa e brinca com o cachorro.",
-      "en": "At school, João studies Portuguese and math. At noon, he eats rice, beans, and chicken for lunch. In the afternoon, he returns home and plays with the dog."
+      "pt": "Na escola, João procura o caderno de matemática. Ele não acha o caderno e fica triste. Sua amiga Bia diz: “Você pode usar uma folha minha.” João agradece.",
+      "en": "At school, João looks for his math notebook. He cannot find the notebook and feels sad. His friend Bia says: “You can use a sheet of mine.” João thanks her."
+    },
+    {
+      "pt": "Ao meio-dia, João almoça arroz, feijão e frango. À tarde, ele volta para casa e acha o caderno na mesa. João ri e guarda tudo na mochila para amanhã.",
+      "en": "At noon, João eats rice, beans, and chicken for lunch. In the afternoon, he returns home and finds the notebook on the table. João laughs and puts everything in his backpack for tomorrow."
     }
   ],
   "glossary": [

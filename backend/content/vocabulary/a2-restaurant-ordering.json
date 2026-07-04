@@ -130,6 +130,116 @@
       "tags": [
         "restaurant"
       ]
+    },
+    {
+      "id": "rest-entrada",
+      "pt": "entrada",
+      "en": "appetizer; starter",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ẽˈtɾa.dɐ",
+      "example": {
+        "pt": "Pedimos uma entrada para dividir.",
+        "en": "We ordered an appetizer to share."
+      },
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "rest-prato-principal",
+      "pt": "prato principal",
+      "en": "main course",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpɾa.tu pɾĩsiˈpaw",
+      "example": {
+        "pt": "O prato principal é peixe.",
+        "en": "The main course is fish."
+      },
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "rest-bebida",
+      "pt": "bebida",
+      "en": "drink",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "beˈbi.dɐ",
+      "example": {
+        "pt": "As bebidas chegaram primeiro.",
+        "en": "The drinks arrived first."
+      },
+      "tags": [
+        "restaurant",
+        "drink"
+      ]
+    },
+    {
+      "id": "rest-reserva",
+      "pt": "reserva",
+      "en": "reservation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁeˈzɛʁ.vɐ",
+      "example": {
+        "pt": "Temos uma reserva para quatro pessoas.",
+        "en": "We have a reservation for four people."
+      },
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "id": "rest-mesa",
+      "pt": "mesa",
+      "en": "table",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈme.zɐ",
+      "example": {
+        "pt": "Há uma mesa livre perto da janela.",
+        "en": "There is a free table near the window."
+      },
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "id": "rest-pedir",
+      "pt": "pedir",
+      "en": "to order; ask for",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "peˈdʒiʁ",
+      "example": {
+        "pt": "Vou pedir o prato do dia.",
+        "en": "I will order the dish of the day."
+      },
+      "tags": [
+        "restaurant",
+        "verbs"
+      ]
+    },
+    {
+      "id": "rest-embrulhar",
+      "pt": "embrulhar",
+      "en": "to wrap up",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ẽbɾuˈʎaʁ",
+      "example": {
+        "pt": "Pode embrulhar o resto?",
+        "en": "Can you wrap up the leftovers?"
+      },
+      "tags": [
+        "restaurant",
+        "verbs"
+      ]
     }
   ]
 }

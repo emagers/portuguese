@@ -7,44 +7,59 @@
   "summary": "A customer complains about a delayed and damaged delivery while negotiating a fair solution.",
   "lines": [
     {
-      "speaker": "Atendente",
-      "pt": "Central de atendimento, boa tarde. Em que posso ajudar?",
-      "en": "Customer service center, good afternoon. How can I help?"
+      "speaker": "Bruno",
+      "pt": "Central de atendimento, boa tarde. Aqui é o Bruno. Em que posso ajudar?",
+      "en": "Customer service center, good afternoon. This is Bruno. How can I help?"
     },
     {
-      "speaker": "Cliente",
-      "pt": "Recebi minha encomenda com três dias de atraso e a caixa chegou amassada.",
-      "en": "I received my order three days late and the box arrived crushed."
+      "speaker": "Carla",
+      "pt": "Boa tarde, Bruno. Recebi minha encomenda com três dias de atraso e a caixa chegou amassada.",
+      "en": "Good afternoon, Bruno. I received my order three days late and the box arrived crushed."
     },
     {
-      "speaker": "Atendente",
+      "speaker": "Bruno",
       "pt": "Sinto muito pelo transtorno. O produto foi danificado?",
       "en": "I am sorry for the inconvenience. Was the product damaged?"
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Carla",
       "pt": "Sim. A cafeteira liga, mas vaza água pela base. Tirei fotos antes de abrir a embalagem.",
       "en": "Yes. The coffee maker turns on, but leaks water from the base. I took photos before opening the package."
     },
     {
-      "speaker": "Atendente",
-      "pt": "As fotos ajudam bastante. Podemos oferecer troca ou reembolso integral.",
-      "en": "The photos help a lot. We can offer an exchange or a full refund."
+      "speaker": "Bruno",
+      "pt": "As fotos ajudam bastante. Você pode anexá-las ao formulário que vou enviar?",
+      "en": "The photos help a lot. Can you attach them to the form I will send?"
     },
     {
-      "speaker": "Cliente",
-      "pt": "Prefiro a troca, desde que o novo envio seja mais rápido. Eu comprei o produto para um presente.",
-      "en": "I prefer an exchange, as long as the new shipment is faster. I bought the product as a gift."
+      "speaker": "Carla",
+      "pt": "Posso, mas preciso de uma solução rápida. Era presente para minha irmã.",
+      "en": "I can, but I need a quick solution. It was a gift for my sister."
     },
     {
-      "speaker": "Atendente",
+      "speaker": "Bruno",
+      "pt": "Entendo. Podemos oferecer troca ou reembolso integral.",
+      "en": "I understand. We can offer an exchange or a full refund."
+    },
+    {
+      "speaker": "Carla",
+      "pt": "Prefiro a troca, desde que o novo envio seja mais rápido.",
+      "en": "I prefer an exchange, as long as the new shipment is faster."
+    },
+    {
+      "speaker": "Bruno",
       "pt": "Vou solicitar envio expresso sem custo adicional e enviar um código de postagem para devolução.",
       "en": "I will request express shipping at no additional cost and send a postage code for the return."
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Carla",
       "pt": "Tudo bem. Por favor, registre o protocolo da reclamação.",
       "en": "All right. Please register the complaint protocol number."
+    },
+    {
+      "speaker": "Bruno",
+      "pt": "Protocolo 4582. Vou acompanhar o caso até a nova entrega sair.",
+      "en": "Protocol 4582. I will follow the case until the new delivery goes out."
     }
   ],
   "glossary": [

@@ -7,49 +7,64 @@
   "summary": "A guest checks into a hotel and asks about breakfast and Wi-Fi.",
   "lines": [
     {
-      "speaker": "Recepcionista",
-      "pt": "Boa tarde. Bem-vindo ao Hotel Central.",
+      "speaker": "Rafael",
+      "pt": "Boa tarde. Bem-vinda ao Hotel Central.",
       "en": "Good afternoon. Welcome to Hotel Central."
     },
     {
-      "speaker": "Hóspede",
-      "pt": "Boa tarde. Tenho uma reserva em nome de Rafael Lima.",
-      "en": "Good afternoon. I have a reservation under the name Rafael Lima."
+      "speaker": "Helena",
+      "pt": "Boa tarde, Rafael. Tenho uma reserva em nome de Helena Duarte.",
+      "en": "Good afternoon, Rafael. I have a reservation under the name Helena Duarte."
     },
     {
-      "speaker": "Recepcionista",
+      "speaker": "Rafael",
       "pt": "Um momento. Sim, quarto duzentos e três, por duas noites.",
       "en": "One moment. Yes, room two hundred three, for two nights."
     },
     {
-      "speaker": "Hóspede",
-      "pt": "Perfeito. O café da manhã está incluído?",
-      "en": "Perfect. Is breakfast included?"
+      "speaker": "Helena",
+      "pt": "Perfeito. Viajei o dia inteiro e só quero um banho.",
+      "en": "Perfect. I traveled all day and just want a shower."
     },
     {
-      "speaker": "Recepcionista",
-      "pt": "Está, das seis e meia às dez.",
-      "en": "It is, from six thirty to ten."
+      "speaker": "Rafael",
+      "pt": "Imagino. O elevador fica à esquerda, e seu quarto já está pronto.",
+      "en": "I can imagine. The elevator is on the left, and your room is already ready."
     },
     {
-      "speaker": "Hóspede",
-      "pt": "E qual é a senha do Wi-Fi?",
-      "en": "And what is the Wi-Fi password?"
+      "speaker": "Helena",
+      "pt": "O café da manhã está incluído?",
+      "en": "Is breakfast included?"
     },
     {
-      "speaker": "Recepcionista",
+      "speaker": "Rafael",
+      "pt": "Está, das seis e meia às dez. O pão de queijo costuma acabar cedo.",
+      "en": "It is, from six thirty to ten. The cheese bread usually runs out early."
+    },
+    {
+      "speaker": "Helena",
+      "pt": "Então vou descer cedo. E qual é a senha do Wi-Fi?",
+      "en": "Then I'll come down early. And what is the Wi-Fi password?"
+    },
+    {
+      "speaker": "Rafael",
       "pt": "A senha está neste cartão.",
       "en": "The password is on this card."
     },
     {
-      "speaker": "Hóspede",
+      "speaker": "Helena",
       "pt": "Ontem eu liguei e pedi um quarto silencioso.",
       "en": "Yesterday I called and asked for a quiet room."
     },
     {
-      "speaker": "Recepcionista",
-      "pt": "Sim, seu quarto fica longe do elevador.",
-      "en": "Yes, your room is far from the elevator."
+      "speaker": "Rafael",
+      "pt": "Sim, seu quarto fica longe do elevador. Se houver barulho, pode me chamar.",
+      "en": "Yes, your room is far from the elevator. If there is noise, you can call me."
+    },
+    {
+      "speaker": "Helena",
+      "pt": "Obrigada pela atenção.",
+      "en": "Thank you for your attention."
     }
   ],
   "glossary": [

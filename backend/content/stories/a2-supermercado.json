@@ -7,49 +7,59 @@
   "summary": "A customer asks about prices and chooses food for dinner.",
   "lines": [
     {
-      "speaker": "Cliente",
-      "pt": "Boa noite. Onde ficam os legumes?",
-      "en": "Good evening. Where are the vegetables?"
+      "speaker": "Marina",
+      "pt": "Boa noite, Patrícia. Onde ficam os legumes?",
+      "en": "Good evening, Patrícia. Where are the vegetables?"
     },
     {
-      "speaker": "Funcionária",
-      "pt": "Ficam no corredor da direita, perto das frutas.",
-      "en": "They are in the aisle on the right, near the fruit."
+      "speaker": "Patrícia",
+      "pt": "Boa noite! Ficam no corredor da direita, perto das frutas.",
+      "en": "Good evening! They are in the aisle on the right, near the fruit."
     },
     {
-      "speaker": "Cliente",
-      "pt": "Obrigada. Hoje eu quero fazer sopa.",
-      "en": "Thank you. Today I want to make soup."
+      "speaker": "Marina",
+      "pt": "Obrigada. Hoje eu quero fazer sopa para minha filha.",
+      "en": "Thank you. Today I want to make soup for my daughter."
     },
     {
-      "speaker": "Funcionária",
-      "pt": "A batata e a cenoura estão em promoção.",
-      "en": "Potatoes and carrots are on sale."
+      "speaker": "Patrícia",
+      "pt": "Então você veio no dia certo. A batata e a cenoura estão em promoção.",
+      "en": "Then you came on the right day. Potatoes and carrots are on sale."
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Marina",
       "pt": "Ótimo. Também preciso de cebola e alho.",
       "en": "Great. I also need onion and garlic."
     },
     {
-      "speaker": "Funcionária",
-      "pt": "O alho ficou mais caro esta semana.",
-      "en": "Garlic got more expensive this week."
+      "speaker": "Patrícia",
+      "pt": "O alho ficou mais caro esta semana, mas este pacote pequeno vale a pena.",
+      "en": "Garlic got more expensive this week, but this small package is worth it."
     },
     {
-      "speaker": "Cliente",
-      "pt": "Tudo bem. Vou levar um pacote pequeno.",
-      "en": "That's okay. I'll take a small package."
+      "speaker": "Marina",
+      "pt": "Vou levar esse. Minha filha reclama se a sopa fica sem alho.",
+      "en": "I'll take this one. My daughter complains if the soup has no garlic."
     },
     {
-      "speaker": "Funcionária",
-      "pt": "Você precisa de sacola?",
-      "en": "Do you need a bag?"
+      "speaker": "Patrícia",
+      "pt": "Criança percebe tudo, né? Você precisa de sacola?",
+      "en": "Children notice everything, don't they? Do you need a bag?"
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Marina",
       "pt": "Não, eu trouxe minha sacola de casa.",
       "en": "No, I brought my bag from home."
+    },
+    {
+      "speaker": "Patrícia",
+      "pt": "Perfeito. O caixa rápido está vazio agora.",
+      "en": "Perfect. The express checkout is empty now."
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Obrigada pela dica. Boa noite!",
+      "en": "Thanks for the tip. Good night!"
     }
   ],
   "glossary": [

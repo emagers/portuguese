@@ -1,0 +1,116 @@
+{
+  "id": "c1-10-modality-and-evidentiality",
+  "level": "C1",
+  "order": 10,
+  "title": "Modality and Evidentiality",
+  "titlePt": "Modalidade e evidencialidade",
+  "summary": "Express certainty, probability, obligation, inference, and source of information with precise Brazilian Portuguese structures.",
+  "tags": [
+    "modality",
+    "evidentiality",
+    "nuance"
+  ],
+  "sections": [
+    {
+      "heading": "Degrees of certainty",
+      "body": "Portuguese offers many ways to grade certainty. **Com certeza** is strong, **provavelmente** is likely, **talvez** is uncertain and often triggers the subjunctive, and **deve** can mark inference.",
+      "examples": [
+        {
+          "pt": "Com certeza ela recebeu a mensagem.",
+          "en": "She definitely received the message."
+        },
+        {
+          "pt": "Provavelmente eles chegam amanhã.",
+          "en": "They will probably arrive tomorrow."
+        },
+        {
+          "pt": "Talvez eles cheguem amanhã.",
+          "en": "Maybe they will arrive tomorrow.",
+          "note": "subjunctive after talvez"
+        }
+      ]
+    },
+    {
+      "heading": "Inference with dever and futuro do presente",
+      "body": "**Dever + infinitive** often expresses probability, not only obligation. The simple future can also express conjecture in formal or literary style.",
+      "examples": [
+        {
+          "pt": "Ele deve estar no trabalho.",
+          "en": "He is probably at work."
+        },
+        {
+          "pt": "Ela deve ter esquecido a reunião.",
+          "en": "She probably forgot the meeting."
+        },
+        {
+          "pt": "Quem será a esta hora?",
+          "en": "Who could it be at this hour?",
+          "note": "future of probability"
+        }
+      ]
+    },
+    {
+      "heading": "Reporting source and distance",
+      "body": "Advanced speakers mark whether information is witnessed, inferred, reported, or uncertain. This affects responsibility and tone.",
+      "examples": [
+        {
+          "pt": "Pelo que ouvi, a reunião foi adiada.",
+          "en": "From what I heard, the meeting was postponed."
+        },
+        {
+          "pt": "Ao que parece, houve um erro no sistema.",
+          "en": "Apparently, there was an error in the system."
+        },
+        {
+          "pt": "Segundo a imprensa, a proposta será votada amanhã.",
+          "en": "According to the press, the proposal will be voted on tomorrow."
+        }
+      ]
+    },
+    {
+      "heading": "Obligation and recommendation",
+      "body": "Different modal expressions vary in force: **ter que** is direct, **precisar** is need-based, **deveria** is advice, and **convém** is formal recommendation.",
+      "examples": [
+        {
+          "pt": "Você tem que assinar aqui.",
+          "en": "You have to sign here."
+        },
+        {
+          "pt": "Precisamos revisar o texto.",
+          "en": "We need to review the text."
+        },
+        {
+          "pt": "Convém verificar os dados antes de publicar.",
+          "en": "It is advisable to check the data before publishing.",
+          "note": "formal"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Modality expresses certainty, probability, obligation, permission, or advice.",
+    "Talvez often takes the subjunctive when uncertainty is real.",
+    "Dever + infinitive can mean probability as well as duty.",
+    "Reported-source expressions protect precision and tone.",
+    "Futuro do presente can express conjecture in formal style."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Talvez eles chegam amanhã.",
+      "right": "Talvez eles cheguem amanhã.",
+      "note": "Talvez + uncertainty usually triggers subjunctive."
+    },
+    {
+      "wrong": "Ele deve estar means only 'he must be obligated to be'.",
+      "right": "Ele deve estar often means 'he is probably'.",
+      "note": "Context decides obligation vs inference."
+    },
+    {
+      "wrong": "Segundo de acordo com o jornal...",
+      "right": "Segundo o jornal... / De acordo com o jornal...",
+      "note": "Do not mix equivalent source markers."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

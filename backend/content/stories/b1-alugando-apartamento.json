@@ -7,9 +7,9 @@
   "summary": "A tenant visits an apartment and asks practical questions about rent, location, and bills.",
   "lines": [
     {
-      "speaker": "Corretora",
-      "pt": "Este é o apartamento que você viu no anúncio. Ele tem dois quartos e uma vaga de garagem.",
-      "en": "This is the apartment you saw in the ad. It has two bedrooms and one parking space."
+      "speaker": "Sandra",
+      "pt": "Este é o apartamento que você viu no anúncio, Mateus. Ele tem dois quartos e uma vaga de garagem.",
+      "en": "This is the apartment you saw in the ad, Mateus. It has two bedrooms and one parking space."
     },
     {
       "speaker": "Mateus",
@@ -17,9 +17,19 @@
       "en": "I like the living room. Does it get a lot of light in the morning?"
     },
     {
-      "speaker": "Corretora",
+      "speaker": "Sandra",
       "pt": "Recebe, sim. As janelas ficam voltadas para o leste.",
       "en": "Yes, it does. The windows face east."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "Isso ajuda, porque trabalho em casa duas vezes por semana.",
+      "en": "That helps, because I work from home twice a week."
+    },
+    {
+      "speaker": "Sandra",
+      "pt": "Nesse caso, o segundo quarto pode virar escritório.",
+      "en": "In that case, the second bedroom can become an office."
     },
     {
       "speaker": "Mateus",
@@ -27,17 +37,17 @@
       "en": "And is the condo fee included in the rent?"
     },
     {
-      "speaker": "Corretora",
+      "speaker": "Sandra",
       "pt": "Não. O aluguel é dois mil reais, e o condomínio custa trezentos.",
       "en": "No. The rent is two thousand reais, and the condo fee costs three hundred."
     },
     {
       "speaker": "Mateus",
-      "pt": "O prédio aceita cachorro pequeno?",
-      "en": "Does the building allow a small dog?"
+      "pt": "O prédio aceita cachorro pequeno? Tenho uma vira-lata tranquila.",
+      "en": "Does the building allow a small dog? I have a calm mixed-breed dog."
     },
     {
-      "speaker": "Corretora",
+      "speaker": "Sandra",
       "pt": "Aceita, desde que o morador siga as regras do condomínio.",
       "en": "It does, as long as the resident follows the condo rules."
     },
@@ -47,9 +57,14 @@
       "en": "I will think until tomorrow. If I decide to take it, which documents do I need to send?"
     },
     {
-      "speaker": "Corretora",
+      "speaker": "Sandra",
       "pt": "Documento de identidade, comprovante de renda e uma ficha preenchida.",
       "en": "An identity document, proof of income, and a completed form."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "Perfeito. Obrigado por explicar tudo com calma.",
+      "en": "Perfect. Thanks for explaining everything calmly."
     }
   ],
   "glossary": [

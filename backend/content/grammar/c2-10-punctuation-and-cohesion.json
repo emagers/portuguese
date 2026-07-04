@@ -1,0 +1,115 @@
+{
+  "id": "c2-10-punctuation-and-cohesion",
+  "level": "C2",
+  "order": 10,
+  "title": "Punctuation and Cohesion in Formal Prose",
+  "titlePt": "Pontuação e coesão na prosa formal",
+  "summary": "Use commas, semicolons, dashes, and cohesive references to guide complex formal prose without ambiguity.",
+  "tags": [
+    "punctuation",
+    "cohesion",
+    "formal-writing"
+  ],
+  "sections": [
+    {
+      "heading": "Commas with subordinate clauses and dislocation",
+      "body": "Portuguese commas mark syntactic structure, not just pauses. Initial subordinate clauses and dislocated topics usually take a comma; subject and verb should not be separated by a comma without a structural reason.",
+      "examples": [
+        {
+          "pt": "Quando a reunião terminou, todos saíram.",
+          "en": "When the meeting ended, everyone left."
+        },
+        {
+          "pt": "Esse ponto, já discutimos ontem.",
+          "en": "That point, we already discussed yesterday."
+        },
+        {
+          "pt": "Os alunos que entregaram o trabalho receberam nota.",
+          "en": "The students who submitted the assignment received a grade.",
+          "note": "restrictive clause: no comma"
+        }
+      ]
+    },
+    {
+      "heading": "Semicolon for balanced argument",
+      "body": "The semicolon is useful between independent clauses that are closely related, especially before formal connectors such as **porém**, **portanto**, and **contudo**.",
+      "examples": [
+        {
+          "pt": "A proposta é viável; contudo, exige investimento.",
+          "en": "The proposal is viable; however, it requires investment."
+        },
+        {
+          "pt": "Os dados são limitados; portanto, a conclusão deve ser cautelosa.",
+          "en": "The data are limited; therefore, the conclusion must be cautious."
+        },
+        {
+          "pt": "Alguns defendem a mudança; outros preferem manter o modelo atual.",
+          "en": "Some defend the change; others prefer to keep the current model."
+        }
+      ]
+    },
+    {
+      "heading": "Cohesive reference",
+      "body": "Cohesion depends on clear reference. Pronouns and demonstratives must point to an identifiable noun or idea; otherwise, repeat or rephrase the noun.",
+      "examples": [
+        {
+          "pt": "A empresa revisou o contrato. Essa revisão reduziu os riscos.",
+          "en": "The company reviewed the contract. This review reduced the risks."
+        },
+        {
+          "pt": "O relatório cita inflação e desemprego; este subiu, aquela caiu.",
+          "en": "The report mentions inflation and unemployment; the latter rose, the former fell.",
+          "note": "formal este/aquela contrast"
+        },
+        {
+          "pt": "A decisão foi publicada ontem, o que surpreendeu o setor.",
+          "en": "The decision was published yesterday, which surprised the sector."
+        }
+      ]
+    },
+    {
+      "heading": "Dashes, parentheses, and emphasis",
+      "body": "Dashes add emphasis or interruption; parentheses add secondary information. In formal prose, use both sparingly so the main sentence remains readable.",
+      "examples": [
+        {
+          "pt": "O resultado — embora preliminar — é promissor.",
+          "en": "The result—although preliminary—is promising."
+        },
+        {
+          "pt": "A medida foi aprovada pelo conselho (com duas abstenções).",
+          "en": "The measure was approved by the board (with two abstentions)."
+        },
+        {
+          "pt": "O problema não é técnico — é político.",
+          "en": "The problem is not technical—it is political."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Punctuation should reflect syntax and logic, not only breath pauses.",
+    "Do not separate subject and verb with a comma in a simple sentence.",
+    "Semicolons help organize formal contrast and consequence.",
+    "Cohesive references must be unambiguous.",
+    "Dashes and parentheses are effective when used sparingly."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Os alunos, entregaram o trabalho.",
+      "right": "Os alunos entregaram o trabalho.",
+      "note": "Do not separate subject and verb with a comma."
+    },
+    {
+      "wrong": "A proposta é viável, contudo exige investimento.",
+      "right": "A proposta é viável; contudo, exige investimento.",
+      "note": "Formal connectors between clauses often work well after a semicolon."
+    },
+    {
+      "wrong": "Isso causou problema.",
+      "right": "Essa mudança causou problema.",
+      "note": "If isso is unclear, name the referent."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

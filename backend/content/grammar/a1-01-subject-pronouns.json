@@ -5,31 +5,73 @@
   "title": "Subject Pronouns",
   "titlePt": "Pronomes Pessoais do Caso Reto",
   "summary": "Learn the Brazilian Portuguese subject pronouns (eu, você, ele/ela...) and how 'você' replaces 'tu' in most of Brazil.",
-  "tags": ["pronouns", "basics", "grammar-core"],
+  "tags": [
+    "pronouns",
+    "basics",
+    "grammar-core"
+  ],
   "sections": [
     {
       "heading": "The pronouns",
       "body": "Portuguese subject pronouns tell us **who** performs the action. In Brazilian Portuguese, the everyday set is:\n\n| Person | Pronoun | English |\n|---|---|---|\n| 1st sing. | **eu** | I |\n| 2nd sing. | **você** | you |\n| 3rd sing. | **ele / ela** | he / she |\n| 1st plur. | **nós** (or *a gente*) | we |\n| 2nd plur. | **vocês** | you (all) |\n| 3rd plur. | **eles / elas** | they |",
       "examples": [
-        { "pt": "Eu sou brasileiro.", "en": "I am Brazilian.", "note": "eu = I" },
-        { "pt": "Você fala inglês?", "en": "Do you speak English?", "note": "você = you (singular)" },
-        { "pt": "Ela mora no Rio.", "en": "She lives in Rio.", "note": "ela = she" }
+        {
+          "pt": "Eu sou brasileiro.",
+          "en": "I am Brazilian.",
+          "note": "eu = I"
+        },
+        {
+          "pt": "Você fala inglês?",
+          "en": "Do you speak English?",
+          "note": "você = you (singular)"
+        },
+        {
+          "pt": "Ela mora no Rio.",
+          "en": "She lives in Rio.",
+          "note": "ela = she"
+        }
       ]
     },
     {
       "heading": "'Você' instead of 'tu'",
       "body": "European Portuguese uses **tu** for informal 'you', but most of Brazil uses **você** for both formal and informal situations. **Você** takes *third-person* verb forms (the same as *ele/ela*), which makes conjugation easier for beginners.",
       "examples": [
-        { "pt": "Você é meu amigo.", "en": "You are my friend.", "note": "'você é' uses the same verb form as 'ele é'." },
-        { "pt": "A gente vai à praia.", "en": "We're going to the beach.", "note": "'a gente' means 'we' but takes singular verbs — extremely common in speech." }
+        {
+          "pt": "Você é meu amigo.",
+          "en": "You are my friend.",
+          "note": "'você é' uses the same verb form as 'ele é'."
+        },
+        {
+          "pt": "A gente vai à praia.",
+          "en": "We're going to the beach.",
+          "note": "'a gente' means 'we' but takes singular verbs — extremely common in speech."
+        },
+        {
+          "pt": "Vocês são estudantes?",
+          "en": "Are you all students?",
+          "note": "vocês = plural you and uses são."
+        }
       ]
     },
     {
       "heading": "Dropping the pronoun",
       "body": "Because the verb ending often shows the person, Brazilians frequently **omit** the subject pronoun when it is clear from context.",
       "examples": [
-        { "pt": "Sou professor.", "en": "I'm a teacher.", "note": "'Eu' is dropped — the form 'sou' already means 'I am'." },
-        { "pt": "Moramos em São Paulo.", "en": "We live in São Paulo.", "note": "'Nós' dropped; '-amos' signals 'we'." }
+        {
+          "pt": "Sou professor.",
+          "en": "I'm a teacher.",
+          "note": "'Eu' is dropped — the form 'sou' already means 'I am'."
+        },
+        {
+          "pt": "Moramos em São Paulo.",
+          "en": "We live in São Paulo.",
+          "note": "'Nós' dropped; '-amos' signals 'we'."
+        },
+        {
+          "pt": "Falam português em casa.",
+          "en": "They speak Portuguese at home.",
+          "note": "Eles/elas can be dropped when context is clear."
+        }
       ]
     }
   ],
@@ -40,9 +82,24 @@
     "Subject pronouns are often dropped when the verb ending makes the subject clear."
   ],
   "commonMistakes": [
-    { "wrong": "Tu és meu amigo.", "right": "Você é meu amigo.", "note": "In most of Brazil, use 'você' + 3rd-person verb, not 'tu és'." },
-    { "wrong": "A gente vamos.", "right": "A gente vai.", "note": "'A gente' takes a singular verb even though it means 'we'." }
+    {
+      "wrong": "Tu és meu amigo.",
+      "right": "Você é meu amigo.",
+      "note": "In most of Brazil, use 'você' + 3rd-person verb, not 'tu és'."
+    },
+    {
+      "wrong": "A gente vamos.",
+      "right": "A gente vai.",
+      "note": "'A gente' takes a singular verb even though it means 'we'."
+    },
+    {
+      "wrong": "Você fala e vocês fala.",
+      "right": "Você fala e vocês falam.",
+      "note": "Você is singular; vocês is plural."
+    }
   ],
-  "relatedVocab": ["a1-greetings"],
+  "relatedVocab": [
+    "a1-greetings"
+  ],
   "quizId": "a1-quiz-pronouns-ser"
 }

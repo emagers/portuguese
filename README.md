@@ -9,12 +9,12 @@ records your voice and gives sound-by-sound feedback.
 
 | # | Feature | What it does |
 |---|---------|--------------|
-| 1 | **Knowledge tests** | 25+ interactive quizzes (multiple-choice, fill-in-the-blank, translation, listening) with instant feedback and scoring. |
-| 2 | **Grammar lessons** | 47 lessons from A1 → C2 with tables, examples, key points, and common-mistake callouts. |
-| 3 | **Vocabulary** | 31 themed decks (250+ cards) with IPA, examples, flashcards, and spaced-repetition (SM-2) review. |
-| 4 | **Stories & conversations** | 27 graded dialogues and stories with glossaries and comprehension questions. |
-| 5 | **Audio** | Natural offline text-to-speech (Piper) on every phrase, plus a dictation/listening practice mode. |
-| 6 | **Pronunciation coach** | Record yourself → local speech recognition (Whisper) transcribes it → word- and phoneme-level scoring with targeted, Brazilian-specific tips. |
+| 1 | **Knowledge tests** | 37+ interactive quizzes / 220+ questions — MC, fill-blank, translation, listening — with instant feedback + saved scores |
+| 2 | **Grammar lessons** | 70+ lessons A1→C2 with full conjugation tables, examples, key points, common-mistake callouts, and per-cell click-to-listen. Completion is tracked. |
+| 3 | **Vocabulary** | 50+ themed decks / 570+ cards (finite sets like days, months, numbers and colours are complete) with IPA, audio, flashcards + SM-2 spaced repetition and deck completion tracking |
+| 4 | **Stories & conversations** | 45 graded dialogues (named, believable characters) and stories with glossaries + comprehension questions. Translations are hidden by default so you decode via the glossary. |
+| 5 | **Audio** | Natural offline text-to-speech (Piper) on every phrase, with multiple Brazilian voices so dialogue characters sound different; plus a dictation/listening practice mode |
+| 6 | **Pronunciation coach** | Record yourself → local speech recognition (Whisper) transcribes it → word- and phoneme-level scoring with targeted, Brazilian-specific tips |
 
 Everything is graded across the six **CEFR levels** (A1 beginner → C2 proficient).
 

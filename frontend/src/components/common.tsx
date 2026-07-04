@@ -4,7 +4,7 @@ import type { Level } from "../types";
 
 const LEVELS: Level[] = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
-export function SpeakButton({ text, rate = 1 }: { text: string; rate?: number }) {
+export function SpeakButton({ text, rate = 1, voice }: { text: string; rate?: number; voice?: string }) {
   return (
     <button
       className="speak"
@@ -12,7 +12,7 @@ export function SpeakButton({ text, rate = 1 }: { text: string; rate?: number })
       onClick={(e) => {
         e.preventDefault();
         e.stopPropagation();
-        speak(text, rate);
+        speak(text, rate, voice);
       }}
     >
       🔊

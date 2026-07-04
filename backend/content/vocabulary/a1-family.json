@@ -124,6 +124,126 @@
       "tags": [
         "family"
       ]
+    },
+    {
+      "id": "fam-tio",
+      "pt": "tio / tia",
+      "en": "uncle / aunt",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈtʃi.u / ˈtʃi.ɐ",
+      "example": {
+        "pt": "Minha tia mora perto da praia.",
+        "en": "My aunt lives near the beach."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-sobrinho",
+      "pt": "sobrinho / sobrinha",
+      "en": "nephew / niece",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "soˈbɾi.ɲu",
+      "example": {
+        "pt": "Meu sobrinho tem cinco anos.",
+        "en": "My nephew is five years old."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-neto",
+      "pt": "neto / neta",
+      "en": "grandson / granddaughter",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈnɛ.tu",
+      "example": {
+        "pt": "A neta visita a avó todo domingo.",
+        "en": "The granddaughter visits her grandmother every Sunday."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-sogro",
+      "pt": "sogro / sogra",
+      "en": "father-in-law / mother-in-law",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈsɔ.gɾu",
+      "example": {
+        "pt": "Meu sogro cozinha muito bem.",
+        "en": "My father-in-law cooks very well."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-genro",
+      "pt": "genro / nora",
+      "en": "son-in-law / daughter-in-law",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈʒẽ.ɾu / ˈnɔ.ɾɐ",
+      "example": {
+        "pt": "A nora dela é médica.",
+        "en": "Her daughter-in-law is a doctor."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-padrasto",
+      "pt": "padrasto / madrasta",
+      "en": "stepfather / stepmother",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "paˈdɾas.tu",
+      "example": {
+        "pt": "O padrasto dele é gentil.",
+        "en": "His stepfather is kind."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-enteado",
+      "pt": "enteado / enteada",
+      "en": "stepson / stepdaughter",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ẽteˈa.du",
+      "example": {
+        "pt": "Ela leva a enteada à escola.",
+        "en": "She takes her stepdaughter to school."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-parente",
+      "pt": "parente",
+      "en": "relative",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "paˈɾẽ.tʃi",
+      "example": {
+        "pt": "Tenho parentes em Minas Gerais.",
+        "en": "I have relatives in Minas Gerais."
+      },
+      "tags": [
+        "family"
+      ]
     }
   ]
 }

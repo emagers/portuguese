@@ -126,6 +126,195 @@
       "tags": [
         "health"
       ]
+    },
+    {
+      "id": "health-cabeca",
+      "pt": "cabeça",
+      "en": "head",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kaˈbe.sɐ",
+      "example": {
+        "pt": "Minha cabeça está doendo.",
+        "en": "My head hurts."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-braco",
+      "pt": "braço",
+      "en": "arm",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈbɾa.su",
+      "example": {
+        "pt": "Ele quebrou o braço direito.",
+        "en": "He broke his right arm."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-mao",
+      "pt": "mão",
+      "en": "hand",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "mɐ̃w",
+      "example": {
+        "pt": "Lave as mãos antes de comer.",
+        "en": "Wash your hands before eating."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-perna",
+      "pt": "perna",
+      "en": "leg",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpɛʁ.nɐ",
+      "example": {
+        "pt": "Minha perna ficou cansada.",
+        "en": "My leg got tired."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-pe",
+      "pt": "pé",
+      "en": "foot",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "pɛ",
+      "example": {
+        "pt": "Machucou o pé no jogo.",
+        "en": "He hurt his foot in the game."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-olho",
+      "pt": "olho",
+      "en": "eye",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈo.ʎu",
+      "example": {
+        "pt": "Meu olho está irritado.",
+        "en": "My eye is irritated."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-ouvido",
+      "pt": "ouvido",
+      "en": "ear",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "owˈvi.du",
+      "example": {
+        "pt": "Estou com dor de ouvido.",
+        "en": "I have an earache."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-estomago",
+      "pt": "estômago",
+      "en": "stomach",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "esˈtõ.ma.gu",
+      "example": {
+        "pt": "Meu estômago não está bem.",
+        "en": "My stomach is not well."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-sangue",
+      "pt": "sangue",
+      "en": "blood",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈsɐ̃.gi",
+      "example": {
+        "pt": "O exame de sangue sai amanhã.",
+        "en": "The blood test comes out tomorrow."
+      },
+      "tags": [
+        "body",
+        "health"
+      ]
+    },
+    {
+      "id": "health-pressao",
+      "pt": "pressão",
+      "en": "blood pressure; pressure",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾeˈsɐ̃w",
+      "example": {
+        "pt": "A enfermeira mediu minha pressão.",
+        "en": "The nurse measured my blood pressure."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-alergia",
+      "pt": "alergia",
+      "en": "allergy",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "aleʁˈʒi.ɐ",
+      "example": {
+        "pt": "Tenho alergia a poeira.",
+        "en": "I am allergic to dust."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-receita",
+      "pt": "receita",
+      "en": "prescription",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁeˈsej.tɐ",
+      "example": {
+        "pt": "O médico escreveu uma receita.",
+        "en": "The doctor wrote a prescription."
+      },
+      "tags": [
+        "health"
+      ]
     }
   ]
 }

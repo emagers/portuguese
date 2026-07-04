@@ -131,6 +131,120 @@
         "money",
         "shopping"
       ]
+    },
+    {
+      "id": "money-pix",
+      "pt": "Pix",
+      "en": "instant bank transfer",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "piks",
+      "example": {
+        "pt": "Você aceita Pix?",
+        "en": "Do you accept Pix?"
+      },
+      "tags": [
+        "money",
+        "banking",
+        "brazil"
+      ]
+    },
+    {
+      "id": "money-boleto",
+      "pt": "boleto",
+      "en": "payment slip",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "boˈle.tu",
+      "example": {
+        "pt": "Paguei o boleto pelo aplicativo.",
+        "en": "I paid the payment slip through the app."
+      },
+      "tags": [
+        "money",
+        "banking",
+        "brazil"
+      ]
+    },
+    {
+      "id": "money-agencia",
+      "pt": "agência",
+      "en": "bank branch",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "aˈʒẽ.si.ɐ",
+      "example": {
+        "pt": "A agência fecha às quatro.",
+        "en": "The bank branch closes at four."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-caixa-eletronico",
+      "pt": "caixa eletrônico",
+      "en": "ATM",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈkaj.ʃɐ eletɾoˈni.ku",
+      "example": {
+        "pt": "O caixa eletrônico está sem dinheiro.",
+        "en": "The ATM is out of cash."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-emprestimo",
+      "pt": "empréstimo",
+      "en": "loan",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽˈpɾɛs.tʃi.mu",
+      "example": {
+        "pt": "Ela pediu um empréstimo pequeno.",
+        "en": "She requested a small loan."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-juros",
+      "pt": "juros",
+      "en": "interest",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʒu.ɾus",
+      "example": {
+        "pt": "Os juros do cartão são altos.",
+        "en": "The card interest rates are high."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-saldo",
+      "pt": "saldo",
+      "en": "balance",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈsaw.du",
+      "example": {
+        "pt": "Confira o saldo antes de pagar.",
+        "en": "Check the balance before paying."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
     }
   ]
 }

@@ -31,7 +31,7 @@
     },
     {
       "heading": "Formation",
-      "body": "Use the present of **ter** plus the past participle: falado, comido, aberto. The participle stays masculine singular in this compound tense.",
+      "body": "Use the present of **ter** plus the past participle: falado, comido, aberto. The participle stays masculine singular in this compound tense.\n\n| Subject | falar | comer | abrir | fazer |\n|---|---|---|---|---|\n| eu | **tenho falado** | **tenho comido** | **tenho aberto** | **tenho feito** |\n| você/ele/ela | **tem falado** | **tem comido** | **tem aberto** | **tem feito** |\n| nós | **temos falado** | **temos comido** | **temos aberto** | **temos feito** |\n| vocês/eles/elas | **têm falado** | **têm comido** | **têm aberto** | **têm feito** |",
       "examples": [
         {
           "pt": "Eu tenho falado com ele todos os dias.",
@@ -69,6 +69,7 @@
   "keyPoints": [
     "Tenho feito means repeated or ongoing action up to now.",
     "It is not a general equivalent of English 'have done'.",
+    "The auxiliary ter agrees with the subject: tenho, tem, temos, têm.",
     "Use simple preterite with já for life experiences.",
     "The participle does not agree in tenho feito."
   ],

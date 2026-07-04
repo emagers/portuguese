@@ -13,7 +13,7 @@
   "sections": [
     {
       "heading": "Forming the gerund",
-      "body": "Use **estar** in the present plus the gerund. Gerunds usually end in **-ando** for -ar verbs and **-endo/-indo** for -er/-ir verbs.\n\n| Infinitive | Gerund |\n|---|---|\n| falar | falando |\n| comer | comendo |\n| abrir | abrindo |",
+      "body": "Use **estar** in the present plus the gerund. Gerunds usually end in **-ando** for -ar verbs and **-endo/-indo** for -er/-ir verbs.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu | **estou falando** | **estou comendo** | **estou abrindo** |\n| você/ele/ela | **está falando** | **está comendo** | **está abrindo** |\n| nós | **estamos falando** | **estamos comendo** | **estamos abrindo** |\n| vocês/eles/elas | **estão falando** | **estão comendo** | **estão abrindo** |",
       "examples": [
         {
           "pt": "Eu estou estudando agora.",

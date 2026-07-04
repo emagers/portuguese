@@ -28,11 +28,14 @@ PIPER_ZIP_URL = (
     "https://github.com/rhasspy/piper/releases/download/2023.11.14-2/"
     "piper_windows_amd64.zip"
 )
-VOICE_BASE = (
-    "https://huggingface.co/rhasspy/piper-voices/resolve/main/"
-    "pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx"
-)
-VOICE_FILES = [VOICE_BASE, VOICE_BASE + ".json"]
+_VOICE_BASE = "https://huggingface.co/rhasspy/piper-voices/resolve/main/pt/pt_BR"
+# Multiple distinct Brazilian voices so dialogue characters can sound different.
+VOICE_URLS = [
+    f"{_VOICE_BASE}/faber/medium/pt_BR-faber-medium.onnx",
+    f"{_VOICE_BASE}/cadu/medium/pt_BR-cadu-medium.onnx",
+    f"{_VOICE_BASE}/jeff/medium/pt_BR-jeff-medium.onnx",
+]
+VOICE_FILES = [u for base in VOICE_URLS for u in (base, base + ".json")]
 
 
 def _download(url: str, dest: Path) -> None:
@@ -70,7 +73,7 @@ def setup_piper() -> None:
     else:
         print("  ! piper.exe not found after extraction — check the archive layout")
 
-    print("  voice: pt_BR-faber-medium")
+    print(f"  downloading {len(VOICE_URLS)} voices…")
     for url in VOICE_FILES:
         _download(url, VOICES_DIR / url.rsplit("/", 1)[-1])
 

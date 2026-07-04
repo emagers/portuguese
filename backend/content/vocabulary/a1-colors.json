@@ -128,6 +128,114 @@
         "colors",
         "weather"
       ]
+    },
+    {
+      "id": "col-laranja",
+      "pt": "laranja",
+      "en": "orange",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "laˈɾɐ̃.ʒɐ",
+      "example": {
+        "pt": "Comprei uma mochila laranja.",
+        "en": "I bought an orange backpack."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-roxo",
+      "pt": "roxo / roxa",
+      "en": "purple",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈʁo.ʃu",
+      "example": {
+        "pt": "A flor roxa é bonita.",
+        "en": "The purple flower is pretty."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-lilas",
+      "pt": "lilás",
+      "en": "lilac; light purple",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "liˈlas",
+      "example": {
+        "pt": "Ela pintou a unha de lilás.",
+        "en": "She painted her nail lilac."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-marrom",
+      "pt": "marrom",
+      "en": "brown",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "maˈʁõ",
+      "example": {
+        "pt": "O cachorro marrom é meu.",
+        "en": "The brown dog is mine."
+      },
+      "tags": [
+        "colors",
+        "animals"
+      ]
+    },
+    {
+      "id": "col-bege",
+      "pt": "bege",
+      "en": "beige",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈbɛ.ʒi",
+      "example": {
+        "pt": "Ele comprou uma calça bege.",
+        "en": "He bought beige pants."
+      },
+      "tags": [
+        "colors",
+        "clothing"
+      ]
+    },
+    {
+      "id": "col-dourado",
+      "pt": "dourado / dourada",
+      "en": "golden",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dowˈɾa.du",
+      "example": {
+        "pt": "O relógio dourado chamou atenção.",
+        "en": "The golden watch drew attention."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-prateado",
+      "pt": "prateado / prateada",
+      "en": "silver-colored",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "pɾateˈa.du",
+      "example": {
+        "pt": "O carro prateado está na garagem.",
+        "en": "The silver car is in the garage."
+      },
+      "tags": [
+        "colors",
+        "transportation"
+      ]
     }
   ]
 }

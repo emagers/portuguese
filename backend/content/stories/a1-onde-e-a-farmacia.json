@@ -8,23 +8,23 @@
   "lines": [
     {
       "speaker": "Nico",
-      "pt": "Com licença. Onde é a farmácia?",
-      "en": "Excuse me. Where is the pharmacy?"
+      "pt": "Com licença, Dona Célia. Onde é a farmácia?",
+      "en": "Excuse me, Dona Célia. Where is the pharmacy?"
     },
     {
-      "speaker": "Mulher",
+      "speaker": "Dona Célia",
       "pt": "A farmácia fica na Rua Bahia.",
       "en": "The pharmacy is on Bahia Street."
     },
     {
       "speaker": "Nico",
-      "pt": "É perto daqui?",
-      "en": "Is it near here?"
+      "pt": "É perto daqui? Minha mãe precisa de remédio.",
+      "en": "Is it near here? My mother needs medicine."
     },
     {
-      "speaker": "Mulher",
-      "pt": "Sim. Vá em frente até a praça.",
-      "en": "Yes. Go straight ahead to the square."
+      "speaker": "Dona Célia",
+      "pt": "É perto, sim. Vá em frente até a praça.",
+      "en": "Yes, it is close. Go straight ahead to the square."
     },
     {
       "speaker": "Nico",
@@ -32,7 +32,7 @@
       "en": "Then do I turn?"
     },
     {
-      "speaker": "Mulher",
+      "speaker": "Dona Célia",
       "pt": "Vire à esquerda. A farmácia fica ao lado do mercado.",
       "en": "Turn left. The pharmacy is next to the market."
     },
@@ -42,14 +42,19 @@
       "en": "Next to the market. I understand."
     },
     {
-      "speaker": "Mulher",
-      "pt": "Isso. É uma farmácia verde.",
-      "en": "That's right. It is a green pharmacy."
+      "speaker": "Dona Célia",
+      "pt": "É uma farmácia verde, com uma cruz grande na porta.",
+      "en": "It is a green pharmacy, with a big cross on the door."
     },
     {
       "speaker": "Nico",
-      "pt": "Muito obrigado!",
-      "en": "Thank you very much!"
+      "pt": "Muito obrigado! Vou rápido.",
+      "en": "Thank you very much! I'll go quickly."
+    },
+    {
+      "speaker": "Dona Célia",
+      "pt": "Vai com calma, menino. A rua está cheia.",
+      "en": "Take it easy, boy. The street is crowded."
     }
   ],
   "glossary": [

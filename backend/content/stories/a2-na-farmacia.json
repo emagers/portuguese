@@ -7,49 +7,59 @@
   "summary": "A customer asks for medicine and learns how often to take it.",
   "lines": [
     {
-      "speaker": "Farmacêutica",
+      "speaker": "Juliana",
       "pt": "Boa tarde. Posso ajudar?",
       "en": "Good afternoon. Can I help?"
     },
     {
-      "speaker": "Cliente",
-      "pt": "Boa tarde. Estou com dor de cabeça desde cedo.",
-      "en": "Good afternoon. I have had a headache since early today."
+      "speaker": "Otávio",
+      "pt": "Boa tarde, Juliana. Estou com dor de cabeça desde cedo.",
+      "en": "Good afternoon, Juliana. I have had a headache since early today."
     },
     {
-      "speaker": "Farmacêutica",
+      "speaker": "Juliana",
       "pt": "Você tem receita médica?",
       "en": "Do you have a prescription?"
     },
     {
-      "speaker": "Cliente",
-      "pt": "Não, só preciso de um remédio simples.",
-      "en": "No, I just need a simple medicine."
+      "speaker": "Otávio",
+      "pt": "Não, só preciso de um remédio simples. Tenho prova hoje à noite.",
+      "en": "No, I just need a simple medicine. I have an exam tonight."
     },
     {
-      "speaker": "Farmacêutica",
+      "speaker": "Juliana",
+      "pt": "Entendi. Você comeu alguma coisa?",
+      "en": "I understand. Did you eat anything?"
+    },
+    {
+      "speaker": "Otávio",
+      "pt": "Comi pouco. Tomei café e saí correndo.",
+      "en": "I ate little. I drank coffee and rushed out."
+    },
+    {
+      "speaker": "Juliana",
       "pt": "Este aqui é para dor e febre. Tome um comprimido a cada oito horas.",
       "en": "This one is for pain and fever. Take one pill every eight hours."
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Otávio",
       "pt": "Preciso tomar com comida?",
       "en": "Do I need to take it with food?"
     },
     {
-      "speaker": "Farmacêutica",
+      "speaker": "Juliana",
       "pt": "É melhor tomar depois de comer e beber bastante água.",
       "en": "It is better to take it after eating and drink plenty of water."
     },
     {
-      "speaker": "Cliente",
+      "speaker": "Otávio",
       "pt": "Entendi. Quanto custa?",
       "en": "I understand. How much does it cost?"
     },
     {
-      "speaker": "Farmacêutica",
-      "pt": "Custa dezoito reais.",
-      "en": "It costs eighteen reais."
+      "speaker": "Juliana",
+      "pt": "Custa dezoito reais. E tente descansar antes da prova.",
+      "en": "It costs eighteen reais. And try to rest before the exam."
     }
   ],
   "glossary": [

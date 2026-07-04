@@ -13,7 +13,7 @@
   "sections": [
     {
       "heading": "Imperfect subjunctive",
-      "body": "The **imperfeito do subjuntivo** appears after expressions of desire, doubt, emotion, and conditions referring to the past or hypothetical present. It is built from the third-person plural preterite stem: fizeram → fizesse, foram → fosse.",
+      "body": "The **imperfeito do subjuntivo** appears after expressions of desire, doubt, emotion, and conditions referring to the past or hypothetical present. It is built from the third-person plural preterite stem: fizeram → fizesse, foram → fosse.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| se eu | **falasse** | **comesse** | **abrisse** |\n| se você/ele/ela | **falasse** | **comesse** | **abrisse** |\n| se nós | **falássemos** | **comêssemos** | **abríssemos** |\n| se vocês/eles/elas | **falassem** | **comessem** | **abrissem** |",
       "examples": [
         {
           "pt": "Se eu tivesse tempo, viajaria mais.",
@@ -31,7 +31,7 @@
     },
     {
       "heading": "Common forms",
-      "body": "Regular verbs use endings like **falasse, comesse, abrisse**. Essential irregulars include **fosse** (ser/ir), **tivesse** (ter), **fizesse** (fazer), **pudesse** (poder), **quisesse** (querer), **viesse** (vir).",
+      "body": "Essential irregulars follow preterite-based stems.\n\n| Subject | ser/ir | ter | fazer | poder | querer | vir |\n|---|---|---|---|---|---|---|\n| se eu | **fosse** | **tivesse** | **fizesse** | **pudesse** | **quisesse** | **viesse** |\n| se você/ele/ela | **fosse** | **tivesse** | **fizesse** | **pudesse** | **quisesse** | **viesse** |\n| se nós | **fôssemos** | **tivéssemos** | **fizéssemos** | **pudéssemos** | **quiséssemos** | **viéssemos** |\n| se vocês/eles/elas | **fossem** | **tivessem** | **fizessem** | **pudessem** | **quisessem** | **viessem** |",
       "examples": [
         {
           "pt": "Se ela falasse comigo, eu explicaria.",
@@ -49,7 +49,7 @@
     },
     {
       "heading": "Pluperfect subjunctive",
-      "body": "Use **tivesse + past participle** for actions that would have happened before another past or hypothetical action. The participle is invariable.",
+      "body": "Use **tivesse + past participle** for actions that would have happened before another past or hypothetical action. The participle is invariable.\n\n| Subject | fazer | comer | abrir |\n|---|---|---|---|\n| se eu | **tivesse feito** | **tivesse comido** | **tivesse aberto** |\n| se você/ele/ela | **tivesse feito** | **tivesse comido** | **tivesse aberto** |\n| se nós | **tivéssemos feito** | **tivéssemos comido** | **tivéssemos aberto** |\n| se vocês/eles/elas | **tivessem feito** | **tivessem comido** | **tivessem aberto** |",
       "examples": [
         {
           "pt": "Se eu tivesse sabido, teria ligado.",
@@ -68,6 +68,7 @@
   ],
   "keyPoints": [
     "Imperfect subjunctive handles hypothetical or past-dependent uncertainty.",
+    "Regular forms use -asse, -esse, and -isse endings.",
     "It often pairs with the conditional: se eu tivesse, eu faria.",
     "Pluperfect subjunctive = tivesse + past participle.",
     "The participle is invariable in tivesse feito."
