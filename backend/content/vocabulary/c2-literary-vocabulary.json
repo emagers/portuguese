@@ -1,0 +1,131 @@
+{
+  "id": "c2-literary-vocabulary",
+  "level": "C2",
+  "title": "Literary Vocabulary",
+  "theme": "literature",
+  "description": "Sophisticated literary vocabulary for reading, interpretation and criticism.",
+  "cards": [
+    {
+      "id": "lit-narrador",
+      "pt": "narrador",
+      "en": "narrator",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "naʁaˈdoʁ",
+      "example": {
+        "pt": "O narrador não revela tudo ao leitor.",
+        "en": "The narrator does not reveal everything to the reader."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-verossimilhanca",
+      "pt": "verossimilhança",
+      "en": "verisimilitude",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "veʁosimiˈʎɐ̃.sɐ",
+      "example": {
+        "pt": "A verossimilhança dá força ao romance.",
+        "en": "Verisimilitude gives strength to the novel."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-desenlace",
+      "pt": "desenlace",
+      "en": "denouement; outcome",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "dezeˈlɐ̃.si",
+      "example": {
+        "pt": "O desenlace surpreende sem parecer forçado.",
+        "en": "The denouement surprises without seeming forced."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-intertextualidade",
+      "pt": "intertextualidade",
+      "en": "intertextuality",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ĩteʁtekstualidaˈdʒi",
+      "example": {
+        "pt": "A intertextualidade enriquece o poema.",
+        "en": "Intertextuality enriches the poem."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-eu-lirico",
+      "pt": "eu lírico",
+      "en": "lyrical speaker",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ew ˈliɾiku",
+      "example": {
+        "pt": "O eu lírico expressa saudade.",
+        "en": "The lyrical speaker expresses longing."
+      },
+      "tags": [
+        "literature",
+        "poetry"
+      ]
+    },
+    {
+      "id": "lit-alegoria",
+      "pt": "alegoria",
+      "en": "allegory",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "alegoˈɾi.ɐ",
+      "example": {
+        "pt": "A viagem funciona como alegoria da vida.",
+        "en": "The journey works as an allegory of life."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-incipit",
+      "pt": "incipit",
+      "en": "opening words; incipit",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈsipitʃi",
+      "example": {
+        "pt": "O incipit já estabelece o tom irônico.",
+        "en": "The incipit already establishes the ironic tone."
+      },
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "lit-elipse",
+      "pt": "elipse",
+      "en": "ellipsis",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eˈlip.si",
+      "example": {
+        "pt": "A elipse cria uma pausa dramática.",
+        "en": "The ellipsis creates a dramatic pause."
+      },
+      "tags": [
+        "literature",
+        "style"
+      ]
+    }
+  ]
+}

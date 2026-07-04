@@ -1,0 +1,93 @@
+{
+  "id": "b1-quiz-listening-stories-plans",
+  "level": "B1",
+  "title": "Listening: Stories & Plans",
+  "topic": "listening",
+  "description": "Listen for short narratives, intentions, comparisons, and relative clauses.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O filme que vimos ontem foi emocionante.",
+      "options": [
+        "O filme que vimos ontem foi emocionante.",
+        "O filme que vimos hoje foi emocionante.",
+        "O livro que vimos ontem foi emocionante.",
+        "O filme que vimos ontem foi engraçado."
+      ],
+      "answer": "O filme que vimos ontem foi emocionante.",
+      "explanation": "Listen for 'filme', 'ontem', and 'emocionante'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ela é tão organizada quanto o irmão.",
+      "options": [
+        "Ela é tão organizada quanto o irmão.",
+        "Ela é mais organizada que o irmão.",
+        "Ele é tão organizado quanto a irmã.",
+        "Ela é tão ocupada quanto o irmão."
+      ],
+      "answer": "Ela é tão organizada quanto o irmão.",
+      "explanation": "'Tão... quanto' expresses equality."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A loja onde comprei o celular fechou.",
+      "options": [
+        "A loja onde comprei o celular fechou.",
+        "A loja onde consertei o celular fechou.",
+        "A loja que comprei o celular abriu.",
+        "A loja onde comprei o computador fechou."
+      ],
+      "answer": "A loja onde comprei o celular fechou.",
+      "explanation": "The relative clause is 'onde comprei o celular'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Se der tempo, passo na sua casa.",
+      "options": [
+        "Se der tempo, passo na sua casa.",
+        "Se tiver tempo, passo na sua casa.",
+        "Se der certo, passo na sua casa.",
+        "Se der tempo, fico na sua casa."
+      ],
+      "answer": "Se der tempo, passo na sua casa.",
+      "explanation": "'Se der tempo' means 'if there is time'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Prefiro resolver isso antes da reunião.",
+      "options": [
+        "Prefiro resolver isso antes da reunião.",
+        "Prefiro revisar isso antes da reunião.",
+        "Prefiro resolver isso depois da reunião.",
+        "Preciso resolver isso antes da reunião."
+      ],
+      "answer": "Prefiro resolver isso antes da reunião.",
+      "explanation": "The speaker says 'prefiro resolver', not 'preciso' or 'revisar'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A viagem foi mais cansativa do que eu imaginava.",
+      "options": [
+        "A viagem foi mais cansativa do que eu imaginava.",
+        "A viagem foi menos cansativa do que eu imaginava.",
+        "A reunião foi mais cansativa do que eu imaginava.",
+        "A viagem foi mais divertida do que eu imaginava."
+      ],
+      "answer": "A viagem foi mais cansativa do que eu imaginava.",
+      "explanation": "'Mais cansativa do que' is a comparison meaning 'more tiring than'."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "b1-09-verbs-with-prepositions",
+  "level": "B1",
+  "order": 9,
+  "title": "Verbs Followed by Prepositions",
+  "titlePt": "Verbos regidos por preposições",
+  "summary": "Learn common verb-preposition combinations such as gostar de, precisar de, depender de, and assistir a.",
+  "tags": [
+    "verbs",
+    "prepositions",
+    "regency"
+  ],
+  "sections": [
+    {
+      "heading": "De after common verbs",
+      "body": "Many frequent verbs require **de** before their complement. When an article follows, de contracts with it: do, da, dos, das.",
+      "examples": [
+        {
+          "pt": "Eu gosto de música brasileira.",
+          "en": "I like Brazilian music."
+        },
+        {
+          "pt": "Preciso do seu endereço.",
+          "en": "I need your address.",
+          "note": "de + o = do"
+        },
+        {
+          "pt": "Ela se lembra da infância.",
+          "en": "She remembers her childhood.",
+          "note": "lembrar-se de"
+        }
+      ]
+    },
+    {
+      "heading": "A after movement, help, and watching",
+      "body": "Several verbs take **a**, including **assistir a** in the sense of watching, **responder a**, **obedecer a**, and many destination expressions.",
+      "examples": [
+        {
+          "pt": "Assistimos ao jogo ontem.",
+          "en": "We watched the game yesterday.",
+          "note": "a + o = ao"
+        },
+        {
+          "pt": "Respondi à mensagem cedo.",
+          "en": "I replied to the message early.",
+          "note": "a + a = à"
+        },
+        {
+          "pt": "As crianças obedecem aos pais.",
+          "en": "The children obey their parents."
+        }
+      ]
+    },
+    {
+      "heading": "Em, com, and por",
+      "body": "Other verbs select **em**, **com**, or **por**. These combinations are often lexical, so learn them as chunks rather than translating word for word.",
+      "examples": [
+        {
+          "pt": "Acredito em você.",
+          "en": "I believe in you."
+        },
+        {
+          "pt": "Concordo com a sua opinião.",
+          "en": "I agree with your opinion."
+        },
+        {
+          "pt": "Ela se interessou por fotografia.",
+          "en": "She became interested in photography."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Verb-preposition combinations are called regência verbal.",
+    "Do not translate English prepositions mechanically.",
+    "Contractions are required when a preposition meets an article.",
+    "Learn frequent combinations as complete phrases."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu gosto música.",
+      "right": "Eu gosto de música.",
+      "note": "Gostar requires de."
+    },
+    {
+      "wrong": "Assisti o filme.",
+      "right": "Assisti ao filme.",
+      "note": "In standard Portuguese, assistir = watch takes a."
+    },
+    {
+      "wrong": "Eu acredito você.",
+      "right": "Eu acredito em você.",
+      "note": "Acreditar requires em before a person or idea."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

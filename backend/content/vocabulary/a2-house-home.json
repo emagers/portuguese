@@ -1,0 +1,133 @@
+{
+  "id": "a2-house-home",
+  "level": "A2",
+  "title": "House & Home",
+  "theme": "home",
+  "description": "Useful words for rooms, furniture and household items in a Brazilian home.",
+  "cards": [
+    {
+      "id": "home-cozinha",
+      "pt": "cozinha",
+      "en": "kitchen",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "koˈzi.ɲɐ",
+      "example": {
+        "pt": "A cozinha é pequena, mas clara.",
+        "en": "The kitchen is small but bright."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-quarto",
+      "pt": "quarto",
+      "en": "bedroom",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈkwaʁ.tu",
+      "example": {
+        "pt": "Meu quarto fica no segundo andar.",
+        "en": "My bedroom is on the second floor."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-banheiro",
+      "pt": "banheiro",
+      "en": "bathroom",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "bɐˈɲej.ɾu",
+      "example": {
+        "pt": "O banheiro está ocupado.",
+        "en": "The bathroom is occupied."
+      },
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "home-geladeira",
+      "pt": "geladeira",
+      "en": "refrigerator",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʒelaˈdej.ɾɐ",
+      "example": {
+        "pt": "A geladeira está cheia.",
+        "en": "The refrigerator is full."
+      },
+      "tags": [
+        "home",
+        "appliance"
+      ]
+    },
+    {
+      "id": "home-fogao",
+      "pt": "fogão",
+      "en": "stove",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "foˈgɐ̃w",
+      "example": {
+        "pt": "O fogão fica perto da pia.",
+        "en": "The stove is near the sink."
+      },
+      "tags": [
+        "home",
+        "appliance"
+      ]
+    },
+    {
+      "id": "home-sofa",
+      "pt": "sofá",
+      "en": "sofa",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "soˈfa",
+      "example": {
+        "pt": "O gato dorme no sofá.",
+        "en": "The cat sleeps on the sofa."
+      },
+      "tags": [
+        "home",
+        "furniture"
+      ]
+    },
+    {
+      "id": "home-cama",
+      "pt": "cama",
+      "en": "bed",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkɐ̃.mɐ",
+      "example": {
+        "pt": "A cama nova é confortável.",
+        "en": "The new bed is comfortable."
+      },
+      "tags": [
+        "home",
+        "furniture"
+      ]
+    },
+    {
+      "id": "home-chave",
+      "pt": "chave",
+      "en": "key",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈʃa.vi",
+      "example": {
+        "pt": "Perdi a chave de casa.",
+        "en": "I lost the house key."
+      },
+      "tags": [
+        "home"
+      ]
+    }
+  ]
+}

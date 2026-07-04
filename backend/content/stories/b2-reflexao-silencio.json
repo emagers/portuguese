@@ -1,0 +1,102 @@
+{
+  "id": "b2-reflexao-silencio",
+  "level": "B2",
+  "type": "story",
+  "title": "The Value of Silence",
+  "titlePt": "O Valor do Silêncio",
+  "summary": "A reflective story about a woman who changes her relationship with noise and attention.",
+  "paragraphs": [
+    {
+      "pt": "Marina costumava preencher qualquer intervalo com som. Enquanto escovava os dentes, ouvia notícias; no ônibus, respondia mensagens; antes de dormir, deixava uma série tocando, mesmo sem prestar atenção. Dizia que o silêncio a deixava inquieta, como se alguma preocupação antiga pudesse aparecer quando a casa ficasse quieta demais.",
+      "en": "Marina used to fill every break with sound. While brushing her teeth, she listened to the news; on the bus, she answered messages; before sleeping, she left a series playing, even without paying attention. She said silence made her restless, as if some old worry might appear when the house became too quiet."
+    },
+    {
+      "pt": "A mudança começou por acaso, numa manhã em que o celular descarregou no caminho para o trabalho. Sem música nem notificações, Marina ouviu coisas que sempre estiveram ali: o vendedor chamando clientes, a chuva fina no vidro, duas crianças discutindo figurinhas. No início, achou tudo estranho. Depois, percebeu que não precisava reagir a cada estímulo.",
+      "en": "The change began by chance, one morning when her cell phone ran out of battery on the way to work. Without music or notifications, Marina heard things that had always been there: the vendor calling customers, the light rain on the glass, two children arguing over stickers. At first, she found it all strange. Then she realized she did not need to react to every stimulus."
+    },
+    {
+      "pt": "Desde então, reserva alguns minutos do dia para ficar sem fones. Não se tornou uma pessoa completamente calma, nem pretende vender fórmulas de bem-estar. Apenas descobriu que o silêncio não é ausência, mas espaço. Nele, algumas perguntas continuam difíceis, porém finalmente conseguem ser ouvidas.",
+      "en": "Since then, she sets aside a few minutes of the day to be without headphones. She has not become a completely calm person, nor does she intend to sell wellness formulas. She simply discovered that silence is not absence, but space. In it, some questions remain difficult, but can finally be heard."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "preencher",
+      "en": "to fill"
+    },
+    {
+      "pt": "inquieta",
+      "en": "restless"
+    },
+    {
+      "pt": "por acaso",
+      "en": "by chance"
+    },
+    {
+      "pt": "descarregar",
+      "en": "to run out of battery"
+    },
+    {
+      "pt": "notificações",
+      "en": "notifications"
+    },
+    {
+      "pt": "figurinhas",
+      "en": "collectible stickers"
+    },
+    {
+      "pt": "estímulo",
+      "en": "stimulus"
+    },
+    {
+      "pt": "bem-estar",
+      "en": "well-being"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What did Marina use to do with every break?",
+      "options": [
+        "Fill it with sound",
+        "Write letters",
+        "Sleep immediately",
+        "Cook meals"
+      ],
+      "answer": "Fill it with sound"
+    },
+    {
+      "id": "c2",
+      "question": "What caused the change?",
+      "options": [
+        "Her cell phone ran out of battery",
+        "She bought new headphones",
+        "She moved to the countryside",
+        "A friend forbade music"
+      ],
+      "answer": "Her cell phone ran out of battery"
+    },
+    {
+      "id": "c3",
+      "question": "What did Marina realize about stimuli?",
+      "options": [
+        "She did not need to react to every one",
+        "They were all dangerous",
+        "They should be louder",
+        "They only existed online"
+      ],
+      "answer": "She did not need to react to every one"
+    },
+    {
+      "id": "c4",
+      "question": "How does she come to understand silence?",
+      "options": [
+        "As space rather than absence",
+        "As a problem to avoid",
+        "As proof of loneliness",
+        "As a wellness product"
+      ],
+      "answer": "As space rather than absence"
+    }
+  ]
+}

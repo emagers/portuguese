@@ -1,0 +1,131 @@
+{
+  "id": "a2-chamando-carro",
+  "level": "A2",
+  "type": "conversation",
+  "title": "Booking a Ride",
+  "titlePt": "Chamando um Carro",
+  "summary": "Two people book an app ride and confirm the destination and arrival time.",
+  "lines": [
+    {
+      "speaker": "Lara",
+      "pt": "O show começa às oito. Vamos chamar um carro pelo aplicativo?",
+      "en": "The show starts at eight. Shall we call a car through the app?"
+    },
+    {
+      "speaker": "Davi",
+      "pt": "Vamos. O ônibus demora muito hoje.",
+      "en": "Let's. The bus takes too long today."
+    },
+    {
+      "speaker": "Lara",
+      "pt": "Qual é o endereço do teatro?",
+      "en": "What is the theater's address?"
+    },
+    {
+      "speaker": "Davi",
+      "pt": "Rua das Flores, número cento e vinte.",
+      "en": "Flores Street, number one hundred twenty."
+    },
+    {
+      "speaker": "Lara",
+      "pt": "O aplicativo diz que o motorista chega em cinco minutos.",
+      "en": "The app says the driver arrives in five minutes."
+    },
+    {
+      "speaker": "Davi",
+      "pt": "Qual é o carro?",
+      "en": "What is the car?"
+    },
+    {
+      "speaker": "Lara",
+      "pt": "É um carro prata. A placa termina com sete dois.",
+      "en": "It is a silver car. The license plate ends in seven two."
+    },
+    {
+      "speaker": "Davi",
+      "pt": "Ótimo. Se não houver trânsito, chegaremos cedo.",
+      "en": "Great. If there is no traffic, we will arrive early."
+    },
+    {
+      "speaker": "Lara",
+      "pt": "Tomara! Já paguei pelo aplicativo.",
+      "en": "I hope so! I already paid through the app."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "chamar um carro",
+      "en": "to call/book a car"
+    },
+    {
+      "pt": "o aplicativo",
+      "en": "the app"
+    },
+    {
+      "pt": "o endereço",
+      "en": "the address"
+    },
+    {
+      "pt": "o motorista",
+      "en": "the driver"
+    },
+    {
+      "pt": "a placa",
+      "en": "the license plate"
+    },
+    {
+      "pt": "o trânsito",
+      "en": "the traffic"
+    },
+    {
+      "pt": "Tomara!",
+      "en": "I hope so!"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where are Lara and Davi going?",
+      "options": [
+        "To the theater",
+        "To the hospital",
+        "To the airport",
+        "To school"
+      ],
+      "answer": "To the theater"
+    },
+    {
+      "id": "c2",
+      "question": "When will the driver arrive?",
+      "options": [
+        "In five minutes",
+        "In one hour",
+        "Tomorrow morning",
+        "At midnight"
+      ],
+      "answer": "In five minutes"
+    },
+    {
+      "id": "c3",
+      "question": "What color is the car?",
+      "options": [
+        "Silver",
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "answer": "Silver"
+    },
+    {
+      "id": "c4",
+      "question": "How did Lara pay?",
+      "options": [
+        "Through the app",
+        "With cash",
+        "With a ticket",
+        "At the theater"
+      ],
+      "answer": "Through the app"
+    }
+  ]
+}

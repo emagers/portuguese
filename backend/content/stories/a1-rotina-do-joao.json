@@ -1,0 +1,83 @@
+{
+  "id": "a1-rotina-do-joao",
+  "level": "A1",
+  "type": "story",
+  "title": "João's Routine",
+  "titlePt": "A Rotina do João",
+  "summary": "A very short story about a boy's simple daily routine.",
+  "paragraphs": [
+    {
+      "pt": "João acorda às sete horas. Ele lava o rosto, escova os dentes e toma café com a mãe. Depois, ele coloca o uniforme e pega o ônibus para a escola.",
+      "en": "João wakes up at seven o'clock. He washes his face, brushes his teeth, and has coffee with his mother. Then he puts on his uniform and takes the bus to school."
+    },
+    {
+      "pt": "Na escola, João estuda português e matemática. Ao meio-dia, ele almoça arroz, feijão e frango. À tarde, ele volta para casa e brinca com o cachorro.",
+      "en": "At school, João studies Portuguese and math. At noon, he eats rice, beans, and chicken for lunch. In the afternoon, he returns home and plays with the dog."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "acordar",
+      "en": "to wake up"
+    },
+    {
+      "pt": "lavar o rosto",
+      "en": "to wash one's face"
+    },
+    {
+      "pt": "escovar os dentes",
+      "en": "to brush one's teeth"
+    },
+    {
+      "pt": "o uniforme",
+      "en": "the uniform"
+    },
+    {
+      "pt": "pegar o ônibus",
+      "en": "to take the bus"
+    },
+    {
+      "pt": "ao meio-dia",
+      "en": "at noon"
+    },
+    {
+      "pt": "brincar",
+      "en": "to play"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What time does João wake up?",
+      "options": [
+        "At seven o'clock",
+        "At five o'clock",
+        "At noon",
+        "At nine o'clock"
+      ],
+      "answer": "At seven o'clock"
+    },
+    {
+      "id": "c2",
+      "question": "How does João go to school?",
+      "options": [
+        "By bus",
+        "By car",
+        "By train",
+        "On foot"
+      ],
+      "answer": "By bus"
+    },
+    {
+      "id": "c3",
+      "question": "What does João do in the afternoon?",
+      "options": [
+        "Plays with the dog",
+        "Goes to the market",
+        "Sleeps at school",
+        "Visits a doctor"
+      ],
+      "answer": "Plays with the dog"
+    }
+  ]
+}

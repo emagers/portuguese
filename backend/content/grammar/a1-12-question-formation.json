@@ -1,0 +1,97 @@
+{
+  "id": "a1-12-question-formation",
+  "level": "A1",
+  "order": 12,
+  "title": "Forming Questions",
+  "titlePt": "Formação de perguntas",
+  "summary": "Ask yes/no and information questions naturally with intonation, word order, and question tags.",
+  "tags": [
+    "questions",
+    "word-order",
+    "basics"
+  ],
+  "sections": [
+    {
+      "heading": "Yes/no questions",
+      "body": "In Brazilian Portuguese, yes/no questions usually keep the same word order as statements. In speech, intonation does the work; in writing, use a question mark at the end.",
+      "examples": [
+        {
+          "pt": "Você mora aqui.",
+          "en": "You live here."
+        },
+        {
+          "pt": "Você mora aqui?",
+          "en": "Do you live here?",
+          "note": "same word order"
+        },
+        {
+          "pt": "Ela trabalha hoje?",
+          "en": "Does she work today?"
+        }
+      ]
+    },
+    {
+      "heading": "Questions with question words",
+      "body": "Question words normally come at the beginning, but everyday speech can also place them at the end for clarification or surprise.",
+      "examples": [
+        {
+          "pt": "Onde você mora?",
+          "en": "Where do you live?"
+        },
+        {
+          "pt": "Você mora onde?",
+          "en": "Where do you live?",
+          "note": "common in speech, often asking for clarification"
+        },
+        {
+          "pt": "Por que ela saiu cedo?",
+          "en": "Why did she leave early?"
+        }
+      ]
+    },
+    {
+      "heading": "Short answers and tags",
+      "body": "Portuguese often answers with the verb or a short phrase. Tags like **né?**, **certo?**, and **tá?** check agreement, but they are informal.",
+      "examples": [
+        {
+          "pt": "Você gosta de café? Gosto.",
+          "en": "Do you like coffee? I do."
+        },
+        {
+          "pt": "Ele vem hoje? Vem, sim.",
+          "en": "Is he coming today? Yes, he is."
+        },
+        {
+          "pt": "A aula é amanhã, né?",
+          "en": "The class is tomorrow, right?",
+          "note": "informal tag"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Yes/no questions usually keep statement word order.",
+    "Intonation signals questions in speech; punctuation signals them in writing.",
+    "Question words can appear at the beginning or, informally, at the end.",
+    "Short answers often repeat the verb instead of using sim alone."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Faz você gosta de café?",
+      "right": "Você gosta de café?",
+      "note": "Portuguese does not use do/does for questions."
+    },
+    {
+      "wrong": "Onde mora você?",
+      "right": "Onde você mora?",
+      "note": "Subject before verb is the normal Brazilian pattern."
+    },
+    {
+      "wrong": "Você vai amanhã, não?",
+      "right": "Você vai amanhã, né?",
+      "note": "Né? is the natural informal tag."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

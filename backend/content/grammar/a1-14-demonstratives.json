@@ -1,0 +1,97 @@
+{
+  "id": "a1-14-demonstratives",
+  "level": "A1",
+  "order": 14,
+  "title": "Demonstratives: este, esse, aquele",
+  "titlePt": "Demonstrativos: este, esse, aquele",
+  "summary": "Point to things near you, near the listener, or farther away with este, esse, and aquele families.",
+  "tags": [
+    "demonstratives",
+    "pronouns",
+    "adjectives"
+  ],
+  "sections": [
+    {
+      "heading": "The three distances",
+      "body": "Demonstratives agree in gender and number. In everyday Brazil, **esse/essa** often covers many situations, but the three-way contrast is useful.\n\n| Distance | Masculine | Feminine | Meaning |\n|---|---|---|---|\n| near me | este(s) | esta(s) | this/these |\n| near you / already mentioned | esse(s) | essa(s) | that/those |\n| far from both | aquele(s) | aquela(s) | that/those over there |",
+      "examples": [
+        {
+          "pt": "Este livro aqui é meu.",
+          "en": "This book here is mine."
+        },
+        {
+          "pt": "Essa bolsa é sua?",
+          "en": "Is that purse yours?"
+        },
+        {
+          "pt": "Aquela casa lá é antiga.",
+          "en": "That house over there is old."
+        }
+      ]
+    },
+    {
+      "heading": "Neutral forms: isto, isso, aquilo",
+      "body": "Use **isto**, **isso**, and **aquilo** when you do not name the noun or when referring to an idea, situation, or unknown thing. They do not change for gender or number.",
+      "examples": [
+        {
+          "pt": "O que é isso?",
+          "en": "What is that?"
+        },
+        {
+          "pt": "Isto é importante.",
+          "en": "This is important."
+        },
+        {
+          "pt": "Aquilo foi estranho.",
+          "en": "That was strange."
+        }
+      ]
+    },
+    {
+      "heading": "In conversation and text",
+      "body": "In conversation, **esse/essa/isso** are very common. In writing, **este** can refer to what comes next, while **esse** can refer back to what was already mentioned.",
+      "examples": [
+        {
+          "pt": "Tenho esta dúvida: como usar crase?",
+          "en": "I have this question: how do you use crase?",
+          "note": "introduces what follows"
+        },
+        {
+          "pt": "Crase é difícil. Essa dúvida é comum.",
+          "en": "Crase is hard. That question is common.",
+          "note": "refers back"
+        },
+        {
+          "pt": "Esse aqui é melhor.",
+          "en": "This one here is better.",
+          "note": "common spoken Brazilian use"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Demonstratives agree with the noun: este livro, esta casa, estes livros.",
+    "Isto/isso/aquilo are neutral and do not modify a noun.",
+    "Esse/essa/isso are extremely common in spoken Brazilian Portuguese.",
+    "Aquele/aquela points to something distant in space, time, or memory."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Esse casa",
+      "right": "Essa casa",
+      "note": "Casa is feminine."
+    },
+    {
+      "wrong": "Isto livro",
+      "right": "Este livro",
+      "note": "Use este/esse/aquele before nouns, not isto/isso/aquilo."
+    },
+    {
+      "wrong": "Aquela aqui",
+      "right": "Esta aqui / Essa aqui",
+      "note": "Aqui suggests closeness, not distance."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

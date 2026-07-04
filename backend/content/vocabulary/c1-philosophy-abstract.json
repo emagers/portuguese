@@ -1,0 +1,132 @@
+{
+  "id": "c1-philosophy-abstract",
+  "level": "C1",
+  "title": "Philosophy & Abstract Thought",
+  "theme": "philosophy",
+  "description": "Conceptual vocabulary for ethics, knowledge, existence and complex reflection.",
+  "cards": [
+    {
+      "id": "phil-etica",
+      "pt": "ética",
+      "en": "ethics",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈɛ.tʃi.kɐ",
+      "example": {
+        "pt": "A ética deve orientar a pesquisa.",
+        "en": "Ethics should guide the research."
+      },
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "id": "phil-existencia",
+      "pt": "existência",
+      "en": "existence",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eziʃˈtẽ.si.ɐ",
+      "example": {
+        "pt": "O livro discute o sentido da existência.",
+        "en": "The book discusses the meaning of existence."
+      },
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "id": "phil-consciencia",
+      "pt": "consciência",
+      "en": "consciousness; conscience",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kõsiˈẽ.si.ɐ",
+      "example": {
+        "pt": "A consciência humana ainda intriga cientistas.",
+        "en": "Human consciousness still intrigues scientists."
+      },
+      "tags": [
+        "philosophy",
+        "science"
+      ]
+    },
+    {
+      "id": "phil-livre-arbitrio",
+      "pt": "livre-arbítrio",
+      "en": "free will",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈli.vɾi aʁˈbi.tɾju",
+      "example": {
+        "pt": "O debate sobre livre-arbítrio é antigo.",
+        "en": "The debate about free will is ancient."
+      },
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "id": "phil-paradoxo",
+      "pt": "paradoxo",
+      "en": "paradox",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "paɾaˈdɔksu",
+      "example": {
+        "pt": "Esse paradoxo parece insolúvel.",
+        "en": "This paradox seems unsolvable."
+      },
+      "tags": [
+        "philosophy",
+        "abstract"
+      ]
+    },
+    {
+      "id": "phil-premissa",
+      "pt": "premissa",
+      "en": "premise",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾeˈmi.sɐ",
+      "example": {
+        "pt": "A conclusão depende dessa premissa.",
+        "en": "The conclusion depends on this premise."
+      },
+      "tags": [
+        "philosophy",
+        "argument"
+      ]
+    },
+    {
+      "id": "phil-essencia",
+      "pt": "essência",
+      "en": "essence",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eˈsẽ.si.ɐ",
+      "example": {
+        "pt": "A essência da questão é moral.",
+        "en": "The essence of the question is moral."
+      },
+      "tags": [
+        "philosophy"
+      ]
+    },
+    {
+      "id": "phil-ceticismo",
+      "pt": "ceticismo",
+      "en": "skepticism",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "seˈtʃi.zmu",
+      "example": {
+        "pt": "O ceticismo saudável evita conclusões apressadas.",
+        "en": "Healthy skepticism avoids hasty conclusions."
+      },
+      "tags": [
+        "philosophy"
+      ]
+    }
+  ]
+}

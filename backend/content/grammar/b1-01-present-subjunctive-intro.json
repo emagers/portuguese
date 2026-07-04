@@ -1,0 +1,93 @@
+{
+  "id": "b1-01-present-subjunctive-intro",
+  "level": "B1",
+  "order": 1,
+  "title": "Present Subjunctive: Introduction",
+  "titlePt": "Presente do subjuntivo: introdução",
+  "summary": "Use the present subjunctive after wishes, doubts, emotions, and impersonal expressions.",
+  "tags": [
+    "subjunctive",
+    "verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Why the subjunctive exists",
+      "body": "The **subjunctive** presents an action as desired, uncertain, emotional, necessary, or not yet real. It often appears in a dependent clause introduced by **que**.",
+      "examples": [
+        {
+          "pt": "Espero que você goste.",
+          "en": "I hope you like it."
+        },
+        {
+          "pt": "Duvido que ele venha hoje.",
+          "en": "I doubt he will come today."
+        },
+        {
+          "pt": "É importante que a gente chegue cedo.",
+          "en": "It is important that we arrive early."
+        }
+      ]
+    },
+    {
+      "heading": "Regular formation",
+      "body": "For regular verbs, start from the **eu** form of the present, remove **-o**, and add the opposite vowel endings: -ar verbs use **e**, -er/-ir verbs use **a**.\n\n| Infinitive | Present subjunctive examples |\n|---|---|\n| falar | que eu fale, que eles falem |\n| comer | que eu coma, que eles comam |\n| abrir | que eu abra, que eles abram |",
+      "examples": [
+        {
+          "pt": "Quero que ela fale comigo.",
+          "en": "I want her to talk to me."
+        },
+        {
+          "pt": "Talvez eles comam aqui.",
+          "en": "Maybe they will eat here."
+        },
+        {
+          "pt": "Prefiro que você abra a janela.",
+          "en": "I prefer that you open the window."
+        }
+      ]
+    },
+    {
+      "heading": "Common irregulars",
+      "body": "Very common verbs have irregular subjunctive forms: **ser → seja**, **estar → esteja**, **ter → tenha**, **ir → vá**, **saber → saiba**, **fazer → faça**, **poder → possa**.",
+      "examples": [
+        {
+          "pt": "Tomara que seja fácil.",
+          "en": "I hope it is easy."
+        },
+        {
+          "pt": "Espero que você esteja bem.",
+          "en": "I hope you are well."
+        },
+        {
+          "pt": "Talvez eu possa ajudar.",
+          "en": "Maybe I can help."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Subjunctive often follows que after desire, doubt, emotion, and necessity.",
+    "Regular -ar verbs use e endings; -er/-ir verbs use a endings.",
+    "Talvez often triggers the subjunctive when uncertainty is real.",
+    "Learn common irregulars early: seja, esteja, tenha, vá, faça, possa."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Espero que você gosta.",
+      "right": "Espero que você goste.",
+      "note": "Espero que triggers subjunctive."
+    },
+    {
+      "wrong": "É importante que nós chegamos cedo.",
+      "right": "É importante que nós cheguemos cedo.",
+      "note": "Necessity uses subjunctive; chegar has spelling change."
+    },
+    {
+      "wrong": "Talvez ele vem.",
+      "right": "Talvez ele venha.",
+      "note": "Talvez + uncertainty uses subjunctive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

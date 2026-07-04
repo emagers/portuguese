@@ -1,0 +1,98 @@
+{
+  "id": "c1-03-colloquial-contractions",
+  "level": "C1",
+  "order": 3,
+  "title": "Colloquial Contractions",
+  "titlePt": "Contrações coloquiais",
+  "summary": "Understand common Brazilian spoken forms like pra, tá, tô, cadê, né, and cê while controlling register.",
+  "tags": [
+    "colloquial",
+    "register",
+    "spoken-portuguese"
+  ],
+  "sections": [
+    {
+      "heading": "Everyday spoken reductions",
+      "body": "Brazilian speech frequently reduces common words. These forms are natural in conversation, messages, songs, and dialogue, but not always appropriate in formal writing.",
+      "examples": [
+        {
+          "pt": "Eu tô em casa.",
+          "en": "I'm at home.",
+          "note": "estou → tô"
+        },
+        {
+          "pt": "Você tá bem?",
+          "en": "Are you okay?",
+          "note": "está → tá"
+        },
+        {
+          "pt": "Vou pra praia amanhã.",
+          "en": "I'm going to the beach tomorrow.",
+          "note": "para → pra"
+        }
+      ]
+    },
+    {
+      "heading": "Interaction markers",
+      "body": "Words like **né**, **tá**, **viu**, and **então** manage conversation: checking agreement, softening commands, or marking transitions.",
+      "examples": [
+        {
+          "pt": "Bonito, né?",
+          "en": "Beautiful, right?"
+        },
+        {
+          "pt": "Me liga quando chegar, tá?",
+          "en": "Call me when you arrive, okay?"
+        },
+        {
+          "pt": "Então, a gente precisa decidir hoje.",
+          "en": "So, we need to decide today."
+        }
+      ]
+    },
+    {
+      "heading": "Cadê and cê",
+      "body": "**Cadê** means 'where is/are?' and is extremely common. **Cê** is a reduced form of você in many regions, but it is informal and should be avoided in careful writing.",
+      "examples": [
+        {
+          "pt": "Cadê meu celular?",
+          "en": "Where is my phone?"
+        },
+        {
+          "pt": "Cadê as chaves?",
+          "en": "Where are the keys?"
+        },
+        {
+          "pt": "Cê vai hoje?",
+          "en": "Are you going today?",
+          "note": "very informal"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Tô, tá, pra, cadê, né, and cê are normal in informal Brazilian speech.",
+    "Use full forms in academic, professional, or formal writing.",
+    "Interaction markers like né and tá help manage tone.",
+    "Recognizing reductions improves listening comprehension."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu tô disponível para a reunião formal.",
+      "right": "Estou disponível para a reunião formal.",
+      "note": "Use full forms in formal contexts."
+    },
+    {
+      "wrong": "Cadê está meu celular?",
+      "right": "Cadê meu celular?",
+      "note": "Cadê already means 'where is/are'."
+    },
+    {
+      "wrong": "Pra mim fazer...",
+      "right": "Para eu fazer...",
+      "note": "As subject of an infinitive, use eu in standard Portuguese."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

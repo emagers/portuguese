@@ -1,0 +1,132 @@
+{
+  "id": "b2-arts-culture",
+  "level": "B2",
+  "title": "Arts & Culture",
+  "theme": "culture",
+  "description": "Cultural vocabulary for literature, music, exhibitions and artistic criticism.",
+  "cards": [
+    {
+      "id": "art-exposicao",
+      "pt": "exposição",
+      "en": "exhibition",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "espoziˈsɐ̃w",
+      "example": {
+        "pt": "A exposição reúne artistas jovens.",
+        "en": "The exhibition brings together young artists."
+      },
+      "tags": [
+        "arts"
+      ]
+    },
+    {
+      "id": "art-enredo",
+      "pt": "enredo",
+      "en": "plot",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽˈʁe.du",
+      "example": {
+        "pt": "O enredo do filme é surpreendente.",
+        "en": "The film plot is surprising."
+      },
+      "tags": [
+        "arts"
+      ]
+    },
+    {
+      "id": "art-palco",
+      "pt": "palco",
+      "en": "stage",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpaw.ku",
+      "example": {
+        "pt": "Os músicos subiram ao palco.",
+        "en": "The musicians went up on stage."
+      },
+      "tags": [
+        "arts",
+        "music"
+      ]
+    },
+    {
+      "id": "art-ensaio",
+      "pt": "ensaio",
+      "en": "rehearsal; essay",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽˈsaj.u",
+      "example": {
+        "pt": "O ensaio começou às sete.",
+        "en": "The rehearsal started at seven."
+      },
+      "tags": [
+        "arts"
+      ]
+    },
+    {
+      "id": "art-obra",
+      "pt": "obra",
+      "en": "work of art; work",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈɔ.bɾɐ",
+      "example": {
+        "pt": "Essa obra mudou a literatura brasileira.",
+        "en": "This work changed Brazilian literature."
+      },
+      "tags": [
+        "arts",
+        "literature"
+      ]
+    },
+    {
+      "id": "art-roteiro",
+      "pt": "roteiro",
+      "en": "script; itinerary",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁoˈtej.ɾu",
+      "example": {
+        "pt": "O roteiro do documentário é forte.",
+        "en": "The documentary script is strong."
+      },
+      "tags": [
+        "arts",
+        "media"
+      ]
+    },
+    {
+      "id": "art-critica",
+      "pt": "crítica",
+      "en": "review; criticism",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkɾi.tʃi.kɐ",
+      "example": {
+        "pt": "A crítica elogiou a peça.",
+        "en": "The review praised the play."
+      },
+      "tags": [
+        "arts"
+      ]
+    },
+    {
+      "id": "art-patrimonio",
+      "pt": "patrimônio",
+      "en": "heritage",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "patɾiˈmõ.nju",
+      "example": {
+        "pt": "O centro histórico é patrimônio cultural.",
+        "en": "The historic center is cultural heritage."
+      },
+      "tags": [
+        "culture"
+      ]
+    }
+  ]
+}

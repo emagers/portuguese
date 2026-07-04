@@ -1,0 +1,50 @@
+{
+  "id": "a1-cafe",
+  "level": "A1",
+  "type": "conversation",
+  "title": "At the Café",
+  "titlePt": "No Café",
+  "summary": "Ana orders breakfast at a Rio café. Practises greetings, ordering, and simple present-tense verbs.",
+  "lines": [
+    { "speaker": "Garçom", "pt": "Bom dia! Tudo bem?", "en": "Good morning! How are you?" },
+    { "speaker": "Ana", "pt": "Bom dia! Tudo ótimo, obrigada.", "en": "Good morning! All great, thank you." },
+    { "speaker": "Garçom", "pt": "O que você vai querer?", "en": "What would you like?", "note": "'vai querer' (lit. 'is going to want') is the normal polite way to take an order." },
+    { "speaker": "Ana", "pt": "Eu quero um café com leite e um pão de queijo, por favor.", "en": "I want a coffee with milk and a cheese bread, please." },
+    { "speaker": "Garçom", "pt": "Mais alguma coisa?", "en": "Anything else?" },
+    { "speaker": "Ana", "pt": "Só isso. Quanto é?", "en": "That's all. How much is it?" },
+    { "speaker": "Garçom", "pt": "São doze reais.", "en": "It's twelve reais.", "note": "Prices use 'são' (are) with plural amounts." },
+    { "speaker": "Ana", "pt": "Aqui está. Obrigada!", "en": "Here you go. Thank you!" },
+    { "speaker": "Garçom", "pt": "De nada. Bom apetite!", "en": "You're welcome. Enjoy your meal!" }
+  ],
+  "glossary": [
+    { "pt": "o garçom", "en": "the waiter", "note": "feminine: a garçonete" },
+    { "pt": "querer", "en": "to want" },
+    { "pt": "o café com leite", "en": "coffee with milk" },
+    { "pt": "o pão de queijo", "en": "cheese bread (a Brazilian classic)" },
+    { "pt": "Quanto é?", "en": "How much is it?" },
+    { "pt": "Aqui está.", "en": "Here you go." }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What does Ana order?",
+      "options": ["Coffee with milk and cheese bread", "Orange juice and toast", "Tea and cake", "Water only"],
+      "answer": "Coffee with milk and cheese bread",
+      "explanation": "She says 'um café com leite e um pão de queijo'."
+    },
+    {
+      "id": "c2",
+      "question": "How much does it cost?",
+      "options": ["Twelve reais", "Two reais", "Twenty reais", "Ten reais"],
+      "answer": "Twelve reais",
+      "explanation": "The waiter says 'São doze reais.'"
+    },
+    {
+      "id": "c3",
+      "question": "How does the waiter say 'Enjoy your meal'?",
+      "options": ["Bom apetite!", "Boa noite!", "De nada!", "Tudo bem?"],
+      "answer": "Bom apetite!",
+      "explanation": "'Bom apetite' is the standard phrase before eating."
+    }
+  ]
+}

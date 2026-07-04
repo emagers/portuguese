@@ -1,0 +1,130 @@
+{
+  "id": "b2-debate-cidade-campo",
+  "level": "B2",
+  "type": "conversation",
+  "title": "City Life or Countryside?",
+  "titlePt": "Vida na Cidade ou no Campo?",
+  "summary": "Two cousins debate the advantages and limits of living in the city and the countryside.",
+  "lines": [
+    {
+      "speaker": "Paula",
+      "pt": "Depois de uma semana em São Paulo, entendo por que você quer morar no interior. O barulho cansa qualquer um.",
+      "en": "After a week in São Paulo, I understand why you want to live in the countryside. The noise tires anyone."
+    },
+    {
+      "speaker": "André",
+      "pt": "Cansa, mas a cidade também oferece oportunidades que minha cidade pequena não tem.",
+      "en": "It does, but the city also offers opportunities that my small town does not have."
+    },
+    {
+      "speaker": "Paula",
+      "pt": "É verdade. No campo, tudo parece mais calmo, mas às vezes falta médico, escola boa e internet estável.",
+      "en": "That's true. In the countryside, everything seems calmer, but sometimes there is a lack of doctors, good schools, and stable internet."
+    },
+    {
+      "speaker": "André",
+      "pt": "Por outro lado, aqui as pessoas gastam horas no trânsito e mal conhecem os vizinhos.",
+      "en": "On the other hand, here people spend hours in traffic and barely know their neighbors."
+    },
+    {
+      "speaker": "Paula",
+      "pt": "Talvez o problema seja imaginar que uma opção é perfeita. A cidade concentra serviços, mas cobra caro em tempo e saúde mental.",
+      "en": "Perhaps the problem is imagining that one option is perfect. The city concentrates services, but charges dearly in time and mental health."
+    },
+    {
+      "speaker": "André",
+      "pt": "E o campo oferece espaço, mas depende de políticas públicas para não virar isolamento.",
+      "en": "And the countryside offers space, but depends on public policies so it does not become isolation."
+    },
+    {
+      "speaker": "Paula",
+      "pt": "Se eu pudesse trabalhar remotamente com boa conexão, talvez escolhesse uma cidade média.",
+      "en": "If I could work remotely with a good connection, maybe I would choose a mid-sized city."
+    },
+    {
+      "speaker": "André",
+      "pt": "Eu também. Um meio-termo talvez seja mais realista do que a vida ideal que a gente imagina.",
+      "en": "Me too. A middle ground may be more realistic than the ideal life we imagine."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "o interior",
+      "en": "the countryside / interior"
+    },
+    {
+      "pt": "oportunidades",
+      "en": "opportunities"
+    },
+    {
+      "pt": "internet estável",
+      "en": "stable internet"
+    },
+    {
+      "pt": "por outro lado",
+      "en": "on the other hand"
+    },
+    {
+      "pt": "saúde mental",
+      "en": "mental health"
+    },
+    {
+      "pt": "políticas públicas",
+      "en": "public policies"
+    },
+    {
+      "pt": "cidade média",
+      "en": "mid-sized city"
+    },
+    {
+      "pt": "meio-termo",
+      "en": "middle ground"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What bothers Paula about São Paulo?",
+      "options": [
+        "The noise",
+        "The silence",
+        "The lack of services",
+        "The countryside"
+      ],
+      "answer": "The noise"
+    },
+    {
+      "id": "c2",
+      "question": "What does Paula say can be missing in the countryside?",
+      "options": [
+        "Doctors, good schools, and stable internet",
+        "Parks and cafés only",
+        "Traffic and elevators",
+        "Neighbors and houses"
+      ],
+      "answer": "Doctors, good schools, and stable internet"
+    },
+    {
+      "id": "c3",
+      "question": "What does the countryside need to avoid isolation?",
+      "options": [
+        "Public policies",
+        "More traffic",
+        "Fewer schools",
+        "Only tourists"
+      ],
+      "answer": "Public policies"
+    },
+    {
+      "id": "c4",
+      "question": "What solution do they find realistic?",
+      "options": [
+        "A middle ground",
+        "Only the biggest city",
+        "A perfect rural life",
+        "Never moving"
+      ],
+      "answer": "A middle ground"
+    }
+  ]
+}

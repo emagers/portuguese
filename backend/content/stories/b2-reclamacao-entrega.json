@@ -1,0 +1,130 @@
+{
+  "id": "b2-reclamacao-entrega",
+  "level": "B2",
+  "type": "conversation",
+  "title": "A Delivery Complaint",
+  "titlePt": "Uma Reclamação de Entrega",
+  "summary": "A customer complains about a delayed and damaged delivery while negotiating a fair solution.",
+  "lines": [
+    {
+      "speaker": "Atendente",
+      "pt": "Central de atendimento, boa tarde. Em que posso ajudar?",
+      "en": "Customer service center, good afternoon. How can I help?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Recebi minha encomenda com três dias de atraso e a caixa chegou amassada.",
+      "en": "I received my order three days late and the box arrived crushed."
+    },
+    {
+      "speaker": "Atendente",
+      "pt": "Sinto muito pelo transtorno. O produto foi danificado?",
+      "en": "I am sorry for the inconvenience. Was the product damaged?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Sim. A cafeteira liga, mas vaza água pela base. Tirei fotos antes de abrir a embalagem.",
+      "en": "Yes. The coffee maker turns on, but leaks water from the base. I took photos before opening the package."
+    },
+    {
+      "speaker": "Atendente",
+      "pt": "As fotos ajudam bastante. Podemos oferecer troca ou reembolso integral.",
+      "en": "The photos help a lot. We can offer an exchange or a full refund."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Prefiro a troca, desde que o novo envio seja mais rápido. Eu comprei o produto para um presente.",
+      "en": "I prefer an exchange, as long as the new shipment is faster. I bought the product as a gift."
+    },
+    {
+      "speaker": "Atendente",
+      "pt": "Vou solicitar envio expresso sem custo adicional e enviar um código de postagem para devolução.",
+      "en": "I will request express shipping at no additional cost and send a postage code for the return."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Tudo bem. Por favor, registre o protocolo da reclamação.",
+      "en": "All right. Please register the complaint protocol number."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a encomenda",
+      "en": "the order/package"
+    },
+    {
+      "pt": "amassada",
+      "en": "crushed / dented"
+    },
+    {
+      "pt": "o transtorno",
+      "en": "the inconvenience"
+    },
+    {
+      "pt": "vazar água",
+      "en": "to leak water"
+    },
+    {
+      "pt": "a embalagem",
+      "en": "the packaging"
+    },
+    {
+      "pt": "reembolso integral",
+      "en": "full refund"
+    },
+    {
+      "pt": "envio expresso",
+      "en": "express shipping"
+    },
+    {
+      "pt": "protocolo da reclamação",
+      "en": "complaint protocol number"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What happened to the delivery?",
+      "options": [
+        "It arrived late and crushed",
+        "It arrived early and perfect",
+        "It was sent to a store",
+        "It contained the wrong color only"
+      ],
+      "answer": "It arrived late and crushed"
+    },
+    {
+      "id": "c2",
+      "question": "What is wrong with the coffee maker?",
+      "options": [
+        "It leaks water from the base",
+        "It has no plug",
+        "It is too small",
+        "It makes no sound"
+      ],
+      "answer": "It leaks water from the base"
+    },
+    {
+      "id": "c3",
+      "question": "What solution does the customer prefer?",
+      "options": [
+        "An exchange",
+        "A full refund",
+        "A discount only",
+        "No solution"
+      ],
+      "answer": "An exchange"
+    },
+    {
+      "id": "c4",
+      "question": "What shipping will the company request?",
+      "options": [
+        "Express shipping at no additional cost",
+        "Regular paid shipping",
+        "Pickup next year",
+        "No new shipment"
+      ],
+      "answer": "Express shipping at no additional cost"
+    }
+  ]
+}

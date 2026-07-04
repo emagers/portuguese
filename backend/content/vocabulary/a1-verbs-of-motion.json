@@ -1,0 +1,138 @@
+{
+  "id": "a1-verbs-of-motion",
+  "level": "A1",
+  "title": "Verbs of Motion",
+  "theme": "motion",
+  "description": "Essential movement verbs for saying where people go and how things move.",
+  "cards": [
+    {
+      "id": "motion-andar",
+      "pt": "andar",
+      "en": "to walk",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ɐ̃ˈdaʁ",
+      "example": {
+        "pt": "Eu ando até a escola.",
+        "en": "I walk to school."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-correr",
+      "pt": "correr",
+      "en": "to run",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "koˈʁeʁ",
+      "example": {
+        "pt": "As crianças correm no parque.",
+        "en": "The children run in the park."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-chegar",
+      "pt": "chegar",
+      "en": "to arrive",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ʃeˈgaʁ",
+      "example": {
+        "pt": "O trem chega às nove.",
+        "en": "The train arrives at nine."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-sair",
+      "pt": "sair",
+      "en": "to leave; go out",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "saˈiʁ",
+      "example": {
+        "pt": "Vou sair de casa cedo.",
+        "en": "I am going to leave home early."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-entrar",
+      "pt": "entrar",
+      "en": "to enter",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ẽˈtɾaʁ",
+      "example": {
+        "pt": "Pode entrar pela porta da frente.",
+        "en": "You may enter through the front door."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-voltar",
+      "pt": "voltar",
+      "en": "to return",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "vowˈtaʁ",
+      "example": {
+        "pt": "Ela volta amanhã.",
+        "en": "She returns tomorrow."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-subir",
+      "pt": "subir",
+      "en": "to go up; climb",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "suˈbiʁ",
+      "example": {
+        "pt": "Vamos subir a escada.",
+        "en": "We are going up the stairs."
+      },
+      "tags": [
+        "motion",
+        "verbs"
+      ]
+    },
+    {
+      "id": "motion-descer",
+      "pt": "descer",
+      "en": "to go down",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "deˈseʁ",
+      "example": {
+        "pt": "Desça no próximo ponto.",
+        "en": "Get off at the next stop."
+      },
+      "tags": [
+        "motion",
+        "verbs",
+        "transportation"
+      ]
+    }
+  ]
+}

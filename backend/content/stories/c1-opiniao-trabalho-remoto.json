@@ -1,0 +1,102 @@
+{
+  "id": "c1-opiniao-trabalho-remoto",
+  "level": "C1",
+  "type": "story",
+  "title": "Remote Work and the City",
+  "titlePt": "Trabalho Remoto e a Cidade",
+  "summary": "An opinion piece argues that remote work changes cities unevenly and requires public planning.",
+  "paragraphs": [
+    {
+      "pt": "O trabalho remoto foi vendido, durante algum tempo, como uma libertação quase universal: menos horas no trânsito, mais autonomia, maior convivência familiar. Para uma parcela dos profissionais, de fato, essa promessa se cumpriu. Quem dispõe de um quarto silencioso, boa internet e estabilidade financeira descobriu que a produtividade não depende necessariamente de crachá, elevador e reunião presencial.",
+      "en": "Remote work was sold, for some time, as an almost universal liberation: fewer hours in traffic, more autonomy, greater family life. For a portion of professionals, this promise did in fact come true. Those who have a quiet room, good internet, and financial stability discovered that productivity does not necessarily depend on a badge, elevator, and in-person meeting."
+    },
+    {
+      "pt": "A questão é que a cidade não mudou de forma homogênea. Enquanto alguns bairros ganharam cafés cheios às três da tarde e moradores mais presentes, outros perderam movimento, renda e segurança. Pequenos restaurantes que dependiam de escritórios esvaziados fecharam as portas; trabalhadores de limpeza, portaria e transporte continuaram se deslocando, muitas vezes para atender edifícios ocupados pela metade. A flexibilidade de uns revelou a rigidez da rotina de outros.",
+      "en": "The issue is that the city did not change uniformly. While some neighborhoods gained cafés full at three in the afternoon and more present residents, others lost movement, income, and safety. Small restaurants that depended on emptied offices closed their doors; cleaning, concierge, and transportation workers continued commuting, often to serve buildings half occupied. The flexibility of some revealed the rigidity of others' routines."
+    },
+    {
+      "pt": "Por isso, tratar o trabalho remoto apenas como escolha individual é insuficiente. Prefeituras precisam repensar transporte, zoneamento e uso de prédios comerciais. Empresas deveriam medir não só economia com aluguel, mas também os impactos que transferem para a casa do funcionário: luz, cadeira, saúde mental, isolamento. Se a nova organização do trabalho veio para ficar, convém que ela seja debatida como fenômeno urbano e social, não como privilégio silencioso escondido atrás de uma tela.",
+      "en": "Therefore, treating remote work only as an individual choice is insufficient. City governments need to rethink transportation, zoning, and the use of commercial buildings. Companies should measure not only savings on rent, but also the impacts they transfer to the employee's home: electricity, chair, mental health, isolation. If the new organization of work is here to stay, it should be debated as an urban and social phenomenon, not as a silent privilege hidden behind a screen."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "libertação",
+      "en": "liberation"
+    },
+    {
+      "pt": "crachá",
+      "en": "badge"
+    },
+    {
+      "pt": "homogênea",
+      "en": "homogeneous/uniform"
+    },
+    {
+      "pt": "portaria",
+      "en": "building concierge/front desk"
+    },
+    {
+      "pt": "zoneamento",
+      "en": "zoning"
+    },
+    {
+      "pt": "prédios comerciais",
+      "en": "commercial buildings"
+    },
+    {
+      "pt": "convém que",
+      "en": "it is advisable that"
+    },
+    {
+      "pt": "fenômeno urbano",
+      "en": "urban phenomenon"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What is the article's main claim?",
+      "options": [
+        "Remote work has uneven urban and social effects",
+        "Remote work should be banned",
+        "All workers benefit equally from remote work",
+        "Cities no longer matter"
+      ],
+      "answer": "Remote work has uneven urban and social effects"
+    },
+    {
+      "id": "c2",
+      "question": "Who continued commuting despite remote work trends?",
+      "options": [
+        "Cleaning, concierge, and transportation workers",
+        "Only company directors",
+        "All remote employees",
+        "Retired residents"
+      ],
+      "answer": "Cleaning, concierge, and transportation workers"
+    },
+    {
+      "id": "c3",
+      "question": "What should companies measure besides rent savings?",
+      "options": [
+        "Impacts transferred to employees' homes",
+        "The number of cafés in each city",
+        "Only elevator use",
+        "Tourism statistics"
+      ],
+      "answer": "Impacts transferred to employees' homes"
+    },
+    {
+      "id": "c4",
+      "question": "How should remote work be debated, according to the text?",
+      "options": [
+        "As an urban and social phenomenon",
+        "As a purely private hobby",
+        "As a temporary fashion only",
+        "As a problem solved by badges"
+      ],
+      "answer": "As an urban and social phenomenon"
+    }
+  ]
+}

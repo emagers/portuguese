@@ -1,0 +1,87 @@
+{
+  "id": "b2-quiz-academic-vocab",
+  "level": "B2",
+  "title": "Academic & Media Vocabulary",
+  "topic": "vocab",
+  "description": "Review vocabulary common in news, essays, research, and public debate.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'pesquisa' mean in an academic context?",
+      "options": [
+        "research",
+        "receipt",
+        "complaint",
+        "deadline"
+      ],
+      "answer": "research",
+      "explanation": "'Pesquisa' means 'research' or 'survey', depending on context."
+    },
+    {
+      "id": "q2",
+      "type": "translate_pt_en",
+      "prompt": "O governo anunciou novas medidas.",
+      "options": [
+        "The government announced new measures.",
+        "The government denied new measures.",
+        "The company announced new measures.",
+        "The government postponed new meetings."
+      ],
+      "answer": "The government announced new measures.",
+      "explanation": "'Governo' means 'government' and 'medidas' means 'measures'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which word means 'evidence'?",
+      "options": [
+        "evidência",
+        "prejuízo",
+        "vantagem",
+        "ameaça"
+      ],
+      "answer": "evidência",
+      "explanation": "'Evidência' is the direct equivalent of 'evidence'."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What is the best meaning of 'apesar de'?",
+      "options": [
+        "despite",
+        "because of",
+        "instead of",
+        "according to"
+      ],
+      "answer": "despite",
+      "explanation": "'Apesar de' introduces contrast, like 'despite'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'sustainable development'",
+      "options": [
+        "desenvolvimento sustentável",
+        "desenvolvimento sustentado",
+        "crescimento suportável",
+        "progresso sustentado"
+      ],
+      "answer": "desenvolvimento sustentável",
+      "explanation": "'Desenvolvimento sustentável' is the standard term."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'on the other hand'?",
+      "options": [
+        "por outro lado",
+        "além disso",
+        "de acordo com",
+        "em primeiro lugar"
+      ],
+      "answer": "por outro lado",
+      "explanation": "'Por outro lado' introduces a contrasting point."
+    }
+  ]
+}

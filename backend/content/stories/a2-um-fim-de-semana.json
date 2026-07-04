@@ -1,0 +1,98 @@
+{
+  "id": "a2-um-fim-de-semana",
+  "level": "A2",
+  "type": "story",
+  "title": "A Weekend in Curitiba",
+  "titlePt": "Um Fim de Semana em Curitiba",
+  "summary": "Two friends spend a simple weekend visiting parks and eating together.",
+  "paragraphs": [
+    {
+      "pt": "No sábado, Lucas visitou sua amiga Nanda em Curitiba. De manhã, eles caminharam no Jardim Botânico. O tempo estava fresco, e muitas famílias tiravam fotos perto das flores.",
+      "en": "On Saturday, Lucas visited his friend Nanda in Curitiba. In the morning, they walked in the Botanical Garden. The weather was cool, and many families were taking pictures near the flowers."
+    },
+    {
+      "pt": "Depois, almoçaram em um restaurante pequeno. Lucas pediu frango com arroz, e Nanda escolheu massa. Eles conversaram sobre trabalho, filmes e planos para as férias.",
+      "en": "Afterward, they had lunch in a small restaurant. Lucas ordered chicken with rice, and Nanda chose pasta. They talked about work, movies, and vacation plans."
+    },
+    {
+      "pt": "No domingo, choveu um pouco. Por isso, eles ficaram em casa, fizeram brigadeiro e assistiram a uma série. Lucas voltou para sua cidade feliz e descansado.",
+      "en": "On Sunday, it rained a little. Because of that, they stayed home, made brigadeiro, and watched a series. Lucas returned to his city happy and rested."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "o fim de semana",
+      "en": "the weekend"
+    },
+    {
+      "pt": "caminhar",
+      "en": "to walk"
+    },
+    {
+      "pt": "fresco",
+      "en": "cool (weather)"
+    },
+    {
+      "pt": "tirar fotos",
+      "en": "to take pictures"
+    },
+    {
+      "pt": "as férias",
+      "en": "the vacation"
+    },
+    {
+      "pt": "chover",
+      "en": "to rain"
+    },
+    {
+      "pt": "descansado",
+      "en": "rested"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where did Lucas visit Nanda?",
+      "options": [
+        "Curitiba",
+        "Fortaleza",
+        "Belém",
+        "Porto Alegre"
+      ],
+      "answer": "Curitiba"
+    },
+    {
+      "id": "c2",
+      "question": "What did they do on Saturday morning?",
+      "options": [
+        "Walked in the Botanical Garden",
+        "Went to the beach",
+        "Stayed in bed",
+        "Took a train"
+      ],
+      "answer": "Walked in the Botanical Garden"
+    },
+    {
+      "id": "c3",
+      "question": "Why did they stay home on Sunday?",
+      "options": [
+        "It rained a little",
+        "They were sick",
+        "The restaurant was closed",
+        "They missed the bus"
+      ],
+      "answer": "It rained a little"
+    },
+    {
+      "id": "c4",
+      "question": "How did Lucas feel when he returned?",
+      "options": [
+        "Happy and rested",
+        "Angry and hungry",
+        "Worried and late",
+        "Sad and tired"
+      ],
+      "answer": "Happy and rested"
+    }
+  ]
+}

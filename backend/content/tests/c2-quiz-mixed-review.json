@@ -1,0 +1,88 @@
+{
+  "id": "c2-quiz-mixed-review",
+  "level": "C2",
+  "title": "C2 Mixed Review",
+  "topic": "mixed",
+  "description": "Review idioms, false friends, advanced grammar, and subtle register choices.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence best translates 'He intends to apply for the position'?",
+      "options": [
+        "Ele pretende se candidatar à vaga.",
+        "Ele pretende aplicar para a posição.",
+        "Ele finge se candidatar à vaga.",
+        "Ele aplica à vaga."
+      ],
+      "answer": "Ele pretende se candidatar à vaga.",
+      "explanation": "'Pretende' means 'intends', and 'se candidatar à vaga' is idiomatic."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Ainda que a solução ___ viável, há riscos relevantes. (parecer)",
+      "options": [
+        "parece",
+        "pareceu",
+        "pareça",
+        "pareceria"
+      ],
+      "answer": "pareça",
+      "explanation": "'Ainda que' takes the subjunctive in concessive clauses."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "O comentário passou despercebido.",
+      "options": [
+        "The comment went unnoticed.",
+        "The comment was misunderstood.",
+        "The comment was postponed.",
+        "The comment became controversial."
+      ],
+      "answer": "The comment went unnoticed.",
+      "explanation": "'Passar despercebido' means to go unnoticed."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What does 'não vem ao caso' mean?",
+      "options": [
+        "it is not relevant",
+        "it will not arrive",
+        "it is not a legal case",
+        "it does not come home"
+      ],
+      "answer": "it is not relevant",
+      "explanation": "'Não vem ao caso' means something is beside the point or irrelevant."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Choose the most natural formal sentence.",
+      "options": [
+        "Caso haja divergências, revisaremos o texto.",
+        "Caso tem divergências, revisaremos o texto.",
+        "Se haver divergências, revisamos o texto.",
+        "Caso exista divergências, revisaríamos o texto."
+      ],
+      "answer": "Caso haja divergências, revisaremos o texto.",
+      "explanation": "'Caso haja' is formal and correct; 'haja' is impersonal here."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "No que diz respeito ao prazo, ainda há margem para negociação.",
+      "options": [
+        "No que diz respeito ao prazo, ainda há margem para negociação.",
+        "No que diz respeito ao preço, ainda há margem para negociação.",
+        "No que diz respeito ao prazo, não há margem para negociação.",
+        "No que diz respeito ao prazo, ainda há motivo para negociação."
+      ],
+      "answer": "No que diz respeito ao prazo, ainda há margem para negociação.",
+      "explanation": "'No que diz respeito a' means 'regarding' or 'with respect to'."
+    }
+  ]
+}

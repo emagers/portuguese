@@ -1,0 +1,132 @@
+{
+  "id": "c1-economics",
+  "level": "C1",
+  "title": "Economics",
+  "theme": "economics",
+  "description": "Advanced economic vocabulary for inflation, labor, productivity and policy analysis.",
+  "cards": [
+    {
+      "id": "econ-inflacao",
+      "pt": "inflação",
+      "en": "inflation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ĩflaˈsɐ̃w",
+      "example": {
+        "pt": "A inflação corroeu o poder de compra.",
+        "en": "Inflation eroded purchasing power."
+      },
+      "tags": [
+        "economics"
+      ]
+    },
+    {
+      "id": "econ-juros",
+      "pt": "juros",
+      "en": "interest",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʒu.ɾus",
+      "example": {
+        "pt": "Os juros altos reduzem o consumo.",
+        "en": "High interest rates reduce consumption."
+      },
+      "tags": [
+        "economics",
+        "money"
+      ]
+    },
+    {
+      "id": "econ-produtividade",
+      "pt": "produtividade",
+      "en": "productivity",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾodutʃividaˈdʒi",
+      "example": {
+        "pt": "A produtividade cresceu com tecnologia.",
+        "en": "Productivity grew with technology."
+      },
+      "tags": [
+        "economics"
+      ]
+    },
+    {
+      "id": "econ-demanda",
+      "pt": "demanda",
+      "en": "demand",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "deˈmɐ̃.dɐ",
+      "example": {
+        "pt": "A demanda por energia aumentou.",
+        "en": "Demand for energy increased."
+      },
+      "tags": [
+        "economics"
+      ]
+    },
+    {
+      "id": "econ-oferta",
+      "pt": "oferta",
+      "en": "supply; offer",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "oˈfɛʁ.tɐ",
+      "example": {
+        "pt": "A oferta de crédito diminuiu.",
+        "en": "The supply of credit decreased."
+      },
+      "tags": [
+        "economics"
+      ]
+    },
+    {
+      "id": "econ-desigualdade",
+      "pt": "desigualdade",
+      "en": "inequality",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "dezigualdaˈdʒi",
+      "example": {
+        "pt": "A desigualdade regional ainda é alta.",
+        "en": "Regional inequality is still high."
+      },
+      "tags": [
+        "economics",
+        "society"
+      ]
+    },
+    {
+      "id": "econ-subsidio",
+      "pt": "subsídio",
+      "en": "subsidy",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "subˈsi.dʒju",
+      "example": {
+        "pt": "O subsídio reduziu o preço final.",
+        "en": "The subsidy reduced the final price."
+      },
+      "tags": [
+        "economics",
+        "government"
+      ]
+    },
+    {
+      "id": "econ-recessao",
+      "pt": "recessão",
+      "en": "recession",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁeseˈsɐ̃w",
+      "example": {
+        "pt": "A recessão afetou pequenas empresas.",
+        "en": "The recession affected small businesses."
+      },
+      "tags": [
+        "economics"
+      ]
+    }
+  ]
+}

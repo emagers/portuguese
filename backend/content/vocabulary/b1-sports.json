@@ -1,0 +1,131 @@
+{
+  "id": "b1-sports",
+  "level": "B1",
+  "title": "Sports",
+  "theme": "sports",
+  "description": "Vocabulary for playing, watching and discussing common sports and exercise.",
+  "cards": [
+    {
+      "id": "sport-futebol",
+      "pt": "futebol",
+      "en": "soccer",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "futʃiˈbɔw",
+      "example": {
+        "pt": "O futebol é muito popular no Brasil.",
+        "en": "Soccer is very popular in Brazil."
+      },
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "sport-jogador",
+      "pt": "jogador / jogadora",
+      "en": "player",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ʒogaˈdoʁ",
+      "example": {
+        "pt": "A jogadora marcou dois gols.",
+        "en": "The player scored two goals."
+      },
+      "tags": [
+        "sports",
+        "people"
+      ]
+    },
+    {
+      "id": "sport-torcida",
+      "pt": "torcida",
+      "en": "fans; supporters",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "toʁˈsi.dɐ",
+      "example": {
+        "pt": "A torcida cantou o jogo inteiro.",
+        "en": "The fans sang throughout the whole game."
+      },
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "sport-campeonato",
+      "pt": "campeonato",
+      "en": "championship",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kɐ̃peoˈna.tu",
+      "example": {
+        "pt": "O campeonato começa em março.",
+        "en": "The championship starts in March."
+      },
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "sport-treino",
+      "pt": "treino",
+      "en": "training session",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈtɾej.nu",
+      "example": {
+        "pt": "Tenho treino às seis.",
+        "en": "I have training at six."
+      },
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "sport-empate",
+      "pt": "empate",
+      "en": "tie; draw",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽˈpa.tʃi",
+      "example": {
+        "pt": "O jogo terminou em empate.",
+        "en": "The game ended in a tie."
+      },
+      "tags": [
+        "sports"
+      ]
+    },
+    {
+      "id": "sport-vencer",
+      "pt": "vencer",
+      "en": "to win",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "vẽˈseʁ",
+      "example": {
+        "pt": "Nosso time venceu fora de casa.",
+        "en": "Our team won away from home."
+      },
+      "tags": [
+        "sports",
+        "verbs"
+      ]
+    },
+    {
+      "id": "sport-natacao",
+      "pt": "natação",
+      "en": "swimming",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "nataˈsɐ̃w",
+      "example": {
+        "pt": "A natação melhora a respiração.",
+        "en": "Swimming improves breathing."
+      },
+      "tags": [
+        "sports"
+      ]
+    }
+  ]
+}

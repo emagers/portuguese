@@ -1,0 +1,101 @@
+{
+  "id": "c1-05-formal-informal-register",
+  "level": "C1",
+  "order": 5,
+  "title": "Formal and Informal Register",
+  "titlePt": "Registro formal e informal",
+  "summary": "Adjust grammar, pronouns, contractions, and vocabulary to match Brazilian social and professional contexts.",
+  "tags": [
+    "register",
+    "style",
+    "communication"
+  ],
+  "sections": [
+    {
+      "heading": "Pronouns and address",
+      "body": "Brazilian Portuguese generally uses **você** in both informal and many professional contexts. Formality is often shown through vocabulary, complete forms, titles, and politeness strategies rather than switching to a different 'you'.",
+      "examples": [
+        {
+          "pt": "Você poderia me enviar o arquivo?",
+          "en": "Could you send me the file?",
+          "note": "polite professional"
+        },
+        {
+          "pt": "Dá pra mandar o arquivo?",
+          "en": "Can you send the file?",
+          "note": "informal"
+        },
+        {
+          "pt": "Prezada Ana, encaminho o relatório solicitado.",
+          "en": "Dear Ana, I am forwarding the requested report.",
+          "note": "formal written"
+        }
+      ]
+    },
+    {
+      "heading": "Grammar and contractions",
+      "body": "Informal speech accepts reductions and looser pronoun placement. Formal writing prefers full forms, standard object pronouns or clear noun phrases, and fewer colloquial markers.",
+      "examples": [
+        {
+          "pt": "Te mando amanhã.",
+          "en": "I'll send it to you tomorrow.",
+          "note": "informal"
+        },
+        {
+          "pt": "Enviarei amanhã para você.",
+          "en": "I will send it to you tomorrow.",
+          "note": "formal/clear"
+        },
+        {
+          "pt": "A gente vai resolver.",
+          "en": "We'll solve it.",
+          "note": "informal to neutral spoken"
+        }
+      ]
+    },
+    {
+      "heading": "Politeness without stiffness",
+      "body": "Professional Brazilian Portuguese values clarity and warmth. Conditional forms, indirect requests, and gratitude soften messages without sounding overly formal.",
+      "examples": [
+        {
+          "pt": "Você poderia confirmar o recebimento?",
+          "en": "Could you confirm receipt?"
+        },
+        {
+          "pt": "Fico à disposição para esclarecer dúvidas.",
+          "en": "I remain available to answer questions."
+        },
+        {
+          "pt": "Obrigada pela atenção.",
+          "en": "Thank you for your attention.",
+          "note": "female speaker"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Formality in Brazil is often lexical and pragmatic, not just pronoun-based.",
+    "Use full forms and standard spelling in formal writing.",
+    "Você can be polite when paired with poderia, por favor, and appropriate tone.",
+    "Avoid colloquial reductions in official emails, academic writing, and résumés."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Cê poderia assinar o contrato?",
+      "right": "Você poderia assinar o contrato?",
+      "note": "Avoid cê in formal contexts."
+    },
+    {
+      "wrong": "Manda aí o documento.",
+      "right": "Você poderia enviar o documento, por favor?",
+      "note": "Use a softer professional request."
+    },
+    {
+      "wrong": "A gente informamos.",
+      "right": "Informamos. / A gente informa.",
+      "note": "Do not mix a gente with plural verb agreement."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

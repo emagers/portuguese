@@ -1,0 +1,116 @@
+{
+  "id": "a1-cumprimentos",
+  "level": "A1",
+  "type": "conversation",
+  "title": "Greetings in the Park",
+  "titlePt": "Cumprimentos no Parque",
+  "summary": "Two neighbors greet each other and talk about the day with simple present-tense phrases.",
+  "lines": [
+    {
+      "speaker": "Lia",
+      "pt": "Oi, Paulo! Bom dia!",
+      "en": "Hi, Paulo! Good morning!"
+    },
+    {
+      "speaker": "Paulo",
+      "pt": "Bom dia, Lia! Tudo bem?",
+      "en": "Good morning, Lia! How are you?"
+    },
+    {
+      "speaker": "Lia",
+      "pt": "Tudo bem, obrigada. E você?",
+      "en": "I am well, thank you. And you?"
+    },
+    {
+      "speaker": "Paulo",
+      "pt": "Eu estou bem. O dia está bonito.",
+      "en": "I am well. The day is beautiful."
+    },
+    {
+      "speaker": "Lia",
+      "pt": "Sim, o sol está forte.",
+      "en": "Yes, the sun is strong."
+    },
+    {
+      "speaker": "Paulo",
+      "pt": "Você caminha aqui todos os dias?",
+      "en": "Do you walk here every day?"
+    },
+    {
+      "speaker": "Lia",
+      "pt": "Sim, eu caminho de manhã.",
+      "en": "Yes, I walk in the morning."
+    },
+    {
+      "speaker": "Paulo",
+      "pt": "Que bom! Até logo.",
+      "en": "How nice! See you later."
+    },
+    {
+      "speaker": "Lia",
+      "pt": "Até logo, Paulo!",
+      "en": "See you later, Paulo!"
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "Oi",
+      "en": "Hi"
+    },
+    {
+      "pt": "Bom dia",
+      "en": "Good morning"
+    },
+    {
+      "pt": "Tudo bem?",
+      "en": "How are you?"
+    },
+    {
+      "pt": "o parque",
+      "en": "the park"
+    },
+    {
+      "pt": "caminhar",
+      "en": "to walk"
+    },
+    {
+      "pt": "Até logo",
+      "en": "See you later"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where are Lia and Paulo?",
+      "options": [
+        "In the park",
+        "At the bank",
+        "At school",
+        "In a hotel"
+      ],
+      "answer": "In the park"
+    },
+    {
+      "id": "c2",
+      "question": "When does Lia walk?",
+      "options": [
+        "In the morning",
+        "At night",
+        "After lunch",
+        "On Sunday only"
+      ],
+      "answer": "In the morning"
+    },
+    {
+      "id": "c3",
+      "question": "What is the weather like?",
+      "options": [
+        "Sunny",
+        "Rainy",
+        "Cold",
+        "Windy"
+      ],
+      "answer": "Sunny"
+    }
+  ]
+}

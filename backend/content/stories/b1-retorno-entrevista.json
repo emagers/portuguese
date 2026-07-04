@@ -1,0 +1,126 @@
+{
+  "id": "b1-retorno-entrevista",
+  "level": "B1",
+  "type": "conversation",
+  "title": "Interview Follow-Up",
+  "titlePt": "Retorno da Entrevista",
+  "summary": "A candidate calls to follow up politely after a job interview.",
+  "lines": [
+    {
+      "speaker": "Secretária",
+      "pt": "Bom dia, empresa NovaTech. Como posso ajudar?",
+      "en": "Good morning, NovaTech company. How can I help?"
+    },
+    {
+      "speaker": "Luana",
+      "pt": "Bom dia. Meu nome é Luana Reis. Participei de uma entrevista na segunda-feira.",
+      "en": "Good morning. My name is Luana Reis. I took part in an interview on Monday."
+    },
+    {
+      "speaker": "Secretária",
+      "pt": "Claro, Luana. Você gostaria de falar com o setor de recursos humanos?",
+      "en": "Of course, Luana. Would you like to speak with the human resources department?"
+    },
+    {
+      "speaker": "Luana",
+      "pt": "Sim, por favor. Quero saber se há alguma previsão de retorno.",
+      "en": "Yes, please. I want to know if there is any expected time for feedback."
+    },
+    {
+      "speaker": "Analista",
+      "pt": "Oi, Luana. Ainda estamos avaliando os candidatos, mas seu perfil foi bem recebido.",
+      "en": "Hi, Luana. We are still evaluating the candidates, but your profile was well received."
+    },
+    {
+      "speaker": "Luana",
+      "pt": "Fico feliz em ouvir isso. Preciso enviar mais algum documento?",
+      "en": "I am happy to hear that. Do I need to send any other document?"
+    },
+    {
+      "speaker": "Analista",
+      "pt": "Por enquanto, não. A decisão deve sair até quarta-feira.",
+      "en": "Not for now. The decision should come out by Wednesday."
+    },
+    {
+      "speaker": "Luana",
+      "pt": "Obrigada pela informação. Vou aguardar o contato de vocês.",
+      "en": "Thank you for the information. I will wait for your contact."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "participar de uma entrevista",
+      "en": "to take part in an interview"
+    },
+    {
+      "pt": "recursos humanos",
+      "en": "human resources"
+    },
+    {
+      "pt": "previsão de retorno",
+      "en": "expected time for feedback"
+    },
+    {
+      "pt": "avaliar",
+      "en": "to evaluate"
+    },
+    {
+      "pt": "o candidato",
+      "en": "the candidate"
+    },
+    {
+      "pt": "bem recebido",
+      "en": "well received"
+    },
+    {
+      "pt": "por enquanto",
+      "en": "for now"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why does Luana call NovaTech?",
+      "options": [
+        "To ask about interview feedback",
+        "To cancel a meeting",
+        "To buy a phone",
+        "To complain about a product"
+      ],
+      "answer": "To ask about interview feedback"
+    },
+    {
+      "id": "c2",
+      "question": "When did Luana have the interview?",
+      "options": [
+        "On Monday",
+        "On Wednesday",
+        "On Friday",
+        "On Sunday"
+      ],
+      "answer": "On Monday"
+    },
+    {
+      "id": "c3",
+      "question": "How was her profile received?",
+      "options": [
+        "Well received",
+        "Rejected immediately",
+        "Forgotten",
+        "Not read yet"
+      ],
+      "answer": "Well received"
+    },
+    {
+      "id": "c4",
+      "question": "When should the decision come out?",
+      "options": [
+        "By Wednesday",
+        "By Monday morning",
+        "Next year",
+        "Today at noon"
+      ],
+      "answer": "By Wednesday"
+    }
+  ]
+}

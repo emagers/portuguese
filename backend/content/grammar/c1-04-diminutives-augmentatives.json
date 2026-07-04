@@ -1,0 +1,97 @@
+{
+  "id": "c1-04-diminutives-augmentatives",
+  "level": "C1",
+  "order": 4,
+  "title": "Diminutives and Augmentatives",
+  "titlePt": "Diminutivos e aumentativos",
+  "summary": "Use -inho, -zinho, -ão, and related forms for size, affection, irony, and emphasis.",
+  "tags": [
+    "word-formation",
+    "nuance",
+    "register"
+  ],
+  "sections": [
+    {
+      "heading": "Diminutives beyond size",
+      "body": "Diminutives like **-inho/-inha** and **-zinho/-zinha** can mean small, cute, affectionate, modest, polite, or ironic depending on context and intonation.",
+      "examples": [
+        {
+          "pt": "Tomei um cafezinho.",
+          "en": "I had a little coffee.",
+          "note": "often affectionate/social, not necessarily tiny"
+        },
+        {
+          "pt": "Espera um minutinho.",
+          "en": "Wait just a minute."
+        },
+        {
+          "pt": "Que probleminha, hein?",
+          "en": "What a little problem, huh?",
+          "note": "can be ironic"
+        }
+      ]
+    },
+    {
+      "heading": "Choosing -inho or -zinho",
+      "body": "Many words take **-inho** directly; others use **-zinho** to preserve shape or sound. Gender and plural still matter.",
+      "examples": [
+        {
+          "pt": "casa → casinha",
+          "en": "house → little house"
+        },
+        {
+          "pt": "café → cafezinho",
+          "en": "coffee → little coffee"
+        },
+        {
+          "pt": "flor → florzinha",
+          "en": "flower → little flower"
+        }
+      ]
+    },
+    {
+      "heading": "Augmentatives and evaluation",
+      "body": "Augmentatives like **-ão/-ona** can indicate large size, admiration, intensity, or sometimes criticism. Meanings are lexicalized in some words.",
+      "examples": [
+        {
+          "pt": "Ele tem um carrão.",
+          "en": "He has an amazing/big car."
+        },
+        {
+          "pt": "Foi um problemão.",
+          "en": "It was a huge problem."
+        },
+        {
+          "pt": "Ela é uma mãezona.",
+          "en": "She is a very caring mother.",
+          "note": "positive evaluative augmentative"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Diminutives express attitude, not only small size.",
+    "Cafezinho is culturally common and often hospitable.",
+    "Augmentatives can be positive or negative.",
+    "Tone and context determine affection, irony, or criticism."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "um caféinho",
+      "right": "um cafezinho",
+      "note": "Café normally takes -zinho."
+    },
+    {
+      "wrong": "uma problemona",
+      "right": "um problemão",
+      "note": "Problema is masculine."
+    },
+    {
+      "wrong": "Diminutive always means physically small.",
+      "right": "Diminutive can express affection, politeness, irony, or intensity.",
+      "note": "Meaning depends on context."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "b1-music-arts",
+  "level": "B1",
+  "title": "Music & Performing Arts",
+  "theme": "music",
+  "description": "Words for songs, concerts, instruments and artistic performance.",
+  "cards": [
+    {
+      "id": "music-cancao",
+      "pt": "canção",
+      "en": "song",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kɐ̃ˈsɐ̃w",
+      "example": {
+        "pt": "Essa canção me lembra a infância.",
+        "en": "This song reminds me of childhood."
+      },
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "music-violao",
+      "pt": "violão",
+      "en": "acoustic guitar",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "vjoˈlɐ̃w",
+      "example": {
+        "pt": "Ele toca violão muito bem.",
+        "en": "He plays acoustic guitar very well."
+      },
+      "tags": [
+        "music",
+        "instrument"
+      ]
+    },
+    {
+      "id": "music-bateria",
+      "pt": "bateria",
+      "en": "drums",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "bateˈɾi.ɐ",
+      "example": {
+        "pt": "A bateria está alta demais.",
+        "en": "The drums are too loud."
+      },
+      "tags": [
+        "music",
+        "instrument"
+      ]
+    },
+    {
+      "id": "music-show",
+      "pt": "show",
+      "en": "concert; show",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʃow",
+      "example": {
+        "pt": "O show começa às nove.",
+        "en": "The concert starts at nine."
+      },
+      "tags": [
+        "music",
+        "arts"
+      ]
+    },
+    {
+      "id": "music-ingresso",
+      "pt": "ingresso",
+      "en": "ticket",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈgɾe.su",
+      "example": {
+        "pt": "Comprei ingresso para o festival.",
+        "en": "I bought a ticket for the festival."
+      },
+      "tags": [
+        "music",
+        "events"
+      ]
+    },
+    {
+      "id": "music-palco",
+      "pt": "palco",
+      "en": "stage",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpaw.ku",
+      "example": {
+        "pt": "A cantora entrou no palco sorrindo.",
+        "en": "The singer entered the stage smiling."
+      },
+      "tags": [
+        "music",
+        "arts"
+      ]
+    },
+    {
+      "id": "music-ensaio",
+      "pt": "ensaio",
+      "en": "rehearsal",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽˈsaj.u",
+      "example": {
+        "pt": "A banda tem ensaio hoje.",
+        "en": "The band has rehearsal today."
+      },
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "id": "music-ritmo",
+      "pt": "ritmo",
+      "en": "rhythm",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈʁitʃ.mu",
+      "example": {
+        "pt": "O ritmo dessa música é contagiante.",
+        "en": "The rhythm of this music is contagious."
+      },
+      "tags": [
+        "music"
+      ]
+    }
+  ]
+}

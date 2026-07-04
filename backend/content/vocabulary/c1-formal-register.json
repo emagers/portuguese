@@ -1,0 +1,132 @@
+{
+  "id": "c1-formal-register",
+  "level": "C1",
+  "title": "Formal Register",
+  "theme": "formal",
+  "description": "Formal vocabulary for reports, official messages, academic writing and professional communication.",
+  "cards": [
+    {
+      "id": "form-solicitar",
+      "pt": "solicitar",
+      "en": "to request",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "solisiˈtaʁ",
+      "example": {
+        "pt": "Solicitamos o envio dos documentos.",
+        "en": "We request the sending of the documents."
+      },
+      "tags": [
+        "formal",
+        "verbs"
+      ]
+    },
+    {
+      "id": "form-encaminhar",
+      "pt": "encaminhar",
+      "en": "to forward; route",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ẽkamiˈɲaʁ",
+      "example": {
+        "pt": "Encaminhei a proposta ao setor jurídico.",
+        "en": "I forwarded the proposal to the legal department."
+      },
+      "tags": [
+        "formal",
+        "verbs"
+      ]
+    },
+    {
+      "id": "form-ressaltar",
+      "pt": "ressaltar",
+      "en": "to emphasize",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ʁesaʊˈtaʁ",
+      "example": {
+        "pt": "Cabe ressaltar a importância do prazo.",
+        "en": "It is worth emphasizing the importance of the deadline."
+      },
+      "tags": [
+        "formal",
+        "verbs"
+      ]
+    },
+    {
+      "id": "form-mediante",
+      "pt": "mediante",
+      "en": "by means of; upon",
+      "pos": "prep",
+      "gender": null,
+      "ipa": "meˈdʒjɐ̃.tʃi",
+      "example": {
+        "pt": "O acesso será liberado mediante cadastro.",
+        "en": "Access will be released upon registration."
+      },
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "form-conforme",
+      "pt": "conforme",
+      "en": "according to",
+      "pos": "prep",
+      "gender": null,
+      "ipa": "kõˈfɔʁ.mi",
+      "example": {
+        "pt": "Conforme combinado, envio o relatório.",
+        "en": "As agreed, I am sending the report."
+      },
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "form-pendencia",
+      "pt": "pendência",
+      "en": "pending matter",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pẽˈdẽ.si.ɐ",
+      "example": {
+        "pt": "Ainda há uma pendência no cadastro.",
+        "en": "There is still a pending matter in the registration."
+      },
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "form-deliberacao",
+      "pt": "deliberação",
+      "en": "deliberation; decision",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "delibeɾaˈsɐ̃w",
+      "example": {
+        "pt": "A deliberação será registrada em ata.",
+        "en": "The decision will be recorded in the minutes."
+      },
+      "tags": [
+        "formal"
+      ]
+    },
+    {
+      "id": "form-ciente",
+      "pt": "ciente",
+      "en": "aware",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "siˈẽ.tʃi",
+      "example": {
+        "pt": "Estou ciente das condições.",
+        "en": "I am aware of the conditions."
+      },
+      "tags": [
+        "formal"
+      ]
+    }
+  ]
+}

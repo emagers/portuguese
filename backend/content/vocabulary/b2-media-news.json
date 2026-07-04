@@ -1,0 +1,132 @@
+{
+  "id": "b2-media-news",
+  "level": "B2",
+  "title": "Media & News",
+  "theme": "media",
+  "description": "Vocabulary for journalism, social media, public debate and news consumption.",
+  "cards": [
+    {
+      "id": "media-manchete",
+      "pt": "manchete",
+      "en": "headline",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "mɐ̃ˈʃɛ.tʃi",
+      "example": {
+        "pt": "A manchete chamou muita atenção.",
+        "en": "The headline drew a lot of attention."
+      },
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "id": "media-reportagem",
+      "pt": "reportagem",
+      "en": "news report",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁepoʁˈta.ʒẽj",
+      "example": {
+        "pt": "A reportagem investigou o caso.",
+        "en": "The report investigated the case."
+      },
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "id": "media-fonte",
+      "pt": "fonte",
+      "en": "source",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈfõ.tʃi",
+      "example": {
+        "pt": "O jornalista protegeu a fonte.",
+        "en": "The journalist protected the source."
+      },
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "id": "media-boato",
+      "pt": "boato",
+      "en": "rumor",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "boˈa.tu",
+      "example": {
+        "pt": "O boato se espalhou rapidamente.",
+        "en": "The rumor spread quickly."
+      },
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "id": "media-ao-vivo",
+      "pt": "ao vivo",
+      "en": "live",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "aw ˈvi.vu",
+      "example": {
+        "pt": "A entrevista será transmitida ao vivo.",
+        "en": "The interview will be broadcast live."
+      },
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "id": "media-curtir",
+      "pt": "curtir",
+      "en": "to like; enjoy",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "kuʁˈtʃiʁ",
+      "example": {
+        "pt": "Muita gente curtiu a publicação.",
+        "en": "Many people liked the post."
+      },
+      "tags": [
+        "media",
+        "internet"
+      ]
+    },
+    {
+      "id": "media-compartilhar",
+      "pt": "compartilhar",
+      "en": "to share",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "kõpaʁtʃiˈʎaʁ",
+      "example": {
+        "pt": "Não compartilhe notícias sem checar.",
+        "en": "Do not share news without checking."
+      },
+      "tags": [
+        "media",
+        "verbs"
+      ]
+    },
+    {
+      "id": "media-cobertura",
+      "pt": "cobertura",
+      "en": "coverage",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kobeʁˈtu.ɾɐ",
+      "example": {
+        "pt": "A cobertura da eleição foi intensa.",
+        "en": "The election coverage was intense."
+      },
+      "tags": [
+        "media",
+        "politics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "c1-science",
+  "level": "C1",
+  "title": "Science & Research",
+  "theme": "science",
+  "description": "Advanced scientific vocabulary for evidence, methods, hypotheses and publication.",
+  "cards": [
+    {
+      "id": "sci-evidencia",
+      "pt": "evidência",
+      "en": "evidence",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eviˈdẽ.si.ɐ",
+      "example": {
+        "pt": "A evidência disponível ainda é limitada.",
+        "en": "The available evidence is still limited."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-hipotese",
+      "pt": "hipótese",
+      "en": "hypothesis",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "iˈpɔ.te.zi",
+      "example": {
+        "pt": "A hipótese será testada em laboratório.",
+        "en": "The hypothesis will be tested in the laboratory."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-amostra",
+      "pt": "amostra",
+      "en": "sample",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "aˈmɔs.tɾɐ",
+      "example": {
+        "pt": "A amostra inclui mil participantes.",
+        "en": "The sample includes one thousand participants."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-vies",
+      "pt": "viés",
+      "en": "bias",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "viˈɛs",
+      "example": {
+        "pt": "O estudo tenta reduzir esse viés.",
+        "en": "The study tries to reduce this bias."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-revisao-pares",
+      "pt": "revisão por pares",
+      "en": "peer review",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁeviˈzɐ̃w poʁ ˈpa.ɾis",
+      "example": {
+        "pt": "O artigo passou por revisão por pares.",
+        "en": "The article went through peer review."
+      },
+      "tags": [
+        "science",
+        "academia"
+      ]
+    },
+    {
+      "id": "sci-mensurar",
+      "pt": "mensurar",
+      "en": "to measure",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "mẽsuˈɾaʁ",
+      "example": {
+        "pt": "É difícil mensurar esse impacto.",
+        "en": "It is hard to measure that impact."
+      },
+      "tags": [
+        "science",
+        "verbs"
+      ]
+    },
+    {
+      "id": "sci-replicavel",
+      "pt": "replicável",
+      "en": "replicable",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ʁepliˈka.vew",
+      "example": {
+        "pt": "O método precisa ser replicável.",
+        "en": "The method needs to be replicable."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-causalidade",
+      "pt": "causalidade",
+      "en": "causality",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kawzaliˈda.dʒi",
+      "example": {
+        "pt": "Correlação não implica causalidade.",
+        "en": "Correlation does not imply causality."
+      },
+      "tags": [
+        "science"
+      ]
+    }
+  ]
+}

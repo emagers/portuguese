@@ -1,0 +1,102 @@
+{
+  "id": "c1-opiniao-cerrado",
+  "level": "C1",
+  "type": "story",
+  "title": "The Cerrado Is Not Empty Space",
+  "titlePt": "O Cerrado Não É Espaço Vazio",
+  "summary": "An environmental opinion text argues for recognizing the Cerrado's ecological and cultural importance.",
+  "paragraphs": [
+    {
+      "pt": "O Cerrado costuma aparecer no imaginário nacional como passagem: uma vastidão seca entre destinos mais fotogênicos, um território pronto para ser convertido em lavoura, estrada ou condomínio. Essa percepção é tão injusta quanto perigosa. Sob a aparência de árvores retorcidas e solo áspero, existe uma das savanas mais biodiversas do planeta, responsável por alimentar rios que abastecem diferentes regiões do Brasil.",
+      "en": "The Cerrado often appears in the national imagination as a passageway: a dry vastness between more photogenic destinations, a territory ready to be converted into crops, roads, or condominiums. This perception is as unfair as it is dangerous. Beneath the appearance of twisted trees and rough soil lies one of the most biodiverse savannas on the planet, responsible for feeding rivers that supply different regions of Brazil."
+    },
+    {
+      "pt": "A destruição do bioma avança não apenas por ganância, mas também por uma linguagem que o diminui. Quando se chama a vegetação de “mato” ou se descreve a paisagem como vazia, torna-se mais fácil aceitar queimadas, desmatamento e expulsão de comunidades tradicionais. Palavras preparam o terreno para máquinas. Por isso, proteger o Cerrado exige também disputar a narrativa sobre ele.",
+      "en": "The destruction of the biome advances not only because of greed, but also because of a language that diminishes it. When vegetation is called 'brush' or the landscape is described as empty, it becomes easier to accept fires, deforestation, and the expulsion of traditional communities. Words prepare the ground for machines. Therefore, protecting the Cerrado also requires disputing the narrative about it."
+    },
+    {
+      "pt": "Reconhecer sua complexidade não significa negar a necessidade de produção agrícola, mas perguntar sob quais limites ela ocorre e quem paga a conta ambiental. O país que se orgulha de sua natureza não pode tratar a caixa d'água do continente como estoque infinito de terra barata. Sem Cerrado vivo, haverá menos água, menos diversidade e menos futuro compartilhado.",
+      "en": "Recognizing its complexity does not mean denying the need for agricultural production, but asking under what limits it occurs and who pays the environmental bill. A country that takes pride in its nature cannot treat the continent's water tank as an infinite stock of cheap land. Without a living Cerrado, there will be less water, less diversity, and less shared future."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "o Cerrado",
+      "en": "the Brazilian Cerrado savanna"
+    },
+    {
+      "pt": "vastidão",
+      "en": "vastness"
+    },
+    {
+      "pt": "lavoura",
+      "en": "crop field"
+    },
+    {
+      "pt": "biodiversas",
+      "en": "biodiverse"
+    },
+    {
+      "pt": "bioma",
+      "en": "biome"
+    },
+    {
+      "pt": "desmatamento",
+      "en": "deforestation"
+    },
+    {
+      "pt": "comunidades tradicionais",
+      "en": "traditional communities"
+    },
+    {
+      "pt": "caixa d'água do continente",
+      "en": "the continent's water tank"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How is the Cerrado often mistakenly imagined?",
+      "options": [
+        "As empty passage or land to convert",
+        "As an ocean region",
+        "As a frozen forest",
+        "As a city center"
+      ],
+      "answer": "As empty passage or land to convert"
+    },
+    {
+      "id": "c2",
+      "question": "What ecological role does the Cerrado play?",
+      "options": [
+        "It feeds rivers that supply regions of Brazil",
+        "It blocks all rainfall",
+        "It produces no biodiversity",
+        "It replaces the Amazon"
+      ],
+      "answer": "It feeds rivers that supply regions of Brazil"
+    },
+    {
+      "id": "c3",
+      "question": "Why does language matter in the text?",
+      "options": [
+        "It can make destruction seem acceptable",
+        "It stops all machines automatically",
+        "It has no effect on policy",
+        "It only describes flowers"
+      ],
+      "answer": "It can make destruction seem acceptable"
+    },
+    {
+      "id": "c4",
+      "question": "What does the author say Brazil cannot do?",
+      "options": [
+        "Treat the Cerrado as infinite cheap land",
+        "Produce any food at all",
+        "Value nature publicly",
+        "Discuss agriculture"
+      ],
+      "answer": "Treat the Cerrado as infinite cheap land"
+    }
+  ]
+}

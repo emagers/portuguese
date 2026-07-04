@@ -1,0 +1,136 @@
+{
+  "id": "a2-money-banking",
+  "level": "A2",
+  "title": "Money & Banking",
+  "theme": "money",
+  "description": "Everyday banking and money vocabulary for payments, accounts and basic financial tasks.",
+  "cards": [
+    {
+      "id": "money-dinheiro",
+      "pt": "dinheiro",
+      "en": "money; cash",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "dʒiˈɲej.ɾu",
+      "example": {
+        "pt": "Você prefere pagar em dinheiro?",
+        "en": "Do you prefer to pay in cash?"
+      },
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "id": "money-cartao",
+      "pt": "cartão",
+      "en": "card",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaʁˈtɐ̃w",
+      "example": {
+        "pt": "Aceita cartão de crédito?",
+        "en": "Do you accept credit cards?"
+      },
+      "tags": [
+        "money",
+        "shopping"
+      ]
+    },
+    {
+      "id": "money-conta-bancaria",
+      "pt": "conta bancária",
+      "en": "bank account",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkõ.tɐ bɐ̃ˈka.ɾjɐ",
+      "example": {
+        "pt": "Abri uma conta bancária nova.",
+        "en": "I opened a new bank account."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-saque",
+      "pt": "saque",
+      "en": "cash withdrawal",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈsa.ki",
+      "example": {
+        "pt": "Fiz um saque no caixa eletrônico.",
+        "en": "I made a withdrawal at the ATM."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-deposito",
+      "pt": "depósito",
+      "en": "deposit",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "dʒeˈpɔ.zi.tu",
+      "example": {
+        "pt": "O depósito caiu hoje.",
+        "en": "The deposit came through today."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-transferencia",
+      "pt": "transferência",
+      "en": "transfer",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "tɾɐ̃sfeˈɾẽ.si.ɐ",
+      "example": {
+        "pt": "Enviei a transferência pelo aplicativo.",
+        "en": "I sent the transfer through the app."
+      },
+      "tags": [
+        "money",
+        "banking"
+      ]
+    },
+    {
+      "id": "money-troco",
+      "pt": "troco",
+      "en": "change",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈtɾo.ku",
+      "example": {
+        "pt": "Pode ficar com o troco.",
+        "en": "You can keep the change."
+      },
+      "tags": [
+        "money",
+        "shopping"
+      ]
+    },
+    {
+      "id": "money-parcela",
+      "pt": "parcela",
+      "en": "installment",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "paʁˈsɛ.lɐ",
+      "example": {
+        "pt": "Comprei o celular em dez parcelas.",
+        "en": "I bought the cell phone in ten installments."
+      },
+      "tags": [
+        "money",
+        "shopping"
+      ]
+    }
+  ]
+}

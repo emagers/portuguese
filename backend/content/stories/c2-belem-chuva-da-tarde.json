@@ -1,0 +1,102 @@
+{
+  "id": "c2-belem-chuva-da-tarde",
+  "level": "C2",
+  "type": "story",
+  "title": "Belém, Four in the Afternoon",
+  "titlePt": "Belém, Quatro da Tarde",
+  "summary": "A literary text with Amazonian regional flavor about rain, memory, and street life in Belém.",
+  "paragraphs": [
+    {
+      "pt": "Em Belém, quatro da tarde não é hora: é entidade. Chega batendo panela no telhado, lavando promessa, desarrumando cabelo de estudante e banca de tacacá. Quem é de fora corre, coitado, como se a chuva fosse novidade ou ameaça. Quem é daqui só ajeita a sacola, calcula o beiral mais próximo e espera o céu terminar seu discurso.",
+      "en": "In Belém, four in the afternoon is not a time: it is an entity. It arrives banging pans on the roof, washing promises, messing up students' hair and tacacá stalls. Outsiders run, poor things, as if rain were novelty or threat. Those from here simply adjust their bags, calculate the nearest eave, and wait for the sky to finish its speech."
+    },
+    {
+      "pt": "Raimunda vendia cheiro-verde na mesma esquina havia trinta anos. Dizia que a chuva separava freguês fiel de curioso: fiel voltava depois do toró, curioso sumia feito fumaça. Naquela terça, entre um trovão e outro, apareceu um rapaz perguntando por uma rua que já mudara de nome duas vezes. Raimunda riu. “Meu filho, nome muda; caminho, não. Vai pelo Ver-o-Peso e pergunta de novo quando o rio aparecer.”",
+      "en": "Raimunda had sold herbs on the same corner for thirty years. She said rain separated loyal customers from the curious: the loyal ones returned after the downpour, the curious vanished like smoke. That Tuesday, between one thunderclap and another, a young man appeared asking about a street that had already changed names twice. Raimunda laughed. 'My son, names change; paths don't. Go by Ver-o-Peso and ask again when the river appears.'"
+    },
+    {
+      "pt": "O rapaz agradeceu sem entender direito, que é como se agradece aos oráculos. Quando a chuva afinou, a cidade voltou a ferver: ônibus bufando, sandália chapinhando, vendedor gritando promoção de cupuaçu. Raimunda enxugou a tábua com um pano gasto e pensou que Belém era isso: uma cidade que se alaga sem se entregar, derrete sem desaparecer, e todo dia renasce úmida, cheirosa, meio abusada, como quem diz que pressa nenhuma manda no Norte.",
+      "en": "The young man thanked her without really understanding, which is how one thanks oracles. When the rain thinned, the city began boiling again: buses snorting, sandals splashing, a vendor shouting cupuaçu deals. Raimunda wiped the board with a worn cloth and thought that Belém was this: a city that floods without surrendering, melts without disappearing, and every day is reborn humid, fragrant, a little cheeky, as if saying that no hurry gives orders in the North."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "tacacá",
+      "en": "Amazonian soup with tucupi and jambu"
+    },
+    {
+      "pt": "beiral",
+      "en": "eave / edge of a roof"
+    },
+    {
+      "pt": "cheiro-verde",
+      "en": "fresh herb mix"
+    },
+    {
+      "pt": "toró",
+      "en": "heavy downpour"
+    },
+    {
+      "pt": "Ver-o-Peso",
+      "en": "famous market in Belém"
+    },
+    {
+      "pt": "oráculos",
+      "en": "oracles"
+    },
+    {
+      "pt": "chapinhar",
+      "en": "to splash through water"
+    },
+    {
+      "pt": "meio abusada",
+      "en": "a little cheeky / bold"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How is four in the afternoon described in Belém?",
+      "options": [
+        "As an entity associated with rain",
+        "As a silent hour",
+        "As a dry season",
+        "As a train schedule"
+      ],
+      "answer": "As an entity associated with rain"
+    },
+    {
+      "id": "c2",
+      "question": "What does Raimunda sell?",
+      "options": [
+        "Cheiro-verde",
+        "Shoes",
+        "Bus tickets",
+        "Books"
+      ],
+      "answer": "Cheiro-verde"
+    },
+    {
+      "id": "c3",
+      "question": "What does Raimunda say changes while the path does not?",
+      "options": [
+        "Names",
+        "Rivers",
+        "Rain",
+        "Customers"
+      ],
+      "answer": "Names"
+    },
+    {
+      "id": "c4",
+      "question": "What quality of Belém is emphasized at the end?",
+      "options": [
+        "It floods but does not surrender",
+        "It is always dry",
+        "It obeys hurry",
+        "It disappears in rain"
+      ],
+      "answer": "It floods but does not surrender"
+    }
+  ]
+}

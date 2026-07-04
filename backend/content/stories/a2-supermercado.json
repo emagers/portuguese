@@ -1,0 +1,120 @@
+{
+  "id": "a2-supermercado",
+  "level": "A2",
+  "type": "conversation",
+  "title": "At the Supermarket",
+  "titlePt": "No Supermercado",
+  "summary": "A customer asks about prices and chooses food for dinner.",
+  "lines": [
+    {
+      "speaker": "Cliente",
+      "pt": "Boa noite. Onde ficam os legumes?",
+      "en": "Good evening. Where are the vegetables?"
+    },
+    {
+      "speaker": "Funcionária",
+      "pt": "Ficam no corredor da direita, perto das frutas.",
+      "en": "They are in the aisle on the right, near the fruit."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Obrigada. Hoje eu quero fazer sopa.",
+      "en": "Thank you. Today I want to make soup."
+    },
+    {
+      "speaker": "Funcionária",
+      "pt": "A batata e a cenoura estão em promoção.",
+      "en": "Potatoes and carrots are on sale."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Ótimo. Também preciso de cebola e alho.",
+      "en": "Great. I also need onion and garlic."
+    },
+    {
+      "speaker": "Funcionária",
+      "pt": "O alho ficou mais caro esta semana.",
+      "en": "Garlic got more expensive this week."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Tudo bem. Vou levar um pacote pequeno.",
+      "en": "That's okay. I'll take a small package."
+    },
+    {
+      "speaker": "Funcionária",
+      "pt": "Você precisa de sacola?",
+      "en": "Do you need a bag?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Não, eu trouxe minha sacola de casa.",
+      "en": "No, I brought my bag from home."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "os legumes",
+      "en": "the vegetables"
+    },
+    {
+      "pt": "o corredor",
+      "en": "the aisle"
+    },
+    {
+      "pt": "em promoção",
+      "en": "on sale"
+    },
+    {
+      "pt": "a cenoura",
+      "en": "the carrot"
+    },
+    {
+      "pt": "o alho",
+      "en": "the garlic"
+    },
+    {
+      "pt": "ficou mais caro",
+      "en": "became more expensive"
+    },
+    {
+      "pt": "a sacola",
+      "en": "the bag"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What does the customer want to make?",
+      "options": [
+        "Soup",
+        "Cake",
+        "Coffee",
+        "Salad only"
+      ],
+      "answer": "Soup"
+    },
+    {
+      "id": "c2",
+      "question": "Which items are on sale?",
+      "options": [
+        "Potatoes and carrots",
+        "Rice and beans",
+        "Milk and bread",
+        "Onion and garlic"
+      ],
+      "answer": "Potatoes and carrots"
+    },
+    {
+      "id": "c3",
+      "question": "Why doesn't the customer need a bag?",
+      "options": [
+        "She brought one from home",
+        "She bought only one item",
+        "The store has no bags",
+        "The employee forgot"
+      ],
+      "answer": "She brought one from home"
+    }
+  ]
+}

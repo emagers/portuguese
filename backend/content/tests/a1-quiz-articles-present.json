@@ -1,0 +1,87 @@
+{
+  "id": "a1-quiz-articles-present",
+  "level": "A1",
+  "title": "Articles & Present Tense",
+  "topic": "grammar",
+  "description": "Practice basic articles and common present-tense verb forms in Brazilian Portuguese.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: ___ casa é bonita.",
+      "options": [
+        "A",
+        "O",
+        "Os",
+        "Um"
+      ],
+      "answer": "A",
+      "explanation": "'Casa' is feminine singular, so the definite article is 'a'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu ___ café de manhã. (tomar)",
+      "options": [
+        "tomo",
+        "toma",
+        "tomamos",
+        "tomam"
+      ],
+      "answer": "tomo",
+      "explanation": "With 'eu', regular -ar verbs end in -o: 'eu tomo'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which option means 'the books'?",
+      "options": [
+        "o livro",
+        "a livro",
+        "os livros",
+        "as livro"
+      ],
+      "answer": "os livros",
+      "explanation": "'Livro' is masculine; in the plural it uses 'os'."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Ela ___ em São Paulo. (morar)",
+      "options": [
+        "moro",
+        "mora",
+        "moramos",
+        "moram"
+      ],
+      "answer": "mora",
+      "explanation": "'Ela' takes the third-person singular form: 'mora'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'I speak Portuguese.'",
+      "options": [
+        "Eu falo português.",
+        "Eu fala português.",
+        "Você fala português.",
+        "Nós falamos português."
+      ],
+      "answer": "Eu falo português.",
+      "explanation": "'Eu falo' is the correct present-tense form for 'I speak'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Nós gosta de música.",
+        "Nós gostamos de música.",
+        "Nós gostam de música.",
+        "Nós gosto de música."
+      ],
+      "answer": "Nós gostamos de música.",
+      "explanation": "With 'nós', the verb is 'gostamos'."
+    }
+  ]
+}

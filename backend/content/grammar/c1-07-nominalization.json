@@ -1,0 +1,96 @@
+{
+  "id": "c1-07-nominalization",
+  "level": "C1",
+  "order": 7,
+  "title": "Nominalization",
+  "titlePt": "Nominalização",
+  "summary": "Turn actions into nouns to create concise academic, journalistic, and professional Portuguese.",
+  "tags": [
+    "nominalization",
+    "writing",
+    "register"
+  ],
+  "sections": [
+    {
+      "heading": "From verb to noun",
+      "body": "Nominalization turns a process into a noun phrase. It is common in formal writing because it lets writers discuss actions as concepts, causes, or results.",
+      "examples": [
+        {
+          "pt": "O governo reduziu os gastos.",
+          "en": "The government reduced spending."
+        },
+        {
+          "pt": "A redução dos gastos gerou debate.",
+          "en": "The reduction in spending generated debate."
+        },
+        {
+          "pt": "A empresa analisou os dados.",
+          "en": "The company analyzed the data."
+        }
+      ]
+    },
+    {
+      "heading": "Common endings",
+      "body": "Portuguese uses endings such as **-ção**, **-mento**, **-agem**, **-ncia**, and **-dade**. The best noun is lexical, not always predictable.",
+      "examples": [
+        {
+          "pt": "explicar → explicação",
+          "en": "to explain → explanation"
+        },
+        {
+          "pt": "crescer → crescimento",
+          "en": "to grow → growth"
+        },
+        {
+          "pt": "aprender → aprendizagem / aprendizado",
+          "en": "to learn → learning",
+          "note": "both exist with different preferences by context"
+        }
+      ]
+    },
+    {
+      "heading": "Avoiding heavy prose",
+      "body": "Nominalization can make writing concise, but too many abstract nouns make sentences dense. Mix nominal and verbal style for clarity.",
+      "examples": [
+        {
+          "pt": "A implementação da proposta depende da aprovação do conselho.",
+          "en": "Implementation of the proposal depends on board approval."
+        },
+        {
+          "pt": "Para implementar a proposta, o conselho precisa aprová-la.",
+          "en": "To implement the proposal, the board needs to approve it.",
+          "note": "clearer verbal alternative"
+        },
+        {
+          "pt": "Houve aumento da demanda.",
+          "en": "There was an increase in demand."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Nominalization is central to formal and academic Portuguese.",
+    "Common endings include -ção, -mento, -agem, -ncia, and -dade.",
+    "Nominal style can hide agents; verbal style often improves clarity.",
+    "Choose established nouns rather than inventing forms."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "A explicamento",
+      "right": "A explicação",
+      "note": "Use the established noun."
+    },
+    {
+      "wrong": "A análise dos dados foram importantes.",
+      "right": "A análise dos dados foi importante.",
+      "note": "The head noun análise is singular."
+    },
+    {
+      "wrong": "Excessive nominalizations always sound more advanced.",
+      "right": "Use nominalizations when they add precision or cohesion.",
+      "note": "Overuse creates heavy prose."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

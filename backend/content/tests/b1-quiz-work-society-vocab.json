@@ -1,0 +1,87 @@
+{
+  "id": "b1-quiz-work-society-vocab",
+  "level": "B1",
+  "title": "Work & Society Vocabulary",
+  "topic": "vocab",
+  "description": "Build vocabulary for jobs, public services, opinions, and daily responsibilities.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'emprego' mean?",
+      "options": [
+        "job",
+        "company",
+        "salary",
+        "meeting"
+      ],
+      "answer": "job",
+      "explanation": "'Emprego' means 'job' or 'employment'."
+    },
+    {
+      "id": "q2",
+      "type": "translate_pt_en",
+      "prompt": "A reunião foi adiada.",
+      "options": [
+        "The meeting was postponed.",
+        "The meeting was canceled.",
+        "The meeting was early.",
+        "The meeting was confirmed."
+      ],
+      "answer": "The meeting was postponed.",
+      "explanation": "'Adiar' means 'to postpone'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which word means 'neighborhood'?",
+      "options": [
+        "bairro",
+        "prédio",
+        "salário",
+        "prazo"
+      ],
+      "answer": "bairro",
+      "explanation": "'Bairro' means 'neighborhood'."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What is a 'prazo'?",
+      "options": [
+        "deadline",
+        "raise",
+        "receipt",
+        "survey"
+      ],
+      "answer": "deadline",
+      "explanation": "'Prazo' often means a time limit or deadline."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'public transportation'",
+      "options": [
+        "transporte público",
+        "trânsito público",
+        "transporte privado",
+        "serviço público"
+      ],
+      "answer": "transporte público",
+      "explanation": "'Transporte público' is the standard expression."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'in my opinion'?",
+      "options": [
+        "na minha opinião",
+        "no meu horário",
+        "pela minha conta",
+        "com minha dúvida"
+      ],
+      "answer": "na minha opinião",
+      "explanation": "'Na minha opinião' introduces a personal opinion."
+    }
+  ]
+}

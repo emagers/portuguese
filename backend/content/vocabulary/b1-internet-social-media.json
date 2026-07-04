@@ -1,0 +1,133 @@
+{
+  "id": "b1-internet-social-media",
+  "level": "B1",
+  "title": "Internet & Social Media",
+  "theme": "internet",
+  "description": "Modern vocabulary for posting, messaging, profiles and online behavior.",
+  "cards": [
+    {
+      "id": "net-rede-social",
+      "pt": "rede social",
+      "en": "social network",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈʁe.dʒi soˈsjaw",
+      "example": {
+        "pt": "Uso pouca rede social durante a semana.",
+        "en": "I use little social media during the week."
+      },
+      "tags": [
+        "internet",
+        "media"
+      ]
+    },
+    {
+      "id": "net-publicacao",
+      "pt": "publicação",
+      "en": "post; publication",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "publikaˈsɐ̃w",
+      "example": {
+        "pt": "A publicação recebeu muitos comentários.",
+        "en": "The post received many comments."
+      },
+      "tags": [
+        "internet",
+        "media"
+      ]
+    },
+    {
+      "id": "net-comentario",
+      "pt": "comentário",
+      "en": "comment",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "komẽˈta.ɾju",
+      "example": {
+        "pt": "Seu comentário foi muito útil.",
+        "en": "Your comment was very helpful."
+      },
+      "tags": [
+        "internet"
+      ]
+    },
+    {
+      "id": "net-seguidor",
+      "pt": "seguidor / seguidora",
+      "en": "follower",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "segĩˈdoʁ",
+      "example": {
+        "pt": "A página ganhou novos seguidores.",
+        "en": "The page gained new followers."
+      },
+      "tags": [
+        "internet",
+        "people"
+      ]
+    },
+    {
+      "id": "net-mensagem",
+      "pt": "mensagem",
+      "en": "message",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "mẽˈsa.ʒẽj",
+      "example": {
+        "pt": "Respondi sua mensagem ontem.",
+        "en": "I answered your message yesterday."
+      },
+      "tags": [
+        "internet"
+      ]
+    },
+    {
+      "id": "net-link",
+      "pt": "link",
+      "en": "link",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "lĩk",
+      "example": {
+        "pt": "Envie o link da reunião.",
+        "en": "Send the meeting link."
+      },
+      "tags": [
+        "internet"
+      ]
+    },
+    {
+      "id": "net-perfil",
+      "pt": "perfil",
+      "en": "profile",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "peʁˈfiw",
+      "example": {
+        "pt": "Atualizei a foto do perfil.",
+        "en": "I updated the profile picture."
+      },
+      "tags": [
+        "internet"
+      ]
+    },
+    {
+      "id": "net-bloquear",
+      "pt": "bloquear",
+      "en": "to block",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "blokeˈaʁ",
+      "example": {
+        "pt": "Ela decidiu bloquear a conta falsa.",
+        "en": "She decided to block the fake account."
+      },
+      "tags": [
+        "internet",
+        "verbs"
+      ]
+    }
+  ]
+}

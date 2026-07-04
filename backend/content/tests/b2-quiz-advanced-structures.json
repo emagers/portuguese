@@ -1,0 +1,87 @@
+{
+  "id": "b2-quiz-advanced-structures",
+  "level": "B2",
+  "title": "Imperfect Subjunctive & If-Clauses",
+  "topic": "grammar",
+  "description": "Practice hypothetical statements, passive voice, and reported speech at B2 level.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Se eu ___ tempo, viajaria mais. (ter)",
+      "options": [
+        "tenho",
+        "tive",
+        "tivesse",
+        "terei"
+      ],
+      "answer": "tivesse",
+      "explanation": "Hypothetical 'se' clauses use the imperfect subjunctive: 'se eu tivesse'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Ela disse que ___ no dia seguinte. (chegar)",
+      "options": [
+        "chega",
+        "chegou",
+        "chegaria",
+        "chegue"
+      ],
+      "answer": "chegaria",
+      "explanation": "Reported future from a past viewpoint commonly uses the conditional: 'chegaria'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is in the passive voice?",
+      "options": [
+        "O contrato foi assinado ontem.",
+        "Eles assinaram o contrato ontem.",
+        "O contrato assinou ontem.",
+        "Ontem assinar o contrato."
+      ],
+      "answer": "O contrato foi assinado ontem.",
+      "explanation": "Passive voice uses 'ser' plus participle: 'foi assinado'."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu ajudaria se você me ___. (pedir)",
+      "options": [
+        "pede",
+        "pediu",
+        "pedisse",
+        "pedirá"
+      ],
+      "answer": "pedisse",
+      "explanation": "In a hypothetical condition, use imperfect subjunctive: 'se você me pedisse'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'The decision was announced this morning.'",
+      "options": [
+        "A decisão foi anunciada hoje de manhã.",
+        "A decisão anunciou hoje de manhã.",
+        "A decisão era anunciar hoje de manhã.",
+        "A decisão será anunciada ontem."
+      ],
+      "answer": "A decisão foi anunciada hoje de manhã.",
+      "explanation": "'Foi anunciada' is the feminine singular passive form."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Choose the best reported speech: Direct: 'Vou sair.' Reported: Ela disse que...",
+      "options": [
+        "ia sair.",
+        "vou sair.",
+        "saia.",
+        "sair."
+      ],
+      "answer": "ia sair.",
+      "explanation": "In reported speech after 'disse', 'vou sair' often shifts to 'ia sair'."
+    }
+  ]
+}

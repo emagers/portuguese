@@ -1,0 +1,93 @@
+{
+  "id": "b2-02-if-clauses",
+  "level": "B2",
+  "order": 2,
+  "title": "If-Clauses with SE",
+  "titlePt": "Orações condicionais com SE",
+  "summary": "Build real, possible, and unreal conditions with se plus the right tense.",
+  "tags": [
+    "conditionals",
+    "subjunctive"
+  ],
+  "sections": [
+    {
+      "heading": "Real future conditions",
+      "body": "For future conditions that may really happen, use **se + future subjunctive** in the condition and present, future, imperative, or ir + infinitive in the result.",
+      "examples": [
+        {
+          "pt": "Se chover, vou ficar em casa.",
+          "en": "If it rains, I will stay home."
+        },
+        {
+          "pt": "Se você tiver dúvida, me pergunte.",
+          "en": "If you have a question, ask me."
+        },
+        {
+          "pt": "Se eles chegarem cedo, começamos a reunião.",
+          "en": "If they arrive early, we start the meeting."
+        }
+      ]
+    },
+    {
+      "heading": "Hypothetical present or future",
+      "body": "For less likely or imaginary conditions, use **se + imperfect subjunctive** and the **conditional** in the result.",
+      "examples": [
+        {
+          "pt": "Se eu ganhasse na loteria, compraria uma casa.",
+          "en": "If I won the lottery, I would buy a house."
+        },
+        {
+          "pt": "Se ela pudesse, moraria perto da família.",
+          "en": "If she could, she would live near her family."
+        },
+        {
+          "pt": "Se nós tivéssemos mais tempo, faríamos melhor.",
+          "en": "If we had more time, we would do it better."
+        }
+      ]
+    },
+    {
+      "heading": "Unreal past",
+      "body": "For past conditions that did not happen, use **se + tivesse + participle** and **teria + participle** in the result.",
+      "examples": [
+        {
+          "pt": "Se eu tivesse estudado, teria passado.",
+          "en": "If I had studied, I would have passed."
+        },
+        {
+          "pt": "Se você tivesse avisado, eu teria esperado.",
+          "en": "If you had told me, I would have waited."
+        },
+        {
+          "pt": "Se eles tivessem saído cedo, não teriam perdido o voo.",
+          "en": "If they had left early, they would not have missed the flight."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Real future: se + future subjunctive.",
+    "Hypothetical: se + imperfect subjunctive + conditional.",
+    "Unreal past: se + pluperfect subjunctive + conditional perfect.",
+    "Do not use the future tense immediately after se for conditions."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Se vai chover, fico em casa.",
+      "right": "Se chover, fico em casa.",
+      "note": "Use future subjunctive after se for future conditions."
+    },
+    {
+      "wrong": "Se eu teria dinheiro, viajaria.",
+      "right": "Se eu tivesse dinheiro, viajaria.",
+      "note": "The se-clause uses subjunctive, not conditional."
+    },
+    {
+      "wrong": "Se eu tinha estudado, teria passado.",
+      "right": "Se eu tivesse estudado, teria passado.",
+      "note": "Unreal past uses tivesse + participle."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

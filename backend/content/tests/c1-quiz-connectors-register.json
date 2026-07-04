@@ -1,0 +1,87 @@
+{
+  "id": "c1-quiz-connectors-register",
+  "level": "C1",
+  "title": "Connectors & Register",
+  "topic": "grammar",
+  "description": "Practice advanced connectors and choosing the right register for context.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which connector best means 'nevertheless' in a formal text?",
+      "options": [
+        "no entanto",
+        "daí",
+        "tipo",
+        "aí"
+      ],
+      "answer": "no entanto",
+      "explanation": "'No entanto' is a formal connector meaning 'nevertheless' or 'however'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: ___ os dados sejam limitados, a conclusão é plausível.",
+      "options": [
+        "Embora",
+        "Porque",
+        "Logo",
+        "Assim"
+      ],
+      "answer": "Embora",
+      "explanation": "'Embora' introduces concession and takes the subjunctive 'sejam'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is most appropriate in a formal email?",
+      "options": [
+        "Solicito o envio dos documentos.",
+        "Manda os documentos aí.",
+        "Me passa isso logo.",
+        "Dá pra enviar, né?"
+      ],
+      "answer": "Solicito o envio dos documentos.",
+      "explanation": "'Solicito' is formal and suitable for professional correspondence."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What is the function of 'por conseguinte'?",
+      "options": [
+        "show consequence",
+        "show doubt",
+        "show time sequence",
+        "show direct quotation"
+      ],
+      "answer": "show consequence",
+      "explanation": "'Por conseguinte' means 'therefore' or 'consequently'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate formally: 'We remain available for any questions.'",
+      "options": [
+        "Permanecemos à disposição para quaisquer dúvidas.",
+        "A gente fica aí pra dúvida.",
+        "Estamos de boa para perguntas.",
+        "Ficamos livre pra qualquer coisa."
+      ],
+      "answer": "Permanecemos à disposição para quaisquer dúvidas.",
+      "explanation": "This is a polished, formal closing phrase in Brazilian Portuguese."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which connector introduces an additional point?",
+      "options": [
+        "além disso",
+        "contudo",
+        "apesar disso",
+        "porém"
+      ],
+      "answer": "além disso",
+      "explanation": "'Além disso' means 'in addition'."
+    }
+  ]
+}

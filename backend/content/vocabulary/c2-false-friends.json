@@ -1,0 +1,130 @@
+{
+  "id": "c2-false-friends",
+  "level": "C2",
+  "title": "False Friends",
+  "theme": "false-friends",
+  "description": "Tricky Portuguese-English lookalikes whose meanings often mislead advanced learners.",
+  "cards": [
+    {
+      "id": "false-atualmente",
+      "pt": "atualmente",
+      "en": "currently",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "atuawˈmẽ.tʃi",
+      "example": {
+        "pt": "Atualmente, ela mora em Salvador.",
+        "en": "Currently, she lives in Salvador."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-eventualmente",
+      "pt": "eventualmente",
+      "en": "occasionally; possibly",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "evẽtuawˈmẽ.tʃi",
+      "example": {
+        "pt": "Eventualmente, podemos discutir outra solução.",
+        "en": "Possibly, we can discuss another solution."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-assistir",
+      "pt": "assistir",
+      "en": "to watch; attend",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "asisˈtʃiʁ",
+      "example": {
+        "pt": "Assisti a uma palestra ontem.",
+        "en": "I attended a lecture yesterday."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-pretender",
+      "pt": "pretender",
+      "en": "to intend",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "pɾetẽˈdeʁ",
+      "example": {
+        "pt": "Pretendo viajar em julho.",
+        "en": "I intend to travel in July."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-sensivel",
+      "pt": "sensível",
+      "en": "sensitive",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "sẽˈsi.vew",
+      "example": {
+        "pt": "Esse assunto é sensível.",
+        "en": "This subject is sensitive."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-parentes",
+      "pt": "parentes",
+      "en": "relatives",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "paˈɾẽ.tʃis",
+      "example": {
+        "pt": "Meus parentes moram no interior.",
+        "en": "My relatives live in the countryside."
+      },
+      "tags": [
+        "false-friends",
+        "family"
+      ]
+    },
+    {
+      "id": "false-realizar",
+      "pt": "realizar",
+      "en": "to carry out; achieve",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ʁealiˈzaʁ",
+      "example": {
+        "pt": "A equipe realizou o teste final.",
+        "en": "The team carried out the final test."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    },
+    {
+      "id": "false-esquisito",
+      "pt": "esquisito",
+      "en": "strange; weird",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "eskiˈzi.tu",
+      "example": {
+        "pt": "Achei o comentário meio esquisito.",
+        "en": "I found the comment kind of weird."
+      },
+      "tags": [
+        "false-friends"
+      ]
+    }
+  ]
+}

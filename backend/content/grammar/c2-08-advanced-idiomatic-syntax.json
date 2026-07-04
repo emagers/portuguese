@@ -1,0 +1,95 @@
+{
+  "id": "c2-08-advanced-idiomatic-syntax",
+  "level": "C2",
+  "order": 8,
+  "title": "Advanced Idiomatic Syntax",
+  "titlePt": "Sintaxe idiomática avançada",
+  "summary": "Use idiomatic sentence patterns such as não fosse, haja vista, daí que, and é que with native-like control.",
+  "tags": [
+    "syntax",
+    "idioms",
+    "advanced"
+  ],
+  "sections": [
+    {
+      "heading": "Counterfactual compression",
+      "body": "Portuguese can compress conditional meanings into elegant patterns such as **não fosse** and **não fossem**. They mean roughly 'if it were not for'.",
+      "examples": [
+        {
+          "pt": "Não fosse a chuva, teríamos saído.",
+          "en": "If it weren't for the rain, we would have gone out."
+        },
+        {
+          "pt": "Não fossem os atrasos, o projeto já estaria pronto.",
+          "en": "If it weren't for the delays, the project would already be ready."
+        },
+        {
+          "pt": "Não fosse por você, eu teria desistido.",
+          "en": "If it weren't for you, I would have given up."
+        }
+      ]
+    },
+    {
+      "heading": "Explanatory and evidential patterns",
+      "body": "Structures like **haja vista**, **daí que**, and **tanto é que** connect evidence, result, and explanation. They are common in formal argument and educated speech.",
+      "examples": [
+        {
+          "pt": "O tema é relevante, haja vista o número de pesquisas recentes.",
+          "en": "The topic is relevant, given the number of recent studies."
+        },
+        {
+          "pt": "A demanda cresceu; daí que a equipe tenha sido ampliada.",
+          "en": "Demand grew; hence the team was expanded."
+        },
+        {
+          "pt": "Ele já sabia da mudança, tanto é que chegou preparado.",
+          "en": "He already knew about the change, so much so that he arrived prepared."
+        }
+      ]
+    },
+    {
+      "heading": "Focus with é que",
+      "body": "**É que** can mark explanation, focus, or emphasis. It is very common in speech and also appears in writing when used with restraint.",
+      "examples": [
+        {
+          "pt": "O problema é que ninguém avisou.",
+          "en": "The problem is that nobody warned us."
+        },
+        {
+          "pt": "Eu é que não vou discutir isso agora.",
+          "en": "I'm certainly not going to discuss that now."
+        },
+        {
+          "pt": "Quando é que você chegou?",
+          "en": "When exactly did you arrive?",
+          "note": "spoken emphasis"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Não fosse compresses an if-clause and sounds elegant or literary.",
+    "Haja vista introduces evidence and is formal.",
+    "Daí que can introduce a consequence or explanation.",
+    "É que is a powerful focus marker but can sound repetitive if overused."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Não foi a chuva, sairíamos.",
+      "right": "Não fosse a chuva, sairíamos.",
+      "note": "Use fosse for counterfactual compression."
+    },
+    {
+      "wrong": "Haja visto os dados...",
+      "right": "Haja vista os dados...",
+      "note": "The fixed connector is haja vista."
+    },
+    {
+      "wrong": "O problema que ninguém avisou.",
+      "right": "O problema é que ninguém avisou.",
+      "note": "Use é que to introduce the explanatory clause."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

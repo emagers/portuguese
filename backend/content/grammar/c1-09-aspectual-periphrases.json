@@ -1,0 +1,94 @@
+{
+  "id": "c1-09-aspectual-periphrases",
+  "level": "C1",
+  "order": 9,
+  "title": "Aspectual Periphrases",
+  "titlePt": "Perífrases aspectuais",
+  "summary": "Use começar a, continuar a, acabar de, deixar de, voltar a, vir a, and chegar a for subtle aspectual meaning.",
+  "tags": [
+    "aspect",
+    "periphrases",
+    "verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Beginning, continuation, and interruption",
+      "body": "Portuguese uses verb phrases to show phases of an action. These choices often sound more natural than adding adverbs.",
+      "examples": [
+        {
+          "pt": "Ela começou a estudar medicina.",
+          "en": "She started studying medicine."
+        },
+        {
+          "pt": "Continuamos a acompanhar o caso.",
+          "en": "We continue to follow the case."
+        },
+        {
+          "pt": "Ele deixou de responder às mensagens.",
+          "en": "He stopped replying to the messages."
+        }
+      ]
+    },
+    {
+      "heading": "Resumption and recent completion",
+      "body": "**Voltar a + infinitive** means to resume; **acabar de + infinitive** means to have just done something. These are high-frequency structures.",
+      "examples": [
+        {
+          "pt": "Voltei a correr depois da cirurgia.",
+          "en": "I started running again after the surgery."
+        },
+        {
+          "pt": "Acabei de falar com ela.",
+          "en": "I just spoke with her."
+        },
+        {
+          "pt": "A loja voltou a funcionar normalmente.",
+          "en": "The store started operating normally again."
+        }
+      ]
+    },
+    {
+      "heading": "Outcome and unexpected extent",
+      "body": "**Vir a + infinitive** can suggest eventual outcome, often in formal style. **Chegar a + infinitive** emphasizes reaching an extreme or surprising point.",
+      "examples": [
+        {
+          "pt": "A proposta veio a ser aprovada meses depois.",
+          "en": "The proposal eventually came to be approved months later."
+        },
+        {
+          "pt": "Ele chegou a trabalhar doze horas por dia.",
+          "en": "He even worked twelve hours a day."
+        },
+        {
+          "pt": "O caso pode vir a mudar a lei.",
+          "en": "The case may eventually change the law."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Aspectual periphrases express phases and viewpoint of actions.",
+    "Acabar de means 'to have just done', not 'finish doing' in this structure.",
+    "Voltar a means resume or do again.",
+    "Vir a and chegar a are useful in formal narration and argument."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Acabei para falar com ela.",
+      "right": "Acabei de falar com ela.",
+      "note": "Use acabar de + infinitive."
+    },
+    {
+      "wrong": "Voltei correr.",
+      "right": "Voltei a correr.",
+      "note": "Voltar requires a before the infinitive."
+    },
+    {
+      "wrong": "Ele deixou responder as mensagens.",
+      "right": "Ele deixou de responder às mensagens.",
+      "note": "Stop doing = deixar de + infinitive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

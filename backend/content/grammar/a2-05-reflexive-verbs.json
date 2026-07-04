@@ -1,0 +1,98 @@
+{
+  "id": "a2-05-reflexive-verbs",
+  "level": "A2",
+  "order": 5,
+  "title": "Reflexive Verbs",
+  "titlePt": "Verbos reflexivos",
+  "summary": "Use reflexive pronouns when the subject acts on itself, as in se levantar and se chamar.",
+  "tags": [
+    "verbs",
+    "pronouns",
+    "reflexive"
+  ],
+  "sections": [
+    {
+      "heading": "What reflexive verbs are",
+      "body": "Reflexive verbs use pronouns like **me**, **se**, and **nos** when the subject and object are the same person. In dictionaries they often appear with **-se**: levantar-se, chamar-se, sentir-se.",
+      "examples": [
+        {
+          "pt": "Eu me levanto às sete.",
+          "en": "I get up at seven."
+        },
+        {
+          "pt": "Ela se chama Marina.",
+          "en": "Her name is Marina.",
+          "note": "literally: she calls herself"
+        },
+        {
+          "pt": "Nós nos encontramos no trabalho.",
+          "en": "We meet each other at work."
+        }
+      ]
+    },
+    {
+      "heading": "Pronoun placement in Brazil",
+      "body": "In everyday Brazilian Portuguese, the reflexive pronoun usually comes **before** the conjugated verb. With infinitives, it can come before the helper or attached to the infinitive.",
+      "examples": [
+        {
+          "pt": "Eu me sinto bem.",
+          "en": "I feel well."
+        },
+        {
+          "pt": "Vou me preparar agora.",
+          "en": "I am going to get ready now."
+        },
+        {
+          "pt": "Vou preparar-me agora.",
+          "en": "I am going to get ready now.",
+          "note": "grammatical but more formal"
+        }
+      ]
+    },
+    {
+      "heading": "Common daily-routine verbs",
+      "body": "Many routine verbs are reflexive because you do the action to yourself. Some verbs can be reflexive or not depending on meaning.",
+      "examples": [
+        {
+          "pt": "Ela se veste rápido.",
+          "en": "She gets dressed quickly."
+        },
+        {
+          "pt": "Eu escovo os dentes depois do café.",
+          "en": "I brush my teeth after breakfast.",
+          "note": "often not reflexive in Brazilian Portuguese"
+        },
+        {
+          "pt": "Ele se lembra do endereço.",
+          "en": "He remembers the address.",
+          "note": "lembrar-se de"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Reflexive pronouns show that the subject acts on itself.",
+    "Use me, se, nos, se with eu, você/ele/ela, nós, vocês/eles/elas.",
+    "Brazilian speech normally places the pronoun before the verb.",
+    "Some English reflexive ideas are not reflexive in Portuguese, and vice versa."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu levanto-me às sete.",
+      "right": "Eu me levanto às sete.",
+      "note": "The attached form is formal; pre-verbal placement is natural in Brazil."
+    },
+    {
+      "wrong": "Ela chama Ana.",
+      "right": "Ela se chama Ana.",
+      "note": "For names, use chamar-se."
+    },
+    {
+      "wrong": "Nós se encontramos.",
+      "right": "Nós nos encontramos.",
+      "note": "Nós uses nos."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

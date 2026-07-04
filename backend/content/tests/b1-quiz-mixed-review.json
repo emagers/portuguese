@@ -1,0 +1,87 @@
+{
+  "id": "b1-quiz-mixed-review",
+  "level": "B1",
+  "title": "B1 Mixed Review",
+  "topic": "mixed",
+  "description": "Review por/para, relative pronouns, subjunctive triggers, and practical translations.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Este presente é ___ você.",
+      "options": [
+        "por",
+        "para",
+        "pelo",
+        "pela"
+      ],
+      "answer": "para",
+      "explanation": "'Para' indicates intended recipient: 'for you'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Obrigado ___ ajuda.",
+      "options": [
+        "pela",
+        "para",
+        "em",
+        "a"
+      ],
+      "answer": "pela",
+      "explanation": "Use 'por' with the article: 'pela ajuda' means 'for the help'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct relative pronoun: 'A mulher ___ trabalha aqui é médica.'",
+      "options": [
+        "que",
+        "onde",
+        "quando",
+        "cujo"
+      ],
+      "answer": "que",
+      "explanation": "'Que' can refer to a person as the subject of the relative clause."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Tomara que ele ___ a tempo. (chegar)",
+      "options": [
+        "chega",
+        "chegue",
+        "chegou",
+        "chegava"
+      ],
+      "answer": "chegue",
+      "explanation": "'Tomara que' expresses a wish and takes the subjunctive."
+    },
+    {
+      "id": "q5",
+      "type": "translate_pt_en",
+      "prompt": "Não sei onde ele mora.",
+      "options": [
+        "I don't know where he lives.",
+        "I don't know when he lives.",
+        "I don't know why he left.",
+        "I don't know where he worked."
+      ],
+      "answer": "I don't know where he lives.",
+      "explanation": "'Onde' means 'where', and 'mora' means 'lives'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which command is polite and correct?",
+      "options": [
+        "Assine aqui, por favor.",
+        "Assinares aqui, por favor.",
+        "Assinou aqui, por favor.",
+        "Assinar aqui, por favor."
+      ],
+      "answer": "Assine aqui, por favor.",
+      "explanation": "'Assine' is the standard polite command with 'você'."
+    }
+  ]
+}

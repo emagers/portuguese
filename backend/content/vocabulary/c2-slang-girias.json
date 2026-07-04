@@ -1,0 +1,134 @@
+{
+  "id": "c2-slang-girias",
+  "level": "C2",
+  "title": "Slang & Gírias",
+  "theme": "slang",
+  "description": "Tasteful everyday Brazilian slang for informal conversations, messages and reactions.",
+  "cards": [
+    {
+      "id": "slang-legal",
+      "pt": "legal",
+      "en": "cool; nice",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "leˈgaw",
+      "example": {
+        "pt": "O filme foi muito legal.",
+        "en": "The movie was really cool."
+      },
+      "tags": [
+        "slang",
+        "informal"
+      ]
+    },
+    {
+      "id": "slang-galera",
+      "pt": "galera",
+      "en": "guys; crowd",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "gaˈlɛ.ɾɐ",
+      "example": {
+        "pt": "A galera chegou cedo para o show.",
+        "en": "The crowd arrived early for the concert."
+      },
+      "tags": [
+        "slang",
+        "people"
+      ]
+    },
+    {
+      "id": "slang-grana",
+      "pt": "grana",
+      "en": "money",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈgɾɐ.nɐ",
+      "example": {
+        "pt": "Estou sem grana esta semana.",
+        "en": "I am out of money this week."
+      },
+      "tags": [
+        "slang",
+        "money"
+      ]
+    },
+    {
+      "id": "slang-role",
+      "pt": "rolê",
+      "en": "outing; hangout",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁoˈle",
+      "example": {
+        "pt": "Vamos dar um rolê no centro.",
+        "en": "Let’s hang out downtown."
+      },
+      "tags": [
+        "slang"
+      ]
+    },
+    {
+      "id": "slang-treta",
+      "pt": "treta",
+      "en": "mess; conflict",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈtɾe.tɐ",
+      "example": {
+        "pt": "Não quero entrar nessa treta.",
+        "en": "I do not want to get into that mess."
+      },
+      "tags": [
+        "slang"
+      ]
+    },
+    {
+      "id": "slang-de-boa",
+      "pt": "de boa",
+      "en": "all good; relaxed",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "dʒi ˈbo.ɐ",
+      "example": {
+        "pt": "Pode chegar mais tarde, de boa.",
+        "en": "You can arrive later, no problem."
+      },
+      "tags": [
+        "slang"
+      ]
+    },
+    {
+      "id": "slang-vacilar",
+      "pt": "vacilar",
+      "en": "to mess up; hesitate",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "vasiˈlaʁ",
+      "example": {
+        "pt": "Não vacila com esse prazo.",
+        "en": "Do not mess up with this deadline."
+      },
+      "tags": [
+        "slang",
+        "verbs"
+      ]
+    },
+    {
+      "id": "slang-mano",
+      "pt": "mano",
+      "en": "dude; bro",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈmɐ.nu",
+      "example": {
+        "pt": "Mano, você viu isso?",
+        "en": "Dude, did you see that?"
+      },
+      "tags": [
+        "slang",
+        "informal"
+      ]
+    }
+  ]
+}

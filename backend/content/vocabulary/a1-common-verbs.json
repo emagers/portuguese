@@ -1,0 +1,129 @@
+{
+  "id": "a1-common-verbs",
+  "level": "A1",
+  "title": "Common Verbs",
+  "theme": "verbs",
+  "description": "High-frequency verbs for simple sentences about identity, needs, likes and movement.",
+  "cards": [
+    {
+      "id": "verb-ser",
+      "pt": "ser",
+      "en": "to be",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "seʁ",
+      "example": {
+        "pt": "Eu sou estudante.",
+        "en": "I am a student."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-estar",
+      "pt": "estar",
+      "en": "to be; to stay",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "esˈtaʁ",
+      "example": {
+        "pt": "Ela está em casa.",
+        "en": "She is at home."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-ter",
+      "pt": "ter",
+      "en": "to have",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "teʁ",
+      "example": {
+        "pt": "Nós temos um cachorro.",
+        "en": "We have a dog."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-ir",
+      "pt": "ir",
+      "en": "to go",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "iʁ",
+      "example": {
+        "pt": "Eu vou ao mercado.",
+        "en": "I am going to the market."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-fazer",
+      "pt": "fazer",
+      "en": "to do; to make",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "faˈzeʁ",
+      "example": {
+        "pt": "Ele faz o dever de casa.",
+        "en": "He does the homework."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-querer",
+      "pt": "querer",
+      "en": "to want",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "keˈɾeʁ",
+      "example": {
+        "pt": "Quero água, por favor.",
+        "en": "I want water, please."
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-gostar",
+      "pt": "gostar",
+      "en": "to like",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "gosˈtaʁ",
+      "example": {
+        "pt": "Você gosta de música?",
+        "en": "Do you like music?"
+      },
+      "tags": [
+        "verbs"
+      ]
+    },
+    {
+      "id": "verb-precisar",
+      "pt": "precisar",
+      "en": "to need",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "pɾesiˈzaʁ",
+      "example": {
+        "pt": "Preciso de ajuda.",
+        "en": "I need help."
+      },
+      "tags": [
+        "verbs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "c2-quiz-advanced-usage",
+  "level": "C2",
+  "title": "Advanced Usage & Subtle Choices",
+  "topic": "grammar",
+  "description": "Practice subtle distinctions in advanced Brazilian Portuguese usage.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence sounds most idiomatic and precise?",
+      "options": [
+        "Não se trata de falta de vontade, mas de falta de recursos.",
+        "Não trata-se de falta de vontade, mas falta recursos.",
+        "Não é tratado de falta de vontade, mas de recursos.",
+        "Não se fala de falta de vontade, porém recursos."
+      ],
+      "answer": "Não se trata de falta de vontade, mas de falta de recursos.",
+      "explanation": "'Não se trata de..., mas de...' is a fixed, idiomatic structure."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Choose the best use of 'sequer'.",
+      "options": [
+        "Ele sequer respondeu à mensagem.",
+        "Ele respondeu sequer à mensagem.",
+        "Ele sequermente respondeu à mensagem.",
+        "Ele respondeu à sequer mensagem."
+      ],
+      "answer": "Ele sequer respondeu à mensagem.",
+      "explanation": "'Sequer' means 'even' in negative contexts: he didn't even answer."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "prompt": "Complete: Por mais que ele ___ razão, precisamos verificar os dados. (ter)",
+      "options": [
+        "tem",
+        "teve",
+        "tenha",
+        "teria"
+      ],
+      "answer": "tenha",
+      "explanation": "'Por mais que' takes the subjunctive when expressing concession."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'cujo'?",
+      "options": [
+        "O autor cujo livro venceu o prêmio agradeceu ao público.",
+        "O autor que cujo livro venceu agradeceu ao público.",
+        "O autor cujo o livro venceu agradeceu ao público.",
+        "O autor onde livro venceu agradeceu ao público."
+      ],
+      "answer": "O autor cujo livro venceu o prêmio agradeceu ao público.",
+      "explanation": "'Cujo' agrees with the possessed noun and is not followed by an article."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'Not only did she solve the problem, she also improved the process.'",
+      "options": [
+        "Ela não só resolveu o problema como também melhorou o processo.",
+        "Ela não somente resolveu o problema, também como melhorou o processo.",
+        "Ela só não resolveu o problema como melhorou o processo.",
+        "Ela resolveu não só o problema como o processo melhorou."
+      ],
+      "answer": "Ela não só resolveu o problema como também melhorou o processo.",
+      "explanation": "'Não só... como também...' is the natural correlative structure."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is best in careful written Portuguese?",
+      "options": [
+        "Faz dez anos que moro aqui.",
+        "Fazem dez anos que moro aqui.",
+        "Faz dez anos que eu moro aqui desde.",
+        "Há dez anos atrás moro aqui."
+      ],
+      "answer": "Faz dez anos que moro aqui.",
+      "explanation": "Impersonal 'fazer' for elapsed time stays singular: 'faz dez anos'."
+    }
+  ]
+}

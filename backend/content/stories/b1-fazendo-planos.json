@@ -1,0 +1,115 @@
+{
+  "id": "b1-fazendo-planos",
+  "level": "B1",
+  "type": "conversation",
+  "title": "Making Plans",
+  "titlePt": "Fazendo Planos",
+  "summary": "Friends discuss possible weekend plans while considering weather and budgets.",
+  "lines": [
+    {
+      "speaker": "Tiago",
+      "pt": "Você já decidiu o que vamos fazer no sábado?",
+      "en": "Have you decided what we are going to do on Saturday?"
+    },
+    {
+      "speaker": "Marta",
+      "pt": "Ainda não. Eu queria ir à praia, mas a previsão disse que pode chover.",
+      "en": "Not yet. I wanted to go to the beach, but the forecast said it might rain."
+    },
+    {
+      "speaker": "Tiago",
+      "pt": "Se chover, podemos visitar o museu novo no centro.",
+      "en": "If it rains, we can visit the new museum downtown."
+    },
+    {
+      "speaker": "Marta",
+      "pt": "Boa ideia. Você sabe quanto custa a entrada?",
+      "en": "Good idea. Do you know how much admission costs?"
+    },
+    {
+      "speaker": "Tiago",
+      "pt": "Acho que custa vinte reais, mas estudantes pagam meia.",
+      "en": "I think it costs twenty reais, but students pay half price."
+    },
+    {
+      "speaker": "Marta",
+      "pt": "Então vou levar minha carteirinha.",
+      "en": "Then I'll bring my student ID."
+    },
+    {
+      "speaker": "Tiago",
+      "pt": "Depois do museu, a gente podia jantar em algum lugar simples.",
+      "en": "After the museum, we could have dinner somewhere simple."
+    },
+    {
+      "speaker": "Marta",
+      "pt": "Combinado. Se o tempo melhorar, ainda caminhamos na praça.",
+      "en": "Agreed. If the weather improves, we'll still walk in the square."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a previsão",
+      "en": "the forecast"
+    },
+    {
+      "pt": "pode chover",
+      "en": "it might rain"
+    },
+    {
+      "pt": "a entrada",
+      "en": "admission / ticket"
+    },
+    {
+      "pt": "pagar meia",
+      "en": "to pay half price"
+    },
+    {
+      "pt": "a carteirinha",
+      "en": "ID card"
+    },
+    {
+      "pt": "em algum lugar",
+      "en": "somewhere"
+    },
+    {
+      "pt": "melhorar",
+      "en": "to improve"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why might they not go to the beach?",
+      "options": [
+        "It may rain",
+        "It is too far",
+        "The beach is closed",
+        "They dislike swimming"
+      ],
+      "answer": "It may rain"
+    },
+    {
+      "id": "c2",
+      "question": "What is the backup plan?",
+      "options": [
+        "Visit a museum",
+        "Study at home",
+        "Go to a doctor",
+        "Take a train"
+      ],
+      "answer": "Visit a museum"
+    },
+    {
+      "id": "c3",
+      "question": "What should Marta bring?",
+      "options": [
+        "Her student ID",
+        "An umbrella only",
+        "A passport",
+        "A notebook"
+      ],
+      "answer": "Her student ID"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "c1-01-tense-aspect-nuance",
+  "level": "C1",
+  "order": 1,
+  "title": "Nuanced Tense and Aspect",
+  "titlePt": "Nuances de tempo e aspecto",
+  "summary": "Refine how Portuguese presents actions as completed, ongoing, habitual, repeated, or consequential.",
+  "tags": [
+    "aspect",
+    "verbs",
+    "advanced"
+  ],
+  "sections": [
+    {
+      "heading": "Preterite vs imperfect as viewpoint",
+      "body": "At advanced levels, the difference is not just 'completed' vs 'ongoing'; it is the speaker's viewpoint. The preterite frames an event as bounded. The imperfect opens a scene or presents a habit/state without clear boundaries.",
+      "examples": [
+        {
+          "pt": "Ele entrou, sentou e pediu café.",
+          "en": "He came in, sat down, and ordered coffee.",
+          "note": "bounded sequence"
+        },
+        {
+          "pt": "Ele entrava, sentava e pedia café todos os dias.",
+          "en": "He used to come in, sit down, and order coffee every day.",
+          "note": "habitual scene"
+        },
+        {
+          "pt": "Eu queria falar com você.",
+          "en": "I wanted to talk to you.",
+          "note": "softened/polite imperfect"
+        }
+      ]
+    },
+    {
+      "heading": "Ter + participle vs simple preterite",
+      "body": "**Tenho feito** emphasizes repetition or continuity into the present. The simple preterite states that an event happened. Choosing one changes the aspect, not just the tense.",
+      "examples": [
+        {
+          "pt": "Tenho lido muito sobre o assunto.",
+          "en": "I have been reading a lot about the subject."
+        },
+        {
+          "pt": "Li três artigos ontem.",
+          "en": "I read three articles yesterday."
+        },
+        {
+          "pt": "A empresa tem investido em tecnologia.",
+          "en": "The company has been investing in technology."
+        }
+      ]
+    },
+    {
+      "heading": "Ir + infinitive and future forms",
+      "body": "Brazilian speech favors **ir + infinitive** for future actions, while the simple future sounds more formal, predictive, or emphatic. The future can also express probability.",
+      "examples": [
+        {
+          "pt": "Vou mandar o arquivo hoje.",
+          "en": "I will send the file today.",
+          "note": "neutral spoken future"
+        },
+        {
+          "pt": "Enviarei o arquivo ainda hoje.",
+          "en": "I will send the file today.",
+          "note": "formal/written"
+        },
+        {
+          "pt": "Ele estará em casa agora.",
+          "en": "He is probably at home now.",
+          "note": "future of probability"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Aspect is about how an action is viewed, not only when it happens.",
+    "Preterite bounds events; imperfect opens scenes or habits.",
+    "Tenho feito implies repeated/ongoing relevance to now.",
+    "Simple future is formal and can express probability."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Tenho terminado o relatório ontem.",
+      "right": "Terminei o relatório ontem.",
+      "note": "Specific finished past event uses preterite."
+    },
+    {
+      "wrong": "Quando era criança, fui ao clube todo sábado.",
+      "right": "Quando era criança, ia ao clube todo sábado.",
+      "note": "Repeated past habit uses imperfect."
+    },
+    {
+      "wrong": "Ele vai estar em casa agora.",
+      "right": "Ele deve estar em casa agora. / Ele estará em casa agora.",
+      "note": "For probability, use deve estar or formal future."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

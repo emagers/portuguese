@@ -1,0 +1,95 @@
+{
+  "id": "a2-11-prepositions-of-place",
+  "level": "A2",
+  "order": 11,
+  "title": "Prepositions of Place",
+  "titlePt": "Preposições de lugar",
+  "summary": "Describe location with em, no, na, perto de, longe de, dentro de, fora de, em cima de, and embaixo de.",
+  "tags": [
+    "prepositions",
+    "location",
+    "place"
+  ],
+  "sections": [
+    {
+      "heading": "Basic location with em",
+      "body": "Use **em** for location, usually contracted with articles: **no, na, nos, nas**. Portuguese often uses one preposition where English uses in, on, or at.",
+      "examples": [
+        {
+          "pt": "Estou no trabalho.",
+          "en": "I am at work."
+        },
+        {
+          "pt": "O livro está na mesa.",
+          "en": "The book is on the table."
+        },
+        {
+          "pt": "Ela mora em Recife.",
+          "en": "She lives in Recife.",
+          "note": "no article with many city names"
+        }
+      ]
+    },
+    {
+      "heading": "Relative position",
+      "body": "Many place expressions use **de** after them. If an article follows, de contracts: **do, da, dos, das**.",
+      "examples": [
+        {
+          "pt": "O banco fica perto da praça.",
+          "en": "The bank is near the square."
+        },
+        {
+          "pt": "Minha casa fica longe do centro.",
+          "en": "My house is far from downtown."
+        },
+        {
+          "pt": "O cachorro está embaixo da cama.",
+          "en": "The dog is under the bed."
+        }
+      ]
+    },
+    {
+      "heading": "Inside, outside, in front, behind",
+      "body": "Use **dentro de**, **fora de**, **na frente de**, **atrás de**, and **ao lado de** for precise location. In Brazil, **em frente a** is also common for 'in front of'.",
+      "examples": [
+        {
+          "pt": "As chaves estão dentro da mochila.",
+          "en": "The keys are inside the backpack."
+        },
+        {
+          "pt": "O ponto de ônibus fica em frente ao prédio.",
+          "en": "The bus stop is in front of the building."
+        },
+        {
+          "pt": "A farmácia fica ao lado do mercado.",
+          "en": "The pharmacy is next to the market."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Em contracts with articles: no, na, nos, nas.",
+    "Many location phrases require de: perto de, longe de, dentro de.",
+    "De contracts with articles after place expressions.",
+    "Use ficar or estar for location depending on whether you mean situated or currently located."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "O livro está em a mesa.",
+      "right": "O livro está na mesa.",
+      "note": "Em + a = na."
+    },
+    {
+      "wrong": "Perto a praça",
+      "right": "Perto da praça",
+      "note": "Perto requires de."
+    },
+    {
+      "wrong": "A loja está perto aqui.",
+      "right": "A loja fica perto daqui.",
+      "note": "Use perto de + aqui = perto daqui."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

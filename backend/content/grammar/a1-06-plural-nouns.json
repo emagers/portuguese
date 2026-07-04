@@ -1,0 +1,94 @@
+{
+  "id": "a1-06-plural-nouns",
+  "level": "A1",
+  "order": 6,
+  "title": "Plural of Nouns",
+  "titlePt": "Plural dos substantivos",
+  "summary": "Make nouns and adjectives plural with the most common Brazilian Portuguese patterns.",
+  "tags": [
+    "nouns",
+    "plural",
+    "agreement"
+  ],
+  "sections": [
+    {
+      "heading": "The basic plural",
+      "body": "Most nouns add **-s** in the plural. Articles and adjectives also become plural.",
+      "examples": [
+        {
+          "pt": "o livro → os livros",
+          "en": "the book → the books"
+        },
+        {
+          "pt": "a casa bonita → as casas bonitas",
+          "en": "the beautiful house → the beautiful houses"
+        },
+        {
+          "pt": "um amigo brasileiro → uns amigos brasileiros",
+          "en": "a Brazilian friend → some Brazilian friends"
+        }
+      ]
+    },
+    {
+      "heading": "Nouns ending in consonants",
+      "body": "Many nouns ending in **-r**, **-s**, or **-z** add **-es**. Words ending in **-m** change to **-ns**.",
+      "examples": [
+        {
+          "pt": "o professor → os professores",
+          "en": "the teacher → the teachers"
+        },
+        {
+          "pt": "o mês → os meses",
+          "en": "the month → the months"
+        },
+        {
+          "pt": "o homem → os homens",
+          "en": "the man → the men"
+        }
+      ]
+    },
+    {
+      "heading": "Words ending in -ão",
+      "body": "Nouns ending in **-ão** have several plural patterns: **-ões**, **-ães**, or **-ãos**. The most common is **-ões**, but you must learn each word.",
+      "examples": [
+        {
+          "pt": "a informação → as informações",
+          "en": "the information → the pieces of information"
+        },
+        {
+          "pt": "o pão → os pães",
+          "en": "the bread roll → the bread rolls"
+        },
+        {
+          "pt": "o irmão → os irmãos",
+          "en": "the brother → the brothers"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Most plurals add -s.",
+    "Nouns ending in -r, -s, or -z often add -es.",
+    "Nouns ending in -m change m to ns.",
+    "-ão plurals are irregular and must be memorized."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "os homem",
+      "right": "os homens",
+      "note": "-m changes to -ns."
+    },
+    {
+      "wrong": "as informaçãos",
+      "right": "as informações",
+      "note": "Informação becomes informações."
+    },
+    {
+      "wrong": "os casa bonita",
+      "right": "as casas bonitas",
+      "note": "Article, noun, and adjective must all agree."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

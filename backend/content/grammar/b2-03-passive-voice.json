@@ -1,0 +1,96 @@
+{
+  "id": "b2-03-passive-voice",
+  "level": "B2",
+  "order": 3,
+  "title": "Passive Voice",
+  "titlePt": "Voz passiva",
+  "summary": "Use ser + participle and se-passives to focus on actions and results rather than agents.",
+  "tags": [
+    "passive",
+    "verbs",
+    "register"
+  ],
+  "sections": [
+    {
+      "heading": "Ser + past participle",
+      "body": "The analytical passive uses **ser + past participle**. The participle agrees with the subject in gender and number. This structure is common in news, formal reports, and written language.",
+      "examples": [
+        {
+          "pt": "O documento foi enviado ontem.",
+          "en": "The document was sent yesterday."
+        },
+        {
+          "pt": "As casas foram vendidas rapidamente.",
+          "en": "The houses were sold quickly."
+        },
+        {
+          "pt": "A decisão será anunciada amanhã.",
+          "en": "The decision will be announced tomorrow."
+        }
+      ]
+    },
+    {
+      "heading": "Agent with por",
+      "body": "When you mention the agent, use **por** or a contraction such as **pelo/pela**. Often the agent is omitted because it is unknown or unimportant.",
+      "examples": [
+        {
+          "pt": "O livro foi escrito por uma autora brasileira.",
+          "en": "The book was written by a Brazilian author."
+        },
+        {
+          "pt": "A proposta foi aprovada pelo diretor.",
+          "en": "The proposal was approved by the director."
+        },
+        {
+          "pt": "A janela foi quebrada durante a festa.",
+          "en": "The window was broken during the party.",
+          "note": "agent omitted"
+        }
+      ]
+    },
+    {
+      "heading": "Passive with se",
+      "body": "The **se** passive is common for general statements, signs, and announcements. The verb agrees with the thing being sold, done, or requested in standard usage.",
+      "examples": [
+        {
+          "pt": "Vendem-se apartamentos.",
+          "en": "Apartments for sale."
+        },
+        {
+          "pt": "Precisa-se de voluntários.",
+          "en": "Volunteers needed.",
+          "note": "precisar de is impersonal and stays singular"
+        },
+        {
+          "pt": "Aluga-se uma sala comercial.",
+          "en": "A commercial room is for rent."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ser + participle focuses on the subject receiving the action.",
+    "The participle agrees: enviado/enviada/enviados/enviadas.",
+    "Use por/pelo/pela for the agent.",
+    "Se-passives are common in signs and formal notices."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "As cartas foram enviado.",
+      "right": "As cartas foram enviadas.",
+      "note": "Participle agrees with cartas."
+    },
+    {
+      "wrong": "O livro foi escrito pelo Machado de Assis.",
+      "right": "O livro foi escrito por Machado de Assis.",
+      "note": "Use por without article for many personal names."
+    },
+    {
+      "wrong": "Vende-se apartamentos.",
+      "right": "Vendem-se apartamentos.",
+      "note": "In standard se-passive, verb agrees with plural subject."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

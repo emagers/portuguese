@@ -1,0 +1,97 @@
+{
+  "id": "a1-05-articles-gender",
+  "level": "A1",
+  "order": 5,
+  "title": "Articles and Gender",
+  "titlePt": "Artigos e gênero",
+  "summary": "Learn masculine and feminine nouns and how articles agree with them.",
+  "tags": [
+    "nouns",
+    "articles",
+    "gender"
+  ],
+  "sections": [
+    {
+      "heading": "Definite and indefinite articles",
+      "body": "Portuguese nouns have gender: masculine or feminine. Articles must agree in gender and number.\n\n| Meaning | Masculine | Feminine |\n|---|---|---|\n| the | **o** | **a** |\n| a/an | **um** | **uma** |\n| the (plural) | **os** | **as** |\n| some | **uns** | **umas** |",
+      "examples": [
+        {
+          "pt": "o livro",
+          "en": "the book"
+        },
+        {
+          "pt": "uma casa",
+          "en": "a house"
+        },
+        {
+          "pt": "as meninas",
+          "en": "the girls"
+        }
+      ]
+    },
+    {
+      "heading": "Common gender patterns",
+      "body": "Many nouns ending in **-o** are masculine and many ending in **-a** are feminine, but there are exceptions. Learn nouns together with their article.",
+      "examples": [
+        {
+          "pt": "o carro",
+          "en": "the car",
+          "note": "-o is usually masculine"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the table",
+          "note": "-a is usually feminine"
+        },
+        {
+          "pt": "o problema",
+          "en": "the problem",
+          "note": "exception: problema is masculine"
+        }
+      ]
+    },
+    {
+      "heading": "Agreement with adjectives",
+      "body": "Adjectives usually change to match the noun. Masculine often ends in **-o**, feminine in **-a**; plural adds **-s**.",
+      "examples": [
+        {
+          "pt": "um aluno novo",
+          "en": "a new male student"
+        },
+        {
+          "pt": "uma aluna nova",
+          "en": "a new female student"
+        },
+        {
+          "pt": "as casas bonitas",
+          "en": "the beautiful houses"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Articles agree with gender and number: o/a/os/as, um/uma/uns/umas.",
+    "Learn every noun with its article because exceptions are common.",
+    "Adjectives usually agree with the noun they describe.",
+    "Words ending in -ção are usually feminine: a informação, a estação."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "a problema",
+      "right": "o problema",
+      "note": "Problema is masculine."
+    },
+    {
+      "wrong": "o casa",
+      "right": "a casa",
+      "note": "Casa is feminine."
+    },
+    {
+      "wrong": "uma livro novo",
+      "right": "um livro novo",
+      "note": "Livro is masculine, so use um and novo."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

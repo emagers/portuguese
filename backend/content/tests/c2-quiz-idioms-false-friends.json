@@ -1,0 +1,87 @@
+{
+  "id": "c2-quiz-idioms-false-friends",
+  "level": "C2",
+  "title": "Idioms & False Friends",
+  "topic": "vocab",
+  "description": "Test advanced idioms, lexical traps, and high-level vocabulary.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'pisar em ovos' mean?",
+      "options": [
+        "to be extremely careful",
+        "to make breakfast",
+        "to waste an opportunity",
+        "to speak very loudly"
+      ],
+      "answer": "to be extremely careful",
+      "explanation": "'Pisar em ovos' means to tread carefully in a delicate situation."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Which is the best translation of 'pretender' in most contexts?",
+      "options": [
+        "to intend",
+        "to pretend",
+        "to prevent",
+        "to pressure"
+      ],
+      "answer": "to intend",
+      "explanation": "Portuguese 'pretender' is a false friend; it usually means 'to intend'."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "Ele puxou o saco do chefe.",
+      "options": [
+        "He flattered the boss excessively.",
+        "He pulled the boss's bag literally.",
+        "He fired the boss.",
+        "He replaced the boss."
+      ],
+      "answer": "He flattered the boss excessively.",
+      "explanation": "'Puxar o saco' means to flatter or suck up to someone."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What does 'eventualmente' usually mean in Portuguese?",
+      "options": [
+        "occasionally / possibly",
+        "eventually / in the end",
+        "immediately",
+        "officially"
+      ],
+      "answer": "occasionally / possibly",
+      "explanation": "'Eventualmente' is a false friend; it often means 'possibly' or 'occasionally'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "What does 'ficar em cima do muro' mean?",
+      "options": [
+        "to avoid taking sides",
+        "to climb a wall",
+        "to insist too much",
+        "to lose patience"
+      ],
+      "answer": "to avoid taking sides",
+      "explanation": "The idiom means to sit on the fence or avoid choosing a side."
+    },
+    {
+      "id": "q6",
+      "type": "translate_en_pt",
+      "prompt": "Translate idiomatically: 'She hit the nail on the head.'",
+      "options": [
+        "Ela acertou em cheio.",
+        "Ela bateu o prego na cabeça.",
+        "Ela acertou a cabeça do prego.",
+        "Ela errou por pouco."
+      ],
+      "answer": "Ela acertou em cheio.",
+      "explanation": "'Acertar em cheio' is an idiomatic equivalent for being exactly right."
+    }
+  ]
+}

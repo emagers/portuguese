@@ -1,0 +1,93 @@
+{
+  "id": "b1-quiz-listening-opinions",
+  "level": "B1",
+  "title": "Listening: Opinions & Advice",
+  "topic": "listening",
+  "description": "Listen for opinions, suggestions, and moderate-length everyday statements.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Acho que devemos sair mais cedo.",
+      "options": [
+        "Acho que devemos sair mais cedo.",
+        "Acho que devemos sair mais tarde.",
+        "Acho que podemos sair mais cedo.",
+        "Acho que devemos chegar mais cedo."
+      ],
+      "answer": "Acho que devemos sair mais cedo.",
+      "explanation": "'Devemos sair mais cedo' means 'we should leave earlier'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Espero que a reunião termine logo.",
+      "options": [
+        "Espero que a reunião termine logo.",
+        "Espero que a reunião termina logo.",
+        "Espero que a aula termine logo.",
+        "Espero que a reunião comece logo."
+      ],
+      "answer": "Espero que a reunião termine logo.",
+      "explanation": "The subjunctive 'termine' follows 'espero que'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Por favor, envie o relatório hoje.",
+      "options": [
+        "Por favor, envie o relatório hoje.",
+        "Por favor, enviou o relatório hoje.",
+        "Por favor, envie o recibo hoje.",
+        "Por favor, leve o relatório hoje."
+      ],
+      "answer": "Por favor, envie o relatório hoje.",
+      "explanation": "'Envie' is a polite command for 'send'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Não se esqueça de trazer os documentos.",
+      "options": [
+        "Não se esqueça de trazer os documentos.",
+        "Não se esqueça de assinar os documentos.",
+        "Não esqueceu de trazer os documentos.",
+        "Não se esqueça de trazer as chaves."
+      ],
+      "answer": "Não se esqueça de trazer os documentos.",
+      "explanation": "Listen for 'trazer os documentos'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O projeto ficou melhor do que eu esperava.",
+      "options": [
+        "O projeto ficou melhor do que eu esperava.",
+        "O projeto ficou menor do que eu esperava.",
+        "O produto ficou melhor do que eu esperava.",
+        "O projeto ficou pior do que eu esperava."
+      ],
+      "answer": "O projeto ficou melhor do que eu esperava.",
+      "explanation": "'Melhor' means 'better', not 'menor' or 'pior'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Se você puder, me avise antes das seis.",
+      "options": [
+        "Se você puder, me avise antes das seis.",
+        "Se você puder, me ligue antes das seis.",
+        "Se você podia, me avise antes das seis.",
+        "Se vocês puderem, me avisem antes das seis."
+      ],
+      "answer": "Se você puder, me avise antes das seis.",
+      "explanation": "'Se você puder' means 'if you can'."
+    }
+  ]
+}

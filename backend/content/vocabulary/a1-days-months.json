@@ -1,0 +1,129 @@
+{
+  "id": "a1-days-months",
+  "level": "A1",
+  "title": "Days & Months",
+  "theme": "calendar",
+  "description": "Basic calendar words for making plans and saying when things happen.",
+  "cards": [
+    {
+      "id": "cal-hoje",
+      "pt": "hoje",
+      "en": "today",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈo.ʒi",
+      "example": {
+        "pt": "Hoje eu estudo português.",
+        "en": "Today I study Portuguese."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-amanha",
+      "pt": "amanhã",
+      "en": "tomorrow",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "amɐˈɲɐ̃",
+      "example": {
+        "pt": "Amanhã temos prova.",
+        "en": "Tomorrow we have a test."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-ontem",
+      "pt": "ontem",
+      "en": "yesterday",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈõ.tẽj",
+      "example": {
+        "pt": "Ontem choveu muito.",
+        "en": "Yesterday it rained a lot."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-segunda",
+      "pt": "segunda-feira",
+      "en": "Monday",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "seˈgũ.dɐ ˈfej.ɾɐ",
+      "example": {
+        "pt": "A reunião é segunda-feira.",
+        "en": "The meeting is on Monday."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-sexta",
+      "pt": "sexta-feira",
+      "en": "Friday",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈseʃ.tɐ ˈfej.ɾɐ",
+      "example": {
+        "pt": "Sexta-feira eu vou ao cinema.",
+        "en": "On Friday I am going to the movies."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-fim-semana",
+      "pt": "fim de semana",
+      "en": "weekend",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "fĩ dʒi seˈmɐ̃.nɐ",
+      "example": {
+        "pt": "No fim de semana, descanso.",
+        "en": "On the weekend, I rest."
+      },
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "id": "cal-janeiro",
+      "pt": "janeiro",
+      "en": "January",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʒaˈnej.ɾu",
+      "example": {
+        "pt": "Janeiro é quente no Brasil.",
+        "en": "January is hot in Brazil."
+      },
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "id": "cal-dezembro",
+      "pt": "dezembro",
+      "en": "December",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "deˈzẽ.bɾu",
+      "example": {
+        "pt": "Dezembro tem muitas festas.",
+        "en": "December has many parties."
+      },
+      "tags": [
+        "months"
+      ]
+    }
+  ]
+}

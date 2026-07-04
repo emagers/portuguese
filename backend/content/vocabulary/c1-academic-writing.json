@@ -1,0 +1,132 @@
+{
+  "id": "c1-academic-writing",
+  "level": "C1",
+  "title": "Academic Writing",
+  "theme": "academic-writing",
+  "description": "Formal academic writing vocabulary for arguments, citations, structure and evidence.",
+  "cards": [
+    {
+      "id": "acad-tese",
+      "pt": "tese",
+      "en": "thesis",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈte.zi",
+      "example": {
+        "pt": "A tese central aparece na introdução.",
+        "en": "The central thesis appears in the introduction."
+      },
+      "tags": [
+        "academic-writing"
+      ]
+    },
+    {
+      "id": "acad-argumento",
+      "pt": "argumento",
+      "en": "argument",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aʁguˈmẽ.tu",
+      "example": {
+        "pt": "O argumento precisa de mais evidências.",
+        "en": "The argument needs more evidence."
+      },
+      "tags": [
+        "academic-writing"
+      ]
+    },
+    {
+      "id": "acad-citacao",
+      "pt": "citação",
+      "en": "citation; quotation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "si.taˈsɐ̃w",
+      "example": {
+        "pt": "Inclua a citação no formato correto.",
+        "en": "Include the citation in the correct format."
+      },
+      "tags": [
+        "academic-writing"
+      ]
+    },
+    {
+      "id": "acad-referencial-teorico",
+      "pt": "referencial teórico",
+      "en": "theoretical framework",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁefeɾẽsiˈaw teˈɔɾiku",
+      "example": {
+        "pt": "O referencial teórico está bem definido.",
+        "en": "The theoretical framework is well defined."
+      },
+      "tags": [
+        "academic-writing"
+      ]
+    },
+    {
+      "id": "acad-delinear",
+      "pt": "delinear",
+      "en": "to outline",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "delineˈaʁ",
+      "example": {
+        "pt": "O artigo delineia três objetivos.",
+        "en": "The article outlines three objectives."
+      },
+      "tags": [
+        "academic-writing",
+        "verbs"
+      ]
+    },
+    {
+      "id": "acad-corroborar",
+      "pt": "corroborar",
+      "en": "to corroborate",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "koʁoboˈɾaʁ",
+      "example": {
+        "pt": "Os dados corroboram a hipótese.",
+        "en": "The data corroborate the hypothesis."
+      },
+      "tags": [
+        "academic-writing",
+        "verbs"
+      ]
+    },
+    {
+      "id": "acad-contrapor",
+      "pt": "contrapor",
+      "en": "to contrast; oppose",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "kõtɾaˈpoʁ",
+      "example": {
+        "pt": "O autor contrapõe duas interpretações.",
+        "en": "The author contrasts two interpretations."
+      },
+      "tags": [
+        "academic-writing",
+        "verbs"
+      ]
+    },
+    {
+      "id": "acad-lacuna",
+      "pt": "lacuna",
+      "en": "gap",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "laˈku.nɐ",
+      "example": {
+        "pt": "O estudo identifica uma lacuna na literatura.",
+        "en": "The study identifies a gap in the literature."
+      },
+      "tags": [
+        "academic-writing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "a2-quiz-travel-vocab",
+  "level": "A2",
+  "title": "Travel & City Vocabulary",
+  "topic": "vocab",
+  "description": "Review practical words for transportation, directions, lodging, and city life.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'rodoviária' mean?",
+      "options": [
+        "bus station",
+        "airport",
+        "subway station",
+        "hotel lobby"
+      ],
+      "answer": "bus station",
+      "explanation": "A 'rodoviária' is an intercity bus station in Brazil."
+    },
+    {
+      "id": "q2",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'I need a ticket.'",
+      "options": [
+        "Eu preciso de uma passagem.",
+        "Eu preciso uma passagem.",
+        "Eu preciso do passagem.",
+        "Eu precisa de uma passagem."
+      ],
+      "answer": "Eu preciso de uma passagem.",
+      "explanation": "'Precisar de' is followed by 'de': 'preciso de uma passagem'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'turn right'?",
+      "options": [
+        "vire à direita",
+        "vire à esquerda",
+        "siga em frente",
+        "volte amanhã"
+      ],
+      "answer": "vire à direita",
+      "explanation": "'Direita' means 'right' as a direction."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which word means 'suitcase'?",
+      "options": [
+        "mala",
+        "chave",
+        "rua",
+        "conta"
+      ],
+      "answer": "mala",
+      "explanation": "'Mala' means 'suitcase' or 'bag'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_pt_en",
+      "prompt": "O hotel fica perto da praia.",
+      "options": [
+        "The hotel is near the beach.",
+        "The hotel is far from the beach.",
+        "The beach is near the airport.",
+        "The hotel is on the beach."
+      ],
+      "answer": "The hotel is near the beach.",
+      "explanation": "'Fica perto de' means 'is located near'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "At a restaurant, what is 'a conta'?",
+      "options": [
+        "the bill",
+        "the table",
+        "the menu",
+        "the waiter"
+      ],
+      "answer": "the bill",
+      "explanation": "'A conta, por favor' means 'The bill, please'."
+    }
+  ]
+}

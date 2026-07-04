@@ -1,0 +1,58 @@
+{
+  "id": "a1-quiz-pronouns-ser",
+  "level": "A1",
+  "title": "Subject Pronouns & the verb 'ser'",
+  "topic": "grammar",
+  "description": "Test your knowledge of Brazilian subject pronouns and the present tense of 'ser' (to be).",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which pronoun do Brazilians normally use for informal 'you'?",
+      "options": ["tu", "você", "vós", "o senhor"],
+      "answer": "você",
+      "explanation": "Most of Brazil uses 'você' for both formal and informal 'you'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu ___ brasileiro. (ser)",
+      "options": ["sou", "é", "somos", "são"],
+      "answer": "sou",
+      "explanation": "'Eu sou' = 'I am'."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "prompt": "Complete: Você ___ meu amigo. (ser)",
+      "options": ["sou", "é", "somos", "são"],
+      "answer": "é",
+      "explanation": "'Você' takes the third-person form 'é', just like 'ele/ela é'."
+    },
+    {
+      "id": "q4",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'We are students.'",
+      "options": ["Nós somos estudantes.", "Eu sou estudante.", "Eles são estudantes.", "Você é estudante."],
+      "answer": "Nós somos estudantes.",
+      "explanation": "'Nós somos' = 'we are'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is correct in Brazilian Portuguese?",
+      "options": ["A gente vai à praia.", "A gente vamos à praia.", "A gente vão à praia.", "A gente são à praia."],
+      "answer": "A gente vai à praia.",
+      "explanation": "'A gente' means 'we' but takes a singular verb: 'vai'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ela mora no Rio de Janeiro.",
+      "options": ["Ela mora no Rio de Janeiro.", "Ele mora no Rio de Janeiro.", "Ela mora em São Paulo.", "Eu moro no Rio de Janeiro."],
+      "answer": "Ela mora no Rio de Janeiro.",
+      "explanation": "'Ela' = she; 'mora' = lives."
+    }
+  ]
+}

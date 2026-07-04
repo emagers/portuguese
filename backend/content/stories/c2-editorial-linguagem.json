@@ -1,0 +1,102 @@
+{
+  "id": "c2-editorial-linguagem",
+  "level": "C2",
+  "type": "story",
+  "title": "The Words We Inherit",
+  "titlePt": "As Palavras que Herdamos",
+  "summary": "An advanced editorial-style reflection on idioms, social memory, and responsibility in language.",
+  "paragraphs": [
+    {
+      "pt": "Toda língua carrega móveis antigos: expressões herdadas, provérbios mancos, elogios que já nasceram com ferrugem. A gente os usa no automático, como quem se senta numa cadeira de família sem reparar que uma perna está bamba. Só depois, quando alguém tropeça no sentido, percebemos que certas frases vinham servindo de enfeite para preconceitos muito bem acomodados.",
+      "en": "Every language carries old furniture: inherited expressions, limping proverbs, compliments already born rusty. We use them automatically, like someone sitting in a family chair without noticing that one leg is wobbly. Only later, when someone trips over the meaning, do we realize that certain phrases had been serving as decoration for very comfortably settled prejudices."
+    },
+    {
+      "pt": "Há quem reaja dizendo que “agora não se pode falar mais nada”. A frase, além de dramática, é preguiçosa. Pode-se falar muita coisa; talvez seja preciso apenas escutar o eco do que se diz. Rever uma expressão não apaga avós, bairros, infâncias. Ao contrário: permite separar afeto de violência, memória de reprodução automática. Nem tudo que veio de longe merece altar; algumas heranças pedem museu, outras pedem descarte.",
+      "en": "Some react by saying that 'now you can't say anything anymore.' The phrase, besides being dramatic, is lazy. One can say many things; perhaps it is only necessary to listen to the echo of what one says. Revising an expression does not erase grandparents, neighborhoods, childhoods. On the contrary: it allows us to separate affection from violence, memory from automatic reproduction. Not everything that came from far back deserves an altar; some inheritances ask for a museum, others for disposal."
+    },
+    {
+      "pt": "Isso não significa policiar cada sílaba com pavor burocrático. Língua viva tropeça, inventa, ri de si mesma. Mas liberdade verbal não é salvo-conduto para repetir dano e chamar de tradição. O desafio é mais fino: preservar a graça, a malícia, o tempero popular, sem fingir que palavras não ferem. Quem ama uma língua não a congela. Remexe suas gavetas, limpa o cupim, troca a dobradiça e, quando necessário, admite que aquele móvel bonito demais para jogar fora talvez precise, enfim, de outro uso.",
+      "en": "This does not mean policing every syllable with bureaucratic dread. A living language stumbles, invents, laughs at itself. But verbal freedom is not a safe-conduct pass to repeat harm and call it tradition. The challenge is subtler: to preserve grace, wit, and popular flavor without pretending that words do not wound. Those who love a language do not freeze it. They rummage through its drawers, clean out the termites, replace the hinge, and, when necessary, admit that a piece of furniture too beautiful to throw away may finally need another use."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "provérbios mancos",
+      "en": "limping/flawed proverbs"
+    },
+    {
+      "pt": "ferrugem",
+      "en": "rust"
+    },
+    {
+      "pt": "no automático",
+      "en": "automatically"
+    },
+    {
+      "pt": "preconceitos",
+      "en": "prejudices"
+    },
+    {
+      "pt": "salvo-conduto",
+      "en": "safe-conduct pass / license"
+    },
+    {
+      "pt": "malícia",
+      "en": "wit / slyness"
+    },
+    {
+      "pt": "cupim",
+      "en": "termite"
+    },
+    {
+      "pt": "dobradiça",
+      "en": "hinge"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What metaphor organizes the text?",
+      "options": [
+        "Language as inherited old furniture",
+        "Language as a sports match",
+        "Language as a train schedule",
+        "Language as a beach resort"
+      ],
+      "answer": "Language as inherited old furniture"
+    },
+    {
+      "id": "c2",
+      "question": "How does the author view the phrase 'now you can't say anything anymore'?",
+      "options": [
+        "As dramatic and lazy",
+        "As precise and brave",
+        "As a legal rule",
+        "As a proverb worth preserving"
+      ],
+      "answer": "As dramatic and lazy"
+    },
+    {
+      "id": "c3",
+      "question": "What does revising expressions allow?",
+      "options": [
+        "Separating affection from violence",
+        "Erasing every memory",
+        "Ending all humor",
+        "Freezing language"
+      ],
+      "answer": "Separating affection from violence"
+    },
+    {
+      "id": "c4",
+      "question": "What does the author say about loving a language?",
+      "options": [
+        "It means changing and caring for it, not freezing it",
+        "It means never questioning any phrase",
+        "It means using only formal words",
+        "It means throwing away all idioms"
+      ],
+      "answer": "It means changing and caring for it, not freezing it"
+    }
+  ]
+}

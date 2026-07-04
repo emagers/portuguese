@@ -1,0 +1,97 @@
+{
+  "id": "c2-04-mesoclise-formal",
+  "level": "C2",
+  "order": 4,
+  "title": "Mesóclise and Highly Formal Pronoun Placement",
+  "titlePt": "Mesóclise e colocação pronominal formal",
+  "summary": "Understand mesóclise forms such as far-se-á and when they appear in formal Brazilian writing.",
+  "tags": [
+    "pronouns",
+    "formal",
+    "mesoclise"
+  ],
+  "sections": [
+    {
+      "heading": "What mesóclise is",
+      "body": "**Mesóclise** places an object pronoun inside a future or conditional verb form: **far-se-á**, **dir-se-ia**. It is rare in speech and mostly appears in legal, ceremonial, or very formal writing.",
+      "examples": [
+        {
+          "pt": "Far-se-á justiça.",
+          "en": "Justice will be done."
+        },
+        {
+          "pt": "Dir-se-ia que todos concordavam.",
+          "en": "One would say that everyone agreed."
+        },
+        {
+          "pt": "Realizar-se-á a cerimônia às dez horas.",
+          "en": "The ceremony will be held at ten o'clock."
+        }
+      ]
+    },
+    {
+      "heading": "When mesóclise is blocked",
+      "body": "If a word that attracts the pronoun comes before the verb—such as **não**, **que**, **se**, **talvez**, or many adverbs—use próclise instead of mesóclise.",
+      "examples": [
+        {
+          "pt": "Não se fará justiça assim.",
+          "en": "Justice will not be done this way."
+        },
+        {
+          "pt": "Espero que se realize a cerimônia.",
+          "en": "I hope the ceremony is held."
+        },
+        {
+          "pt": "Talvez se diria outra coisa em público.",
+          "en": "Perhaps something else would be said in public."
+        }
+      ]
+    },
+    {
+      "heading": "Brazilian practical usage",
+      "body": "In Brazil, mesóclise can sound solemn, archaic, bureaucratic, or humorous if used outside formal contexts. Most modern communication uses a simpler structure.",
+      "examples": [
+        {
+          "pt": "A cerimônia será realizada às dez.",
+          "en": "The ceremony will be held at ten.",
+          "note": "modern formal alternative"
+        },
+        {
+          "pt": "Vamos fazer justiça.",
+          "en": "We will do justice.",
+          "note": "plain spoken alternative"
+        },
+        {
+          "pt": "Enviar-lhe-ei os documentos.",
+          "en": "I shall send you the documents.",
+          "note": "very formal and marked"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Mesóclise inserts pronouns into future or conditional verb forms.",
+    "It is rare in Brazilian speech and marked in writing.",
+    "Negative words and many subordinators trigger próclise instead.",
+    "Prefer clearer modern alternatives unless analyzing formal texts."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Não far-se-á isso.",
+      "right": "Não se fará isso.",
+      "note": "Não attracts the pronoun before the verb."
+    },
+    {
+      "wrong": "Fazer-se-á amanhã.",
+      "right": "Far-se-á amanhã.",
+      "note": "Mesóclise uses the future form, not the infinitive."
+    },
+    {
+      "wrong": "Vou enviar-lhe-ei.",
+      "right": "Enviar-lhe-ei. / Vou lhe enviar.",
+      "note": "Do not combine ir + infinitive with a mesoclitic future form."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

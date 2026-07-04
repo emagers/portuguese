@@ -1,0 +1,88 @@
+{
+  "id": "a2-quiz-mixed-review",
+  "level": "A2",
+  "title": "A2 Mixed Review",
+  "topic": "mixed",
+  "description": "Review prepositions, object pronouns, past forms, and practical expressions.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu gosto ___ música brasileira.",
+      "options": [
+        "de",
+        "em",
+        "por",
+        "para"
+      ],
+      "answer": "de",
+      "explanation": "The verb 'gostar' requires 'de'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a natural Brazilian object pronoun?",
+      "options": [
+        "Eu te vi ontem.",
+        "Eu vi tu ontem.",
+        "Eu vi-te ontem.",
+        "Eu viste ontem."
+      ],
+      "answer": "Eu te vi ontem.",
+      "explanation": "'Eu te vi' is common and natural in Brazilian Portuguese."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "Nós estávamos cansados.",
+      "options": [
+        "We were tired.",
+        "We are tired.",
+        "They were tired.",
+        "We will be tired."
+      ],
+      "answer": "We were tired.",
+      "explanation": "'Estávamos' is the imperfect past of 'estar' for 'nós'."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Ele chegou ___ Brasil ontem.",
+      "options": [
+        "no",
+        "na",
+        "ao",
+        "à"
+      ],
+      "answer": "ao",
+      "explanation": "With 'chegar' and the country 'Brasil', use 'ao Brasil'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct preterite form: 'They left early.'",
+      "options": [
+        "Eles saíram cedo.",
+        "Eles saem cedo.",
+        "Eles saíam cedo.",
+        "Eles vão sair cedo."
+      ],
+      "answer": "Eles saíram cedo.",
+      "explanation": "'Saíram' is the preterite form for 'eles'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Vou comprar pão na padaria.",
+      "options": [
+        "Vou comprar pão na padaria.",
+        "Comprei pão na padaria.",
+        "Vou comprar pão no mercado.",
+        "Vou cortar pão na padaria."
+      ],
+      "answer": "Vou comprar pão na padaria.",
+      "explanation": "The sentence uses 'vou comprar', a near-future form."
+    }
+  ]
+}

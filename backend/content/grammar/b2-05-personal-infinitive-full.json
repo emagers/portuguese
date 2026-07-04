@@ -1,0 +1,96 @@
+{
+  "id": "b2-05-personal-infinitive-full",
+  "level": "B2",
+  "order": 5,
+  "title": "Personal Infinitive in Depth",
+  "titlePt": "Infinitivo pessoal em profundidade",
+  "summary": "Master when to use personal infinitives with explicit subjects, prepositions, and formal style.",
+  "tags": [
+    "infinitive",
+    "verbs",
+    "syntax"
+  ],
+  "sections": [
+    {
+      "heading": "When it is required or strongly preferred",
+      "body": "Use the personal infinitive when the infinitive has an explicit subject different from the main clause or when the ending prevents ambiguity.",
+      "examples": [
+        {
+          "pt": "É melhor vocês saírem agora.",
+          "en": "It is better for you all to leave now."
+        },
+        {
+          "pt": "O gerente autorizou os funcionários a trabalharem de casa.",
+          "en": "The manager authorized the employees to work from home."
+        },
+        {
+          "pt": "Para nós chegarmos a tempo, precisamos sair cedo.",
+          "en": "For us to arrive on time, we need to leave early."
+        }
+      ]
+    },
+    {
+      "heading": "After prepositions and connectors",
+      "body": "It is especially common after **antes de**, **depois de**, **para**, **por**, **sem**, **ao**, and **apesar de** when the subject is clear or contrastive.",
+      "examples": [
+        {
+          "pt": "Depois de terminarmos, vamos jantar.",
+          "en": "After we finish, we'll have dinner."
+        },
+        {
+          "pt": "Apesar de eles morarem longe, vêm sempre.",
+          "en": "Although they live far away, they always come."
+        },
+        {
+          "pt": "Ao chegarem, assinem a lista.",
+          "en": "Upon arriving, sign the list."
+        }
+      ]
+    },
+    {
+      "heading": "Plain infinitive vs personal infinitive",
+      "body": "If the subject is generic or identical to the main subject, the plain infinitive is often better. Overusing endings can sound heavy.",
+      "examples": [
+        {
+          "pt": "Gosto de cozinhar.",
+          "en": "I like cooking."
+        },
+        {
+          "pt": "Gosto de nós cozinharmos juntos.",
+          "en": "I like us cooking together.",
+          "note": "explicit different subject"
+        },
+        {
+          "pt": "É difícil aprender uma língua sozinho.",
+          "en": "It is hard to learn a language alone.",
+          "note": "generic"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Personal infinitive clarifies who performs the infinitive action.",
+    "It is frequent after prepositions when subjects differ.",
+    "Avoid it when the subject is generic or obviously the same.",
+    "Formal writing uses it more often than casual speech."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "É melhor vocês sair.",
+      "right": "É melhor vocês saírem.",
+      "note": "Explicit plural subject needs -em."
+    },
+    {
+      "wrong": "Apesar de eles mora longe...",
+      "right": "Apesar de eles morarem longe...",
+      "note": "Use personal infinitive after apesar de with explicit subject."
+    },
+    {
+      "wrong": "Eu gosto de eu cozinhar.",
+      "right": "Eu gosto de cozinhar.",
+      "note": "Same subject: plain infinitive is natural."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

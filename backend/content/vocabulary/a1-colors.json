@@ -1,0 +1,133 @@
+{
+  "id": "a1-colors",
+  "level": "A1",
+  "title": "Colors",
+  "theme": "colors",
+  "description": "Common colors used to describe clothes, objects, rooms and preferences.",
+  "cards": [
+    {
+      "id": "col-branco",
+      "pt": "branco / branca",
+      "en": "white",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈbɾɐ̃.ku",
+      "example": {
+        "pt": "A parede é branca.",
+        "en": "The wall is white."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-preto",
+      "pt": "preto / preta",
+      "en": "black",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈpɾe.tu",
+      "example": {
+        "pt": "Ele usa uma camisa preta.",
+        "en": "He is wearing a black shirt."
+      },
+      "tags": [
+        "colors",
+        "clothing"
+      ]
+    },
+    {
+      "id": "col-azul",
+      "pt": "azul",
+      "en": "blue",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "aˈzuw",
+      "example": {
+        "pt": "O céu está azul.",
+        "en": "The sky is blue."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-vermelho",
+      "pt": "vermelho / vermelha",
+      "en": "red",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "veʁˈme.ʎu",
+      "example": {
+        "pt": "Comprei uma maçã vermelha.",
+        "en": "I bought a red apple."
+      },
+      "tags": [
+        "colors",
+        "food"
+      ]
+    },
+    {
+      "id": "col-verde",
+      "pt": "verde",
+      "en": "green",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈveʁ.dʒi",
+      "example": {
+        "pt": "A porta verde está aberta.",
+        "en": "The green door is open."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-amarelo",
+      "pt": "amarelo / amarela",
+      "en": "yellow",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "amaˈɾɛ.lu",
+      "example": {
+        "pt": "O ônibus amarelo parou aqui.",
+        "en": "The yellow bus stopped here."
+      },
+      "tags": [
+        "colors",
+        "transportation"
+      ]
+    },
+    {
+      "id": "col-rosa",
+      "pt": "rosa",
+      "en": "pink",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈʁɔ.zɐ",
+      "example": {
+        "pt": "Ela quer flores rosas.",
+        "en": "She wants pink flowers."
+      },
+      "tags": [
+        "colors"
+      ]
+    },
+    {
+      "id": "col-cinza",
+      "pt": "cinza",
+      "en": "gray",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈsĩ.zɐ",
+      "example": {
+        "pt": "O dia está cinza.",
+        "en": "The day is gray."
+      },
+      "tags": [
+        "colors",
+        "weather"
+      ]
+    }
+  ]
+}

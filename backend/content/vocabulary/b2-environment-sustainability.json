@@ -1,0 +1,131 @@
+{
+  "id": "b2-environment-sustainability",
+  "level": "B2",
+  "title": "Environment & Sustainability",
+  "theme": "environment",
+  "description": "Vocabulary for environmental problems, conservation and sustainable habits.",
+  "cards": [
+    {
+      "id": "env-sustentabilidade",
+      "pt": "sustentabilidade",
+      "en": "sustainability",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "sustẽtabilidaˈdʒi",
+      "example": {
+        "pt": "A sustentabilidade deve orientar o projeto.",
+        "en": "Sustainability should guide the project."
+      },
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "id": "env-desmatamento",
+      "pt": "desmatamento",
+      "en": "deforestation",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "dezmataˈmẽ.tu",
+      "example": {
+        "pt": "O desmatamento ameaça a biodiversidade.",
+        "en": "Deforestation threatens biodiversity."
+      },
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "id": "env-reciclagem",
+      "pt": "reciclagem",
+      "en": "recycling",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁesiklaˈʒẽj",
+      "example": {
+        "pt": "A reciclagem reduz o lixo.",
+        "en": "Recycling reduces waste."
+      },
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "id": "env-poluicao",
+      "pt": "poluição",
+      "en": "pollution",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "poluˈisɐ̃w",
+      "example": {
+        "pt": "A poluição do rio preocupa os moradores.",
+        "en": "Pollution of the river worries residents."
+      },
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "id": "env-energia-renovavel",
+      "pt": "energia renovável",
+      "en": "renewable energy",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eneʁˈʒi.ɐ ʁenovˈavɛw",
+      "example": {
+        "pt": "O país investe em energia renovável.",
+        "en": "The country invests in renewable energy."
+      },
+      "tags": [
+        "environment",
+        "energy"
+      ]
+    },
+    {
+      "id": "env-residuo",
+      "pt": "resíduo",
+      "en": "waste; residue",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁeˈzi.du.u",
+      "example": {
+        "pt": "A fábrica trata seus resíduos.",
+        "en": "The factory treats its waste."
+      },
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "id": "env-preservar",
+      "pt": "preservar",
+      "en": "to preserve",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "pɾezeʁˈvaʁ",
+      "example": {
+        "pt": "Precisamos preservar a mata nativa.",
+        "en": "We need to preserve native forest."
+      },
+      "tags": [
+        "environment",
+        "verbs"
+      ]
+    },
+    {
+      "id": "env-impacto-ambiental",
+      "pt": "impacto ambiental",
+      "en": "environmental impact",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈpak.tu ɐ̃bjẽˈtaw",
+      "example": {
+        "pt": "O relatório mede o impacto ambiental.",
+        "en": "The report measures the environmental impact."
+      },
+      "tags": [
+        "environment"
+      ]
+    }
+  ]
+}

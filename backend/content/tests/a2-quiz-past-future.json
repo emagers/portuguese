@@ -1,0 +1,87 @@
+{
+  "id": "a2-quiz-past-future",
+  "level": "A2",
+  "title": "Past Tense & Near Future",
+  "topic": "grammar",
+  "description": "Practice common preterite forms and the near future with 'ir + infinitive'.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Ontem eu ___ arroz com feijão. (comer)",
+      "options": [
+        "como",
+        "comi",
+        "comia",
+        "vou comer"
+      ],
+      "answer": "comi",
+      "explanation": "'Ontem' calls for the preterite: 'eu comi'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Nós ___ ao cinema no sábado passado. (ir)",
+      "options": [
+        "vamos",
+        "fomos",
+        "íamos",
+        "vão"
+      ],
+      "answer": "fomos",
+      "explanation": "The preterite of 'ir' with 'nós' is 'fomos'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses the near future correctly?",
+      "options": [
+        "Eu vou estudar hoje.",
+        "Eu vai estudar hoje.",
+        "Eu fui estudar hoje.",
+        "Eu vou estudei hoje."
+      ],
+      "answer": "Eu vou estudar hoje.",
+      "explanation": "Near future is 'ir' in the present plus infinitive: 'vou estudar'."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Ela ___ português quando era criança. (falar)",
+      "options": [
+        "falou",
+        "falava",
+        "fala",
+        "vai falar"
+      ],
+      "answer": "falava",
+      "explanation": "'Quando era criança' describes a habitual past action, so the imperfect 'falava' fits."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'They bought a car yesterday.'",
+      "options": [
+        "Eles compraram um carro ontem.",
+        "Eles compram um carro ontem.",
+        "Eles compravam um carro ontem.",
+        "Eles vão comprar um carro ontem."
+      ],
+      "answer": "Eles compraram um carro ontem.",
+      "explanation": "A completed action yesterday uses the preterite 'compraram'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct translation of 'I am going to call you later.'",
+      "options": [
+        "Eu vou te ligar mais tarde.",
+        "Eu te liguei mais tarde.",
+        "Eu te ligava mais tarde.",
+        "Eu vou te liguei mais tarde."
+      ],
+      "answer": "Eu vou te ligar mais tarde.",
+      "explanation": "'Vou te ligar' is natural Brazilian Portuguese for 'I am going to call you'."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "a2-time-daily-routine",
+  "level": "A2",
+  "title": "Time & Daily Routine",
+  "theme": "routine",
+  "description": "Words and phrases for describing daily habits, schedules and repeated activities.",
+  "cards": [
+    {
+      "id": "routine-acordar",
+      "pt": "acordar",
+      "en": "to wake up",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "akoʁˈdaʁ",
+      "example": {
+        "pt": "Eu acordo cedo durante a semana.",
+        "en": "I wake up early during the week."
+      },
+      "tags": [
+        "routine",
+        "verbs"
+      ]
+    },
+    {
+      "id": "routine-tomar-banho",
+      "pt": "tomar banho",
+      "en": "to take a shower",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "toˈmaʁ ˈbɐ̃.ɲu",
+      "example": {
+        "pt": "Depois de correr, tomo banho.",
+        "en": "After running, I take a shower."
+      },
+      "tags": [
+        "routine"
+      ]
+    },
+    {
+      "id": "routine-cafe-manha",
+      "pt": "café da manhã",
+      "en": "breakfast",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaˈfɛ dɐ maˈɲɐ̃",
+      "example": {
+        "pt": "O café da manhã está pronto.",
+        "en": "Breakfast is ready."
+      },
+      "tags": [
+        "routine",
+        "food"
+      ]
+    },
+    {
+      "id": "routine-almocar",
+      "pt": "almoçar",
+      "en": "to have lunch",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "awmoˈsaʁ",
+      "example": {
+        "pt": "Vamos almoçar ao meio-dia.",
+        "en": "We are going to have lunch at noon."
+      },
+      "tags": [
+        "routine",
+        "food"
+      ]
+    },
+    {
+      "id": "routine-jantar",
+      "pt": "jantar",
+      "en": "to have dinner; dinner",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ʒɐ̃ˈtaʁ",
+      "example": {
+        "pt": "Eles jantam às oito.",
+        "en": "They have dinner at eight."
+      },
+      "tags": [
+        "routine",
+        "food"
+      ]
+    },
+    {
+      "id": "routine-cedo",
+      "pt": "cedo",
+      "en": "early",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈse.du",
+      "example": {
+        "pt": "Cheguei cedo à escola.",
+        "en": "I arrived early at school."
+      },
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "routine-tarde",
+      "pt": "tarde",
+      "en": "late; afternoon",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈtaʁ.dʒi",
+      "example": {
+        "pt": "Não durma muito tarde.",
+        "en": "Do not sleep too late."
+      },
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "routine-deitar",
+      "pt": "deitar",
+      "en": "to lie down; go to bed",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "dejˈtaʁ",
+      "example": {
+        "pt": "Costumo deitar antes das onze.",
+        "en": "I usually go to bed before eleven."
+      },
+      "tags": [
+        "routine"
+      ]
+    }
+  ]
+}

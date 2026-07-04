@@ -1,0 +1,95 @@
+{
+  "id": "b2-10-uses-of-ficar",
+  "level": "B2",
+  "order": 10,
+  "title": "The Many Uses of FICAR",
+  "titlePt": "Os muitos usos de FICAR",
+  "summary": "Use ficar for location, becoming, results, arrangements, remaining, and colloquial relationships.",
+  "tags": [
+    "verbs",
+    "ficar",
+    "semantics"
+  ],
+  "sections": [
+    {
+      "heading": "Location and situatedness",
+      "body": "**Ficar** often means 'to be located' for relatively fixed places. It differs from **estar**, which often describes current location.",
+      "examples": [
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?"
+        },
+        {
+          "pt": "A farmácia fica na esquina.",
+          "en": "The pharmacy is on the corner."
+        },
+        {
+          "pt": "O hotel fica perto da praia.",
+          "en": "The hotel is near the beach."
+        }
+      ]
+    },
+    {
+      "heading": "Becoming and resulting state",
+      "body": "**Ficar + adjective/participle** expresses a change into a state or the result after something happens.",
+      "examples": [
+        {
+          "pt": "Fiquei cansado depois da viagem.",
+          "en": "I got tired after the trip."
+        },
+        {
+          "pt": "Ela ficou feliz com a notícia.",
+          "en": "She became happy because of the news."
+        },
+        {
+          "pt": "A porta ficou aberta a noite toda.",
+          "en": "The door stayed open all night."
+        }
+      ]
+    },
+    {
+      "heading": "Arrangements, remaining, and relationships",
+      "body": "Ficar also means to stay/remain, to keep something, to agree on an arrangement, or colloquially to kiss/date casually.",
+      "examples": [
+        {
+          "pt": "Vou ficar em casa hoje.",
+          "en": "I'm going to stay home today."
+        },
+        {
+          "pt": "Ficamos de conversar amanhã.",
+          "en": "We agreed to talk tomorrow."
+        },
+        {
+          "pt": "Eles ficaram na festa.",
+          "en": "They hooked up at the party.",
+          "note": "colloquial; context-dependent"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ficar can mean be located, stay, become, remain, or arrange.",
+    "Ficar + adjective often means 'become/get'.",
+    "Ficar de + infinitive means to agree/arrange to do something.",
+    "Colloquial ficar can mean to kiss or casually date someone."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Onde está o banco?",
+      "right": "Onde fica o banco?",
+      "note": "For fixed location of a place, ficar is more natural."
+    },
+    {
+      "wrong": "Ela ficou uma médica.",
+      "right": "Ela virou médica. / Ela se tornou médica.",
+      "note": "Ficar + noun is limited; becoming a profession uses virar/se tornar."
+    },
+    {
+      "wrong": "Ficamos conversar amanhã.",
+      "right": "Ficamos de conversar amanhã.",
+      "note": "Arrangement uses ficar de + infinitive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

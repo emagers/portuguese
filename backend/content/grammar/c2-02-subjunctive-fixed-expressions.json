@@ -1,0 +1,94 @@
+{
+  "id": "c2-02-subjunctive-fixed-expressions",
+  "level": "C2",
+  "order": 2,
+  "title": "Subjunctive in Fixed Expressions",
+  "titlePt": "Subjuntivo em expressões fixas",
+  "summary": "Recognize fossilized and idiomatic subjunctive patterns that convey concession, wish, indifference, and condition.",
+  "tags": [
+    "subjunctive",
+    "idioms",
+    "advanced"
+  ],
+  "sections": [
+    {
+      "heading": "Concessive formulas",
+      "body": "Expressions such as **seja como for**, **custe o que custar**, and **aconteça o que acontecer** use the subjunctive to generalize over possibilities.",
+      "examples": [
+        {
+          "pt": "Seja como for, precisamos decidir hoje.",
+          "en": "Be that as it may, we need to decide today."
+        },
+        {
+          "pt": "Custe o que custar, vou terminar o projeto.",
+          "en": "Whatever it costs, I will finish the project."
+        },
+        {
+          "pt": "Aconteça o que acontecer, mantenha a calma.",
+          "en": "Whatever happens, stay calm."
+        }
+      ]
+    },
+    {
+      "heading": "Wishes and blessings",
+      "body": "Fixed wishes often use present subjunctive, sometimes without an explicit main clause. They can sound warm, formal, religious, ironic, or theatrical depending on context.",
+      "examples": [
+        {
+          "pt": "Que tudo dê certo.",
+          "en": "May everything work out."
+        },
+        {
+          "pt": "Deus te abençoe.",
+          "en": "God bless you."
+        },
+        {
+          "pt": "Que seja.",
+          "en": "So be it."
+        }
+      ]
+    },
+    {
+      "heading": "Indifference and choice",
+      "body": "Patterns like **quer você queira, quer não**, **goste ou não**, and **seja X, seja Y** express indifference to alternatives or exhaustive possibilities.",
+      "examples": [
+        {
+          "pt": "Quer você queira, quer não, isso vai acontecer.",
+          "en": "Whether you want it or not, this will happen."
+        },
+        {
+          "pt": "Goste ou não, a regra mudou.",
+          "en": "Like it or not, the rule changed."
+        },
+        {
+          "pt": "Seja por pressa, seja por descuido, o erro se repetiu.",
+          "en": "Whether from haste or carelessness, the error was repeated."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Fixed subjunctive expressions often generalize over all possible outcomes.",
+    "Que + subjunctive can express wishes without a main verb.",
+    "Concessive formulas are common in formal argument and everyday speech.",
+    "Many expressions are best learned as chunks."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Seja como é...",
+      "right": "Seja como for...",
+      "note": "The fixed expression uses future subjunctive for."
+    },
+    {
+      "wrong": "Custa o que custar...",
+      "right": "Custe o que custar...",
+      "note": "Use subjunctive custe."
+    },
+    {
+      "wrong": "Que tudo dá certo.",
+      "right": "Que tudo dê certo.",
+      "note": "Wishes use subjunctive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

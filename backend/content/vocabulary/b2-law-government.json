@@ -1,0 +1,133 @@
+{
+  "id": "b2-law-government",
+  "level": "B2",
+  "title": "Law & Government",
+  "theme": "law-government",
+  "description": "Civic and legal vocabulary for rights, institutions, rules and public life.",
+  "cards": [
+    {
+      "id": "law-direito",
+      "pt": "direito",
+      "en": "right; law",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "dʒiˈɾej.tu",
+      "example": {
+        "pt": "Todo cidadão tem direito à educação.",
+        "en": "Every citizen has the right to education."
+      },
+      "tags": [
+        "law",
+        "government"
+      ]
+    },
+    {
+      "id": "law-lei",
+      "pt": "lei",
+      "en": "law",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "lej",
+      "example": {
+        "pt": "A lei entrou em vigor ontem.",
+        "en": "The law came into force yesterday."
+      },
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "id": "law-juiz",
+      "pt": "juiz / juíza",
+      "en": "judge",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ʒuˈis",
+      "example": {
+        "pt": "A juíza ouviu as testemunhas.",
+        "en": "The judge heard the witnesses."
+      },
+      "tags": [
+        "law",
+        "people"
+      ]
+    },
+    {
+      "id": "law-prefeitura",
+      "pt": "prefeitura",
+      "en": "city hall; municipal government",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾefejˈtu.ɾɐ",
+      "example": {
+        "pt": "A prefeitura anunciou novas obras.",
+        "en": "City hall announced new construction projects."
+      },
+      "tags": [
+        "government"
+      ]
+    },
+    {
+      "id": "law-votacao",
+      "pt": "votação",
+      "en": "vote; voting session",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "votaˈsɐ̃w",
+      "example": {
+        "pt": "A votação terminou à noite.",
+        "en": "The vote ended at night."
+      },
+      "tags": [
+        "government",
+        "politics"
+      ]
+    },
+    {
+      "id": "law-testemunha",
+      "pt": "testemunha",
+      "en": "witness",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "testʃeˈmũ.ɲɐ",
+      "example": {
+        "pt": "A testemunha descreveu o acidente.",
+        "en": "The witness described the accident."
+      },
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "id": "law-multa",
+      "pt": "multa",
+      "en": "fine",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈmuw.tɐ",
+      "example": {
+        "pt": "Recebi uma multa de trânsito.",
+        "en": "I received a traffic fine."
+      },
+      "tags": [
+        "law",
+        "city"
+      ]
+    },
+    {
+      "id": "law-recurso",
+      "pt": "recurso",
+      "en": "appeal; resource",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁeˈkuʁ.su",
+      "example": {
+        "pt": "O advogado apresentou um recurso.",
+        "en": "The lawyer filed an appeal."
+      },
+      "tags": [
+        "law"
+      ]
+    }
+  ]
+}

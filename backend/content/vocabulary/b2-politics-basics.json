@@ -1,0 +1,134 @@
+{
+  "id": "b2-politics-basics",
+  "level": "B2",
+  "title": "Politics Basics",
+  "theme": "politics",
+  "description": "Core vocabulary for elections, representation and public institutions.",
+  "cards": [
+    {
+      "id": "pol-eleicao",
+      "pt": "eleição",
+      "en": "election",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "elejˈsɐ̃w",
+      "example": {
+        "pt": "A eleição será no domingo.",
+        "en": "The election will be on Sunday."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-candidato",
+      "pt": "candidato / candidata",
+      "en": "candidate",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "kɐ̃dʒiˈda.tu",
+      "example": {
+        "pt": "A candidata apresentou suas propostas.",
+        "en": "The candidate presented her proposals."
+      },
+      "tags": [
+        "politics",
+        "people"
+      ]
+    },
+    {
+      "id": "pol-partido",
+      "pt": "partido",
+      "en": "political party",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "paʁˈtʃi.du",
+      "example": {
+        "pt": "O partido mudou sua estratégia.",
+        "en": "The party changed its strategy."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-campanha",
+      "pt": "campanha",
+      "en": "campaign",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kɐ̃ˈpɐ.ɲɐ",
+      "example": {
+        "pt": "A campanha começou nas redes sociais.",
+        "en": "The campaign started on social media."
+      },
+      "tags": [
+        "politics",
+        "media"
+      ]
+    },
+    {
+      "id": "pol-eleitor",
+      "pt": "eleitor / eleitora",
+      "en": "voter",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "elejˈtoʁ",
+      "example": {
+        "pt": "O eleitor quer propostas claras.",
+        "en": "The voter wants clear proposals."
+      },
+      "tags": [
+        "politics",
+        "people"
+      ]
+    },
+    {
+      "id": "pol-congresso",
+      "pt": "congresso",
+      "en": "congress",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kõˈgɾe.su",
+      "example": {
+        "pt": "O congresso debateu a reforma.",
+        "en": "Congress debated the reform."
+      },
+      "tags": [
+        "politics",
+        "government"
+      ]
+    },
+    {
+      "id": "pol-mandato",
+      "pt": "mandato",
+      "en": "term of office",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "mɐ̃ˈda.tu",
+      "example": {
+        "pt": "O mandato termina no próximo ano.",
+        "en": "The term ends next year."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-debate",
+      "pt": "debate",
+      "en": "debate",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "deˈba.tʃi",
+      "example": {
+        "pt": "O debate foi transmitido ao vivo.",
+        "en": "The debate was broadcast live."
+      },
+      "tags": [
+        "politics",
+        "media"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a2-07-object-pronouns",
+  "level": "A2",
+  "order": 7,
+  "title": "Direct and Indirect Object Pronouns",
+  "titlePt": "Pronomes objeto diretos e indiretos",
+  "summary": "Replace objects with o, a, os, as, me, te, nos, and lhe in basic Brazilian usage.",
+  "tags": [
+    "pronouns",
+    "objects"
+  ],
+  "sections": [
+    {
+      "heading": "Direct objects",
+      "body": "A direct object receives the action directly. In formal writing, use **o, a, os, as** for 'him, her, it, them'. In everyday Brazilian speech, people often repeat the noun or use **ele/ela** informally, but learners should recognize the standard forms.",
+      "examples": [
+        {
+          "pt": "Eu comprei o livro.",
+          "en": "I bought the book."
+        },
+        {
+          "pt": "Eu o comprei ontem.",
+          "en": "I bought it yesterday.",
+          "note": "formal/standard"
+        },
+        {
+          "pt": "Você viu a Marina? Eu a vi no mercado.",
+          "en": "Did you see Marina? I saw her at the market."
+        }
+      ]
+    },
+    {
+      "heading": "Indirect objects",
+      "body": "Indirect objects often use **para** or **a**: to/for someone. **Lhe** can mean 'to him, to her, to you' in standard Portuguese, but **para ele/ela/você** is very common and clearer in Brazil.",
+      "examples": [
+        {
+          "pt": "Mandei uma mensagem para você.",
+          "en": "I sent you a message."
+        },
+        {
+          "pt": "Eu lhe mandei uma mensagem.",
+          "en": "I sent you/him/her a message.",
+          "note": "standard"
+        },
+        {
+          "pt": "Ela deu o endereço para o motorista.",
+          "en": "She gave the address to the driver."
+        }
+      ]
+    },
+    {
+      "heading": "Me, te, nos",
+      "body": "The forms **me**, **te**, and **nos** can be direct or indirect objects. **Te** is widely used in Brazil even with você in informal speech, but **você/para você** is always safe.",
+      "examples": [
+        {
+          "pt": "Ele me ajudou.",
+          "en": "He helped me."
+        },
+        {
+          "pt": "Vou te ligar mais tarde.",
+          "en": "I'll call you later.",
+          "note": "common informal Brazilian speech"
+        },
+        {
+          "pt": "A professora nos explicou a regra.",
+          "en": "The teacher explained the rule to us."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "O/a/os/as are standard direct object pronouns.",
+    "Para ele/ela/você is often clearer and more natural than lhe in speech.",
+    "Me, te, and nos are common before the verb in Brazil.",
+    "Object pronoun usage varies strongly by register in Brazilian Portuguese."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu vi ela ontem.",
+      "right": "Eu a vi ontem.",
+      "note": "Standard written form; 'vi ela' is common informal speech."
+    },
+    {
+      "wrong": "Mandei ele uma mensagem.",
+      "right": "Mandei uma mensagem para ele.",
+      "note": "Use para for the recipient."
+    },
+    {
+      "wrong": "Eu lhe vi.",
+      "right": "Eu o vi. / Eu vi você.",
+      "note": "Lhe is indirect; ver takes a direct object."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

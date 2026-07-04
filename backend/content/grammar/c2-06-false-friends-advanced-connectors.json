@@ -1,0 +1,96 @@
+{
+  "id": "c2-06-false-friends-advanced-connectors",
+  "level": "C2",
+  "order": 6,
+  "title": "False Friends and Rhetorical Connectors",
+  "titlePt": "Falsos cognatos e conectores retóricos",
+  "summary": "Avoid sophisticated false friends and use high-level connectors to build nuanced argumentation.",
+  "tags": [
+    "false-friends",
+    "connectors",
+    "advanced-writing"
+  ],
+  "sections": [
+    {
+      "heading": "False friends that affect precision",
+      "body": "Some cognates look familiar but carry different meanings or registers. At C2, the goal is not only avoiding mistranslation but choosing the word that fits the argument.",
+      "examples": [
+        {
+          "pt": "Atualmente, moro em Curitiba.",
+          "en": "Currently, I live in Curitiba.",
+          "note": "atualmente = currently, not actually"
+        },
+        {
+          "pt": "Na verdade, o problema é outro.",
+          "en": "Actually/In fact, the problem is another one."
+        },
+        {
+          "pt": "Ele pretende fazer mestrado.",
+          "en": "He intends to do a master's degree.",
+          "note": "pretender = intend, not pretend"
+        }
+      ]
+    },
+    {
+      "heading": "Advanced argumentative connectors",
+      "body": "Connectors such as **não obstante**, **a despeito de**, **conquanto**, **por conseguinte**, and **destarte** belong to formal writing. Use them accurately and sparingly.",
+      "examples": [
+        {
+          "pt": "Não obstante as críticas, a medida foi aprovada.",
+          "en": "Notwithstanding the criticism, the measure was approved."
+        },
+        {
+          "pt": "A despeito do atraso, o evento foi bem recebido.",
+          "en": "Despite the delay, the event was well received."
+        },
+        {
+          "pt": "Os dados são inconsistentes; por conseguinte, a conclusão é frágil.",
+          "en": "The data are inconsistent; consequently, the conclusion is weak."
+        }
+      ]
+    },
+    {
+      "heading": "Rhetorical framing",
+      "body": "High-level Portuguese often frames arguments with expressions that guide interpretation: **cumpre destacar**, **convém observar**, **não se pode perder de vista**, **à primeira vista**.",
+      "examples": [
+        {
+          "pt": "Cumpre destacar que a decisão não foi unânime.",
+          "en": "It should be noted that the decision was not unanimous."
+        },
+        {
+          "pt": "Convém observar que os números são preliminares.",
+          "en": "It is worth noting that the numbers are preliminary."
+        },
+        {
+          "pt": "À primeira vista, a solução parece simples.",
+          "en": "At first glance, the solution seems simple."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "False friends can distort both meaning and tone.",
+    "Atualmente means currently; na verdade often means actually/in fact.",
+    "Formal connectors should match the logic of the sentence precisely.",
+    "Rhetorical frames help readers understand the role of each claim."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Atualmente, eu não concordo.",
+      "right": "Na verdade, eu não concordo.",
+      "note": "Actually = na verdade; atualmente = currently."
+    },
+    {
+      "wrong": "Ele pretende estar doente.",
+      "right": "Ele finge estar doente.",
+      "note": "Pretender means intend; fingir means pretend."
+    },
+    {
+      "wrong": "Use destarte in casual conversation.",
+      "right": "Use então/por isso in casual conversation; reserve destarte for very formal style.",
+      "note": "Destarte is highly formal and rare."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

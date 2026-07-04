@@ -1,0 +1,135 @@
+{
+  "id": "b1-alugando-apartamento",
+  "level": "B1",
+  "type": "conversation",
+  "title": "Renting an Apartment",
+  "titlePt": "Alugando um Apartamento",
+  "summary": "A tenant visits an apartment and asks practical questions about rent, location, and bills.",
+  "lines": [
+    {
+      "speaker": "Corretora",
+      "pt": "Este é o apartamento que você viu no anúncio. Ele tem dois quartos e uma vaga de garagem.",
+      "en": "This is the apartment you saw in the ad. It has two bedrooms and one parking space."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "Gostei da sala. Ela recebe bastante luz de manhã?",
+      "en": "I like the living room. Does it get a lot of light in the morning?"
+    },
+    {
+      "speaker": "Corretora",
+      "pt": "Recebe, sim. As janelas ficam voltadas para o leste.",
+      "en": "Yes, it does. The windows face east."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "E o condomínio está incluído no aluguel?",
+      "en": "And is the condo fee included in the rent?"
+    },
+    {
+      "speaker": "Corretora",
+      "pt": "Não. O aluguel é dois mil reais, e o condomínio custa trezentos.",
+      "en": "No. The rent is two thousand reais, and the condo fee costs three hundred."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "O prédio aceita cachorro pequeno?",
+      "en": "Does the building allow a small dog?"
+    },
+    {
+      "speaker": "Corretora",
+      "pt": "Aceita, desde que o morador siga as regras do condomínio.",
+      "en": "It does, as long as the resident follows the condo rules."
+    },
+    {
+      "speaker": "Mateus",
+      "pt": "Vou pensar até amanhã. Se eu decidir ficar, quais documentos preciso enviar?",
+      "en": "I will think until tomorrow. If I decide to take it, which documents do I need to send?"
+    },
+    {
+      "speaker": "Corretora",
+      "pt": "Documento de identidade, comprovante de renda e uma ficha preenchida.",
+      "en": "An identity document, proof of income, and a completed form."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a corretora",
+      "en": "the real estate agent"
+    },
+    {
+      "pt": "o anúncio",
+      "en": "the advertisement"
+    },
+    {
+      "pt": "a vaga de garagem",
+      "en": "the parking space"
+    },
+    {
+      "pt": "voltadas para o leste",
+      "en": "facing east"
+    },
+    {
+      "pt": "o condomínio",
+      "en": "the condo fee / condominium"
+    },
+    {
+      "pt": "desde que",
+      "en": "as long as"
+    },
+    {
+      "pt": "comprovante de renda",
+      "en": "proof of income"
+    },
+    {
+      "pt": "ficha preenchida",
+      "en": "completed form"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How many bedrooms does the apartment have?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "answer": "Two"
+    },
+    {
+      "id": "c2",
+      "question": "What is not included in the rent?",
+      "options": [
+        "The condo fee",
+        "The living room",
+        "The windows",
+        "The advertisement"
+      ],
+      "answer": "The condo fee"
+    },
+    {
+      "id": "c3",
+      "question": "What pet does Mateus ask about?",
+      "options": [
+        "A small dog",
+        "A cat",
+        "A bird",
+        "A large dog"
+      ],
+      "answer": "A small dog"
+    },
+    {
+      "id": "c4",
+      "question": "Which document is required?",
+      "options": [
+        "Proof of income",
+        "A passport from abroad",
+        "A school diploma",
+        "A bus ticket"
+      ],
+      "answer": "Proof of income"
+    }
+  ]
+}

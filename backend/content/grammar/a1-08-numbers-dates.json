@@ -1,0 +1,96 @@
+{
+  "id": "a1-08-numbers-dates",
+  "level": "A1",
+  "order": 8,
+  "title": "Numbers, Dates, and Time",
+  "titlePt": "Números, datas e horas",
+  "summary": "Use numbers with ages, dates, days, and basic clock time in Brazilian Portuguese.",
+  "tags": [
+    "numbers",
+    "dates",
+    "time"
+  ],
+  "sections": [
+    {
+      "heading": "Numbers for everyday use",
+      "body": "Numbers are essential for age, price, phone numbers, addresses, and dates. **Um/uma** agrees with the noun; from two onward, nouns are plural.",
+      "examples": [
+        {
+          "pt": "Eu tenho vinte e cinco anos.",
+          "en": "I am twenty-five years old.",
+          "note": "Portuguese says 'have years'"
+        },
+        {
+          "pt": "O café custa cinco reais.",
+          "en": "The coffee costs five reais."
+        },
+        {
+          "pt": "Ela tem uma irmã e dois irmãos.",
+          "en": "She has one sister and two brothers."
+        }
+      ]
+    },
+    {
+      "heading": "Dates",
+      "body": "Brazilian dates are day/month/year. Use **dia** with numbers, and use **primeiro** only for the first day of the month.",
+      "examples": [
+        {
+          "pt": "Hoje é dia três de julho.",
+          "en": "Today is July third."
+        },
+        {
+          "pt": "Meu aniversário é em primeiro de maio.",
+          "en": "My birthday is on May first."
+        },
+        {
+          "pt": "A reunião é no dia vinte de agosto.",
+          "en": "The meeting is on August twentieth."
+        }
+      ]
+    },
+    {
+      "heading": "Clock time",
+      "body": "Use **é** for one o'clock and **são** for all other hours. In everyday speech, people often use the 24-hour clock for schedules.",
+      "examples": [
+        {
+          "pt": "É uma hora.",
+          "en": "It is one o'clock."
+        },
+        {
+          "pt": "São duas e meia.",
+          "en": "It is two-thirty."
+        },
+        {
+          "pt": "O trem sai às dezoito horas.",
+          "en": "The train leaves at 6:00 p.m.",
+          "note": "formal/schedule style"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Age uses ter: tenho vinte anos.",
+    "Brazilian dates go day/month/year.",
+    "Use primeiro for the first day; other dates use cardinal numbers.",
+    "Time uses é uma hora, but são duas/três/etc."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu sou vinte anos.",
+      "right": "Eu tenho vinte anos.",
+      "note": "Age uses ter, not ser."
+    },
+    {
+      "wrong": "Hoje é três julho.",
+      "right": "Hoje é dia três de julho.",
+      "note": "Use dia and de with dates."
+    },
+    {
+      "wrong": "São uma hora.",
+      "right": "É uma hora.",
+      "note": "One o'clock is singular."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

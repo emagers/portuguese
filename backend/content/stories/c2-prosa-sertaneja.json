@@ -1,0 +1,102 @@
+{
+  "id": "c2-prosa-sertaneja",
+  "level": "C2",
+  "type": "story",
+  "title": "Dust Road at Dusk",
+  "titlePt": "Estrada de Poeira ao Entardecer",
+  "summary": "A literary-style excerpt with regional flavor about a traveler returning to a drought-marked interior town.",
+  "paragraphs": [
+    {
+      "pt": "Quando Anselmo desceu do ônibus, a tarde já vinha roxa, arrastando uma poeira fina que se metia nos cílios e na memória. A rodoviária era a mesma, ou quase: duas lanchonetes de balcão gasto, um rádio chiando moda antiga, um cachorro magro dormindo como se guardasse o município inteiro. Fazia vinte anos que ele não pisava ali, mas o chão pareceu reconhecê-lo antes das pessoas.",
+      "en": "When Anselmo got off the bus, the afternoon was already turning purple, dragging a fine dust that got into his eyelashes and his memory. The bus station was the same, or almost: two snack bars with worn counters, a radio crackling old songs, a thin dog sleeping as if it guarded the entire municipality. It had been twenty years since he had set foot there, but the ground seemed to recognize him before the people did."
+    },
+    {
+      "pt": "Veio por causa da mãe, diziam; veio tarde, cochichariam. No interior, notícia não corre: monta a cavalo no vento e chega antes do acontecido. Anselmo sabia. Também sabia que ausência é dívida que não prescreve. Trazia na mala duas camisas, um livro nunca terminado e uma coragem meia-boca, dessas que a gente veste porque não há outra roupa limpa.",
+      "en": "He came because of his mother, they said; he came late, they would whisper. In the interior, news does not run: it rides the wind on horseback and arrives before the event itself. Anselmo knew. He also knew that absence is a debt that does not expire. In his suitcase he carried two shirts, a never-finished book, and a half-baked courage, the kind one wears because there is no other clean clothing."
+    },
+    {
+      "pt": "A caminho de casa, viu o açude reduzido a um espelho rachado. Meninos jogavam bola onde antes havia água, levantando redemoinhos que pareciam almas pequenas. Uma vizinha o saudou com um “pois não, sumido?”, frase curta, faca comprida. Ele sorriu sem defesa. Na varanda, a mãe esperava sentada, menor do que lembrava, mas com os olhos acesos. “Chegou, meu filho.” E só então Anselmo entendeu que voltar não remenda o passado; quando muito, abre uma fresta para que o perdão entre, se quiser.",
+      "en": "On the way home, he saw the reservoir reduced to a cracked mirror. Boys played soccer where there had once been water, raising whirlwinds that looked like small souls. A neighbor greeted him with a 'well now, stranger?', a short phrase, a long knife. He smiled without defense. On the porch, his mother waited seated, smaller than he remembered, but with her eyes lit. 'You arrived, my son.' Only then did Anselmo understand that returning does not mend the past; at most, it opens a crack so forgiveness may enter, if it wishes."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "chiando",
+      "en": "crackling / hissing"
+    },
+    {
+      "pt": "moda antiga",
+      "en": "old-style country song"
+    },
+    {
+      "pt": "cochichar",
+      "en": "to whisper"
+    },
+    {
+      "pt": "não prescreve",
+      "en": "does not expire"
+    },
+    {
+      "pt": "meia-boca",
+      "en": "half-baked / mediocre"
+    },
+    {
+      "pt": "o açude",
+      "en": "the reservoir"
+    },
+    {
+      "pt": "sumido",
+      "en": "someone who has been absent for a long time"
+    },
+    {
+      "pt": "remendar",
+      "en": "to mend / patch"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How long had Anselmo been away?",
+      "options": [
+        "Twenty years",
+        "Two months",
+        "Five days",
+        "One year"
+      ],
+      "answer": "Twenty years"
+    },
+    {
+      "id": "c2",
+      "question": "What does the text suggest about news in the interior?",
+      "options": [
+        "It travels extremely fast through gossip",
+        "It never reaches anyone",
+        "It depends on newspapers only",
+        "It is always false"
+      ],
+      "answer": "It travels extremely fast through gossip"
+    },
+    {
+      "id": "c3",
+      "question": "What image shows the drought?",
+      "options": [
+        "The reservoir reduced to a cracked mirror",
+        "Rain flooding the porch",
+        "Green fields by the road",
+        "A full river near the station"
+      ],
+      "answer": "The reservoir reduced to a cracked mirror"
+    },
+    {
+      "id": "c4",
+      "question": "What does Anselmo realize at the end?",
+      "options": [
+        "Returning can only open a crack for forgiveness",
+        "The past is completely fixed",
+        "His mother has left town",
+        "He should never have returned"
+      ],
+      "answer": "Returning can only open a crack for forgiveness"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "b2-debate-mobilidade",
+  "level": "B2",
+  "type": "conversation",
+  "title": "Debate on Urban Mobility",
+  "titlePt": "Debate sobre Mobilidade Urbana",
+  "summary": "Two residents debate bike lanes, buses, and priorities for a growing city.",
+  "lines": [
+    {
+      "speaker": "Helena",
+      "pt": "A cidade não pode continuar dependendo tanto de carros. Se houvesse mais ciclovias, muita gente deixaria o carro em casa.",
+      "en": "The city cannot keep depending so much on cars. If there were more bike lanes, many people would leave the car at home."
+    },
+    {
+      "speaker": "Marcos",
+      "pt": "Concordo em parte, mas nem todos moram perto do trabalho. Antes de investir só em ciclovias, precisamos melhorar os ônibus.",
+      "en": "I partly agree, but not everyone lives near work. Before investing only in bike lanes, we need to improve the buses."
+    },
+    {
+      "speaker": "Helena",
+      "pt": "Claro, o transporte público deve ser prioridade. Porém, uma coisa não exclui a outra.",
+      "en": "Of course, public transportation should be a priority. However, one thing does not exclude the other."
+    },
+    {
+      "speaker": "Marcos",
+      "pt": "Meu receio é que façam obras bonitas no centro e esqueçam os bairros mais afastados.",
+      "en": "My fear is that they will build nice projects downtown and forget the more distant neighborhoods."
+    },
+    {
+      "speaker": "Helena",
+      "pt": "Por isso a participação dos moradores é essencial. A prefeitura deveria ouvir quem pega ônibus lotado todos os dias.",
+      "en": "That is why resident participation is essential. City hall should listen to those who take crowded buses every day."
+    },
+    {
+      "speaker": "Marcos",
+      "pt": "Se o plano incluísse tarifa justa, corredores de ônibus e ciclovias seguras, eu apoiaria sem dúvida.",
+      "en": "If the plan included fair fares, bus lanes, and safe bike lanes, I would support it without a doubt."
+    },
+    {
+      "speaker": "Helena",
+      "pt": "Então estamos mais próximos do que parecia. O problema não é escolher entre ônibus e bicicleta, mas planejar com seriedade.",
+      "en": "Then we are closer than it seemed. The problem is not choosing between buses and bicycles, but planning seriously."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a mobilidade urbana",
+      "en": "urban mobility"
+    },
+    {
+      "pt": "a ciclovia",
+      "en": "bike lane"
+    },
+    {
+      "pt": "concordar em parte",
+      "en": "to partly agree"
+    },
+    {
+      "pt": "o receio",
+      "en": "the fear/concern"
+    },
+    {
+      "pt": "a prefeitura",
+      "en": "city hall"
+    },
+    {
+      "pt": "ônibus lotado",
+      "en": "crowded bus"
+    },
+    {
+      "pt": "a tarifa",
+      "en": "the fare"
+    },
+    {
+      "pt": "sem dúvida",
+      "en": "without a doubt"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What does Helena believe more bike lanes would do?",
+      "options": [
+        "Encourage people to leave cars at home",
+        "Make buses unnecessary",
+        "Raise parking prices",
+        "Close distant neighborhoods"
+      ],
+      "answer": "Encourage people to leave cars at home"
+    },
+    {
+      "id": "c2",
+      "question": "What is Marcos worried about?",
+      "options": [
+        "Projects may ignore distant neighborhoods",
+        "Bicycles are too expensive",
+        "No one will attend meetings",
+        "The city has too many parks"
+      ],
+      "answer": "Projects may ignore distant neighborhoods"
+    },
+    {
+      "id": "c3",
+      "question": "What would make Marcos support the plan?",
+      "options": [
+        "Fair fares, bus lanes, and safe bike lanes",
+        "Only downtown bike lanes",
+        "Free cars for residents",
+        "Fewer public meetings"
+      ],
+      "answer": "Fair fares, bus lanes, and safe bike lanes"
+    },
+    {
+      "id": "c4",
+      "question": "What conclusion do they reach?",
+      "options": [
+        "The city needs serious integrated planning",
+        "Bicycles should be banned",
+        "Buses are no longer useful",
+        "Nothing should change"
+      ],
+      "answer": "The city needs serious integrated planning"
+    }
+  ]
+}

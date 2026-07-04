@@ -1,0 +1,132 @@
+{
+  "id": "a1-numbers",
+  "level": "A1",
+  "title": "Numbers & Quantity",
+  "theme": "numbers",
+  "description": "Basic numbers and quantity words for prices, ages, addresses and everyday counting.",
+  "cards": [
+    {
+      "id": "num-zero",
+      "pt": "zero",
+      "en": "zero",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈzɛ.ɾu",
+      "example": {
+        "pt": "Meu número termina em zero.",
+        "en": "My number ends in zero."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-um",
+      "pt": "um / uma",
+      "en": "one",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ũ / ˈu.mɐ",
+      "example": {
+        "pt": "Tenho uma irmã.",
+        "en": "I have one sister."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-dois",
+      "pt": "dois / duas",
+      "en": "two",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dojs / ˈdu.ɐs",
+      "example": {
+        "pt": "Quero dois pães, por favor.",
+        "en": "I want two bread rolls, please."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-tres",
+      "pt": "três",
+      "en": "three",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "tɾes",
+      "example": {
+        "pt": "Ela tem três gatos.",
+        "en": "She has three cats."
+      },
+      "tags": [
+        "numbers"
+      ]
+    },
+    {
+      "id": "num-cinco",
+      "pt": "cinco",
+      "en": "five",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈsĩ.ku",
+      "example": {
+        "pt": "A aula começa às cinco.",
+        "en": "The class starts at five."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-dez",
+      "pt": "dez",
+      "en": "ten",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dɛs",
+      "example": {
+        "pt": "São dez reais.",
+        "en": "It is ten reais."
+      },
+      "tags": [
+        "numbers",
+        "money"
+      ]
+    },
+    {
+      "id": "num-vinte",
+      "pt": "vinte",
+      "en": "twenty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈvĩ.tʃi",
+      "example": {
+        "pt": "O ônibus chega em vinte minutos.",
+        "en": "The bus arrives in twenty minutes."
+      },
+      "tags": [
+        "numbers",
+        "time"
+      ]
+    },
+    {
+      "id": "num-muito",
+      "pt": "muito / muita",
+      "en": "a lot; many",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈmũj.tu",
+      "example": {
+        "pt": "Hoje eu tenho muito trabalho.",
+        "en": "Today I have a lot of work."
+      },
+      "tags": [
+        "quantity"
+      ]
+    }
+  ]
+}

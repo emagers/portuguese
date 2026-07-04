@@ -1,0 +1,93 @@
+{
+  "id": "c1-quiz-listening-register",
+  "level": "C1",
+  "title": "Listening: Register & Nuance",
+  "topic": "listening",
+  "description": "Listen for formal and informal nuances in advanced Brazilian Portuguese sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A princípio, a proposta parece viável.",
+      "options": [
+        "A princípio, a proposta parece viável.",
+        "Em princípio, a proposta parece inviável.",
+        "A princípio, a resposta parece viável.",
+        "A princípio, a proposta parecia viável."
+      ],
+      "answer": "A princípio, a proposta parece viável.",
+      "explanation": "'A princípio' means 'at first' or 'initially'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "No fim das contas, deu tudo certo.",
+      "options": [
+        "No fim das contas, deu tudo certo.",
+        "No fim das contas, deu tudo errado.",
+        "No fim da conta, deu tudo certo.",
+        "No fim das contas, dá tudo certo."
+      ],
+      "answer": "No fim das contas, deu tudo certo.",
+      "explanation": "This idiomatic phrase means 'in the end'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Solicitamos que o formulário seja preenchido com atenção.",
+      "options": [
+        "Solicitamos que o formulário seja preenchido com atenção.",
+        "Solicitamos que o formulário será preenchido com atenção.",
+        "Pedimos que o formulário seja assinado com atenção.",
+        "Solicitamos que o relatório seja preenchido com atenção."
+      ],
+      "answer": "Solicitamos que o formulário seja preenchido com atenção.",
+      "explanation": "The formal request uses the subjunctive passive 'seja preenchido'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ele acabou ficando sem graça na reunião.",
+      "options": [
+        "Ele acabou ficando sem graça na reunião.",
+        "Ele acabou ficando engraçado na reunião.",
+        "Ele acabou ficando sem dinheiro na reunião.",
+        "Ela acabou ficando sem graça na reunião."
+      ],
+      "answer": "Ele acabou ficando sem graça na reunião.",
+      "explanation": "'Ficar sem graça' means to feel embarrassed or awkward."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Convém avaliar os riscos antes de decidir.",
+      "options": [
+        "Convém avaliar os riscos antes de decidir.",
+        "Convém evitar os riscos antes de decidir.",
+        "Convém avaliar os custos antes de decidir.",
+        "Convém avaliar os riscos depois de decidir."
+      ],
+      "answer": "Convém avaliar os riscos antes de decidir.",
+      "explanation": "'Convém' means 'it is advisable'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Tá difícil conciliar tudo ao mesmo tempo.",
+      "options": [
+        "Tá difícil conciliar tudo ao mesmo tempo.",
+        "Está fácil conciliar tudo ao mesmo tempo.",
+        "Tá difícil cancelar tudo ao mesmo tempo.",
+        "Tá difícil conciliar tudo no mesmo lugar."
+      ],
+      "answer": "Tá difícil conciliar tudo ao mesmo tempo.",
+      "explanation": "'Tá' signals informal speech; 'conciliar' means to reconcile or balance."
+    }
+  ]
+}

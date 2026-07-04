@@ -1,0 +1,130 @@
+{
+  "id": "c2-advanced-adjectives",
+  "level": "C2",
+  "title": "Advanced Adjectives",
+  "theme": "adjectives",
+  "description": "Precise advanced adjectives for nuanced description in formal and literary contexts.",
+  "cards": [
+    {
+      "id": "adj-efemero",
+      "pt": "efêmero / efêmera",
+      "en": "short-lived; ephemeral",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "eˈfẽ.me.ɾu",
+      "example": {
+        "pt": "A fama nas redes pode ser efêmera.",
+        "en": "Fame on social networks can be short-lived."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-contundente",
+      "pt": "contundente",
+      "en": "forceful; blunt",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "kõtũˈdẽ.tʃi",
+      "example": {
+        "pt": "Ela fez uma crítica contundente.",
+        "en": "She made a forceful criticism."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-corriqueiro",
+      "pt": "corriqueiro / corriqueira",
+      "en": "ordinary; commonplace",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "koʁiˈkej.ɾu",
+      "example": {
+        "pt": "O problema se tornou corriqueiro.",
+        "en": "The problem became commonplace."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-perspicaz",
+      "pt": "perspicaz",
+      "en": "insightful; sharp",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "peʁspiˈkas",
+      "example": {
+        "pt": "O comentário foi perspicaz.",
+        "en": "The comment was insightful."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-laconico",
+      "pt": "lacônico / lacônica",
+      "en": "laconic; terse",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "laˈkõ.ni.ku",
+      "example": {
+        "pt": "A resposta lacônica surpreendeu a equipe.",
+        "en": "The terse answer surprised the team."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-pungente",
+      "pt": "pungente",
+      "en": "poignant",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "pũˈʒẽ.tʃi",
+      "example": {
+        "pt": "O romance tem cenas pungentes.",
+        "en": "The novel has poignant scenes."
+      },
+      "tags": [
+        "adjectives",
+        "literature"
+      ]
+    },
+    {
+      "id": "adj-inocuo",
+      "pt": "inócuo / inócua",
+      "en": "harmless; innocuous",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "iˈnɔ.ku.u",
+      "example": {
+        "pt": "A mudança parece inócua, mas não é.",
+        "en": "The change seems harmless, but it is not."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-ardiloso",
+      "pt": "ardiloso / ardilosa",
+      "en": "cunning; crafty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "aʁdʒiˈlo.zu",
+      "example": {
+        "pt": "O golpe foi ardiloso e bem planejado.",
+        "en": "The scam was cunning and well planned."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    }
+  ]
+}

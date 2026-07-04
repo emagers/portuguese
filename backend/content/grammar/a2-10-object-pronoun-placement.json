@@ -1,0 +1,97 @@
+{
+  "id": "a2-10-object-pronoun-placement",
+  "level": "A2",
+  "order": 10,
+  "title": "Object Pronoun Placement",
+  "titlePt": "Colocação dos pronomes objeto",
+  "summary": "Place me, te, se, o, a, nos, and lhe naturally in Brazilian speech and correctly in standard writing.",
+  "tags": [
+    "pronouns",
+    "object-pronouns",
+    "word-order"
+  ],
+  "sections": [
+    {
+      "heading": "Brazilian default: before the verb",
+      "body": "In everyday Brazilian Portuguese, object pronouns usually come before the conjugated verb, especially **me**, **te**, **se**, and **nos**. This is natural in speech and common in informal writing.",
+      "examples": [
+        {
+          "pt": "Eu te liguei ontem.",
+          "en": "I called you yesterday.",
+          "note": "informal Brazilian"
+        },
+        {
+          "pt": "Ela me ajudou muito.",
+          "en": "She helped me a lot."
+        },
+        {
+          "pt": "A gente se encontra amanhã.",
+          "en": "We'll meet tomorrow."
+        }
+      ]
+    },
+    {
+      "heading": "After infinitives and gerunds",
+      "body": "With infinitives and gerunds, the pronoun may come before the auxiliary or attach to the infinitive/gerund in more formal style. Brazilian speech strongly prefers the pre-verbal option.",
+      "examples": [
+        {
+          "pt": "Vou te mandar o endereço.",
+          "en": "I'll send you the address."
+        },
+        {
+          "pt": "Vou mandar-lhe o endereço.",
+          "en": "I will send you the address.",
+          "note": "formal"
+        },
+        {
+          "pt": "Estou me preparando para a prova.",
+          "en": "I am getting ready for the test."
+        }
+      ]
+    },
+    {
+      "heading": "Formal written placement triggers",
+      "body": "In formal grammar, negative words, question words, subordinators, and certain adverbs attract the pronoun before the verb. This is called **próclise**.",
+      "examples": [
+        {
+          "pt": "Não me diga isso.",
+          "en": "Don't tell me that."
+        },
+        {
+          "pt": "Quando se mudou para cá?",
+          "en": "When did he/she move here?"
+        },
+        {
+          "pt": "Talvez lhe envie uma resposta hoje.",
+          "en": "Maybe I will send him/her/you an answer today.",
+          "note": "formal"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Brazilian speech generally puts object pronouns before the verb.",
+    "Formal writing has stricter placement rules.",
+    "Negative words and question words attract pronouns before the verb.",
+    "Attached pronouns like ajudá-lo are formal and important for reading."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu liguei te ontem.",
+      "right": "Eu te liguei ontem.",
+      "note": "In Brazilian speech, te normally comes before the conjugated verb."
+    },
+    {
+      "wrong": "Não diga-me isso.",
+      "right": "Não me diga isso.",
+      "note": "Não triggers próclise."
+    },
+    {
+      "wrong": "Vou lhe te mandar.",
+      "right": "Vou te mandar. / Vou lhe mandar.",
+      "note": "Do not stack two pronouns with the same function."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

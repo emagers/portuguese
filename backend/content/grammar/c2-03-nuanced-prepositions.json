@@ -1,0 +1,94 @@
+{
+  "id": "c2-03-nuanced-prepositions",
+  "level": "C2",
+  "order": 3,
+  "title": "Nuanced Prepositions",
+  "titlePt": "Preposições em uso avançado",
+  "summary": "Master subtle preposition choices in abstract relations, regency, stance, and idiomatic combinations.",
+  "tags": [
+    "prepositions",
+    "regency",
+    "advanced"
+  ],
+  "sections": [
+    {
+      "heading": "Regency and lexical choice",
+      "body": "Many advanced errors come from using the wrong preposition with a specific noun, adjective, or verb. These combinations are lexical and should be learned as units.",
+      "examples": [
+        {
+          "pt": "Tenho interesse em linguística.",
+          "en": "I am interested in linguistics."
+        },
+        {
+          "pt": "Ela é responsável pelo projeto.",
+          "en": "She is responsible for the project."
+        },
+        {
+          "pt": "O relatório faz referência a dados recentes.",
+          "en": "The report refers to recent data."
+        }
+      ]
+    },
+    {
+      "heading": "Abstract contrasts",
+      "body": "Small preposition changes can shift meaning: **com base em** suggests grounding; **a partir de** suggests a starting point; **em relação a** frames comparison or topic.",
+      "examples": [
+        {
+          "pt": "Com base nos dados, a equipe mudou a estratégia.",
+          "en": "Based on the data, the team changed the strategy."
+        },
+        {
+          "pt": "A partir de amanhã, o horário muda.",
+          "en": "Starting tomorrow, the schedule changes."
+        },
+        {
+          "pt": "Em relação ao prazo, precisamos ser realistas.",
+          "en": "Regarding the deadline, we need to be realistic."
+        }
+      ]
+    },
+    {
+      "heading": "Prepositions in formal argument",
+      "body": "Formal writing favors precise prepositional phrases such as **quanto a**, **diante de**, **à luz de**, **em virtude de**, and **no que diz respeito a**.",
+      "examples": [
+        {
+          "pt": "Quanto aos custos, ainda não há estimativa.",
+          "en": "As for the costs, there is still no estimate."
+        },
+        {
+          "pt": "Diante das evidências, a decisão foi revista.",
+          "en": "In light of the evidence, the decision was reconsidered."
+        },
+        {
+          "pt": "À luz da Constituição, a medida é questionável.",
+          "en": "In light of the Constitution, the measure is questionable."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Advanced preposition use is often lexical, not fully rule-based.",
+    "Learn verb/adjective/noun regency as fixed combinations.",
+    "Formal prepositional phrases add precision but can sound heavy if overused.",
+    "Crase often appears in formal phrases like à luz de and à medida que."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Tenho interesse por linguística.",
+      "right": "Tenho interesse em linguística.",
+      "note": "Interesse em is the standard combination for a field/topic."
+    },
+    {
+      "wrong": "Responsável de projeto",
+      "right": "Responsável pelo projeto",
+      "note": "Responsável por contracts with o: pelo."
+    },
+    {
+      "wrong": "A partir amanhã",
+      "right": "A partir de amanhã",
+      "note": "A partir requires de."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,95 @@
+{
+  "id": "b2-09-correlative-conjunctions",
+  "level": "B2",
+  "order": 9,
+  "title": "Correlative Conjunctions",
+  "titlePt": "Conjunções correlativas",
+  "summary": "Build balanced structures with não só... mas também, tanto... quanto, seja... seja, and quanto mais... mais.",
+  "tags": [
+    "conjunctions",
+    "syntax",
+    "writing"
+  ],
+  "sections": [
+    {
+      "heading": "Addition and balance",
+      "body": "Correlative conjunctions connect parallel elements. Keep the grammar on both sides balanced: noun with noun, verb with verb, clause with clause.",
+      "examples": [
+        {
+          "pt": "Ela fala não só português, mas também espanhol.",
+          "en": "She speaks not only Portuguese but also Spanish."
+        },
+        {
+          "pt": "O curso é tanto prático quanto teórico.",
+          "en": "The course is both practical and theoretical."
+        },
+        {
+          "pt": "Precisamos de planejamento e de execução.",
+          "en": "We need planning and execution.",
+          "note": "parallel preposition improves clarity"
+        }
+      ]
+    },
+    {
+      "heading": "Alternatives and indifference",
+      "body": "Use **seja... seja**, **quer... quer**, and **ou... ou** to present alternatives. **Seja... seja** often sounds more formal and may imply that either alternative leads to the same result.",
+      "examples": [
+        {
+          "pt": "Seja por falta de tempo, seja por falta de dinheiro, o plano não avançou.",
+          "en": "Whether because of lack of time or lack of money, the plan did not move forward."
+        },
+        {
+          "pt": "Ou você liga hoje, ou perde a vaga.",
+          "en": "Either you call today, or you lose the spot."
+        },
+        {
+          "pt": "Quer chova, quer faça sol, o evento vai acontecer.",
+          "en": "Rain or shine, the event will happen."
+        }
+      ]
+    },
+    {
+      "heading": "Proportional relations",
+      "body": "**Quanto mais... mais/menos** and **quanto menos... mais/menos** express proportional change. Agreement and word order must be consistent.",
+      "examples": [
+        {
+          "pt": "Quanto mais estudo, mais entendo.",
+          "en": "The more I study, the more I understand."
+        },
+        {
+          "pt": "Quanto menos barulho, melhor.",
+          "en": "The less noise, the better."
+        },
+        {
+          "pt": "Quanto maior a cidade, mais caro o aluguel.",
+          "en": "The bigger the city, the more expensive the rent."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Correlative structures require grammatical parallelism.",
+    "Não só... mas também adds emphasis and formality.",
+    "Seja... seja presents alternatives elegantly.",
+    "Quanto mais/menos creates proportional comparisons."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Não só ela fala português, mas também espanhol.",
+      "right": "Ela fala não só português, mas também espanhol.",
+      "note": "Keep the parallel elements aligned."
+    },
+    {
+      "wrong": "Tanto prático e teórico",
+      "right": "Tanto prático quanto teórico",
+      "note": "Use tanto... quanto."
+    },
+    {
+      "wrong": "Quanto mais estudo, entendo mais.",
+      "right": "Quanto mais estudo, mais entendo.",
+      "note": "Repeat the comparative marker for balance."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

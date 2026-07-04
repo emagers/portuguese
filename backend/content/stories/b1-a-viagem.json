@@ -1,0 +1,98 @@
+{
+  "id": "b1-a-viagem",
+  "level": "B1",
+  "type": "story",
+  "title": "The Trip to Minas",
+  "titlePt": "A Viagem a Minas",
+  "summary": "A narrator remembers a trip through Minas Gerais and the surprises along the way.",
+  "paragraphs": [
+    {
+      "pt": "No ano passado, viajei com dois amigos para Minas Gerais. Queríamos conhecer cidades históricas, comer bem e descansar um pouco da rotina de São Paulo. Alugamos um carro pequeno e saímos antes do nascer do sol.",
+      "en": "Last year, I traveled with two friends to Minas Gerais. We wanted to visit historic towns, eat well, and rest a little from the routine of São Paulo. We rented a small car and left before sunrise."
+    },
+    {
+      "pt": "A estrada estava tranquila no começo, mas, perto de Ouro Preto, uma chuva forte nos obrigou a parar. Enquanto esperávamos, conversamos com uma senhora que vendia café e pão de queijo. Ela nos contou histórias da região e sugeriu uma pousada familiar.",
+      "en": "The road was calm at first, but near Ouro Preto, heavy rain forced us to stop. While we waited, we talked with a woman who sold coffee and cheese bread. She told us stories about the region and suggested a family-run inn."
+    },
+    {
+      "pt": "Seguimos o conselho dela e ficamos na pousada. À noite, caminhamos pelas ruas de pedra e ouvimos música ao vivo em uma praça. A viagem não saiu exatamente como planejamos, mas foi justamente por isso que ficou na memória.",
+      "en": "We followed her advice and stayed at the inn. At night, we walked along the stone streets and listened to live music in a square. The trip did not go exactly as we planned, but that was precisely why it stayed in our memory."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "cidades históricas",
+      "en": "historic towns"
+    },
+    {
+      "pt": "alugar",
+      "en": "to rent"
+    },
+    {
+      "pt": "antes do nascer do sol",
+      "en": "before sunrise"
+    },
+    {
+      "pt": "nos obrigou a parar",
+      "en": "forced us to stop"
+    },
+    {
+      "pt": "a pousada",
+      "en": "the inn"
+    },
+    {
+      "pt": "ruas de pedra",
+      "en": "stone streets"
+    },
+    {
+      "pt": "ficar na memória",
+      "en": "to stay in one's memory"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why did the friends travel to Minas Gerais?",
+      "options": [
+        "To visit historic towns and rest",
+        "To start a new job",
+        "To attend a wedding",
+        "To study at a university"
+      ],
+      "answer": "To visit historic towns and rest"
+    },
+    {
+      "id": "c2",
+      "question": "What made them stop near Ouro Preto?",
+      "options": [
+        "Heavy rain",
+        "A flat tire",
+        "A police officer",
+        "An empty gas tank"
+      ],
+      "answer": "Heavy rain"
+    },
+    {
+      "id": "c3",
+      "question": "Who suggested the inn?",
+      "options": [
+        "A woman selling coffee and cheese bread",
+        "A hotel receptionist",
+        "One of their parents",
+        "A taxi driver"
+      ],
+      "answer": "A woman selling coffee and cheese bread"
+    },
+    {
+      "id": "c4",
+      "question": "Why was the trip memorable?",
+      "options": [
+        "It did not go exactly as planned",
+        "It was very expensive",
+        "They lost all their bags",
+        "They never reached Minas"
+      ],
+      "answer": "It did not go exactly as planned"
+    }
+  ]
+}

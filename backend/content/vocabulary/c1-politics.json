@@ -1,0 +1,130 @@
+{
+  "id": "c1-politics",
+  "level": "C1",
+  "title": "Politics",
+  "theme": "politics",
+  "description": "Advanced political vocabulary for institutions, power, debate and public policy.",
+  "cards": [
+    {
+      "id": "pol-governanca",
+      "pt": "governança",
+      "en": "governance",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "goveʁˈnɐ̃.sɐ",
+      "example": {
+        "pt": "A governança do projeto precisa ser transparente.",
+        "en": "The project governance needs to be transparent."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-coalizao",
+      "pt": "coalizão",
+      "en": "coalition",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "koaliˈzɐ̃w",
+      "example": {
+        "pt": "A coalizão perdeu apoio no congresso.",
+        "en": "The coalition lost support in congress."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-pauta",
+      "pt": "pauta",
+      "en": "agenda",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpaw.tɐ",
+      "example": {
+        "pt": "A reforma voltou à pauta nacional.",
+        "en": "The reform returned to the national agenda."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-articulacao",
+      "pt": "articulação",
+      "en": "political coordination",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "aʁtʃikulaˈsɐ̃w",
+      "example": {
+        "pt": "A articulação entre partidos foi decisiva.",
+        "en": "Coordination among parties was decisive."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-prestacao-contas",
+      "pt": "prestação de contas",
+      "en": "accountability",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾestaˈsɐ̃w dʒi ˈkõ.tɐs",
+      "example": {
+        "pt": "A prestação de contas fortalece a democracia.",
+        "en": "Accountability strengthens democracy."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-pluralismo",
+      "pt": "pluralismo",
+      "en": "pluralism",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "pluɾaˈliz.mu",
+      "example": {
+        "pt": "O pluralismo é essencial no debate público.",
+        "en": "Pluralism is essential in public debate."
+      },
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": "pol-conjuntura",
+      "pt": "conjuntura",
+      "en": "current situation; conjuncture",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kõʒũˈtu.ɾɐ",
+      "example": {
+        "pt": "A conjuntura econômica influenciou a eleição.",
+        "en": "The economic situation influenced the election."
+      },
+      "tags": [
+        "politics",
+        "economy"
+      ]
+    },
+    {
+      "id": "pol-impasse",
+      "pt": "impasse",
+      "en": "deadlock",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈpa.si",
+      "example": {
+        "pt": "O impasse adiou a votação.",
+        "en": "The deadlock delayed the vote."
+      },
+      "tags": [
+        "politics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "b2-negociacao-aluguel",
+  "level": "B2",
+  "type": "conversation",
+  "title": "Rent Negotiation",
+  "titlePt": "Negociação de Aluguel",
+  "summary": "A tenant and landlord negotiate repairs and a rent increase with polite but firm language.",
+  "lines": [
+    {
+      "speaker": "Inquilina",
+      "pt": "Dona Sônia, recebi o aviso de reajuste, mas gostaria de conversar antes de assinar o novo contrato.",
+      "en": "Dona Sônia, I received the notice of adjustment, but I would like to talk before signing the new contract."
+    },
+    {
+      "speaker": "Proprietária",
+      "pt": "Claro, Júlia. O aumento segue o índice previsto, mas estou disposta a ouvir sua proposta.",
+      "en": "Of course, Júlia. The increase follows the expected index, but I am willing to hear your proposal."
+    },
+    {
+      "speaker": "Inquilina",
+      "pt": "Entendo o índice. Ainda assim, o apartamento precisa de reparos: a torneira vaza e a janela do quarto não fecha direito.",
+      "en": "I understand the index. Even so, the apartment needs repairs: the faucet leaks and the bedroom window does not close properly."
+    },
+    {
+      "speaker": "Proprietária",
+      "pt": "Você deveria ter me avisado antes. Posso mandar alguém verificar esta semana.",
+      "en": "You should have told me earlier. I can send someone to check this week."
+    },
+    {
+      "speaker": "Inquilina",
+      "pt": "Agradeço. Se os reparos forem feitos, aceito parte do reajuste, mas não o valor completo.",
+      "en": "I appreciate it. If the repairs are made, I accept part of the increase, but not the full amount."
+    },
+    {
+      "speaker": "Proprietária",
+      "pt": "Que tal dividirmos a diferença por seis meses e revisarmos depois?",
+      "en": "How about we split the difference for six months and review it afterward?"
+    },
+    {
+      "speaker": "Inquilina",
+      "pt": "Parece justo, desde que o prazo dos reparos fique registrado por escrito.",
+      "en": "That seems fair, as long as the repair deadline is recorded in writing."
+    },
+    {
+      "speaker": "Proprietária",
+      "pt": "Combinado. Vou atualizar o contrato e enviar ainda hoje.",
+      "en": "Agreed. I will update the contract and send it today."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "o reajuste",
+      "en": "the adjustment/increase"
+    },
+    {
+      "pt": "o contrato",
+      "en": "the contract"
+    },
+    {
+      "pt": "o índice",
+      "en": "the index/rate"
+    },
+    {
+      "pt": "os reparos",
+      "en": "the repairs"
+    },
+    {
+      "pt": "a torneira vaza",
+      "en": "the faucet leaks"
+    },
+    {
+      "pt": "dividir a diferença",
+      "en": "to split the difference"
+    },
+    {
+      "pt": "desde que",
+      "en": "as long as / provided that"
+    },
+    {
+      "pt": "por escrito",
+      "en": "in writing"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why does Júlia want to negotiate?",
+      "options": [
+        "The apartment needs repairs",
+        "She wants to move immediately",
+        "She lost the contract",
+        "The owner sold the building"
+      ],
+      "answer": "The apartment needs repairs"
+    },
+    {
+      "id": "c2",
+      "question": "What problems does she mention?",
+      "options": [
+        "A leaking faucet and a window that does not close",
+        "A broken elevator and noisy neighbors",
+        "No refrigerator and no stove",
+        "A flooded garage"
+      ],
+      "answer": "A leaking faucet and a window that does not close"
+    },
+    {
+      "id": "c3",
+      "question": "What compromise is suggested?",
+      "options": [
+        "Split the difference for six months",
+        "Cancel all rent payments",
+        "Double the rent immediately",
+        "Delay repairs for a year"
+      ],
+      "answer": "Split the difference for six months"
+    },
+    {
+      "id": "c4",
+      "question": "What condition does Júlia require?",
+      "options": [
+        "The repair deadline must be in writing",
+        "The rent must be paid in cash",
+        "The owner must visit every day",
+        "The contract must be verbal"
+      ],
+      "answer": "The repair deadline must be in writing"
+    }
+  ]
+}

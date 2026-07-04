@@ -1,0 +1,129 @@
+{
+  "id": "b1-emotions-feelings",
+  "level": "B1",
+  "title": "Emotions & Feelings",
+  "theme": "emotions",
+  "description": "Common emotion words for expressing moods, reactions and personal experiences.",
+  "cards": [
+    {
+      "id": "emo-alegre",
+      "pt": "alegre",
+      "en": "cheerful",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "aˈlɛ.gɾi",
+      "example": {
+        "pt": "Ela ficou alegre com a notícia.",
+        "en": "She became cheerful with the news."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-triste",
+      "pt": "triste",
+      "en": "sad",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈtɾis.tʃi",
+      "example": {
+        "pt": "Fiquei triste com a despedida.",
+        "en": "I felt sad about the farewell."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-ansioso",
+      "pt": "ansioso / ansiosa",
+      "en": "anxious",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ɐ̃siˈo.zu",
+      "example": {
+        "pt": "Estou ansioso pela viagem.",
+        "en": "I am anxious about the trip."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-aliviado",
+      "pt": "aliviado / aliviada",
+      "en": "relieved",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "aliviˈa.du",
+      "example": {
+        "pt": "Ela ficou aliviada depois do resultado.",
+        "en": "She felt relieved after the result."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-raiva",
+      "pt": "raiva",
+      "en": "anger",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈʁaj.vɐ",
+      "example": {
+        "pt": "Ele falou sem raiva.",
+        "en": "He spoke without anger."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-medo",
+      "pt": "medo",
+      "en": "fear",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈme.du",
+      "example": {
+        "pt": "Tenho medo de altura.",
+        "en": "I am afraid of heights."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-vergonha",
+      "pt": "vergonha",
+      "en": "embarrassment; shame",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "veʁˈgõ.ɲɐ",
+      "example": {
+        "pt": "Ela ficou com vergonha de perguntar.",
+        "en": "She was embarrassed to ask."
+      },
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "emo-orgulho",
+      "pt": "orgulho",
+      "en": "pride",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "oʁˈgu.ʎu",
+      "example": {
+        "pt": "Sinto orgulho da minha família.",
+        "en": "I feel proud of my family."
+      },
+      "tags": [
+        "emotions"
+      ]
+    }
+  ]
+}

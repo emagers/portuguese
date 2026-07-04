@@ -1,0 +1,116 @@
+{
+  "id": "a1-apresentacoes",
+  "level": "A1",
+  "type": "conversation",
+  "title": "Introductions at School",
+  "titlePt": "Apresentações na Escola",
+  "summary": "New classmates introduce themselves and share basic personal information.",
+  "lines": [
+    {
+      "speaker": "Professor",
+      "pt": "Boa tarde, turma. Esta é a Marina.",
+      "en": "Good afternoon, class. This is Marina."
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Oi! Meu nome é Marina.",
+      "en": "Hi! My name is Marina."
+    },
+    {
+      "speaker": "João",
+      "pt": "Prazer, Marina. Eu sou o João.",
+      "en": "Nice to meet you, Marina. I am João."
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Prazer, João.",
+      "en": "Nice to meet you, João."
+    },
+    {
+      "speaker": "João",
+      "pt": "Você é de São Paulo?",
+      "en": "Are you from São Paulo?"
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Não, eu sou de Recife.",
+      "en": "No, I am from Recife."
+    },
+    {
+      "speaker": "Professor",
+      "pt": "Marina fala português e inglês.",
+      "en": "Marina speaks Portuguese and English."
+    },
+    {
+      "speaker": "Marina",
+      "pt": "Eu gosto de música e de livros.",
+      "en": "I like music and books."
+    },
+    {
+      "speaker": "João",
+      "pt": "Legal! Bem-vinda à escola.",
+      "en": "Cool! Welcome to the school."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a turma",
+      "en": "the class/group"
+    },
+    {
+      "pt": "Meu nome é...",
+      "en": "My name is..."
+    },
+    {
+      "pt": "Prazer",
+      "en": "Nice to meet you"
+    },
+    {
+      "pt": "ser de",
+      "en": "to be from"
+    },
+    {
+      "pt": "falar",
+      "en": "to speak"
+    },
+    {
+      "pt": "Bem-vinda",
+      "en": "Welcome (to a woman)"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Who is new in class?",
+      "options": [
+        "Marina",
+        "João",
+        "The teacher",
+        "Paulo"
+      ],
+      "answer": "Marina"
+    },
+    {
+      "id": "c2",
+      "question": "Where is Marina from?",
+      "options": [
+        "Recife",
+        "São Paulo",
+        "Rio de Janeiro",
+        "Brasília"
+      ],
+      "answer": "Recife"
+    },
+    {
+      "id": "c3",
+      "question": "What does Marina like?",
+      "options": [
+        "Music and books",
+        "Soccer and coffee",
+        "Movies and cars",
+        "Rice and beans"
+      ],
+      "answer": "Music and books"
+    }
+  ]
+}

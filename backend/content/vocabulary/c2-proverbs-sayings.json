@@ -1,0 +1,129 @@
+{
+  "id": "c2-proverbs-sayings",
+  "level": "C2",
+  "title": "Proverbs & Sayings",
+  "theme": "proverbs",
+  "description": "Brazilian sayings that capture practical wisdom, caution and everyday humor.",
+  "cards": [
+    {
+      "id": "prov-cao-ladra",
+      "pt": "cão que ladra não morde",
+      "en": "barking dogs seldom bite",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "kɐ̃w ki ˈla.dɾɐ nɐ̃w ˈmɔʁ.dʒi",
+      "example": {
+        "pt": "Ele ameaça muito, mas cão que ladra não morde.",
+        "en": "He threatens a lot, but barking dogs seldom bite."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-agua-mole",
+      "pt": "água mole em pedra dura tanto bate até que fura",
+      "en": "persistence pays off",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ˈa.gwɐ ˈmɔ.li ẽ ˈpɛ.dɾɐ ˈdu.ɾɐ ˈtɐ̃.tu ˈba.tʃi aˈtɛ ki ˈfu.ɾɐ",
+      "example": {
+        "pt": "Continue tentando: água mole em pedra dura tanto bate até que fura.",
+        "en": "Keep trying: persistence pays off."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-quem-nao-arrisca",
+      "pt": "quem não arrisca não petisca",
+      "en": "nothing ventured, nothing gained",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "kẽj nɐ̃w aˈʁis.kɐ nɐ̃w peˈtʃis.kɐ",
+      "example": {
+        "pt": "Candidate-se à vaga; quem não arrisca não petisca.",
+        "en": "Apply for the job; nothing ventured, nothing gained."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-devagar-longe",
+      "pt": "devagar se vai ao longe",
+      "en": "slow and steady wins the race",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "devaˈgaʁ si vaj aw ˈlõ.ʒi",
+      "example": {
+        "pt": "Estude um pouco por dia: devagar se vai ao longe.",
+        "en": "Study a little every day: slow and steady wins the race."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-santo-casa",
+      "pt": "santo de casa não faz milagre",
+      "en": "familiar people are often undervalued",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ˈsɐ̃.tu dʒi ˈka.zɐ nɐ̃w fas miˈla.gɾi",
+      "example": {
+        "pt": "Eles só ouviram o consultor; santo de casa não faz milagre.",
+        "en": "They only listened to the consultant; familiar people are often undervalued."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-casa-ferreiro",
+      "pt": "em casa de ferreiro, espeto de pau",
+      "en": "the cobbler’s children have no shoes",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ẽ ˈka.zɐ dʒi feˈʁej.ɾu esˈpe.tu dʒi paw",
+      "example": {
+        "pt": "Ele é técnico, mas o computador dele vive quebrado: em casa de ferreiro, espeto de pau.",
+        "en": "He is a technician, but his own computer is always broken: the cobbler’s children have no shoes."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-melhor-prevenir",
+      "pt": "melhor prevenir do que remediar",
+      "en": "better safe than sorry",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "meˈʎɔʁ pɾeveˈniʁ du ki ʁemeˈdʒjaʁ",
+      "example": {
+        "pt": "Faça backup; é melhor prevenir do que remediar.",
+        "en": "Make a backup; better safe than sorry."
+      },
+      "tags": [
+        "proverb"
+      ]
+    },
+    {
+      "id": "prov-pressa-inimiga",
+      "pt": "a pressa é inimiga da perfeição",
+      "en": "haste makes waste",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "a ˈpɾɛ.sɐ ɛ iniˈmi.gɐ dɐ peʁfejˈsɐ̃w",
+      "example": {
+        "pt": "Revise com calma; a pressa é inimiga da perfeição.",
+        "en": "Review calmly; haste makes waste."
+      },
+      "tags": [
+        "proverb"
+      ]
+    }
+  ]
+}

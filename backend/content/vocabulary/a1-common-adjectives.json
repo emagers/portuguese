@@ -1,0 +1,129 @@
+{
+  "id": "a1-common-adjectives",
+  "level": "A1",
+  "title": "Common Adjectives",
+  "theme": "adjectives",
+  "description": "Simple adjectives for describing people, objects, places and feelings.",
+  "cards": [
+    {
+      "id": "adj-grande",
+      "pt": "grande",
+      "en": "big; large",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈgɾɐ̃.dʒi",
+      "example": {
+        "pt": "A casa é grande.",
+        "en": "The house is big."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-pequeno",
+      "pt": "pequeno / pequena",
+      "en": "small",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "peˈke.nu",
+      "example": {
+        "pt": "Meu quarto é pequeno.",
+        "en": "My room is small."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-bonito",
+      "pt": "bonito / bonita",
+      "en": "beautiful; pretty",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "boˈni.tu",
+      "example": {
+        "pt": "A praça é bonita.",
+        "en": "The square is beautiful."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-feio",
+      "pt": "feio / feia",
+      "en": "ugly",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈfej.u",
+      "example": {
+        "pt": "O desenho ficou feio.",
+        "en": "The drawing turned out ugly."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-novo",
+      "pt": "novo / nova",
+      "en": "new; young",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈnɔ.vu",
+      "example": {
+        "pt": "Ela tem um celular novo.",
+        "en": "She has a new cell phone."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-velho",
+      "pt": "velho / velha",
+      "en": "old",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈvɛ.ʎu",
+      "example": {
+        "pt": "Este livro é velho.",
+        "en": "This book is old."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-facil",
+      "pt": "fácil",
+      "en": "easy",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈfa.siw",
+      "example": {
+        "pt": "A lição é fácil.",
+        "en": "The lesson is easy."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    },
+    {
+      "id": "adj-dificil",
+      "pt": "difícil",
+      "en": "difficult",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "dʒiˈfi.siw",
+      "example": {
+        "pt": "Português não é difícil com prática.",
+        "en": "Portuguese is not difficult with practice."
+      },
+      "tags": [
+        "adjectives"
+      ]
+    }
+  ]
+}

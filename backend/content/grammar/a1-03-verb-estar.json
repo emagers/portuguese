@@ -1,0 +1,98 @@
+{
+  "id": "a1-03-verb-estar",
+  "level": "A1",
+  "order": 3,
+  "title": "The verb ESTAR (to be)",
+  "titlePt": "O verbo ESTAR",
+  "summary": "Use estar for location and temporary states such as mood, health, and condition.",
+  "tags": [
+    "verbs",
+    "estar",
+    "basics"
+  ],
+  "sections": [
+    {
+      "heading": "Forms of estar in the present",
+      "body": "**Estar** is also translated as 'to be', but it focuses on location and current states. It is irregular in the present.\n\n| Subject | estar | English |\n|---|---|---|\n| eu | **estou** | I am |\n| você/ele/ela | **está** | you/he/she are/is |\n| nós | **estamos** | we are |\n| vocês/eles/elas | **estão** | you all/they are |",
+      "examples": [
+        {
+          "pt": "Eu estou em casa.",
+          "en": "I am at home."
+        },
+        {
+          "pt": "Você está bem?",
+          "en": "Are you okay?"
+        },
+        {
+          "pt": "As crianças estão na escola.",
+          "en": "The children are at school."
+        }
+      ]
+    },
+    {
+      "heading": "Location",
+      "body": "For where someone or something is, use **estar**. The preposition often contracts with the article: **em + o = no**, **em + a = na**.",
+      "examples": [
+        {
+          "pt": "O banheiro está ali.",
+          "en": "The bathroom is over there."
+        },
+        {
+          "pt": "A chave está na mesa.",
+          "en": "The key is on the table.",
+          "note": "em + a = na"
+        },
+        {
+          "pt": "Nós estamos no centro.",
+          "en": "We are downtown/in the center.",
+          "note": "em + o = no"
+        }
+      ]
+    },
+    {
+      "heading": "Temporary states",
+      "body": "Use **estar** for how someone is feeling, health, weather right now, and temporary conditions.",
+      "examples": [
+        {
+          "pt": "Estou cansado hoje.",
+          "en": "I am tired today.",
+          "note": "male speaker"
+        },
+        {
+          "pt": "Ela está feliz.",
+          "en": "She is happy."
+        },
+        {
+          "pt": "A comida está fria.",
+          "en": "The food is cold.",
+          "note": "current condition"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Estar is irregular: estou, está, estamos, estão.",
+    "Use estar for location.",
+    "Use estar for temporary states, feelings, health, and current condition.",
+    "In speech, Brazilians often say tô, tá, estamos/tamos, estão/tão."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu está em casa.",
+      "right": "Eu estou em casa.",
+      "note": "Eu takes estou."
+    },
+    {
+      "wrong": "A chave é na mesa.",
+      "right": "A chave está na mesa.",
+      "note": "Location uses estar."
+    },
+    {
+      "wrong": "Eles está cansados.",
+      "right": "Eles estão cansados.",
+      "note": "Plural subject needs estão."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

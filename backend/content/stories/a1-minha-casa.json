@@ -1,0 +1,79 @@
+{
+  "id": "a1-minha-casa",
+  "level": "A1",
+  "type": "story",
+  "title": "My House",
+  "titlePt": "Minha Casa",
+  "summary": "A learner describes a small home and the people who live there.",
+  "paragraphs": [
+    {
+      "pt": "Eu moro em uma casa pequena em Belo Horizonte. A casa tem uma sala, uma cozinha, dois quartos e um banheiro. A sala tem um sofá azul e uma televisão.",
+      "en": "I live in a small house in Belo Horizonte. The house has a living room, a kitchen, two bedrooms, and a bathroom. The living room has a blue sofa and a television."
+    },
+    {
+      "pt": "Na cozinha, minha mãe prepara arroz, feijão e café. Meu pai lê o jornal na mesa. Eu estudo no meu quarto. À noite, minha família conversa e descansa.",
+      "en": "In the kitchen, my mother prepares rice, beans, and coffee. My father reads the newspaper at the table. I study in my room. At night, my family talks and rests."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "morar",
+      "en": "to live"
+    },
+    {
+      "pt": "a sala",
+      "en": "the living room"
+    },
+    {
+      "pt": "a cozinha",
+      "en": "the kitchen"
+    },
+    {
+      "pt": "o quarto",
+      "en": "the bedroom"
+    },
+    {
+      "pt": "preparar",
+      "en": "to prepare"
+    },
+    {
+      "pt": "descansar",
+      "en": "to rest"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where is the house?",
+      "options": [
+        "In Belo Horizonte",
+        "In Salvador",
+        "In Curitiba",
+        "In Manaus"
+      ],
+      "answer": "In Belo Horizonte"
+    },
+    {
+      "id": "c2",
+      "question": "What color is the sofa?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "White"
+      ],
+      "answer": "Blue"
+    },
+    {
+      "id": "c3",
+      "question": "Where does the narrator study?",
+      "options": [
+        "In the bedroom",
+        "In the kitchen",
+        "In the garden",
+        "At the table"
+      ],
+      "answer": "In the bedroom"
+    }
+  ]
+}

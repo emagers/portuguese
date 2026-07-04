@@ -1,0 +1,135 @@
+{
+  "id": "a2-restaurant-ordering",
+  "level": "A2",
+  "title": "Restaurant Ordering",
+  "theme": "restaurant",
+  "description": "Practical words and phrases for ordering food, asking questions and paying in Brazilian restaurants.",
+  "cards": [
+    {
+      "id": "rest-cardapio",
+      "pt": "cardápio",
+      "en": "menu",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaʁˈda.pju",
+      "example": {
+        "pt": "Você pode trazer o cardápio?",
+        "en": "Can you bring the menu?"
+      },
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "rest-garcom",
+      "pt": "garçom / garçonete",
+      "en": "waiter / waitress",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "gaʁˈsõ / gaʁsoˈnɛ.tʃi",
+      "example": {
+        "pt": "O garçom anotou nosso pedido.",
+        "en": "The waiter wrote down our order."
+      },
+      "tags": [
+        "restaurant",
+        "people"
+      ]
+    },
+    {
+      "id": "rest-pedido",
+      "pt": "pedido",
+      "en": "order",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "peˈdʒi.du",
+      "example": {
+        "pt": "Meu pedido veio errado.",
+        "en": "My order came wrong."
+      },
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "id": "rest-prato",
+      "pt": "prato",
+      "en": "dish; plate",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpɾa.tu",
+      "example": {
+        "pt": "Esse prato leva camarão.",
+        "en": "This dish has shrimp."
+      },
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "rest-conta",
+      "pt": "conta",
+      "en": "bill; check",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkõ.tɐ",
+      "example": {
+        "pt": "A conta, por favor.",
+        "en": "The bill, please."
+      },
+      "tags": [
+        "restaurant",
+        "money"
+      ]
+    },
+    {
+      "id": "rest-gorjeta",
+      "pt": "gorjeta",
+      "en": "tip",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "goʁˈʒe.tɐ",
+      "example": {
+        "pt": "A gorjeta já está incluída?",
+        "en": "Is the tip already included?"
+      },
+      "tags": [
+        "restaurant",
+        "money"
+      ]
+    },
+    {
+      "id": "rest-sem-acucar",
+      "pt": "sem açúcar",
+      "en": "without sugar",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "sẽj aˈsu.kaʁ",
+      "example": {
+        "pt": "Quero um café sem açúcar.",
+        "en": "I want a coffee without sugar."
+      },
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "rest-para-viagem",
+      "pt": "para viagem",
+      "en": "to go; takeaway",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ˈpa.ɾɐ viˈa.ʒẽj",
+      "example": {
+        "pt": "Pode embrulhar para viagem?",
+        "en": "Can you wrap it to go?"
+      },
+      "tags": [
+        "restaurant"
+      ]
+    }
+  ]
+}

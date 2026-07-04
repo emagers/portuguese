@@ -1,0 +1,18 @@
+# Core API (required)
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+
+# Speech recognition for pronunciation scoring (required for feature #6).
+# faster-whisper bundles PyAV, so it can decode browser webm/opus audio without
+# a separate ffmpeg install.
+faster-whisper>=1.0.3
+numpy>=1.26
+
+# Phoneme-level pronunciation analysis (optional but recommended).
+# torch is installed separately in scripts/setup.ps1 so the correct CUDA build
+# is selected for your GPU. transformers loads the wav2vec2 phoneme model, and
+# phonemizer (with the espeak-ng backend) drives its tokenizer.
+transformers>=4.44
+phonemizer>=3.2

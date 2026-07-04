@@ -1,0 +1,95 @@
+{
+  "id": "a1-07-present-regular-verbs",
+  "level": "A1",
+  "order": 7,
+  "title": "Present Tense: Regular Verbs",
+  "titlePt": "Presente dos verbos regulares",
+  "summary": "Conjugate regular -ar, -er, and -ir verbs in the present tense.",
+  "tags": [
+    "verbs",
+    "present",
+    "regular-verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Regular -AR verbs",
+      "body": "Remove **-ar** and add the present endings.\n\n| falar | English |\n|---|---|\n| eu **falo** | I speak |\n| você/ele/ela **fala** | you/he/she speak(s) |\n| nós **falamos** | we speak |\n| vocês/eles/elas **falam** | you all/they speak |",
+      "examples": [
+        {
+          "pt": "Eu trabalho no centro.",
+          "en": "I work downtown."
+        },
+        {
+          "pt": "Você fala português muito bem.",
+          "en": "You speak Portuguese very well."
+        },
+        {
+          "pt": "Nós estudamos à noite.",
+          "en": "We study at night."
+        }
+      ]
+    },
+    {
+      "heading": "Regular -ER verbs",
+      "body": "Regular **-er** verbs use endings like **comer**: como, come, comemos, comem.",
+      "examples": [
+        {
+          "pt": "Eu como arroz e feijão.",
+          "en": "I eat rice and beans."
+        },
+        {
+          "pt": "Ela bebe café sem açúcar.",
+          "en": "She drinks coffee without sugar."
+        },
+        {
+          "pt": "Vocês aprendem rápido.",
+          "en": "You all learn fast."
+        }
+      ]
+    },
+    {
+      "heading": "Regular -IR verbs",
+      "body": "Regular **-ir** verbs are similar to -er verbs, but the nós form ends in **-imos**.",
+      "examples": [
+        {
+          "pt": "Eu abro a porta.",
+          "en": "I open the door."
+        },
+        {
+          "pt": "Nós dividimos a conta.",
+          "en": "We split the bill."
+        },
+        {
+          "pt": "Eles assistem ao filme.",
+          "en": "They watch the movie.",
+          "note": "assistir a = to watch"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Regular verbs follow predictable endings by verb family.",
+    "Você uses the same form as ele/ela.",
+    "Vocês uses the same form as eles/elas.",
+    "The nós ending clearly shows 'we': -amos, -emos, -imos."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Você falas português.",
+      "right": "Você fala português.",
+      "note": "Você takes third-person singular."
+    },
+    {
+      "wrong": "Nós come arroz.",
+      "right": "Nós comemos arroz.",
+      "note": "Nós needs the plural ending."
+    },
+    {
+      "wrong": "Eles assistem o filme.",
+      "right": "Eles assistem ao filme.",
+      "note": "In the standard form, assistir = watch takes a."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

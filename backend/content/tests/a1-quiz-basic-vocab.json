@@ -1,0 +1,87 @@
+{
+  "id": "a1-quiz-basic-vocab",
+  "level": "A1",
+  "title": "Everyday Vocabulary",
+  "topic": "vocab",
+  "description": "Review common A1 words for greetings, family, food, and places.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'obrigado' usually mean when said by a man?",
+      "options": [
+        "hello",
+        "thank you",
+        "good night",
+        "excuse me"
+      ],
+      "answer": "thank you",
+      "explanation": "'Obrigado' means 'thank you' when the speaker is male."
+    },
+    {
+      "id": "q2",
+      "type": "translate_pt_en",
+      "prompt": "Bom dia!",
+      "options": [
+        "Good morning!",
+        "Good afternoon!",
+        "Good night!",
+        "See you later!"
+      ],
+      "answer": "Good morning!",
+      "explanation": "'Bom dia' is used in the morning."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which word means 'mother'?",
+      "options": [
+        "pai",
+        "mãe",
+        "irmão",
+        "filha"
+      ],
+      "answer": "mãe",
+      "explanation": "'Mãe' means 'mother'."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which word is a drink?",
+      "options": [
+        "água",
+        "mesa",
+        "rua",
+        "janela"
+      ],
+      "answer": "água",
+      "explanation": "'Água' means 'water', a common drink."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'the school'",
+      "options": [
+        "a escola",
+        "o escola",
+        "as escola",
+        "um escola"
+      ],
+      "answer": "a escola",
+      "explanation": "'Escola' is feminine singular: 'a escola'."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "What does 'hoje' mean?",
+      "options": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "answer": "today",
+      "explanation": "'Hoje' means 'today'."
+    }
+  ]
+}

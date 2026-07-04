@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+*.egg-info/
+
+# Node / frontend build
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+
+# Downloaded models (large, fetched by scripts/download_models.py)
+backend/models_cache/
+
+# Runtime data (user progress, cached audio)
+backend/data/
+!backend/data/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log

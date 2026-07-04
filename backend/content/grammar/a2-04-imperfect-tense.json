@@ -1,0 +1,94 @@
+{
+  "id": "a2-04-imperfect-tense",
+  "level": "A2",
+  "order": 4,
+  "title": "Imperfect Tense",
+  "titlePt": "Pretérito imperfeito",
+  "summary": "Use the imperfect for habits, background descriptions, and ongoing past situations.",
+  "tags": [
+    "verbs",
+    "past",
+    "imperfect"
+  ],
+  "sections": [
+    {
+      "heading": "What the imperfect means",
+      "body": "The **pretérito imperfeito** describes what used to happen, what was happening, or what things were like in the past. It sets the scene rather than presenting a completed event.",
+      "examples": [
+        {
+          "pt": "Quando eu era criança, morava em Belo Horizonte.",
+          "en": "When I was a child, I lived in Belo Horizonte."
+        },
+        {
+          "pt": "Chovia muito naquela semana.",
+          "en": "It was raining a lot that week."
+        },
+        {
+          "pt": "A gente sempre almoçava na casa da minha avó.",
+          "en": "We always used to have lunch at my grandmother's house."
+        }
+      ]
+    },
+    {
+      "heading": "Regular forms",
+      "body": "Regular **-ar** verbs use **-ava** endings; **-er/-ir** verbs use **-ia** endings.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu/você/ele/ela | falava | comia | abria |\n| nós | falávamos | comíamos | abríamos |\n| vocês/eles/elas | falavam | comiam | abriam |",
+      "examples": [
+        {
+          "pt": "Eu estudava de manhã.",
+          "en": "I used to study in the morning."
+        },
+        {
+          "pt": "Nós vendíamos doces.",
+          "en": "We used to sell sweets."
+        },
+        {
+          "pt": "Eles abriam a loja às nove.",
+          "en": "They used to open the store at nine."
+        }
+      ]
+    },
+    {
+      "heading": "Irregular imperfect forms",
+      "body": "Only a few common verbs are irregular in the imperfect: **ser → era**, **ter → tinha**, **vir → vinha**, and **pôr → punha**.",
+      "examples": [
+        {
+          "pt": "Ela era muito tímida.",
+          "en": "She was very shy."
+        },
+        {
+          "pt": "Eu tinha um cachorro.",
+          "en": "I had a dog."
+        },
+        {
+          "pt": "Ele vinha aqui todo domingo.",
+          "en": "He used to come here every Sunday."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Use the imperfect for habits, background, age, time, and ongoing past states.",
+    "-ar verbs use -ava endings; -er/-ir verbs use -ia endings.",
+    "Ser, ter, vir, and pôr are the main irregular imperfect verbs.",
+    "Preterite advances the story; imperfect describes the setting."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Quando eu fui criança...",
+      "right": "Quando eu era criança...",
+      "note": "Childhood/background uses the imperfect of ser."
+    },
+    {
+      "wrong": "Eu comi na escola todos os dias.",
+      "right": "Eu comia na escola todos os dias.",
+      "note": "Habitual past uses imperfect."
+    },
+    {
+      "wrong": "Nós falava português.",
+      "right": "Nós falávamos português.",
+      "note": "Nós needs -ávamos."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

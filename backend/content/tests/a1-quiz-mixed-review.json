@@ -1,0 +1,88 @@
+{
+  "id": "a1-quiz-mixed-review",
+  "level": "A1",
+  "title": "A1 Mixed Review",
+  "topic": "mixed",
+  "description": "Review basic pronouns, numbers, articles, and simple sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which number is 'sete'?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "'Sete' means 7."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Eles ___ brasileiros. (ser)",
+      "options": [
+        "sou",
+        "é",
+        "somos",
+        "são"
+      ],
+      "answer": "são",
+      "explanation": "'Eles' takes 'são': 'Eles são brasileiros'."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "Ela trabalha no banco.",
+      "options": [
+        "She works at the bank.",
+        "He works at the bank.",
+        "She studies at school.",
+        "They work at the bank."
+      ],
+      "answer": "She works at the bank.",
+      "explanation": "'Ela trabalha' means 'she works'."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Choose the feminine plural article for 'amigas'.",
+      "options": [
+        "o",
+        "a",
+        "os",
+        "as"
+      ],
+      "answer": "as",
+      "explanation": "'Amigas' is feminine plural, so it uses 'as'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'Good night.'",
+      "options": [
+        "Boa noite.",
+        "Bom dia.",
+        "Boa tarde.",
+        "Até logo."
+      ],
+      "answer": "Boa noite.",
+      "explanation": "'Boa noite' means both 'good evening' and 'good night'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Eu tenho uma irmã.",
+      "options": [
+        "Eu tenho uma irmã.",
+        "Eu tenho um irmão.",
+        "Ela tem uma irmã.",
+        "Eu sou uma irmã."
+      ],
+      "answer": "Eu tenho uma irmã.",
+      "explanation": "The sentence says 'I have a sister'."
+    }
+  ]
+}

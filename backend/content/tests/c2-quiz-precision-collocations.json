@@ -1,0 +1,87 @@
+{
+  "id": "c2-quiz-precision-collocations",
+  "level": "C2",
+  "title": "Precision & Collocations",
+  "topic": "grammar",
+  "description": "Choose precise collocations and advanced structures in careful Brazilian Portuguese.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which collocation is most natural?",
+      "options": [
+        "levantar uma hipótese",
+        "erguer uma hipótese",
+        "subir uma hipótese",
+        "aumentar uma hipótese"
+      ],
+      "answer": "levantar uma hipótese",
+      "explanation": "'Levantar uma hipótese' is the standard collocation for proposing a hypothesis."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Choose the most precise sentence.",
+      "options": [
+        "O estudo lança luz sobre um problema negligenciado.",
+        "O estudo joga luz em cima de um problema esquecido.",
+        "O estudo acende luz sobre um problema largado.",
+        "O estudo coloca claridade no problema negligenciado."
+      ],
+      "answer": "O estudo lança luz sobre um problema negligenciado.",
+      "explanation": "'Lançar luz sobre' is an idiomatic formal expression meaning to clarify."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "prompt": "Complete: Não há indícios ___ sustentem essa conclusão.",
+      "options": [
+        "que",
+        "onde",
+        "cujo",
+        "quando"
+      ],
+      "answer": "que",
+      "explanation": "'Que' introduces the relative clause referring to 'indícios'."
+    },
+    {
+      "id": "q4",
+      "type": "translate_en_pt",
+      "prompt": "Translate precisely: 'The issue deserves further scrutiny.'",
+      "options": [
+        "A questão merece uma análise mais aprofundada.",
+        "A questão merece olhar mais fundo.",
+        "O assunto merece uma análise mais profunda de mais.",
+        "A questão merece ser escutada mais."
+      ],
+      "answer": "A questão merece uma análise mais aprofundada.",
+      "explanation": "'Análise mais aprofundada' is a natural formal rendering of 'further scrutiny'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses 'tampouco' correctly?",
+      "options": [
+        "Ele não apresentou provas, tampouco explicou a origem dos dados.",
+        "Ele apresentou provas, tampouco explicou a origem dos dados.",
+        "Ele tampouco apresentou provas, mas também sim explicou.",
+        "Tampouco ele apresentou provas e explicou tudo."
+      ],
+      "answer": "Ele não apresentou provas, tampouco explicou a origem dos dados.",
+      "explanation": "'Tampouco' means 'nor' or 'neither' after a negative statement."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which phrase is the most idiomatic for 'to question an assumption'?",
+      "options": [
+        "questionar uma premissa",
+        "perguntar uma premissa",
+        "duvidar uma premissa",
+        "interrogar uma suposição para"
+      ],
+      "answer": "questionar uma premissa",
+      "explanation": "'Questionar uma premissa' is the precise academic collocation."
+    }
+  ]
+}

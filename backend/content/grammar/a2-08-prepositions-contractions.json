@@ -1,0 +1,96 @@
+{
+  "id": "a2-08-prepositions-contractions",
+  "level": "A2",
+  "order": 8,
+  "title": "Prepositions and Contractions",
+  "titlePt": "Preposições e contrações",
+  "summary": "Use de, em, a, and por with articles and learn their common contractions.",
+  "tags": [
+    "prepositions",
+    "contractions"
+  ],
+  "sections": [
+    {
+      "heading": "De + article",
+      "body": "The preposition **de** often means 'of' or 'from'. It contracts with articles: **de + o = do**, **de + a = da**, **de + os = dos**, **de + as = das**.",
+      "examples": [
+        {
+          "pt": "Eu sou do Rio.",
+          "en": "I am from Rio."
+        },
+        {
+          "pt": "A chave da casa está aqui.",
+          "en": "The house key is here."
+        },
+        {
+          "pt": "Gosto dos filmes brasileiros.",
+          "en": "I like Brazilian movies."
+        }
+      ]
+    },
+    {
+      "heading": "Em + article",
+      "body": "The preposition **em** means 'in', 'on', or 'at' for location. It contracts as **no, na, nos, nas**.",
+      "examples": [
+        {
+          "pt": "Moro no Brasil.",
+          "en": "I live in Brazil."
+        },
+        {
+          "pt": "Ela trabalha na farmácia.",
+          "en": "She works at the pharmacy."
+        },
+        {
+          "pt": "Os documentos estão nas gavetas.",
+          "en": "The documents are in the drawers."
+        }
+      ]
+    },
+    {
+      "heading": "A and por contractions",
+      "body": "The preposition **a** contracts to **ao/aos** with masculine articles and creates **à/às** with feminine articles (crase). **Por** contracts to **pelo/pela/pelos/pelas**.",
+      "examples": [
+        {
+          "pt": "Vou ao banco.",
+          "en": "I am going to the bank.",
+          "note": "a + o = ao"
+        },
+        {
+          "pt": "Cheguei à escola cedo.",
+          "en": "I arrived at school early.",
+          "note": "a + a = à"
+        },
+        {
+          "pt": "Passei pela praça.",
+          "en": "I passed through/by the square.",
+          "note": "por + a = pela"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "De + article contracts to do, da, dos, das.",
+    "Em + article contracts to no, na, nos, nas.",
+    "A + o = ao; a + a = à.",
+    "Por + article contracts to pelo, pela, pelos, pelas."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "de o Brasil",
+      "right": "do Brasil",
+      "note": "De + o contracts."
+    },
+    {
+      "wrong": "em a escola",
+      "right": "na escola",
+      "note": "Em + a contracts."
+    },
+    {
+      "wrong": "Vou no banco.",
+      "right": "Vou ao banco.",
+      "note": "In standard usage, destination with ir uses a/ao/à; 'vou no' is common informal speech in some regions."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,120 @@
+{
+  "id": "a2-na-farmacia",
+  "level": "A2",
+  "type": "conversation",
+  "title": "At the Pharmacy",
+  "titlePt": "Na Farmácia",
+  "summary": "A customer asks for medicine and learns how often to take it.",
+  "lines": [
+    {
+      "speaker": "Farmacêutica",
+      "pt": "Boa tarde. Posso ajudar?",
+      "en": "Good afternoon. Can I help?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Boa tarde. Estou com dor de cabeça desde cedo.",
+      "en": "Good afternoon. I have had a headache since early today."
+    },
+    {
+      "speaker": "Farmacêutica",
+      "pt": "Você tem receita médica?",
+      "en": "Do you have a prescription?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Não, só preciso de um remédio simples.",
+      "en": "No, I just need a simple medicine."
+    },
+    {
+      "speaker": "Farmacêutica",
+      "pt": "Este aqui é para dor e febre. Tome um comprimido a cada oito horas.",
+      "en": "This one is for pain and fever. Take one pill every eight hours."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Preciso tomar com comida?",
+      "en": "Do I need to take it with food?"
+    },
+    {
+      "speaker": "Farmacêutica",
+      "pt": "É melhor tomar depois de comer e beber bastante água.",
+      "en": "It is better to take it after eating and drink plenty of water."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Entendi. Quanto custa?",
+      "en": "I understand. How much does it cost?"
+    },
+    {
+      "speaker": "Farmacêutica",
+      "pt": "Custa dezoito reais.",
+      "en": "It costs eighteen reais."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a farmácia",
+      "en": "the pharmacy"
+    },
+    {
+      "pt": "a farmacêutica",
+      "en": "the pharmacist"
+    },
+    {
+      "pt": "dor de cabeça",
+      "en": "headache"
+    },
+    {
+      "pt": "receita médica",
+      "en": "prescription"
+    },
+    {
+      "pt": "o remédio",
+      "en": "the medicine"
+    },
+    {
+      "pt": "o comprimido",
+      "en": "the pill"
+    },
+    {
+      "pt": "a cada oito horas",
+      "en": "every eight hours"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What problem does the customer have?",
+      "options": [
+        "A headache",
+        "A broken foot",
+        "A stomachache",
+        "A cough only"
+      ],
+      "answer": "A headache"
+    },
+    {
+      "id": "c2",
+      "question": "How often should the customer take the pill?",
+      "options": [
+        "Every eight hours",
+        "Every hour",
+        "Once a week",
+        "Only at night"
+      ],
+      "answer": "Every eight hours"
+    },
+    {
+      "id": "c3",
+      "question": "When is it better to take the medicine?",
+      "options": [
+        "After eating",
+        "Before sleeping only",
+        "Before breakfast only",
+        "During exercise"
+      ],
+      "answer": "After eating"
+    }
+  ]
+}

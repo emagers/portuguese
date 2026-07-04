@@ -1,0 +1,131 @@
+{
+  "id": "b1-travel-tourism",
+  "level": "B1",
+  "title": "Travel & Tourism",
+  "theme": "travel",
+  "description": "Vocabulary for hotels, airports, sightseeing and solving travel problems.",
+  "cards": [
+    {
+      "id": "travel-hospedagem",
+      "pt": "hospedagem",
+      "en": "lodging",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ospedɐˈʒẽj",
+      "example": {
+        "pt": "A hospedagem inclui café da manhã.",
+        "en": "The lodging includes breakfast."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-reserva",
+      "pt": "reserva",
+      "en": "reservation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁeˈzɛʁ.vɐ",
+      "example": {
+        "pt": "Fiz uma reserva para duas noites.",
+        "en": "I made a reservation for two nights."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-passaporte",
+      "pt": "passaporte",
+      "en": "passport",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "pasaˈpɔʁ.tʃi",
+      "example": {
+        "pt": "Meu passaporte venceu no mês passado.",
+        "en": "My passport expired last month."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-mala",
+      "pt": "mala",
+      "en": "suitcase",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈma.lɐ",
+      "example": {
+        "pt": "A mala ficou no aeroporto.",
+        "en": "The suitcase stayed at the airport."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-passeio",
+      "pt": "passeio",
+      "en": "outing; tour",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "paˈsej.u",
+      "example": {
+        "pt": "O passeio pelo centro foi ótimo.",
+        "en": "The tour downtown was great."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-praia",
+      "pt": "praia",
+      "en": "beach",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpɾaj.ɐ",
+      "example": {
+        "pt": "A praia estava limpa e tranquila.",
+        "en": "The beach was clean and calm."
+      },
+      "tags": [
+        "travel",
+        "nature"
+      ]
+    },
+    {
+      "id": "travel-atraso",
+      "pt": "atraso",
+      "en": "delay",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aˈtɾa.zu",
+      "example": {
+        "pt": "O voo teve duas horas de atraso.",
+        "en": "The flight had a two-hour delay."
+      },
+      "tags": [
+        "travel"
+      ]
+    },
+    {
+      "id": "travel-embarcar",
+      "pt": "embarcar",
+      "en": "to board",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ẽbaʁˈkaʁ",
+      "example": {
+        "pt": "Vamos embarcar pelo portão cinco.",
+        "en": "We will board through gate five."
+      },
+      "tags": [
+        "travel",
+        "verbs"
+      ]
+    }
+  ]
+}

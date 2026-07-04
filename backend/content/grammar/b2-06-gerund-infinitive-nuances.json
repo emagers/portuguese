@@ -1,0 +1,97 @@
+{
+  "id": "b2-06-gerund-infinitive-nuances",
+  "level": "B2",
+  "order": 6,
+  "title": "Gerund vs Infinitive Nuances",
+  "titlePt": "Nuances entre gerúndio e infinitivo",
+  "summary": "Choose between gerunds, infinitives, and verbal periphrases to express progress, manner, purpose, and sequence.",
+  "tags": [
+    "gerund",
+    "infinitive",
+    "aspect"
+  ],
+  "sections": [
+    {
+      "heading": "Gerund for manner and simultaneous action",
+      "body": "Beyond estar + gerúndio, the gerund can show how something happens or that two actions happen at the same time. In standard writing, avoid using it to replace every subordinate clause.",
+      "examples": [
+        {
+          "pt": "Ela entrou sorrindo.",
+          "en": "She came in smiling."
+        },
+        {
+          "pt": "Aprendi português ouvindo podcasts.",
+          "en": "I learned Portuguese by listening to podcasts."
+        },
+        {
+          "pt": "Ele respondeu olhando para o chão.",
+          "en": "He answered while looking at the floor."
+        }
+      ]
+    },
+    {
+      "heading": "Infinitive for purpose and after prepositions",
+      "body": "The infinitive often expresses purpose after **para** and follows many prepositions and verbs. It can be personal when it has its own subject.",
+      "examples": [
+        {
+          "pt": "Saí cedo para evitar trânsito.",
+          "en": "I left early to avoid traffic."
+        },
+        {
+          "pt": "Antes de sair, apague as luzes.",
+          "en": "Before leaving, turn off the lights."
+        },
+        {
+          "pt": "Para eles entenderem, precisamos dar exemplos.",
+          "en": "For them to understand, we need to give examples."
+        }
+      ]
+    },
+    {
+      "heading": "Brazilian sensitivity to gerundismo",
+      "body": "Brazilian Portuguese uses gerunds naturally, but excessive bureaucratic chains like **vou estar verificando** are criticized as **gerundismo** when a simpler form works.",
+      "examples": [
+        {
+          "pt": "Vou verificar seu pedido.",
+          "en": "I will check your request.",
+          "note": "clear and natural"
+        },
+        {
+          "pt": "Vou estar verificando seu pedido.",
+          "en": "I will be checking your request.",
+          "note": "often considered bureaucratic or evasive"
+        },
+        {
+          "pt": "Estou verificando seu pedido agora.",
+          "en": "I am checking your request now.",
+          "note": "correct for action in progress"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Gerunds can show simultaneous action or manner.",
+    "Infinitives commonly express purpose after para.",
+    "Personal infinitive appears when the infinitive has its own subject.",
+    "Avoid unnecessary gerundismo in formal or professional communication."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Saí cedo para evitando trânsito.",
+      "right": "Saí cedo para evitar trânsito.",
+      "note": "Purpose after para uses infinitive."
+    },
+    {
+      "wrong": "Vou estar mandando amanhã.",
+      "right": "Vou mandar amanhã.",
+      "note": "Avoid gerundismo when simple future works."
+    },
+    {
+      "wrong": "Ela entrou sorrir.",
+      "right": "Ela entrou sorrindo.",
+      "note": "Manner/simultaneous action uses gerund."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": "a1-04-ser-vs-estar",
+  "level": "A1",
+  "order": 4,
+  "title": "SER vs ESTAR",
+  "titlePt": "SER vs ESTAR",
+  "summary": "Choose ser for defining identity and estar for location or current state.",
+  "tags": [
+    "verbs",
+    "ser",
+    "estar"
+  ],
+  "sections": [
+    {
+      "heading": "The basic contrast",
+      "body": "Both verbs can mean 'to be', but they answer different questions. **Ser** says what something is by nature or identity; **estar** says where it is or how it is right now.",
+      "examples": [
+        {
+          "pt": "Ela é simpática.",
+          "en": "She is nice.",
+          "note": "a personality trait"
+        },
+        {
+          "pt": "Ela está simpática hoje.",
+          "en": "She is being nice today.",
+          "note": "a current behavior"
+        },
+        {
+          "pt": "O banco é perto.",
+          "en": "The bank is nearby.",
+          "note": "a general location description"
+        }
+      ]
+    },
+    {
+      "heading": "Same adjective, different meaning",
+      "body": "Some adjectives change meaning depending on the verb. This is normal and very useful.",
+      "examples": [
+        {
+          "pt": "Ele é bonito.",
+          "en": "He is handsome.",
+          "note": "general appearance"
+        },
+        {
+          "pt": "Ele está bonito hoje.",
+          "en": "He looks handsome today.",
+          "note": "current appearance"
+        },
+        {
+          "pt": "A porta é aberta.",
+          "en": "The door is open-minded/open by nature.",
+          "note": "rare; descriptive"
+        },
+        {
+          "pt": "A porta está aberta.",
+          "en": "The door is open.",
+          "note": "state"
+        }
+      ]
+    },
+    {
+      "heading": "Places and events",
+      "body": "Physical location normally uses **estar**. Events, however, often use **ser** to say where they take place.",
+      "examples": [
+        {
+          "pt": "O restaurante está na esquina.",
+          "en": "The restaurant is on the corner."
+        },
+        {
+          "pt": "A festa é na casa da Júlia.",
+          "en": "The party is at Júlia's house.",
+          "note": "event location uses ser"
+        },
+        {
+          "pt": "A reunião é às nove.",
+          "en": "The meeting is at nine.",
+          "note": "scheduled event"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ser = identity, definition, profession, origin, time, event location.",
+    "Estar = physical location, temporary state, current condition.",
+    "The same adjective can have a different nuance with ser or estar.",
+    "Events often use ser for time and place."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu estou brasileiro.",
+      "right": "Eu sou brasileiro.",
+      "note": "Nationality uses ser."
+    },
+    {
+      "wrong": "O livro é na mesa.",
+      "right": "O livro está na mesa.",
+      "note": "Object location uses estar."
+    },
+    {
+      "wrong": "A festa está amanhã.",
+      "right": "A festa é amanhã.",
+      "note": "Scheduled events use ser."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

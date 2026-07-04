@@ -1,0 +1,94 @@
+{
+  "id": "a1-09-question-words",
+  "level": "A1",
+  "order": 9,
+  "title": "Question Words",
+  "titlePt": "Palavras interrogativas",
+  "summary": "Ask basic questions with quem, o que, onde, quando, como, quanto, and por que.",
+  "tags": [
+    "questions",
+    "interrogatives"
+  ],
+  "sections": [
+    {
+      "heading": "Core question words",
+      "body": "Brazilian Portuguese usually keeps the normal word order in questions and changes the intonation. Written questions use the question mark only at the end.\n\n| Portuguese | English |\n|---|---|\n| quem | who |\n| o que / que | what |\n| onde | where |\n| quando | when |\n| como | how |\n| quanto/a/os/as | how much/many |\n| por que | why |",
+      "examples": [
+        {
+          "pt": "Quem é você?",
+          "en": "Who are you?"
+        },
+        {
+          "pt": "Onde fica o metrô?",
+          "en": "Where is the subway?"
+        },
+        {
+          "pt": "Quando começa a aula?",
+          "en": "When does the class start?"
+        }
+      ]
+    },
+    {
+      "heading": "O que vs que",
+      "body": "Both **o que** and **que** can mean 'what'. **O que** is very common in full questions; **que** often appears before nouns or in fixed expressions.",
+      "examples": [
+        {
+          "pt": "O que você quer?",
+          "en": "What do you want?"
+        },
+        {
+          "pt": "Que horas são?",
+          "en": "What time is it?"
+        },
+        {
+          "pt": "Que tipo de música você gosta?",
+          "en": "What kind of music do you like?"
+        }
+      ]
+    },
+    {
+      "heading": "Por que, porque, and por quê",
+      "body": "Use **por que** in questions and **porque** in answers. At the end of a question, use **por quê**.",
+      "examples": [
+        {
+          "pt": "Por que você estuda português?",
+          "en": "Why do you study Portuguese?"
+        },
+        {
+          "pt": "Estudo porque gosto do Brasil.",
+          "en": "I study because I like Brazil."
+        },
+        {
+          "pt": "Você saiu cedo por quê?",
+          "en": "Why did you leave early?",
+          "note": "por quê at the end"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Questions often use normal word order plus rising intonation.",
+    "Quem = who; onde = where; quando = when; como = how.",
+    "Use por que for 'why' and porque for 'because'.",
+    "Quanto agrees when it modifies a noun: quantas pessoas?"
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Porque você está aqui?",
+      "right": "Por que você está aqui?",
+      "note": "Questions need por que."
+    },
+    {
+      "wrong": "Onde você é?",
+      "right": "De onde você é?",
+      "note": "Origin uses de onde."
+    },
+    {
+      "wrong": "Quanto pessoas?",
+      "right": "Quantas pessoas?",
+      "note": "Quanto agrees with pessoas."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

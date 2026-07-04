@@ -1,0 +1,23 @@
+{
+  "id": "a1-greetings",
+  "level": "A1",
+  "title": "Greetings & Politeness",
+  "theme": "social",
+  "description": "Essential greetings, farewells and polite expressions for everyday Brazilian conversations.",
+  "cards": [
+    { "id": "g-ola", "pt": "olá", "en": "hello", "pos": "interj", "ipa": "oˈla", "example": { "pt": "Olá! Tudo bem?", "en": "Hello! All good?" }, "tags": ["greeting"] },
+    { "id": "g-oi", "pt": "oi", "en": "hi", "pos": "interj", "ipa": "oj", "example": { "pt": "Oi, gente!", "en": "Hi, everyone!" }, "tags": ["greeting", "informal"] },
+    { "id": "g-bom-dia", "pt": "bom dia", "en": "good morning", "pos": "phrase", "ipa": "bõ ˈdʒi.ɐ", "example": { "pt": "Bom dia, professora!", "en": "Good morning, teacher!" }, "tags": ["greeting"] },
+    { "id": "g-boa-tarde", "pt": "boa tarde", "en": "good afternoon", "pos": "phrase", "ipa": "ˈbo.ɐ ˈtaʁ.dʒi", "example": { "pt": "Boa tarde, senhor.", "en": "Good afternoon, sir." }, "tags": ["greeting"] },
+    { "id": "g-boa-noite", "pt": "boa noite", "en": "good evening / good night", "pos": "phrase", "ipa": "ˈbo.ɐ ˈnoj.tʃi", "example": { "pt": "Boa noite, durma bem!", "en": "Good night, sleep well!" }, "tags": ["greeting"] },
+    { "id": "g-tchau", "pt": "tchau", "en": "bye", "pos": "interj", "ipa": "tʃaw", "example": { "pt": "Tchau, até amanhã!", "en": "Bye, see you tomorrow!" }, "tags": ["farewell", "informal"] },
+    { "id": "g-ate-logo", "pt": "até logo", "en": "see you later", "pos": "phrase", "ipa": "aˈtɛ ˈlo.gu", "example": { "pt": "Preciso ir. Até logo!", "en": "I have to go. See you later!" }, "tags": ["farewell"] },
+    { "id": "g-por-favor", "pt": "por favor", "en": "please", "pos": "phrase", "ipa": "poʁ faˈvoʁ", "example": { "pt": "Um café, por favor.", "en": "A coffee, please." }, "tags": ["politeness"] },
+    { "id": "g-obrigado", "pt": "obrigado / obrigada", "en": "thank you", "pos": "interj", "ipa": "o.bɾiˈga.du", "example": { "pt": "Muito obrigada!", "en": "Thank you very much!" }, "tags": ["politeness"] },
+    { "id": "g-de-nada", "pt": "de nada", "en": "you're welcome", "pos": "phrase", "ipa": "dʒi ˈna.dɐ", "example": { "pt": "— Obrigado! — De nada!", "en": "— Thanks! — You're welcome!" }, "tags": ["politeness"] },
+    { "id": "g-com-licenca", "pt": "com licença", "en": "excuse me", "pos": "phrase", "ipa": "kõ liˈsẽ.sɐ", "example": { "pt": "Com licença, posso passar?", "en": "Excuse me, may I pass?" }, "tags": ["politeness"] },
+    { "id": "g-desculpa", "pt": "desculpa / desculpe", "en": "sorry", "pos": "interj", "ipa": "dʒisˈkuw.pɐ", "example": { "pt": "Desculpa o atraso!", "en": "Sorry for being late!" }, "tags": ["politeness"] },
+    { "id": "g-tudo-bem", "pt": "tudo bem?", "en": "how are you? / all good?", "pos": "phrase", "ipa": "ˈtu.du ˈbẽj", "example": { "pt": "— Tudo bem? — Tudo ótimo!", "en": "— All good? — All great!" }, "tags": ["greeting"] },
+    { "id": "g-prazer", "pt": "prazer", "en": "nice to meet you", "pos": "noun", "gender": "m", "ipa": "pɾaˈzeʁ", "example": { "pt": "Prazer em conhecer você!", "en": "Nice to meet you!" }, "tags": ["greeting"] }
+  ]
+}

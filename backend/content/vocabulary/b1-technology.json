@@ -1,0 +1,131 @@
+{
+  "id": "b1-technology",
+  "level": "B1",
+  "title": "Technology",
+  "theme": "technology",
+  "description": "Digital vocabulary for phones, computers, internet use and common technical problems.",
+  "cards": [
+    {
+      "id": "tech-celular",
+      "pt": "celular",
+      "en": "cell phone",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "seluˈlaʁ",
+      "example": {
+        "pt": "Esqueci meu celular em casa.",
+        "en": "I forgot my cell phone at home."
+      },
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tech-senha",
+      "pt": "senha",
+      "en": "password",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈse.ɲɐ",
+      "example": {
+        "pt": "Troque sua senha com frequência.",
+        "en": "Change your password frequently."
+      },
+      "tags": [
+        "technology",
+        "security"
+      ]
+    },
+    {
+      "id": "tech-arquivo",
+      "pt": "arquivo",
+      "en": "file",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aʁˈki.vu",
+      "example": {
+        "pt": "Enviei o arquivo por e-mail.",
+        "en": "I sent the file by email."
+      },
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tech-tela",
+      "pt": "tela",
+      "en": "screen",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈtɛ.lɐ",
+      "example": {
+        "pt": "A tela do computador apagou.",
+        "en": "The computer screen went dark."
+      },
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tech-baixar",
+      "pt": "baixar",
+      "en": "to download",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "bajˈʃaʁ",
+      "example": {
+        "pt": "Preciso baixar o aplicativo.",
+        "en": "I need to download the app."
+      },
+      "tags": [
+        "technology",
+        "verbs"
+      ]
+    },
+    {
+      "id": "tech-conexao",
+      "pt": "conexão",
+      "en": "connection",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "koneˈksɐ̃w",
+      "example": {
+        "pt": "A conexão está lenta hoje.",
+        "en": "The connection is slow today."
+      },
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tech-nuvem",
+      "pt": "nuvem",
+      "en": "cloud",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈnu.vẽj",
+      "example": {
+        "pt": "Salvei as fotos na nuvem.",
+        "en": "I saved the photos in the cloud."
+      },
+      "tags": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tech-carregador",
+      "pt": "carregador",
+      "en": "charger",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaʁegaˈdoʁ",
+      "example": {
+        "pt": "Você tem um carregador emprestado?",
+        "en": "Do you have a charger I can borrow?"
+      },
+      "tags": [
+        "technology"
+      ]
+    }
+  ]
+}

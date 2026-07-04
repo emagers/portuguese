@@ -1,0 +1,98 @@
+{
+  "id": "a2-festa-de-aniversario",
+  "level": "A2",
+  "type": "story",
+  "title": "The Birthday Party",
+  "titlePt": "A Festa de Aniversário",
+  "summary": "A family prepares a birthday party with simple past-tense actions.",
+  "paragraphs": [
+    {
+      "pt": "No sábado, a família de Sofia preparou uma festa surpresa para o aniversário dela. A mãe fez um bolo de chocolate, o pai comprou refrigerante, e o irmão pendurou balões coloridos na sala.",
+      "en": "On Saturday, Sofia's family prepared a surprise party for her birthday. Her mother made a chocolate cake, her father bought soda, and her brother hung colorful balloons in the living room."
+    },
+    {
+      "pt": "Sofia chegou às quatro horas e encontrou todos os amigos cantando parabéns. Ela ficou emocionada, porque achou que ninguém tinha lembrado da data. Depois, abriu os presentes e agradeceu a cada pessoa.",
+      "en": "Sofia arrived at four o'clock and found all her friends singing happy birthday. She was moved because she thought no one had remembered the date. Then she opened the gifts and thanked each person."
+    },
+    {
+      "pt": "À noite, a família limpou a casa, mas guardou um pedaço de bolo na geladeira. Sofia disse que aquele foi o melhor aniversário dos últimos anos.",
+      "en": "At night, the family cleaned the house, but saved a piece of cake in the refrigerator. Sofia said that it was the best birthday of recent years."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "festa surpresa",
+      "en": "surprise party"
+    },
+    {
+      "pt": "aniversário",
+      "en": "birthday"
+    },
+    {
+      "pt": "refrigerante",
+      "en": "soda"
+    },
+    {
+      "pt": "balões coloridos",
+      "en": "colorful balloons"
+    },
+    {
+      "pt": "cantar parabéns",
+      "en": "to sing happy birthday"
+    },
+    {
+      "pt": "emocionada",
+      "en": "moved / emotional"
+    },
+    {
+      "pt": "os presentes",
+      "en": "the gifts"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What kind of party did Sofia's family prepare?",
+      "options": [
+        "A surprise party",
+        "A work party",
+        "A wedding party",
+        "A school party"
+      ],
+      "answer": "A surprise party"
+    },
+    {
+      "id": "c2",
+      "question": "Who made the cake?",
+      "options": [
+        "Sofia's mother",
+        "Sofia's father",
+        "Sofia's brother",
+        "Sofia's friend"
+      ],
+      "answer": "Sofia's mother"
+    },
+    {
+      "id": "c3",
+      "question": "Why was Sofia emotional?",
+      "options": [
+        "She thought no one remembered",
+        "She lost a present",
+        "The cake was cold",
+        "The house was empty"
+      ],
+      "answer": "She thought no one remembered"
+    },
+    {
+      "id": "c4",
+      "question": "Where did the family keep a piece of cake?",
+      "options": [
+        "In the refrigerator",
+        "In the car",
+        "At school",
+        "On the balcony"
+      ],
+      "answer": "In the refrigerator"
+    }
+  ]
+}

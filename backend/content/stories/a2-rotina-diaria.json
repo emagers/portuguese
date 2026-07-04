@@ -1,0 +1,98 @@
+{
+  "id": "a2-rotina-diaria",
+  "level": "A2",
+  "type": "story",
+  "title": "A Daily Routine",
+  "titlePt": "Uma Rotina Diária",
+  "summary": "A woman describes her weekday routine and contrasts it with yesterday.",
+  "paragraphs": [
+    {
+      "pt": "Todos os dias, Camila acorda às seis horas. Ela toma banho, prepara café e pega o ônibus para o trabalho. No escritório, responde e-mails e conversa com os clientes pelo celular.",
+      "en": "Every day, Camila wakes up at six o'clock. She takes a shower, makes coffee, and takes the bus to work. At the office, she answers emails and talks with customers by cell phone."
+    },
+    {
+      "pt": "Ontem foi diferente. O ônibus atrasou, e Camila chegou vinte minutos depois. Mesmo assim, ela trabalhou bastante e terminou um relatório importante antes das cinco.",
+      "en": "Yesterday was different. The bus was late, and Camila arrived twenty minutes later. Even so, she worked a lot and finished an important report before five."
+    },
+    {
+      "pt": "À noite, ela voltou para casa, colocou água na geladeira e fez uma sopa simples. Depois, leu algumas páginas de um livro e dormiu cedo.",
+      "en": "At night, she returned home, put water in the refrigerator, and made a simple soup. Then she read a few pages of a book and slept early."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "acordar",
+      "en": "to wake up"
+    },
+    {
+      "pt": "pegar o ônibus",
+      "en": "to take the bus"
+    },
+    {
+      "pt": "o escritório",
+      "en": "the office"
+    },
+    {
+      "pt": "atrasar",
+      "en": "to be late"
+    },
+    {
+      "pt": "mesmo assim",
+      "en": "even so"
+    },
+    {
+      "pt": "o relatório",
+      "en": "the report"
+    },
+    {
+      "pt": "dormir cedo",
+      "en": "to sleep early"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How does Camila go to work?",
+      "options": [
+        "By bus",
+        "By train",
+        "By bicycle",
+        "On foot"
+      ],
+      "answer": "By bus"
+    },
+    {
+      "id": "c2",
+      "question": "What happened yesterday?",
+      "options": [
+        "The bus was late",
+        "She stayed home",
+        "She lost her phone",
+        "The office closed"
+      ],
+      "answer": "The bus was late"
+    },
+    {
+      "id": "c3",
+      "question": "What did she finish before five?",
+      "options": [
+        "An important report",
+        "A long movie",
+        "A cake",
+        "A Portuguese class"
+      ],
+      "answer": "An important report"
+    },
+    {
+      "id": "c4",
+      "question": "What did Camila do before sleeping?",
+      "options": [
+        "Read a few pages",
+        "Went to the market",
+        "Called a doctor",
+        "Cleaned the car"
+      ],
+      "answer": "Read a few pages"
+    }
+  ]
+}

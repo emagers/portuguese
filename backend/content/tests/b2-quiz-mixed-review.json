@@ -1,0 +1,88 @@
+{
+  "id": "b2-quiz-mixed-review",
+  "level": "B2",
+  "title": "B2 Mixed Review",
+  "topic": "mixed",
+  "description": "Review complex clauses, passive forms, formal vocabulary, and reported speech.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Embora ele ___ cansado, continuou trabalhando. (estar)",
+      "options": [
+        "estivesse",
+        "estava",
+        "esteve",
+        "está"
+      ],
+      "answer": "estivesse",
+      "explanation": "In a past concession, 'embora' can take imperfect subjunctive: 'estivesse'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Which is the best translation of 'If I had known, I would have helped'?",
+      "options": [
+        "Se eu soubesse, teria ajudado.",
+        "Se eu sabia, teria ajudado.",
+        "Se eu soube, ajudaria.",
+        "Se eu sei, ajudei."
+      ],
+      "answer": "Se eu soubesse, teria ajudado.",
+      "explanation": "This uses imperfect subjunctive plus compound conditional."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "O artigo foi publicado ontem.",
+      "options": [
+        "The article was published yesterday.",
+        "The article published yesterday.",
+        "The article will be published tomorrow.",
+        "The author was published yesterday."
+      ],
+      "answer": "The article was published yesterday.",
+      "explanation": "'Foi publicado' is passive voice."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which connector best means 'therefore'?",
+      "options": [
+        "portanto",
+        "embora",
+        "apesar de",
+        "contudo"
+      ],
+      "answer": "portanto",
+      "explanation": "'Portanto' expresses consequence, like 'therefore'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'He said he had already sent the file.'",
+      "options": [
+        "Ele disse que já tinha enviado o arquivo.",
+        "Ele disse que já envia o arquivo.",
+        "Ele disse que já enviará o arquivo.",
+        "Ele disse que já envie o arquivo."
+      ],
+      "answer": "Ele disse que já tinha enviado o arquivo.",
+      "explanation": "Reported past uses 'tinha enviado' for 'had sent'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O relatório será revisado pela equipe técnica.",
+      "options": [
+        "O relatório será revisado pela equipe técnica.",
+        "O relatório foi revisado pela equipe técnica.",
+        "O relatório será recusado pela equipe técnica.",
+        "O horário será revisado pela equipe técnica."
+      ],
+      "answer": "O relatório será revisado pela equipe técnica.",
+      "explanation": "'Será revisado' is future passive voice."
+    }
+  ]
+}

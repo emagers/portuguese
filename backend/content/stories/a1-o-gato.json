@@ -1,0 +1,79 @@
+{
+  "id": "a1-o-gato",
+  "level": "A1",
+  "type": "story",
+  "title": "The Cat in the Window",
+  "titlePt": "O Gato na Janela",
+  "summary": "A very short story about a cat's simple morning routine.",
+  "paragraphs": [
+    {
+      "pt": "Nina é uma gata branca. Ela mora com Pedro em um apartamento. De manhã, Nina fica na janela e olha a rua.",
+      "en": "Nina is a white cat. She lives with Pedro in an apartment. In the morning, Nina stays at the window and looks at the street."
+    },
+    {
+      "pt": "Pedro dá comida e água para Nina. Depois, ele abre a porta da varanda. Nina gosta do sol. Ela dorme feliz no tapete.",
+      "en": "Pedro gives food and water to Nina. Then he opens the balcony door. Nina likes the sun. She sleeps happily on the rug."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a gata",
+      "en": "the female cat"
+    },
+    {
+      "pt": "branca",
+      "en": "white"
+    },
+    {
+      "pt": "a janela",
+      "en": "the window"
+    },
+    {
+      "pt": "a rua",
+      "en": "the street"
+    },
+    {
+      "pt": "a varanda",
+      "en": "the balcony"
+    },
+    {
+      "pt": "o tapete",
+      "en": "the rug"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What color is Nina?",
+      "options": [
+        "White",
+        "Black",
+        "Gray",
+        "Orange"
+      ],
+      "answer": "White"
+    },
+    {
+      "id": "c2",
+      "question": "What does Nina look at from the window?",
+      "options": [
+        "The street",
+        "The sea",
+        "The school",
+        "The kitchen"
+      ],
+      "answer": "The street"
+    },
+    {
+      "id": "c3",
+      "question": "Where does Nina sleep?",
+      "options": [
+        "On the rug",
+        "On the table",
+        "In the car",
+        "At the park"
+      ],
+      "answer": "On the rug"
+    }
+  ]
+}

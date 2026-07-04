@@ -1,0 +1,135 @@
+{
+  "id": "a1-animals",
+  "level": "A1",
+  "title": "Animals",
+  "theme": "animals",
+  "description": "Basic animal words for pets, farms, zoos and simple descriptions.",
+  "cards": [
+    {
+      "id": "animal-cachorro",
+      "pt": "cachorro",
+      "en": "dog",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaˈʃo.ʁu",
+      "example": {
+        "pt": "Meu cachorro gosta de correr no parque.",
+        "en": "My dog likes to run in the park."
+      },
+      "tags": [
+        "animals",
+        "pets"
+      ]
+    },
+    {
+      "id": "animal-gato",
+      "pt": "gato",
+      "en": "cat",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈga.tu",
+      "example": {
+        "pt": "O gato dorme no sofá.",
+        "en": "The cat sleeps on the sofa."
+      },
+      "tags": [
+        "animals",
+        "pets"
+      ]
+    },
+    {
+      "id": "animal-passaro",
+      "pt": "pássaro",
+      "en": "bird",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpa.sa.ɾu",
+      "example": {
+        "pt": "Um pássaro cantou na janela.",
+        "en": "A bird sang at the window."
+      },
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "animal-peixe",
+      "pt": "peixe",
+      "en": "fish",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpej.ʃi",
+      "example": {
+        "pt": "O peixe nada no aquário.",
+        "en": "The fish swims in the aquarium."
+      },
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "animal-cavalo",
+      "pt": "cavalo",
+      "en": "horse",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kaˈva.lu",
+      "example": {
+        "pt": "O cavalo está no sítio.",
+        "en": "The horse is on the farm."
+      },
+      "tags": [
+        "animals",
+        "farm"
+      ]
+    },
+    {
+      "id": "animal-vaca",
+      "pt": "vaca",
+      "en": "cow",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈva.kɐ",
+      "example": {
+        "pt": "A vaca dá leite.",
+        "en": "The cow gives milk."
+      },
+      "tags": [
+        "animals",
+        "farm"
+      ]
+    },
+    {
+      "id": "animal-galinha",
+      "pt": "galinha",
+      "en": "chicken; hen",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "gaˈli.ɲɐ",
+      "example": {
+        "pt": "A galinha botou um ovo.",
+        "en": "The hen laid an egg."
+      },
+      "tags": [
+        "animals",
+        "farm"
+      ]
+    },
+    {
+      "id": "animal-macaco",
+      "pt": "macaco",
+      "en": "monkey",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "maˈka.ku",
+      "example": {
+        "pt": "O macaco come banana.",
+        "en": "The monkey eats a banana."
+      },
+      "tags": [
+        "animals",
+        "zoo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "a2-09-estar-gerundio",
+  "level": "A2",
+  "order": 9,
+  "title": "Present Continuous: ESTAR + Gerund",
+  "titlePt": "Estar + gerúndio",
+  "summary": "Describe actions happening right now with estou falando, está comendo, and estão abrindo.",
+  "tags": [
+    "verbs",
+    "gerund",
+    "present-continuous"
+  ],
+  "sections": [
+    {
+      "heading": "Forming the gerund",
+      "body": "Use **estar** in the present plus the gerund. Gerunds usually end in **-ando** for -ar verbs and **-endo/-indo** for -er/-ir verbs.\n\n| Infinitive | Gerund |\n|---|---|\n| falar | falando |\n| comer | comendo |\n| abrir | abrindo |",
+      "examples": [
+        {
+          "pt": "Eu estou estudando agora.",
+          "en": "I am studying now."
+        },
+        {
+          "pt": "Ela está comendo salada.",
+          "en": "She is eating salad."
+        },
+        {
+          "pt": "Eles estão abrindo a loja.",
+          "en": "They are opening the store."
+        }
+      ]
+    },
+    {
+      "heading": "When to use it",
+      "body": "Use **estar + gerúndio** for actions in progress at the moment or around the current period. Do not overuse it for general habits; the simple present often works better.",
+      "examples": [
+        {
+          "pt": "Estou lendo um livro muito bom.",
+          "en": "I am reading a very good book."
+        },
+        {
+          "pt": "A gente está procurando apartamento.",
+          "en": "We are looking for an apartment."
+        },
+        {
+          "pt": "Eu trabalho em casa.",
+          "en": "I work from home.",
+          "note": "habit: simple present"
+        }
+      ]
+    },
+    {
+      "heading": "Spoken contractions",
+      "body": "In conversation, **estou** and **está** are often pronounced and written informally as **tô** and **tá**. Use full forms in standard writing.",
+      "examples": [
+        {
+          "pt": "Tô esperando o ônibus.",
+          "en": "I'm waiting for the bus.",
+          "note": "informal speech"
+        },
+        {
+          "pt": "Você tá ouvindo?",
+          "en": "Are you listening?",
+          "note": "informal speech"
+        },
+        {
+          "pt": "Estamos preparando tudo.",
+          "en": "We are preparing everything.",
+          "note": "standard form"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Present continuous = estar + gerund.",
+    "Use it for actions in progress, not every future or habit.",
+    "-ar becomes -ando; -er/-ir becomes -endo/-indo.",
+    "Tô and tá are common informal contractions."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu estou estudar.",
+      "right": "Eu estou estudando.",
+      "note": "Use the gerund after estar."
+    },
+    {
+      "wrong": "Ela é trabalhando.",
+      "right": "Ela está trabalhando.",
+      "note": "Continuous actions use estar."
+    },
+    {
+      "wrong": "Eu estou morando no Brasil desde 2020.",
+      "right": "Eu moro no Brasil desde 2020.",
+      "note": "For stable residence, simple present is often more natural."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

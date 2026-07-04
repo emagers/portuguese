@@ -1,0 +1,95 @@
+{
+  "id": "b1-08-personal-infinitive-intro",
+  "level": "B1",
+  "order": 8,
+  "title": "Personal Infinitive: Introduction",
+  "titlePt": "Infinitivo pessoal: introdução",
+  "summary": "Recognize infinitives that show their subject with endings like fazermos and chegarem.",
+  "tags": [
+    "verbs",
+    "infinitive"
+  ],
+  "sections": [
+    {
+      "heading": "What makes it personal",
+      "body": "Portuguese infinitives can take subject endings when the infinitive has its own subject. This is called the **infinitivo pessoal**. It is common after prepositions and in more explicit sentences.",
+      "examples": [
+        {
+          "pt": "É importante nós chegarmos cedo.",
+          "en": "It is important for us to arrive early."
+        },
+        {
+          "pt": "Antes de vocês saírem, fechem a porta.",
+          "en": "Before you all leave, close the door."
+        },
+        {
+          "pt": "Para eles entenderem, explique devagar.",
+          "en": "For them to understand, explain slowly."
+        }
+      ]
+    },
+    {
+      "heading": "Regular endings",
+      "body": "The personal infinitive uses the infinitive plus endings: no ending for eu/você/ele/ela, **-mos** for nós, and **-em** for vocês/eles/elas.\n\n| falar | comer | abrir |\n|---|---|---|\n| eu/você falar | eu/você comer | eu/você abrir |\n| nós falarmos | nós comermos | nós abrirmos |\n| eles falarem | eles comerem | eles abrirem |",
+      "examples": [
+        {
+          "pt": "Depois de almoçarmos, vamos sair.",
+          "en": "After we have lunch, we will go out."
+        },
+        {
+          "pt": "Sem eles saberem, fica difícil.",
+          "en": "Without them knowing, it becomes difficult."
+        },
+        {
+          "pt": "Por você morar longe, entendo o atraso.",
+          "en": "Because you live far away, I understand the delay."
+        }
+      ]
+    },
+    {
+      "heading": "When the plain infinitive is enough",
+      "body": "If the subject is the same as the main verb's subject, Portuguese often uses the plain infinitive. The personal infinitive is most useful when clarity is needed.",
+      "examples": [
+        {
+          "pt": "Quero sair cedo.",
+          "en": "I want to leave early."
+        },
+        {
+          "pt": "Quero que vocês saiam cedo.",
+          "en": "I want you all to leave early.",
+          "note": "subjunctive, not infinitive"
+        },
+        {
+          "pt": "É bom estudar todos os dias.",
+          "en": "It is good to study every day.",
+          "note": "general statement"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Personal infinitive marks the subject of an infinitive.",
+    "It is common after prepositions like antes de, depois de, para, por, sem.",
+    "Nós takes -mos; plural subjects take -em.",
+    "Use it when the infinitive has a different or explicit subject."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Antes de nós sair...",
+      "right": "Antes de nós sairmos...",
+      "note": "Nós needs the personal infinitive ending."
+    },
+    {
+      "wrong": "Para eles entender...",
+      "right": "Para eles entenderem...",
+      "note": "Eles needs -em."
+    },
+    {
+      "wrong": "Eu quero eu sair.",
+      "right": "Eu quero sair.",
+      "note": "Same subject usually uses the plain infinitive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

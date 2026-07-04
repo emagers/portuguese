@@ -1,0 +1,93 @@
+{
+  "id": "c1-quiz-listening-workplace-nuance",
+  "level": "C1",
+  "title": "Listening: Workplace Nuance",
+  "topic": "listening",
+  "description": "Listen for nuanced professional phrases, caveats, and informal workplace speech.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A princípio, concordo com a proposta, mas tenho uma ressalva.",
+      "options": [
+        "A princípio, concordo com a proposta, mas tenho uma ressalva.",
+        "Em princípio, discordo da proposta, mas tenho uma ressalva.",
+        "A princípio, concordo com a resposta, mas tenho uma ressalva.",
+        "A princípio, concordo com a proposta, mas tenho uma reserva."
+      ],
+      "answer": "A princípio, concordo com a proposta, mas tenho uma ressalva.",
+      "explanation": "'Tenho uma ressalva' introduces a caveat."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Vamos alinhar as expectativas antes de avançar.",
+      "options": [
+        "Vamos alinhar as expectativas antes de avançar.",
+        "Vamos alterar as expectativas antes de avançar.",
+        "Vamos alinhar as expectativas depois de avançar.",
+        "Vamos avaliar as expectativas antes de avançar."
+      ],
+      "answer": "Vamos alinhar as expectativas antes de avançar.",
+      "explanation": "'Alinhar expectativas' is common professional language."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Não vejo problema, desde que o prazo seja mantido.",
+      "options": [
+        "Não vejo problema, desde que o prazo seja mantido.",
+        "Não vejo problema, desde que o preço seja mantido.",
+        "Não vejo problema, embora o prazo seja mantido.",
+        "Não vejo problema, desde que o prazo seja mudado."
+      ],
+      "answer": "Não vejo problema, desde que o prazo seja mantido.",
+      "explanation": "'Desde que' introduces a condition and takes the subjunctive."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ficou subentendido que a decisão ainda não é definitiva.",
+      "options": [
+        "Ficou subentendido que a decisão ainda não é definitiva.",
+        "Ficou entendido que a decisão já é definitiva.",
+        "Ficou subentendido que a reunião ainda não é definitiva.",
+        "Ficou subentendido que a decisão ainda não foi divulgada."
+      ],
+      "answer": "Ficou subentendido que a decisão ainda não é definitiva.",
+      "explanation": "'Subentendido' means implied or understood without being stated directly."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A gente precisa destravar esse processo logo.",
+      "options": [
+        "A gente precisa destravar esse processo logo.",
+        "A gente precisa revisar esse processo logo.",
+        "A gente precisa destravar esse projeto logo.",
+        "A gente precisa travar esse processo logo."
+      ],
+      "answer": "A gente precisa destravar esse processo logo.",
+      "explanation": "Informally, 'destravar' means to unblock or get something moving."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Convém deixar isso registrado por escrito.",
+      "options": [
+        "Convém deixar isso registrado por escrito.",
+        "Convém deixar isso resolvido por escrito.",
+        "Convém levar isso registrado por escrito.",
+        "Convém deixar isso registrado em aberto."
+      ],
+      "answer": "Convém deixar isso registrado por escrito.",
+      "explanation": "'Por escrito' means in writing, and 'convém' means it is advisable."
+    }
+  ]
+}

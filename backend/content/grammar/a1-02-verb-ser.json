@@ -1,0 +1,102 @@
+{
+  "id": "a1-02-verb-ser",
+  "level": "A1",
+  "order": 2,
+  "title": "The verb SER (to be)",
+  "titlePt": "O verbo SER",
+  "summary": "Use ser to identify people and things and to describe permanent or defining characteristics.",
+  "tags": [
+    "verbs",
+    "ser",
+    "basics"
+  ],
+  "sections": [
+    {
+      "heading": "Forms of ser in the present",
+      "body": "**Ser** is the main verb for identity: who someone is, what something is, origin, profession, nationality, and defining qualities. It is irregular and very common.\n\n| Subject | ser | English |\n|---|---|---|\n| eu | **sou** | I am |\n| você/ele/ela | **é** | you/he/she are/is |\n| nós | **somos** | we are |\n| vocês/eles/elas | **são** | you all/they are |",
+      "examples": [
+        {
+          "pt": "Eu sou Ana.",
+          "en": "I am Ana.",
+          "note": "identity"
+        },
+        {
+          "pt": "Você é professor?",
+          "en": "Are you a teacher?",
+          "note": "você uses é"
+        },
+        {
+          "pt": "Eles são meus amigos.",
+          "en": "They are my friends.",
+          "note": "plural form: são"
+        }
+      ]
+    },
+    {
+      "heading": "Identity, origin, and profession",
+      "body": "Use **ser** for facts that define someone or something. In Portuguese, professions normally do **not** use an article after ser unless they are modified.",
+      "examples": [
+        {
+          "pt": "Ela é médica.",
+          "en": "She is a doctor.",
+          "note": "no article before a simple profession"
+        },
+        {
+          "pt": "Nós somos do Brasil.",
+          "en": "We are from Brazil.",
+          "note": "origin with de/do/da"
+        },
+        {
+          "pt": "Este é meu celular.",
+          "en": "This is my phone.",
+          "note": "identifying an object"
+        }
+      ]
+    },
+    {
+      "heading": "Defining qualities",
+      "body": "Use **ser** for characteristics that feel inherent or stable: personality, material, ownership, time, and general descriptions.",
+      "examples": [
+        {
+          "pt": "O café é quente.",
+          "en": "Coffee is hot.",
+          "note": "a general characteristic"
+        },
+        {
+          "pt": "A casa é grande.",
+          "en": "The house is big."
+        },
+        {
+          "pt": "Hoje é segunda-feira.",
+          "en": "Today is Monday.",
+          "note": "dates and days use ser"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ser is irregular: sou, é, somos, são.",
+    "Use ser for identity, profession, origin, nationality, and defining traits.",
+    "Simple professions usually do not take um/uma after ser.",
+    "Days, dates, and clock time commonly use ser."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu ser estudante.",
+      "right": "Eu sou estudante.",
+      "note": "Conjugate ser for the subject."
+    },
+    {
+      "wrong": "Ela é uma médica.",
+      "right": "Ela é médica.",
+      "note": "Do not use an article with an unmodified profession."
+    },
+    {
+      "wrong": "Nós é brasileiros.",
+      "right": "Nós somos brasileiros.",
+      "note": "Nós needs somos."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

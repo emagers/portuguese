@@ -1,0 +1,102 @@
+{
+  "id": "c2-cronica-carioca",
+  "level": "C2",
+  "type": "story",
+  "title": "Between the Hill and the Sea",
+  "titlePt": "Entre o Morro e o Mar",
+  "summary": "An advanced chronicle with Rio de Janeiro idioms and reflections on class, landscape, and daily improvisation.",
+  "paragraphs": [
+    {
+      "pt": "No Rio, a paisagem não fica no fundo: mete o bedelho na conversa, interrompe compromisso, desmoraliza planilha. Você sai atrasado, xingando o aplicativo que encareceu de novo, e de repente o mar aparece entre dois prédios como quem diz: “calma lá, meu filho”. Não resolve boleto, claro. Mas embaralha a raiva por alguns segundos, e isso, numa segunda-feira, já é um tipo de milagre.",
+      "en": "In Rio, the landscape does not stay in the background: it sticks its nose into the conversation, interrupts appointments, discredits spreadsheets. You leave late, cursing the app that got expensive again, and suddenly the sea appears between two buildings as if saying: 'hold on there, my son.' It does not pay bills, of course. But it scrambles anger for a few seconds, and that, on a Monday, is already a kind of miracle."
+    },
+    {
+      "pt": "O problema é quando vendem esse milagre como se fosse condomínio fechado da alma. A mesma vista que consola quem passa de ônibus valoriza o metro quadrado de quem assiste ao pôr do sol da varanda gourmet. Entre o morro e o mar, a cidade improvisa pontes, atalhos, gambiarras afetivas. O ambulante sabe onde a sombra dura mais; a diarista calcula o tempo pelo humor do trânsito; o surfista reclama do vento como se negociasse com um parente teimoso.",
+      "en": "The problem is when they sell this miracle as if it were a gated condominium of the soul. The same view that consoles someone passing by bus raises the price per square meter for someone watching the sunset from a gourmet balcony. Between the hill and the sea, the city improvises bridges, shortcuts, affective makeshifts. The street vendor knows where the shade lasts longest; the house cleaner measures time by traffic's mood; the surfer complains about the wind as if negotiating with a stubborn relative."
+    },
+    {
+      "pt": "Dizer que o carioca leva tudo na malandragem é preguiça de análise. Há esperteza, sim, mas também cansaço, técnica, sobrevivência. Quem pega trem lotado antes das seis não está compondo samba para turista ver; está fazendo conta de cabeça para não dançar no fim do mês. Ainda assim, quando o céu abre depois do toró e alguém solta um “agora vai”, a cidade inteira parece acreditar, nem que seja de mentirinha, que desta vez o improviso vira projeto.",
+      "en": "Saying that Cariocas handle everything through trickery is analytical laziness. There is cleverness, yes, but also fatigue, technique, survival. Those who take a crowded train before six are not composing samba for tourists to see; they are doing mental math so they won't be in trouble at the end of the month. Even so, when the sky opens after the downpour and someone says 'now it'll work,' the whole city seems to believe, even if only make-believe, that this time improvisation will become a project."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "meter o bedelho",
+      "en": "to stick one's nose in"
+    },
+    {
+      "pt": "boleto",
+      "en": "bill/payment slip"
+    },
+    {
+      "pt": "condomínio fechado",
+      "en": "gated condominium"
+    },
+    {
+      "pt": "gambiarra",
+      "en": "makeshift fix"
+    },
+    {
+      "pt": "diarista",
+      "en": "day house cleaner"
+    },
+    {
+      "pt": "malandragem",
+      "en": "streetwise trickery/cleverness"
+    },
+    {
+      "pt": "para turista ver",
+      "en": "for show, especially for tourists"
+    },
+    {
+      "pt": "toró",
+      "en": "heavy downpour"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How is Rio's landscape portrayed?",
+      "options": [
+        "As an active presence that interrupts daily life",
+        "As invisible and irrelevant",
+        "As only a tourist postcard",
+        "As a private object"
+      ],
+      "answer": "As an active presence that interrupts daily life"
+    },
+    {
+      "id": "c2",
+      "question": "What inequality does the text point out?",
+      "options": [
+        "The same view consoles some and raises property values for others",
+        "Everyone has equal access to housing",
+        "Only surfers see the sea",
+        "Buses are free for all residents"
+      ],
+      "answer": "The same view consoles some and raises property values for others"
+    },
+    {
+      "id": "c3",
+      "question": "Why does the author criticize the stereotype of malandragem?",
+      "options": [
+        "It ignores fatigue, technique, and survival",
+        "It praises trains too much",
+        "It explains all economic problems",
+        "It is a new tourist slogan"
+      ],
+      "answer": "It ignores fatigue, technique, and survival"
+    },
+    {
+      "id": "c4",
+      "question": "What does the final hope suggest?",
+      "options": [
+        "Improvisation might become a real project",
+        "The city will stop raining forever",
+        "No one will need to work",
+        "Tourists will write all sambas"
+      ],
+      "answer": "Improvisation might become a real project"
+    }
+  ]
+}

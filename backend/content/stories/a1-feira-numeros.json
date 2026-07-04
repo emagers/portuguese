@@ -1,0 +1,120 @@
+{
+  "id": "a1-feira-numeros",
+  "level": "A1",
+  "type": "conversation",
+  "title": "Numbers at the Market",
+  "titlePt": "Números na Feira",
+  "summary": "A customer buys fruit at a street market and practices numbers and prices.",
+  "lines": [
+    {
+      "speaker": "Feirante",
+      "pt": "Bom dia! Vai querer banana hoje?",
+      "en": "Good morning! Would you like bananas today?"
+    },
+    {
+      "speaker": "Clara",
+      "pt": "Bom dia! Quanto custa a dúzia?",
+      "en": "Good morning! How much does a dozen cost?"
+    },
+    {
+      "speaker": "Feirante",
+      "pt": "A dúzia custa oito reais.",
+      "en": "A dozen costs eight reais."
+    },
+    {
+      "speaker": "Clara",
+      "pt": "Eu quero seis bananas, por favor.",
+      "en": "I want six bananas, please."
+    },
+    {
+      "speaker": "Feirante",
+      "pt": "Seis bananas são quatro reais.",
+      "en": "Six bananas are four reais."
+    },
+    {
+      "speaker": "Clara",
+      "pt": "Também quero três maçãs.",
+      "en": "I also want three apples."
+    },
+    {
+      "speaker": "Feirante",
+      "pt": "Tudo fica nove reais.",
+      "en": "Everything comes to nine reais."
+    },
+    {
+      "speaker": "Clara",
+      "pt": "Aqui está o dinheiro. Obrigada!",
+      "en": "Here is the money. Thank you!"
+    },
+    {
+      "speaker": "Feirante",
+      "pt": "De nada. Boa feira!",
+      "en": "You're welcome. Enjoy the market!"
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a feira",
+      "en": "the street market"
+    },
+    {
+      "pt": "o feirante",
+      "en": "the market vendor"
+    },
+    {
+      "pt": "a dúzia",
+      "en": "the dozen"
+    },
+    {
+      "pt": "seis",
+      "en": "six"
+    },
+    {
+      "pt": "três",
+      "en": "three"
+    },
+    {
+      "pt": "a maçã",
+      "en": "the apple"
+    },
+    {
+      "pt": "o dinheiro",
+      "en": "the money"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What fruit does Clara buy first?",
+      "options": [
+        "Bananas",
+        "Oranges",
+        "Grapes",
+        "Mangoes"
+      ],
+      "answer": "Bananas"
+    },
+    {
+      "id": "c2",
+      "question": "How many bananas does Clara want?",
+      "options": [
+        "Six",
+        "Three",
+        "Twelve",
+        "Eight"
+      ],
+      "answer": "Six"
+    },
+    {
+      "id": "c3",
+      "question": "How much does everything cost?",
+      "options": [
+        "Nine reais",
+        "Four reais",
+        "Eight reais",
+        "Six reais"
+      ],
+      "answer": "Nine reais"
+    }
+  ]
+}

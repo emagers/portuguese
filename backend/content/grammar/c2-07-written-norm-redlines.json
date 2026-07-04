@@ -1,0 +1,97 @@
+{
+  "id": "c2-07-written-norm-redlines",
+  "level": "C2",
+  "order": 7,
+  "title": "Written Norm Redlines",
+  "titlePt": "Pontos críticos da norma escrita",
+  "summary": "Avoid high-visibility errors in formal Brazilian Portuguese involving agreement, regency, pronouns, crase, and punctuation.",
+  "tags": [
+    "written-norm",
+    "editing",
+    "formal"
+  ],
+  "sections": [
+    {
+      "heading": "Agreement that readers notice",
+      "body": "Formal writing requires consistent subject-verb and noun-adjective agreement. Collective and postposed subjects can be tricky, but clarity usually favors standard agreement.",
+      "examples": [
+        {
+          "pt": "Faltam documentos no processo.",
+          "en": "Documents are missing from the file."
+        },
+        {
+          "pt": "A maioria dos alunos compareceu.",
+          "en": "Most students attended.",
+          "note": "singular with maioria as head noun"
+        },
+        {
+          "pt": "Os dados apresentados são relevantes.",
+          "en": "The data presented are relevant."
+        }
+      ]
+    },
+    {
+      "heading": "Regency and crase redlines",
+      "body": "Mistakes with required prepositions and crase are highly visible in edited writing. Check both the word before and the feminine article after.",
+      "examples": [
+        {
+          "pt": "Assisti ao seminário.",
+          "en": "I attended/watched the seminar."
+        },
+        {
+          "pt": "Refiro-me à proposta enviada ontem.",
+          "en": "I refer to the proposal sent yesterday."
+        },
+        {
+          "pt": "Chegamos a conclusões diferentes.",
+          "en": "We reached different conclusions.",
+          "note": "no crase before plural without as"
+        }
+      ]
+    },
+    {
+      "heading": "Pronouns and punctuation",
+      "body": "Formal writing avoids many spoken pronoun patterns and uses punctuation to show sentence structure, not spoken pauses alone.",
+      "examples": [
+        {
+          "pt": "Informei-o sobre a mudança.",
+          "en": "I informed him about the change.",
+          "note": "formal direct object"
+        },
+        {
+          "pt": "Não o encontrei na reunião.",
+          "en": "I did not find him at the meeting."
+        },
+        {
+          "pt": "Embora o prazo seja curto, a equipe conseguirá concluir o trabalho.",
+          "en": "Although the deadline is short, the team will be able to finish the work."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Formal redlines include agreement, regency, crase, pronoun choice, and punctuation.",
+    "Spoken patterns may be natural but still inappropriate in edited writing.",
+    "Crase requires both preposition a and feminine article/pronoun.",
+    "Revise formal texts specifically for these high-visibility issues."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Falta documentos.",
+      "right": "Faltam documentos.",
+      "note": "Plural subject after the verb still triggers plural agreement."
+    },
+    {
+      "wrong": "Refiro-me a proposta.",
+      "right": "Refiro-me à proposta.",
+      "note": "Referir-se a + a proposta = à proposta."
+    },
+    {
+      "wrong": "Embora o prazo é curto, vamos entregar.",
+      "right": "Embora o prazo seja curto, vamos entregar.",
+      "note": "Embora requires subjunctive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

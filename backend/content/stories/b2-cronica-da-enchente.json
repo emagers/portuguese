@@ -1,0 +1,102 @@
+{
+  "id": "b2-cronica-da-enchente",
+  "level": "B2",
+  "type": "story",
+  "title": "After the Flood",
+  "titlePt": "Depois da Enchente",
+  "summary": "A reflective chronicle about neighbors organizing after heavy rain floods their street.",
+  "paragraphs": [
+    {
+      "pt": "A chuva começou como tantas outras de verão: grossa, barulhenta, quase bonita vista da janela. Em menos de uma hora, porém, a rua virou um rio marrom. A água entrou pelas garagens, carregou sacos de lixo e parou na porta da padaria, onde seu Adelmo tentava levantar caixas de pão para que não se perdessem.",
+      "en": "The rain began like so many other summer storms: heavy, noisy, almost beautiful when seen from the window. In less than an hour, however, the street became a brown river. Water entered the garages, carried away garbage bags, and stopped at the bakery door, where Seu Adelmo tried to lift boxes of bread so they would not be lost."
+    },
+    {
+      "pt": "No dia seguinte, quando o sol apareceu, ninguém esperou a prefeitura chegar. Dona Celeste trouxe café, os adolescentes puxaram a lama com rodos, e um mecânico emprestou botas de borracha. Se cada morador tivesse ficado cuidando apenas da própria casa, a rua teria levado dias para respirar de novo. Em vez disso, formou-se uma pequena rede de favores: quem tinha força carregava móveis; quem tinha carro levava doações; quem sabia cozinhar preparava almoço.",
+      "en": "The next day, when the sun appeared, no one waited for city hall to arrive. Dona Celeste brought coffee, the teenagers pushed mud with squeegees, and a mechanic lent rubber boots. If each resident had stayed taking care only of their own house, the street would have taken days to breathe again. Instead, a small network of favors formed: those with strength carried furniture; those with a car took donations; those who knew how to cook prepared lunch."
+    },
+    {
+      "pt": "À noite, cansados, perceberam que a enchente não era um acidente isolado. Faltavam bueiros limpos, árvores, planejamento. Decidiram escrever uma carta coletiva, exigindo obras antes que a próxima chuva viesse. A solidariedade resolveu o urgente, mas todos sabiam que gentileza nenhuma substitui política pública bem feita.",
+      "en": "At night, exhausted, they realized that the flood was not an isolated accident. Clean storm drains, trees, and planning were missing. They decided to write a collective letter, demanding works before the next rain came. Solidarity solved the urgent problem, but everyone knew that no kindness replaces well-made public policy."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a enchente",
+      "en": "the flood"
+    },
+    {
+      "pt": "carregar",
+      "en": "to carry away / carry"
+    },
+    {
+      "pt": "o rodo",
+      "en": "the squeegee"
+    },
+    {
+      "pt": "botas de borracha",
+      "en": "rubber boots"
+    },
+    {
+      "pt": "rede de favores",
+      "en": "network of favors"
+    },
+    {
+      "pt": "os bueiros",
+      "en": "storm drains"
+    },
+    {
+      "pt": "exigir",
+      "en": "to demand"
+    },
+    {
+      "pt": "política pública",
+      "en": "public policy"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What happened to the street during the rain?",
+      "options": [
+        "It turned into a brown river",
+        "It dried completely",
+        "It was closed for a festival",
+        "It filled with bicycles"
+      ],
+      "answer": "It turned into a brown river"
+    },
+    {
+      "id": "c2",
+      "question": "How did neighbors respond the next day?",
+      "options": [
+        "They organized help among themselves",
+        "They waited silently indoors",
+        "They left the neighborhood forever",
+        "They blamed only the bakery"
+      ],
+      "answer": "They organized help among themselves"
+    },
+    {
+      "id": "c3",
+      "question": "What did they decide to write?",
+      "options": [
+        "A collective letter",
+        "A cookbook",
+        "A song about summer",
+        "A private contract"
+      ],
+      "answer": "A collective letter"
+    },
+    {
+      "id": "c4",
+      "question": "What larger issue does the story highlight?",
+      "options": [
+        "The need for public policy and planning",
+        "The danger of bakeries",
+        "The lack of summer vacations",
+        "The price of rubber boots"
+      ],
+      "answer": "The need for public policy and planning"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "c1-ensaio-feira-livre",
+  "level": "C1",
+  "type": "story",
+  "title": "The Street Market as a Cultural Archive",
+  "titlePt": "A Feira Livre como Arquivo Cultural",
+  "summary": "A cultural essay reflects on Brazilian street markets as places of memory, negotiation, and language.",
+  "paragraphs": [
+    {
+      "pt": "A feira livre costuma ser descrita como um lugar de compra, mas essa definição é estreita demais. Entre barracas de banana, pastel estalando no óleo e gritos que anunciam o preço do tomate, circula uma forma particular de memória urbana. A feira guarda sotaques, receitas, apelidos e modos de medir o tempo: há quem compre peixe na sexta por tradição familiar, quem escolha manga pelo cheiro, quem saiba exatamente em qual banca a conversa rende mais.",
+      "en": "The street market is usually described as a place of purchase, but that definition is far too narrow. Among banana stalls, pastries crackling in oil, and shouts announcing the price of tomatoes, a particular form of urban memory circulates. The market preserves accents, recipes, nicknames, and ways of measuring time: there are those who buy fish on Friday because of family tradition, those who choose mangoes by smell, those who know exactly at which stall the conversation is best."
+    },
+    {
+      "pt": "Também ali se aprende uma pedagogia informal da negociação. O freguês pergunta se a laranja está doce; o feirante responde com uma fatia oferecida na ponta da faca. Ninguém assina contrato, mas há regras: pechinchar sem humilhar, elogiar sem bajular, reclamar quando a fruta vem passada, voltar na semana seguinte se a confiança foi mantida. Essa coreografia, aparentemente simples, ensina pertencimento.",
+      "en": "There one also learns an informal pedagogy of negotiation. The customer asks whether the orange is sweet; the vendor answers with a slice offered on the tip of a knife. No one signs a contract, but there are rules: bargain without humiliating, praise without flattering, complain when the fruit is overripe, return the following week if trust has been maintained. This choreography, apparently simple, teaches belonging."
+    },
+    {
+      "pt": "Quando uma feira desaparece, perde-se mais do que conveniência. Perde-se um vocabulário de convivência que dificilmente cabe no corredor impecável de um supermercado. Defender a feira não significa recusar modernidade, e sim reconhecer que certas práticas populares organizam a cidade de modo sensível. A cada sábado, ela reabre um arquivo vivo, barulhento e perecível, no qual o Brasil conversa consigo mesmo.",
+      "en": "When a market disappears, more than convenience is lost. A vocabulary of coexistence is lost, one that hardly fits in the immaculate aisle of a supermarket. Defending the market does not mean rejecting modernity, but recognizing that certain popular practices organize the city in a sensitive way. Every Saturday, it reopens a living, noisy, and perishable archive, in which Brazil talks to itself."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "feira livre",
+      "en": "street market"
+    },
+    {
+      "pt": "estreita demais",
+      "en": "too narrow"
+    },
+    {
+      "pt": "a banca",
+      "en": "the stall"
+    },
+    {
+      "pt": "o freguês",
+      "en": "the regular customer"
+    },
+    {
+      "pt": "pechinchar",
+      "en": "to bargain"
+    },
+    {
+      "pt": "bajular",
+      "en": "to flatter"
+    },
+    {
+      "pt": "perecível",
+      "en": "perishable"
+    },
+    {
+      "pt": "convivência",
+      "en": "coexistence"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why does the essay reject defining the market only as a place of purchase?",
+      "options": [
+        "It also preserves memory, language, and social practices",
+        "Markets do not sell food",
+        "Only tourists visit markets",
+        "Supermarkets invented bargaining"
+      ],
+      "answer": "It also preserves memory, language, and social practices"
+    },
+    {
+      "id": "c2",
+      "question": "What does the orange tasting scene illustrate?",
+      "options": [
+        "Informal negotiation and trust",
+        "A written contract",
+        "A health inspection",
+        "A cooking class"
+      ],
+      "answer": "Informal negotiation and trust"
+    },
+    {
+      "id": "c3",
+      "question": "What is lost when a market disappears?",
+      "options": [
+        "A vocabulary of coexistence",
+        "Only cheaper bananas",
+        "All modern technology",
+        "The need for recipes"
+      ],
+      "answer": "A vocabulary of coexistence"
+    },
+    {
+      "id": "c4",
+      "question": "How does the author characterize the market at the end?",
+      "options": [
+        "A living, noisy, and perishable archive",
+        "A silent museum",
+        "A failed supermarket",
+        "A private garden"
+      ],
+      "answer": "A living, noisy, and perishable archive"
+    }
+  ]
+}

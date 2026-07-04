@@ -1,0 +1,102 @@
+{
+  "id": "b1-viagem-que-deu-errado",
+  "level": "B1",
+  "type": "story",
+  "title": "The Trip That Went Wrong",
+  "titlePt": "A Viagem que Deu Errado",
+  "summary": "A planned beach trip becomes complicated but ends with humor and friendship.",
+  "paragraphs": [
+    {
+      "pt": "Eu e meus amigos planejamos passar um fim de semana na praia. Compramos passagens com antecedência, reservamos uma pousada barata e combinamos de sair na sexta-feira depois do trabalho. Tudo parecia organizado, até que uma tempestade mudou nossos planos.",
+      "en": "My friends and I planned to spend a weekend at the beach. We bought tickets in advance, booked a cheap inn, and agreed to leave on Friday after work. Everything seemed organized until a storm changed our plans."
+    },
+    {
+      "pt": "O ônibus saiu com duas horas de atraso. Quando finalmente chegamos, descobrimos que a pousada tinha confundido nossa reserva. Não havia quarto para quatro pessoas, apenas um quarto pequeno com duas camas. Além disso, chovia tanto que ninguém queria ir ao mar.",
+      "en": "The bus left two hours late. When we finally arrived, we found out that the inn had confused our reservation. There was no room for four people, only a small room with two beds. Besides, it was raining so much that no one wanted to go to the sea."
+    },
+    {
+      "pt": "No começo, ficamos irritados. Depois, compramos pizza, jogamos cartas e rimos da situação. No domingo, o sol apareceu por apenas meia hora, tempo suficiente para uma foto na areia. A viagem deu errado, mas a amizade saiu mais forte.",
+      "en": "At first, we were irritated. Then we bought pizza, played cards, and laughed at the situation. On Sunday, the sun appeared for only half an hour, enough time for a photo on the sand. The trip went wrong, but the friendship came out stronger."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "com antecedência",
+      "en": "in advance"
+    },
+    {
+      "pt": "a pousada",
+      "en": "the inn"
+    },
+    {
+      "pt": "a tempestade",
+      "en": "the storm"
+    },
+    {
+      "pt": "com duas horas de atraso",
+      "en": "two hours late"
+    },
+    {
+      "pt": "confundir a reserva",
+      "en": "to mix up the reservation"
+    },
+    {
+      "pt": "irritados",
+      "en": "irritated"
+    },
+    {
+      "pt": "jogar cartas",
+      "en": "to play cards"
+    },
+    {
+      "pt": "sair mais forte",
+      "en": "to come out stronger"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where did the friends plan to go?",
+      "options": [
+        "To the beach",
+        "To the mountains",
+        "To a farm",
+        "To a museum"
+      ],
+      "answer": "To the beach"
+    },
+    {
+      "id": "c2",
+      "question": "What delayed the trip?",
+      "options": [
+        "The bus left two hours late",
+        "They lost all their money",
+        "The beach closed",
+        "They missed work"
+      ],
+      "answer": "The bus left two hours late"
+    },
+    {
+      "id": "c3",
+      "question": "What problem happened at the inn?",
+      "options": [
+        "The reservation was confused",
+        "There was no rain",
+        "The room was too large",
+        "The pizza was missing"
+      ],
+      "answer": "The reservation was confused"
+    },
+    {
+      "id": "c4",
+      "question": "What became stronger by the end?",
+      "options": [
+        "The friendship",
+        "The storm",
+        "The bus company",
+        "The reservation system"
+      ],
+      "answer": "The friendship"
+    }
+  ]
+}

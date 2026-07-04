@@ -1,0 +1,97 @@
+{
+  "id": "a2-12-ir-vir-levar-trazer",
+  "level": "A2",
+  "order": 12,
+  "title": "IR vs VIR, LEVAR vs TRAZER",
+  "titlePt": "IR vs VIR, LEVAR vs TRAZER",
+  "summary": "Choose verbs of movement according to the speaker's location and direction of movement.",
+  "tags": [
+    "verbs",
+    "movement",
+    "common-verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Ir and vir",
+      "body": "Use **ir** for movement away from the speaker's current reference point, and **vir** for movement toward the speaker or the place being treated as 'here'.",
+      "examples": [
+        {
+          "pt": "Vou ao mercado agora.",
+          "en": "I'm going to the market now."
+        },
+        {
+          "pt": "Você vem à minha casa hoje?",
+          "en": "Are you coming to my house today?"
+        },
+        {
+          "pt": "Ela veio para o Brasil em 2020.",
+          "en": "She came to Brazil in 2020.",
+          "note": "toward the speaker's narrative location"
+        }
+      ]
+    },
+    {
+      "heading": "Levar and trazer",
+      "body": "Use **levar** for taking something away from here/toward another place. Use **trazer** for bringing something here/toward the speaker or reference point.",
+      "examples": [
+        {
+          "pt": "Vou levar um bolo para a festa.",
+          "en": "I'm going to take a cake to the party."
+        },
+        {
+          "pt": "Você pode trazer água?",
+          "en": "Can you bring water?"
+        },
+        {
+          "pt": "Ela trouxe os documentos para a reunião.",
+          "en": "She brought the documents to the meeting."
+        }
+      ]
+    },
+    {
+      "heading": "Reference point matters",
+      "body": "The choice depends on where the speaker imagines the center of the action. On the phone, people often use **ir** or **levar** if moving toward the listener's place, but **vir/trazer** may be used from the listener's perspective.",
+      "examples": [
+        {
+          "pt": "Estou indo para aí.",
+          "en": "I'm going over there/to you."
+        },
+        {
+          "pt": "Posso levar meu irmão?",
+          "en": "Can I bring/take my brother along?",
+          "note": "literally take from here to there"
+        },
+        {
+          "pt": "Traz seu documento quando vier.",
+          "en": "Bring your document when you come.",
+          "note": "toward here"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Ir = go away/toward there; vir = come toward here.",
+    "Levar = take from here to there; trazer = bring to here.",
+    "The reference point can be physical or conversational.",
+    "Para aí means 'to there where you are' and is common on the phone."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu venho ao mercado agora.",
+      "right": "Eu vou ao mercado agora.",
+      "note": "If you are leaving here for the market, use ir."
+    },
+    {
+      "wrong": "Pode levar água para mim aqui?",
+      "right": "Pode trazer água para mim aqui?",
+      "note": "Toward the speaker uses trazer."
+    },
+    {
+      "wrong": "Ela trouxe o filho para a escola.",
+      "right": "Ela levou o filho para a escola.",
+      "note": "If the speaker is not at school, levar is usually better."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,87 @@
+{
+  "id": "b1-quiz-relative-comparisons",
+  "level": "B1",
+  "title": "Relative Clauses & Comparisons",
+  "topic": "grammar",
+  "description": "Practice relative pronouns and comparative structures for B1 communication.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: O restaurante ___ nós fomos era ótimo.",
+      "options": [
+        "onde",
+        "que",
+        "quando",
+        "cuja"
+      ],
+      "answer": "onde",
+      "explanation": "Use 'onde' to refer to a place: 'the restaurant where we went'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Este livro é mais interessante do que aquele.",
+        "Este livro é mais interessante que aquele de.",
+        "Este livro é muito interessante do aquele.",
+        "Este livro é maior interessante do que aquele."
+      ],
+      "answer": "Este livro é mais interessante do que aquele.",
+      "explanation": "Comparatives use 'mais... do que' or 'mais... que'."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "prompt": "Complete: A pessoa ___ me ligou não deixou recado.",
+      "options": [
+        "que",
+        "onde",
+        "quando",
+        "cujo"
+      ],
+      "answer": "que",
+      "explanation": "'Que' refers to the person who called."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'as good as'?",
+      "options": [
+        "tão bom quanto",
+        "mais bom de",
+        "menos bom para",
+        "bom como de"
+      ],
+      "answer": "tão bom quanto",
+      "explanation": "Equality comparisons use 'tão... quanto'."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'The city where I was born is small.'",
+      "options": [
+        "A cidade onde eu nasci é pequena.",
+        "A cidade que eu nasci é pequeno.",
+        "A cidade quando eu nasci é pequena.",
+        "A cidade onde eu nasci está pequeno."
+      ],
+      "answer": "A cidade onde eu nasci é pequena.",
+      "explanation": "'Onde' refers to the place, and 'pequena' agrees with 'cidade'."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "prompt": "Complete: Meu irmão é menos paciente ___ minha irmã.",
+      "options": [
+        "do que",
+        "de que",
+        "para que",
+        "onde"
+      ],
+      "answer": "do que",
+      "explanation": "The comparative 'less... than' is 'menos... do que'."
+    }
+  ]
+}

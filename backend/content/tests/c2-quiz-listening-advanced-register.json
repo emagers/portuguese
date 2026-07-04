@@ -1,0 +1,93 @@
+{
+  "id": "c2-quiz-listening-advanced-register",
+  "level": "C2",
+  "title": "Listening: Advanced Register",
+  "topic": "listening",
+  "description": "Listen for high-level collocations, formal nuance, and idiomatic advanced usage.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O parecer carece de uma análise mais aprofundada.",
+      "options": [
+        "O parecer carece de uma análise mais aprofundada.",
+        "O parecer parece uma análise mais aprofundada.",
+        "O parecer carece de uma revisão mais apressada.",
+        "O processo carece de uma análise mais aprofundada."
+      ],
+      "answer": "O parecer carece de uma análise mais aprofundada.",
+      "explanation": "'Carece de' means 'lacks' or 'requires' in formal usage."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A explicação dele beira o absurdo.",
+      "options": [
+        "A explicação dele beira o absurdo.",
+        "A explicação dela beira o absurdo.",
+        "A explicação dele vira um absurdo.",
+        "A decisão dele beira o absurdo."
+      ],
+      "answer": "A explicação dele beira o absurdo.",
+      "explanation": "'Beirar o absurdo' means to border on absurdity."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Não há margem para interpretações ambíguas.",
+      "options": [
+        "Não há margem para interpretações ambíguas.",
+        "Não há margem para negociações ambíguas.",
+        "Não há motivo para interpretações ambíguas.",
+        "Não há margem para interpretações antigas."
+      ],
+      "answer": "Não há margem para interpretações ambíguas.",
+      "explanation": "'Não há margem para' means there is no room for something."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ele se esquivou de responder diretamente à pergunta.",
+      "options": [
+        "Ele se esquivou de responder diretamente à pergunta.",
+        "Ele se esqueceu de responder diretamente à pergunta.",
+        "Ele se esquivou de perguntar diretamente a resposta.",
+        "Ele se esquivou de responder discretamente à pergunta."
+      ],
+      "answer": "Ele se esquivou de responder diretamente à pergunta.",
+      "explanation": "'Esquivar-se de' means to dodge or avoid doing something."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A crítica procede, mas não invalida o argumento central.",
+      "options": [
+        "A crítica procede, mas não invalida o argumento central.",
+        "A crítica precede, mas não invalida o argumento central.",
+        "A crítica procede, mas invalida o argumento central.",
+        "A crítica procede, mas não envolve o argumento central."
+      ],
+      "answer": "A crítica procede, mas não invalida o argumento central.",
+      "explanation": "'Procede' here means the criticism is valid."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Convém não tirar conclusões precipitadas.",
+      "options": [
+        "Convém não tirar conclusões precipitadas.",
+        "Convém tirar conclusões precipitadas.",
+        "Convém não ter conclusões precipitadas.",
+        "Convém não tirar condições precipitadas."
+      ],
+      "answer": "Convém não tirar conclusões precipitadas.",
+      "explanation": "'Tirar conclusões precipitadas' means to jump to conclusions."
+    }
+  ]
+}

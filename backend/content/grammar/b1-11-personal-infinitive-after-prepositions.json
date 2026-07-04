@@ -1,0 +1,94 @@
+{
+  "id": "b1-11-personal-infinitive-after-prepositions",
+  "level": "B1",
+  "order": 11,
+  "title": "Personal Infinitive after Prepositions",
+  "titlePt": "Infinitivo pessoal após preposições",
+  "summary": "Use personal infinitives after para, antes de, depois de, por, and sem when the subject needs to be explicit.",
+  "tags": [
+    "personal-infinitive",
+    "prepositions",
+    "verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Para + personal infinitive",
+      "body": "Use **para** plus personal infinitive to express purpose when the infinitive has its own subject. This is clearer than forcing a subjunctive clause in many contexts.",
+      "examples": [
+        {
+          "pt": "Comprei comida para vocês comerem.",
+          "en": "I bought food for you all to eat."
+        },
+        {
+          "pt": "Fale mais devagar para eu entender.",
+          "en": "Speak more slowly so I can understand."
+        },
+        {
+          "pt": "Deixei a chave aqui para nós entrarmos depois.",
+          "en": "I left the key here for us to enter later."
+        }
+      ]
+    },
+    {
+      "heading": "Before and after actions",
+      "body": "After **antes de** and **depois de**, the personal infinitive shows who performs the action, especially when it differs from the main subject.",
+      "examples": [
+        {
+          "pt": "Antes de você sair, me avise.",
+          "en": "Before you leave, let me know."
+        },
+        {
+          "pt": "Depois de eles chegarem, vamos jantar.",
+          "en": "After they arrive, we'll have dinner."
+        },
+        {
+          "pt": "Antes de nós decidirmos, precisamos conversar.",
+          "en": "Before we decide, we need to talk."
+        }
+      ]
+    },
+    {
+      "heading": "Por and sem",
+      "body": "With **por** and **sem**, the personal infinitive can express reason, cause, or absence of an action. These structures are common in educated speech and writing.",
+      "examples": [
+        {
+          "pt": "Obrigado por vocês terem vindo.",
+          "en": "Thank you for coming."
+        },
+        {
+          "pt": "Por eu morar longe, saio cedo.",
+          "en": "Because I live far away, I leave early."
+        },
+        {
+          "pt": "Ele saiu sem nós percebermos.",
+          "en": "He left without us noticing."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Personal infinitive is useful after prepositions with explicit subjects.",
+    "Para eu fazer is standard; para mim fazer is nonstandard in careful Portuguese.",
+    "Nós uses -mos; plural subjects use -em.",
+    "Compound personal infinitives use terem, termos, etc."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "para mim entender",
+      "right": "para eu entender",
+      "note": "The subject of the infinitive is eu, not mim."
+    },
+    {
+      "wrong": "Depois de eles chegar...",
+      "right": "Depois de eles chegarem...",
+      "note": "Eles requires -em."
+    },
+    {
+      "wrong": "Obrigado por vocês veio.",
+      "right": "Obrigado por vocês terem vindo.",
+      "note": "After por, use infinitive/compound infinitive, not finite past."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

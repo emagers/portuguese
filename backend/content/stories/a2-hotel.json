@@ -1,0 +1,120 @@
+{
+  "id": "a2-hotel",
+  "level": "A2",
+  "type": "conversation",
+  "title": "Hotel Check-In",
+  "titlePt": "Check-in no Hotel",
+  "summary": "A guest checks into a hotel and asks about breakfast and Wi-Fi.",
+  "lines": [
+    {
+      "speaker": "Recepcionista",
+      "pt": "Boa tarde. Bem-vindo ao Hotel Central.",
+      "en": "Good afternoon. Welcome to Hotel Central."
+    },
+    {
+      "speaker": "Hóspede",
+      "pt": "Boa tarde. Tenho uma reserva em nome de Rafael Lima.",
+      "en": "Good afternoon. I have a reservation under the name Rafael Lima."
+    },
+    {
+      "speaker": "Recepcionista",
+      "pt": "Um momento. Sim, quarto duzentos e três, por duas noites.",
+      "en": "One moment. Yes, room two hundred three, for two nights."
+    },
+    {
+      "speaker": "Hóspede",
+      "pt": "Perfeito. O café da manhã está incluído?",
+      "en": "Perfect. Is breakfast included?"
+    },
+    {
+      "speaker": "Recepcionista",
+      "pt": "Está, das seis e meia às dez.",
+      "en": "It is, from six thirty to ten."
+    },
+    {
+      "speaker": "Hóspede",
+      "pt": "E qual é a senha do Wi-Fi?",
+      "en": "And what is the Wi-Fi password?"
+    },
+    {
+      "speaker": "Recepcionista",
+      "pt": "A senha está neste cartão.",
+      "en": "The password is on this card."
+    },
+    {
+      "speaker": "Hóspede",
+      "pt": "Ontem eu liguei e pedi um quarto silencioso.",
+      "en": "Yesterday I called and asked for a quiet room."
+    },
+    {
+      "speaker": "Recepcionista",
+      "pt": "Sim, seu quarto fica longe do elevador.",
+      "en": "Yes, your room is far from the elevator."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a reserva",
+      "en": "the reservation"
+    },
+    {
+      "pt": "em nome de",
+      "en": "under the name of"
+    },
+    {
+      "pt": "o hóspede",
+      "en": "the guest"
+    },
+    {
+      "pt": "incluído",
+      "en": "included"
+    },
+    {
+      "pt": "a senha",
+      "en": "the password"
+    },
+    {
+      "pt": "silencioso",
+      "en": "quiet"
+    },
+    {
+      "pt": "o elevador",
+      "en": "the elevator"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How long is Rafael staying?",
+      "options": [
+        "Two nights",
+        "One week",
+        "One night",
+        "Three months"
+      ],
+      "answer": "Two nights"
+    },
+    {
+      "id": "c2",
+      "question": "When is breakfast served?",
+      "options": [
+        "From six thirty to ten",
+        "From noon to two",
+        "At five only",
+        "All day"
+      ],
+      "answer": "From six thirty to ten"
+    },
+    {
+      "id": "c3",
+      "question": "What kind of room did Rafael request?",
+      "options": [
+        "A quiet room",
+        "A large suite",
+        "A room with a kitchen",
+        "A room near the elevator"
+      ],
+      "answer": "A quiet room"
+    }
+  ]
+}

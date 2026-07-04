@@ -1,0 +1,94 @@
+{
+  "id": "a2-02-preterite-regular",
+  "level": "A2",
+  "order": 2,
+  "title": "Regular Preterite",
+  "titlePt": "Pretérito perfeito regular",
+  "summary": "Talk about completed past actions with regular -ar, -er, and -ir verbs.",
+  "tags": [
+    "verbs",
+    "past",
+    "preterite"
+  ],
+  "sections": [
+    {
+      "heading": "When to use the preterite",
+      "body": "The **pretérito perfeito** describes actions completed in the past: what happened, started, ended, or occurred once. It is the main narrative past tense for events.",
+      "examples": [
+        {
+          "pt": "Ontem eu trabalhei muito.",
+          "en": "Yesterday I worked a lot."
+        },
+        {
+          "pt": "Ela chegou às oito.",
+          "en": "She arrived at eight."
+        },
+        {
+          "pt": "Nós assistimos ao filme no sábado.",
+          "en": "We watched the movie on Saturday."
+        }
+      ]
+    },
+    {
+      "heading": "Regular endings",
+      "body": "Remove the infinitive ending and add the preterite endings.\n\n| Subject | falar | comer | abrir |\n|---|---|---|---|\n| eu | falei | comi | abri |\n| você/ele/ela | falou | comeu | abriu |\n| nós | falamos | comemos | abrimos |\n| vocês/eles/elas | falaram | comeram | abriram |",
+      "examples": [
+        {
+          "pt": "Eu falei com a Júlia.",
+          "en": "I spoke with Júlia."
+        },
+        {
+          "pt": "Você comeu tudo?",
+          "en": "Did you eat everything?"
+        },
+        {
+          "pt": "Eles abriram a loja cedo.",
+          "en": "They opened the store early."
+        }
+      ]
+    },
+    {
+      "heading": "Spelling changes in -ar verbs",
+      "body": "Some regular-sounding verbs change spelling in the **eu** form to preserve pronunciation: ficar → fiquei, pagar → paguei, começar → comecei.",
+      "examples": [
+        {
+          "pt": "Eu fiquei em casa.",
+          "en": "I stayed home."
+        },
+        {
+          "pt": "Eu paguei a conta.",
+          "en": "I paid the bill."
+        },
+        {
+          "pt": "Eu comecei um curso novo.",
+          "en": "I started a new course."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Use the preterite for completed past events.",
+    "Regular -ar endings include -ei, -ou, -amos, -aram.",
+    "Regular -er/-ir endings include -i, -eu/-iu, -emos/-imos, -eram/-iram.",
+    "Some eu forms have spelling changes to keep the same sound."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Ontem eu falo com ela.",
+      "right": "Ontem eu falei com ela.",
+      "note": "Ontem points to completed past."
+    },
+    {
+      "wrong": "Ela comeu às oito?",
+      "right": "Ela comeu às oito?",
+      "note": "This is correct; remember comeu is past, not present."
+    },
+    {
+      "wrong": "Eu pagai a conta.",
+      "right": "Eu paguei a conta.",
+      "note": "Pagar changes to paguei in the eu preterite."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

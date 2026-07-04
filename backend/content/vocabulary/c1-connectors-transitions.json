@@ -1,0 +1,129 @@
+{
+  "id": "c1-connectors-transitions",
+  "level": "C1",
+  "title": "Connectors & Transitions",
+  "theme": "connectors",
+  "description": "Advanced linking words for structured arguments, essays and presentations.",
+  "cards": [
+    {
+      "id": "conn-no-entanto",
+      "pt": "no entanto",
+      "en": "however",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "nu ẽˈtɐ̃.tu",
+      "example": {
+        "pt": "O plano é caro; no entanto, é necessário.",
+        "en": "The plan is expensive; however, it is necessary."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-alem-disso",
+      "pt": "além disso",
+      "en": "furthermore",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "aˈlẽj ˈdʒi.su",
+      "example": {
+        "pt": "Além disso, precisamos de mais dados.",
+        "en": "Furthermore, we need more data."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-portanto",
+      "pt": "portanto",
+      "en": "therefore",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "poʁˈtɐ̃.tu",
+      "example": {
+        "pt": "A demanda caiu; portanto, reduzimos a produção.",
+        "en": "Demand fell; therefore, we reduced production."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-embora",
+      "pt": "embora",
+      "en": "although",
+      "pos": "prep",
+      "gender": null,
+      "ipa": "ẽˈbɔ.ɾɐ",
+      "example": {
+        "pt": "Embora seja difícil, vale a pena.",
+        "en": "Although it is difficult, it is worth it."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-ao-passo-que",
+      "pt": "ao passo que",
+      "en": "whereas",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "aw ˈpa.su ki",
+      "example": {
+        "pt": "Ele prefere teoria, ao passo que ela gosta de prática.",
+        "en": "He prefers theory, whereas she likes practice."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-em-contrapartida",
+      "pt": "em contrapartida",
+      "en": "in return; conversely",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ẽ kõtɾapaʁˈtʃi.dɐ",
+      "example": {
+        "pt": "O custo subiu; em contrapartida, a qualidade melhorou.",
+        "en": "The cost rose; conversely, quality improved."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-por-conseguinte",
+      "pt": "por conseguinte",
+      "en": "consequently",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "poʁ kõseˈgĩ.tʃi",
+      "example": {
+        "pt": "Houve fraude; por conseguinte, o contrato foi anulado.",
+        "en": "There was fraud; consequently, the contract was annulled."
+      },
+      "tags": [
+        "connectors"
+      ]
+    },
+    {
+      "id": "conn-em-suma",
+      "pt": "em suma",
+      "en": "in short",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ẽ ˈsu.mɐ",
+      "example": {
+        "pt": "Em suma, precisamos agir agora.",
+        "en": "In short, we need to act now."
+      },
+      "tags": [
+        "connectors"
+      ]
+    }
+  ]
+}

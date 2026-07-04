@@ -1,0 +1,95 @@
+{
+  "id": "a1-13-weather-fazer-estar",
+  "level": "A1",
+  "order": 13,
+  "title": "Weather with FAZER, ESTAR, and TER",
+  "titlePt": "Clima com FAZER, ESTAR e TER",
+  "summary": "Talk about weather using faz calor, está chovendo, está frio, and tem vento.",
+  "tags": [
+    "weather",
+    "verbs",
+    "expressions"
+  ],
+  "sections": [
+    {
+      "heading": "Fazer for general weather",
+      "body": "Use **fazer** in impersonal expressions for weather conditions, especially temperature and general conditions. The form is usually **faz**.",
+      "examples": [
+        {
+          "pt": "Faz calor hoje.",
+          "en": "It's hot today."
+        },
+        {
+          "pt": "Faz frio de manhã.",
+          "en": "It's cold in the morning."
+        },
+        {
+          "pt": "Faz sol em Salvador.",
+          "en": "It's sunny in Salvador."
+        }
+      ]
+    },
+    {
+      "heading": "Estar for current conditions",
+      "body": "Use **estar** for what the weather is like right now or how the sky/air feels. **Estar + gerúndio** describes weather in progress.",
+      "examples": [
+        {
+          "pt": "Está chovendo agora.",
+          "en": "It's raining now."
+        },
+        {
+          "pt": "O céu está nublado.",
+          "en": "The sky is cloudy."
+        },
+        {
+          "pt": "Está muito quente aqui.",
+          "en": "It's very hot here.",
+          "note": "current condition"
+        }
+      ]
+    },
+    {
+      "heading": "Ter for there is/are",
+      "body": "In everyday Brazilian speech, **tem** often means 'there is/are' with weather phenomena such as wind, fog, clouds, or a storm.",
+      "examples": [
+        {
+          "pt": "Tem muito vento hoje.",
+          "en": "There is a lot of wind today."
+        },
+        {
+          "pt": "Tem nuvens no céu.",
+          "en": "There are clouds in the sky."
+        },
+        {
+          "pt": "Vai ter tempestade à noite.",
+          "en": "There is going to be a storm tonight."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Faz calor/frio/sol are core weather expressions.",
+    "Está chovendo means rain is happening now.",
+    "Tem is natural for 'there is/are' in weather talk.",
+    "Weather expressions are usually impersonal: no subject pronoun is needed."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "É calor hoje.",
+      "right": "Faz calor hoje.",
+      "note": "Weather temperature commonly uses fazer."
+    },
+    {
+      "wrong": "Está chuva.",
+      "right": "Está chovendo. / Tem chuva.",
+      "note": "Use the gerund for raining now."
+    },
+    {
+      "wrong": "Faz chovendo.",
+      "right": "Está chovendo.",
+      "note": "Do not combine fazer with the gerund here."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

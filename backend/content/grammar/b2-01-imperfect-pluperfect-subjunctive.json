@@ -1,0 +1,94 @@
+{
+  "id": "b2-01-imperfect-pluperfect-subjunctive",
+  "level": "B2",
+  "order": 1,
+  "title": "Imperfect and Pluperfect Subjunctive",
+  "titlePt": "Imperfeito e mais-que-perfeito do subjuntivo",
+  "summary": "Use forms like se eu fosse and se eu tivesse feito for hypothetical and past unreal situations.",
+  "tags": [
+    "subjunctive",
+    "past",
+    "compound-tenses"
+  ],
+  "sections": [
+    {
+      "heading": "Imperfect subjunctive",
+      "body": "The **imperfeito do subjuntivo** appears after expressions of desire, doubt, emotion, and conditions referring to the past or hypothetical present. It is built from the third-person plural preterite stem: fizeram → fizesse, foram → fosse.",
+      "examples": [
+        {
+          "pt": "Se eu tivesse tempo, viajaria mais.",
+          "en": "If I had time, I would travel more."
+        },
+        {
+          "pt": "Eu queria que você viesse.",
+          "en": "I wanted you to come."
+        },
+        {
+          "pt": "Era importante que todos soubessem a verdade.",
+          "en": "It was important that everyone know the truth."
+        }
+      ]
+    },
+    {
+      "heading": "Common forms",
+      "body": "Regular verbs use endings like **falasse, comesse, abrisse**. Essential irregulars include **fosse** (ser/ir), **tivesse** (ter), **fizesse** (fazer), **pudesse** (poder), **quisesse** (querer), **viesse** (vir).",
+      "examples": [
+        {
+          "pt": "Se ela falasse comigo, eu explicaria.",
+          "en": "If she talked to me, I would explain."
+        },
+        {
+          "pt": "Se nós pudéssemos, ajudaríamos.",
+          "en": "If we could, we would help."
+        },
+        {
+          "pt": "Queria que eles fossem mais pacientes.",
+          "en": "I wanted them to be more patient."
+        }
+      ]
+    },
+    {
+      "heading": "Pluperfect subjunctive",
+      "body": "Use **tivesse + past participle** for actions that would have happened before another past or hypothetical action. The participle is invariable.",
+      "examples": [
+        {
+          "pt": "Se eu tivesse sabido, teria ligado.",
+          "en": "If I had known, I would have called."
+        },
+        {
+          "pt": "Ela agiu como se nada tivesse acontecido.",
+          "en": "She acted as if nothing had happened."
+        },
+        {
+          "pt": "Gostaria que vocês tivessem avisado antes.",
+          "en": "I wish you had warned me earlier."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Imperfect subjunctive handles hypothetical or past-dependent uncertainty.",
+    "It often pairs with the conditional: se eu tivesse, eu faria.",
+    "Pluperfect subjunctive = tivesse + past participle.",
+    "The participle is invariable in tivesse feito."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Se eu tenho tempo, viajaria.",
+      "right": "Se eu tivesse tempo, viajaria.",
+      "note": "Hypothetical present uses imperfect subjunctive."
+    },
+    {
+      "wrong": "Eu queria que você vem.",
+      "right": "Eu queria que você viesse.",
+      "note": "Past wish requires imperfect subjunctive."
+    },
+    {
+      "wrong": "Se ela tivesse feita isso...",
+      "right": "Se ela tivesse feito isso...",
+      "note": "The participle stays invariable."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

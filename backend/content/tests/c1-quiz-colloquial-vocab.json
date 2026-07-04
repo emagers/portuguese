@@ -1,0 +1,87 @@
+{
+  "id": "c1-quiz-colloquial-vocab",
+  "level": "C1",
+  "title": "Colloquial Brazilian Portuguese",
+  "topic": "vocab",
+  "description": "Review common informal expressions, contractions, and colloquial meanings.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "In informal speech, what does 'tá' usually stand for?",
+      "options": [
+        "está",
+        "tem",
+        "tinha",
+        "toma"
+      ],
+      "answer": "está",
+      "explanation": "'Tá' is the common informal contraction of 'está'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "prompt": "What does 'cadê?' mean?",
+      "options": [
+        "where is/are?",
+        "how much?",
+        "why not?",
+        "what time?"
+      ],
+      "answer": "where is/are?",
+      "explanation": "'Cadê?' asks where someone or something is."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "Ele ficou bolado com a notícia.",
+      "options": [
+        "He got upset about the news.",
+        "He got rich from the news.",
+        "He became famous in the news.",
+        "He ignored the news."
+      ],
+      "answer": "He got upset about the news.",
+      "explanation": "In colloquial Brazilian Portuguese, 'bolado' can mean upset, bothered, or worried."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What is a natural informal equivalent of 'para você'?",
+      "options": [
+        "pra você",
+        "por você",
+        "per você",
+        "pro você"
+      ],
+      "answer": "pra você",
+      "explanation": "'Pra' is the common informal contraction of 'para'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "What does 'dar um jeito' usually mean?",
+      "options": [
+        "find a way to solve it",
+        "give a physical object",
+        "make a joke",
+        "take a day off"
+      ],
+      "answer": "find a way to solve it",
+      "explanation": "'Dar um jeito' means to manage, fix, or find a workaround."
+    },
+    {
+      "id": "q6",
+      "type": "translate_en_pt",
+      "prompt": "Translate informally: 'I'm tired, you know?'",
+      "options": [
+        "Tô cansado, sabe?",
+        "Estou cansado, senhor?",
+        "Sou cansado, sabe?",
+        "Tava cansado, né?"
+      ],
+      "answer": "Tô cansado, sabe?",
+      "explanation": "'Tô' is informal for 'estou'; 'sabe?' works like 'you know?'."
+    }
+  ]
+}

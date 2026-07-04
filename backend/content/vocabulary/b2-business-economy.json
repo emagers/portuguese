@@ -1,0 +1,134 @@
+{
+  "id": "b2-business-economy",
+  "level": "B2",
+  "title": "Business & Economy",
+  "theme": "business",
+  "description": "Business and economics vocabulary for reports, negotiations and market discussions.",
+  "cards": [
+    {
+      "id": "bus-investimento",
+      "pt": "investimento",
+      "en": "investment",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩvestʃiˈmẽ.tu",
+      "example": {
+        "pt": "O investimento aumentou este ano.",
+        "en": "Investment increased this year."
+      },
+      "tags": [
+        "business",
+        "economy"
+      ]
+    },
+    {
+      "id": "bus-lucro",
+      "pt": "lucro",
+      "en": "profit",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈlu.kɾu",
+      "example": {
+        "pt": "A empresa teve lucro no trimestre.",
+        "en": "The company made a profit in the quarter."
+      },
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "id": "bus-prejuizo",
+      "pt": "prejuízo",
+      "en": "loss; financial damage",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "pɾeʒuˈi.zu",
+      "example": {
+        "pt": "A chuva causou prejuízo aos produtores.",
+        "en": "The rain caused losses for producers."
+      },
+      "tags": [
+        "business",
+        "economy"
+      ]
+    },
+    {
+      "id": "bus-orcamento",
+      "pt": "orçamento",
+      "en": "budget; estimate",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "oʁsaˈmẽ.tu",
+      "example": {
+        "pt": "O orçamento do projeto foi aprovado.",
+        "en": "The project budget was approved."
+      },
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "id": "bus-mercado",
+      "pt": "mercado",
+      "en": "market",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "meʁˈka.du",
+      "example": {
+        "pt": "O mercado imobiliário está aquecido.",
+        "en": "The real estate market is hot."
+      },
+      "tags": [
+        "business",
+        "economy"
+      ]
+    },
+    {
+      "id": "bus-negociar",
+      "pt": "negociar",
+      "en": "to negotiate",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "negoˈsjaʁ",
+      "example": {
+        "pt": "Precisamos negociar novas condições.",
+        "en": "We need to negotiate new terms."
+      },
+      "tags": [
+        "business",
+        "verbs"
+      ]
+    },
+    {
+      "id": "bus-consumidor",
+      "pt": "consumidor",
+      "en": "consumer",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kõsumiˈdoʁ",
+      "example": {
+        "pt": "O consumidor quer mais transparência.",
+        "en": "The consumer wants more transparency."
+      },
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "id": "bus-imposto",
+      "pt": "imposto",
+      "en": "tax",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ĩˈpos.tu",
+      "example": {
+        "pt": "O imposto pesa no preço final.",
+        "en": "The tax weighs on the final price."
+      },
+      "tags": [
+        "economy",
+        "government"
+      ]
+    }
+  ]
+}

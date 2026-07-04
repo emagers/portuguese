@@ -1,0 +1,94 @@
+{
+  "id": "b1-02-future-subjunctive",
+  "level": "B1",
+  "order": 2,
+  "title": "Future Subjunctive with quando and se",
+  "titlePt": "Futuro do subjuntivo com quando e se",
+  "summary": "Use the future subjunctive for future conditions after quando, se, assim que, and enquanto.",
+  "tags": [
+    "subjunctive",
+    "future",
+    "conditions"
+  ],
+  "sections": [
+    {
+      "heading": "Future, not present",
+      "body": "After **quando**, **se**, **assim que**, and similar connectors, Portuguese uses the **future subjunctive** when the action is future and uncertain. English often uses the present tense in the same place.",
+      "examples": [
+        {
+          "pt": "Quando você chegar, me avise.",
+          "en": "When you arrive, let me know."
+        },
+        {
+          "pt": "Se chover, vamos ficar em casa.",
+          "en": "If it rains, we will stay home."
+        },
+        {
+          "pt": "Assim que eu terminar, te ligo.",
+          "en": "As soon as I finish, I'll call you."
+        }
+      ]
+    },
+    {
+      "heading": "Regular forms",
+      "body": "For regular verbs, the future subjunctive often looks like the infinitive for eu/você/ele/ela and adds normal personal endings for nós and eles.\n\n| falar | comer | abrir |\n|---|---|---|\n| quando eu falar | se eu comer | quando eu abrir |\n| quando nós falarmos | se nós comermos | quando nós abrirmos |\n| quando eles falarem | se eles comerem | quando eles abrirem |",
+      "examples": [
+        {
+          "pt": "Quando nós falarmos com ela, vamos explicar.",
+          "en": "When we talk to her, we will explain."
+        },
+        {
+          "pt": "Se eles comerem antes, tudo bem.",
+          "en": "If they eat beforehand, that's fine."
+        },
+        {
+          "pt": "Quando a loja abrir, eu entro.",
+          "en": "When the store opens, I'll go in."
+        }
+      ]
+    },
+    {
+      "heading": "Irregular stems from the preterite",
+      "body": "Many irregular future subjunctives come from the preterite stem: **tiver**, **for**, **fizer**, **puder**, **quiser**, **vier**, **disser**.",
+      "examples": [
+        {
+          "pt": "Se eu tiver tempo, passo aí.",
+          "en": "If I have time, I'll stop by."
+        },
+        {
+          "pt": "Quando você for ao mercado, compre leite.",
+          "en": "When you go to the market, buy milk."
+        },
+        {
+          "pt": "Se ela puder, vai ajudar.",
+          "en": "If she can, she will help."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Use future subjunctive after se/quando for future conditions.",
+    "English often uses present where Portuguese uses future subjunctive.",
+    "Regular forms resemble the infinitive but add endings for nós and plural subjects.",
+    "Common irregulars include for, tiver, fizer, puder, quiser, vier."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Quando você chega, me avise.",
+      "right": "Quando você chegar, me avise.",
+      "note": "Future event after quando needs future subjunctive."
+    },
+    {
+      "wrong": "Se eu tenho tempo, vou.",
+      "right": "Se eu tiver tempo, vou.",
+      "note": "Future condition uses tiver."
+    },
+    {
+      "wrong": "Quando nós falar com ele...",
+      "right": "Quando nós falarmos com ele...",
+      "note": "Nós needs -mos."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

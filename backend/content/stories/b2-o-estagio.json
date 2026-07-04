@@ -1,0 +1,102 @@
+{
+  "id": "b2-o-estagio",
+  "level": "B2",
+  "type": "story",
+  "title": "The Internship",
+  "titlePt": "O Estágio",
+  "summary": "A student learns how to speak up and grow during her first internship.",
+  "paragraphs": [
+    {
+      "pt": "Quando iniciou o estágio em uma agência de design, Bruna achou que deveria concordar com tudo para parecer profissional. Chegava cedo, anotava cada orientação e raramente fazia perguntas. Embora tivesse boas ideias, guardava quase todas no caderno, com medo de que parecessem ingênuas diante da equipe experiente.",
+      "en": "When she started her internship at a design agency, Bruna thought she should agree with everything to seem professional. She arrived early, wrote down every instruction, and rarely asked questions. Although she had good ideas, she kept almost all of them in her notebook, afraid they might seem naive in front of the experienced team."
+    },
+    {
+      "pt": "A mudança veio durante a campanha de uma biblioteca comunitária. O diretor queria uma peça elegante, mas fria, cheia de frases prontas. Bruna, que frequentava bibliotecas desde pequena, sugeriu que a campanha mostrasse leitores reais do bairro. Falou baixo no começo; depois, quando percebeu que a escutavam, explicou por que a proposta poderia criar identificação.",
+      "en": "The change came during the campaign for a community library. The director wanted an elegant but cold piece, full of ready-made phrases. Bruna, who had gone to libraries since childhood, suggested that the campaign show real readers from the neighborhood. She spoke softly at first; then, when she realized they were listening, she explained why the proposal could create identification."
+    },
+    {
+      "pt": "A ideia foi aprovada, não sem ajustes. Bruna acompanhou as entrevistas, editou depoimentos e aprendeu que participar não significa impor uma opinião, mas contribuir para que o trabalho fique melhor. No fim do semestre, recebeu uma avaliação elogiosa. Mais importante do que isso, saiu convencida de que humildade não exige silêncio.",
+      "en": "The idea was approved, though not without adjustments. Bruna followed the interviews, edited testimonials, and learned that participating does not mean imposing an opinion, but contributing so the work becomes better. At the end of the semester, she received a complimentary evaluation. More important than that, she left convinced that humility does not require silence."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "o estágio",
+      "en": "the internship"
+    },
+    {
+      "pt": "concordar",
+      "en": "to agree"
+    },
+    {
+      "pt": "ingênuas",
+      "en": "naive"
+    },
+    {
+      "pt": "frases prontas",
+      "en": "stock phrases"
+    },
+    {
+      "pt": "criar identificação",
+      "en": "to create identification/connection"
+    },
+    {
+      "pt": "depoimentos",
+      "en": "testimonials"
+    },
+    {
+      "pt": "avaliação elogiosa",
+      "en": "complimentary evaluation"
+    },
+    {
+      "pt": "humildade",
+      "en": "humility"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why did Bruna keep her ideas in her notebook at first?",
+      "options": [
+        "She feared they would seem naive",
+        "She wanted to publish them later",
+        "She disliked the team",
+        "She was not allowed to write"
+      ],
+      "answer": "She feared they would seem naive"
+    },
+    {
+      "id": "c2",
+      "question": "What campaign changed her behavior?",
+      "options": [
+        "A community library campaign",
+        "A supermarket campaign",
+        "A political campaign",
+        "A hotel campaign"
+      ],
+      "answer": "A community library campaign"
+    },
+    {
+      "id": "c3",
+      "question": "What did Bruna suggest showing?",
+      "options": [
+        "Real readers from the neighborhood",
+        "Only elegant objects",
+        "Famous actors from abroad",
+        "Empty shelves"
+      ],
+      "answer": "Real readers from the neighborhood"
+    },
+    {
+      "id": "c4",
+      "question": "What lesson does she learn?",
+      "options": [
+        "Humility does not require silence",
+        "Professionalism means never asking questions",
+        "Good ideas need no adjustments",
+        "Interns should work alone"
+      ],
+      "answer": "Humility does not require silence"
+    }
+  ]
+}

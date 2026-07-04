@@ -1,0 +1,87 @@
+{
+  "id": "a2-quiz-object-pronouns-prepositions",
+  "level": "A2",
+  "title": "Object Pronouns & Prepositions",
+  "topic": "grammar",
+  "description": "Practice common Brazilian object-pronoun patterns and everyday prepositions.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is natural in spoken Brazilian Portuguese?",
+      "options": [
+        "Eu te encontrei na festa.",
+        "Eu encontrei-te na festa.",
+        "Eu tu encontrei na festa.",
+        "Eu encontrou você na festa."
+      ],
+      "answer": "Eu te encontrei na festa.",
+      "explanation": "'Te' before the verb is very common in Brazilian Portuguese."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: Ela vai ___ médico amanhã.",
+      "options": [
+        "ao",
+        "no",
+        "do",
+        "pelo"
+      ],
+      "answer": "ao",
+      "explanation": "With 'ir' to a masculine place/person, use 'ao': 'vai ao médico'."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu preciso falar ___ você.",
+      "options": [
+        "com",
+        "em",
+        "por",
+        "de"
+      ],
+      "answer": "com",
+      "explanation": "'Falar com alguém' means 'to speak with someone'."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Choose the best translation: 'She gave me the key.'",
+      "options": [
+        "Ela me deu a chave.",
+        "Ela deu eu a chave.",
+        "Ela mim deu a chave.",
+        "Ela me deu o chave."
+      ],
+      "answer": "Ela me deu a chave.",
+      "explanation": "'Me deu' is the natural pattern for 'gave me'."
+    },
+    {
+      "id": "q5",
+      "type": "fill_blank",
+      "prompt": "Complete: O banco fica ___ a farmácia e o mercado.",
+      "options": [
+        "entre",
+        "sobre",
+        "sem",
+        "desde"
+      ],
+      "answer": "entre",
+      "explanation": "'Entre' means 'between'."
+    },
+    {
+      "id": "q6",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'I will help you tomorrow.'",
+      "options": [
+        "Eu vou te ajudar amanhã.",
+        "Eu vou ajudar tu amanhã.",
+        "Eu te ajudei amanhã.",
+        "Eu vou me ajudar amanhã."
+      ],
+      "answer": "Eu vou te ajudar amanhã.",
+      "explanation": "'Vou te ajudar' is a natural Brazilian way to say 'I will help you'."
+    }
+  ]
+}

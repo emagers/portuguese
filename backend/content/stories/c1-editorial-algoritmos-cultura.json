@@ -1,0 +1,102 @@
+{
+  "id": "c1-editorial-algoritmos-cultura",
+  "level": "C1",
+  "type": "story",
+  "title": "Algorithms and Taste",
+  "titlePt": "Algoritmos e Gosto",
+  "summary": "An editorial-style text examines how recommendation algorithms shape cultural taste and attention.",
+  "paragraphs": [
+    {
+      "pt": "Durante muito tempo, falar de gosto cultural parecia falar de intimidade: livros marcados por acaso, discos emprestados por amigos, filmes descobertos numa madrugada de insônia. Hoje, grande parte dessas escolhas passa por sistemas de recomendação que prometem conhecer nossos desejos antes mesmo que saibamos nomeá-los. A promessa é conveniente, mas cobra um preço discreto: reduz o encontro com a cultura a uma sequência de probabilidades.",
+      "en": "For a long time, speaking about cultural taste seemed like speaking about intimacy: books found by chance, records lent by friends, films discovered during a sleepless night. Today, a large part of these choices passes through recommendation systems that promise to know our desires before we can even name them. The promise is convenient, but it charges a discreet price: it reduces the encounter with culture to a sequence of probabilities."
+    },
+    {
+      "pt": "Não se trata de demonizar a tecnologia. Recomendações podem ampliar repertórios, aproximar artistas independentes de públicos improváveis e economizar tempo em meio à abundância. O problema surge quando a eficiência vira critério absoluto. Se o algoritmo aprende apenas com aquilo que já consumimos, tende a nos devolver versões polidas do mesmo interesse. O espanto, elemento essencial da formação estética, corre o risco de ser substituído por uma familiaridade confortável.",
+      "en": "This is not about demonizing technology. Recommendations can broaden repertoires, bring independent artists closer to unlikely audiences, and save time amid abundance. The problem arises when efficiency becomes an absolute criterion. If the algorithm learns only from what we have already consumed, it tends to return polished versions of the same interest. Surprise, an essential element of aesthetic formation, risks being replaced by comfortable familiarity."
+    },
+    {
+      "pt": "Por isso, defender escolhas mais conscientes não significa abandonar plataformas, mas recuperar alguma margem de desobediência. Seguir uma indicação humana, entrar numa livraria sem objetivo, ouvir um álbum inteiro sem pular faixas: pequenos gestos que reintroduzem demora e acaso. A cultura precisa de circulação, mas também de atrito. Sem ele, nosso gosto pode se tornar impecavelmente personalizado e, ao mesmo tempo, cada vez menos nosso.",
+      "en": "Therefore, defending more conscious choices does not mean abandoning platforms, but recovering some margin of disobedience. Following a human recommendation, entering a bookstore with no objective, listening to an entire album without skipping tracks: small gestures that reintroduce slowness and chance. Culture needs circulation, but also friction. Without it, our taste may become impeccably personalized and, at the same time, less and less our own."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "gosto cultural",
+      "en": "cultural taste"
+    },
+    {
+      "pt": "sistemas de recomendação",
+      "en": "recommendation systems"
+    },
+    {
+      "pt": "repertórios",
+      "en": "repertoires / range of references"
+    },
+    {
+      "pt": "critério absoluto",
+      "en": "absolute criterion"
+    },
+    {
+      "pt": "formação estética",
+      "en": "aesthetic formation"
+    },
+    {
+      "pt": "margem de desobediência",
+      "en": "margin of disobedience"
+    },
+    {
+      "pt": "atrito",
+      "en": "friction"
+    },
+    {
+      "pt": "impecavelmente",
+      "en": "impeccably"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What concern does the text raise about recommendation systems?",
+      "options": [
+        "They may reduce culture to probabilities and familiarity",
+        "They always destroy independent artists",
+        "They make all books unavailable",
+        "They cannot save time"
+      ],
+      "answer": "They may reduce culture to probabilities and familiarity"
+    },
+    {
+      "id": "c2",
+      "question": "What positive role can recommendations play?",
+      "options": [
+        "They can broaden repertoires",
+        "They can replace all human choices",
+        "They can end insomnia",
+        "They can remove cultural abundance"
+      ],
+      "answer": "They can broaden repertoires"
+    },
+    {
+      "id": "c3",
+      "question": "What does the author suggest recovering?",
+      "options": [
+        "A margin of disobedience",
+        "A single official playlist",
+        "Total rejection of platforms",
+        "Only familiar interests"
+      ],
+      "answer": "A margin of disobedience"
+    },
+    {
+      "id": "c4",
+      "question": "Why does culture need friction?",
+      "options": [
+        "To keep taste from becoming too predictable and less our own",
+        "To make technology impossible",
+        "To eliminate chance",
+        "To guarantee only efficient choices"
+      ],
+      "answer": "To keep taste from becoming too predictable and less our own"
+    }
+  ]
+}

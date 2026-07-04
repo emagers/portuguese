@@ -1,0 +1,94 @@
+{
+  "id": "b1-04-conditional",
+  "level": "B1",
+  "order": 4,
+  "title": "Conditional: Futuro do Pretérito",
+  "titlePt": "Futuro do pretérito",
+  "summary": "Use faria, poderia, and gostaria to talk about hypothetical actions and polite requests.",
+  "tags": [
+    "verbs",
+    "conditional",
+    "politeness"
+  ],
+  "sections": [
+    {
+      "heading": "Form and basic meaning",
+      "body": "The conditional, called **futuro do pretérito**, adds endings to the infinitive: **-ia, -ia, -íamos, -iam**. It expresses 'would' and is useful for hypothetical situations.",
+      "examples": [
+        {
+          "pt": "Eu viajaria mais se tivesse dinheiro.",
+          "en": "I would travel more if I had money."
+        },
+        {
+          "pt": "Ela moraria perto da praia.",
+          "en": "She would live near the beach."
+        },
+        {
+          "pt": "Nós compraríamos um apartamento maior.",
+          "en": "We would buy a bigger apartment."
+        }
+      ]
+    },
+    {
+      "heading": "Polite requests",
+      "body": "The conditional makes requests softer. **Gostaria**, **poderia**, and **daria para** are extremely useful in Brazil.",
+      "examples": [
+        {
+          "pt": "Eu gostaria de uma água, por favor.",
+          "en": "I would like a water, please."
+        },
+        {
+          "pt": "Você poderia repetir?",
+          "en": "Could you repeat that?"
+        },
+        {
+          "pt": "Daria para esperar cinco minutos?",
+          "en": "Would it be possible to wait five minutes?"
+        }
+      ]
+    },
+    {
+      "heading": "Common irregular stems",
+      "body": "Some verbs use modified stems: **fazer → faria**, **dizer → diria**, **trazer → traria**. Most verbs keep the infinitive as the stem.",
+      "examples": [
+        {
+          "pt": "Eu faria diferente.",
+          "en": "I would do it differently."
+        },
+        {
+          "pt": "Ele diria a verdade.",
+          "en": "He would tell the truth."
+        },
+        {
+          "pt": "Você traria sobremesa?",
+          "en": "Would you bring dessert?"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Conditional endings attach to the infinitive for most verbs.",
+    "Use it for would, hypothetical results, and polite requests.",
+    "Gostaria de is the safest polite way to say 'I would like'.",
+    "Irregular stems include faria, diria, traria."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu gostava uma água.",
+      "right": "Eu gostaria de uma água.",
+      "note": "Use gostaria de for polite requests."
+    },
+    {
+      "wrong": "Nós compraria.",
+      "right": "Nós compraríamos.",
+      "note": "Nós needs -íamos."
+    },
+    {
+      "wrong": "Eu fazeria.",
+      "right": "Eu faria.",
+      "note": "Fazer has irregular stem faria."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

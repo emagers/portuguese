@@ -1,0 +1,94 @@
+{
+  "id": "c2-09-rhetorical-style",
+  "level": "C2",
+  "order": 9,
+  "title": "Rhetorical Style and Argument Structure",
+  "titlePt": "Estilo retórico e estrutura argumentativa",
+  "summary": "Build persuasive Portuguese with framing, concession, contrast, cadence, and carefully managed stance.",
+  "tags": [
+    "rhetoric",
+    "argumentation",
+    "style"
+  ],
+  "sections": [
+    {
+      "heading": "Framing the claim",
+      "body": "Advanced writers guide the reader before making a claim. Framing expressions signal scope, caution, emphasis, or evaluation.",
+      "examples": [
+        {
+          "pt": "Convém distinguir dois problemas distintos.",
+          "en": "It is worth distinguishing two separate problems."
+        },
+        {
+          "pt": "Não se trata de uma solução simples.",
+          "en": "This is not a simple solution."
+        },
+        {
+          "pt": "À primeira vista, a medida parece contraditória.",
+          "en": "At first glance, the measure seems contradictory."
+        }
+      ]
+    },
+    {
+      "heading": "Concede, then redirect",
+      "body": "A strong rhetorical move is to acknowledge a valid point and redirect the argument. Portuguese uses **ainda que**, **mesmo que**, **é verdade que**, **não obstante**, and **por outro lado**.",
+      "examples": [
+        {
+          "pt": "É verdade que o custo é alto; ainda assim, o investimento se justifica.",
+          "en": "It is true that the cost is high; even so, the investment is justified."
+        },
+        {
+          "pt": "Ainda que haja riscos, a alternativa é pior.",
+          "en": "Even though there are risks, the alternative is worse."
+        },
+        {
+          "pt": "Não obstante as críticas, o resultado foi expressivo.",
+          "en": "Notwithstanding the criticism, the result was significant."
+        }
+      ]
+    },
+    {
+      "heading": "Cadence and closure",
+      "body": "Effective conclusions often use parallelism, summary nouns, and controlled emphasis. The goal is to sound decisive without exaggeration.",
+      "examples": [
+        {
+          "pt": "Em suma, a proposta é viável, necessária e urgente.",
+          "en": "In short, the proposal is viable, necessary, and urgent."
+        },
+        {
+          "pt": "O desafio não é apenas técnico; é também político.",
+          "en": "The challenge is not only technical; it is also political."
+        },
+        {
+          "pt": "Por essas razões, recomenda-se a revisão do plano.",
+          "en": "For these reasons, revision of the plan is recommended."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Rhetorical style guides the reader through stance and structure.",
+    "Concession strengthens arguments when followed by clear redirection.",
+    "Parallelism creates cadence and authority.",
+    "Advanced style favors precision over exaggeration."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Using many formal connectors without logical need.",
+      "right": "Choose connectors that match the exact relationship between ideas.",
+      "note": "Style must serve argument."
+    },
+    {
+      "wrong": "Ainda que existem riscos...",
+      "right": "Ainda que haja riscos...",
+      "note": "Ainda que triggers subjunctive when concessive."
+    },
+    {
+      "wrong": "Em suma, and therefore, the plan is good.",
+      "right": "Em suma, o plano é viável.",
+      "note": "Avoid mixing English rhetorical habits into Portuguese."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

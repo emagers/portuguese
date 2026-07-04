@@ -1,0 +1,133 @@
+{
+  "id": "c2-idioms-expressions",
+  "level": "C2",
+  "title": "Brazilian Idioms & Expressions",
+  "theme": "idioms",
+  "description": "Common Brazilian idioms with practical meanings and natural examples.",
+  "cards": [
+    {
+      "id": "idiom-pisar-bola",
+      "pt": "pisar na bola",
+      "en": "to mess up; drop the ball",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "piˈzaʁ nɐ ˈbɔ.lɐ",
+      "example": {
+        "pt": "Ele pisou na bola ao esquecer a reunião.",
+        "en": "He dropped the ball by forgetting the meeting."
+      },
+      "tags": [
+        "idiom",
+        "informal"
+      ]
+    },
+    {
+      "id": "idiom-quebrar-galho",
+      "pt": "quebrar um galho",
+      "en": "to help out; improvise a fix",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "keˈbɾaʁ ũ ˈga.ʎu",
+      "example": {
+        "pt": "Esse adaptador quebra um galho.",
+        "en": "This adapter helps in a pinch."
+      },
+      "tags": [
+        "idiom",
+        "informal"
+      ]
+    },
+    {
+      "id": "idiom-mao-na-roda",
+      "pt": "mão na roda",
+      "en": "a big help",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "mɐ̃w nɐ ˈʁɔ.dɐ",
+      "example": {
+        "pt": "O aplicativo foi uma mão na roda na viagem.",
+        "en": "The app was a big help on the trip."
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "idiom-chutar-balde",
+      "pt": "chutar o balde",
+      "en": "to give up restraint; throw it all away",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ʃuˈtaʁ u ˈbaw.dʒi",
+      "example": {
+        "pt": "Depois de tanta pressão, ele chutou o balde.",
+        "en": "After so much pressure, he threw it all away."
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "idiom-ficar-em-cima-muro",
+      "pt": "ficar em cima do muro",
+      "en": "to sit on the fence",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "fiˈkaʁ ẽ ˈsi.mɐ du ˈmu.ʁu",
+      "example": {
+        "pt": "A diretora não quis ficar em cima do muro.",
+        "en": "The director did not want to sit on the fence."
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "idiom-cair-ficha",
+      "pt": "cair a ficha",
+      "en": "for it to sink in",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "kaˈiʁ a ˈfi.ʃɐ",
+      "example": {
+        "pt": "Só depois caiu a ficha do que aconteceu.",
+        "en": "Only later did what happened sink in."
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "idiom-encher-linguica",
+      "pt": "encher linguiça",
+      "en": "to pad; fill space with fluff",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "ẽˈʃeʁ lĩˈgwi.sɐ",
+      "example": {
+        "pt": "O aluno encheu linguiça na redação.",
+        "en": "The student padded the essay."
+      },
+      "tags": [
+        "idiom",
+        "informal"
+      ]
+    },
+    {
+      "id": "idiom-segurar-onda",
+      "pt": "segurar a onda",
+      "en": "to handle the pressure",
+      "pos": "phrase",
+      "gender": null,
+      "ipa": "seguˈɾaʁ a ˈõ.dɐ",
+      "example": {
+        "pt": "Ela segurou a onda durante a crise.",
+        "en": "She handled the pressure during the crisis."
+      },
+      "tags": [
+        "idiom",
+        "informal"
+      ]
+    }
+  ]
+}

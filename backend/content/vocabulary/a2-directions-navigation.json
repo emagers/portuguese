@@ -1,0 +1,131 @@
+{
+  "id": "a2-directions-navigation",
+  "level": "A2",
+  "title": "Directions & Navigation",
+  "theme": "directions",
+  "description": "Useful direction words for finding places, giving instructions and moving around town.",
+  "cards": [
+    {
+      "id": "dir-direita",
+      "pt": "direita",
+      "en": "right",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "dʒiˈɾej.tɐ",
+      "example": {
+        "pt": "Vire à direita depois da farmácia.",
+        "en": "Turn right after the pharmacy."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-esquerda",
+      "pt": "esquerda",
+      "en": "left",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "esˈkeʁ.dɐ",
+      "example": {
+        "pt": "A escola fica à esquerda.",
+        "en": "The school is on the left."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-reto",
+      "pt": "reto",
+      "en": "straight ahead",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈʁe.tu",
+      "example": {
+        "pt": "Siga reto por duas quadras.",
+        "en": "Go straight for two blocks."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-perto",
+      "pt": "perto",
+      "en": "near",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈpɛʁ.tu",
+      "example": {
+        "pt": "O banco é perto daqui.",
+        "en": "The bank is near here."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-longe",
+      "pt": "longe",
+      "en": "far",
+      "pos": "adv",
+      "gender": null,
+      "ipa": "ˈlõ.ʒi",
+      "example": {
+        "pt": "O aeroporto fica longe do centro.",
+        "en": "The airport is far from downtown."
+      },
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "id": "dir-quadra",
+      "pt": "quadra",
+      "en": "block",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkwa.dɾɐ",
+      "example": {
+        "pt": "Caminhe mais uma quadra.",
+        "en": "Walk one more block."
+      },
+      "tags": [
+        "directions",
+        "city"
+      ]
+    },
+    {
+      "id": "dir-atravessar",
+      "pt": "atravessar",
+      "en": "to cross",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "atɾaveˈsaʁ",
+      "example": {
+        "pt": "Atravesse a rua com cuidado.",
+        "en": "Cross the street carefully."
+      },
+      "tags": [
+        "directions",
+        "verbs"
+      ]
+    },
+    {
+      "id": "dir-mapa",
+      "pt": "mapa",
+      "en": "map",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈma.pɐ",
+      "example": {
+        "pt": "Olhei o mapa antes de sair.",
+        "en": "I looked at the map before leaving."
+      },
+      "tags": [
+        "directions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "a2-03-irregular-preterites",
+  "level": "A2",
+  "order": 3,
+  "title": "Common Irregular Preterites",
+  "titlePt": "Pretéritos perfeitos irregulares comuns",
+  "summary": "Learn the most frequent irregular past forms such as fui, tive, fiz, disse, and pude.",
+  "tags": [
+    "verbs",
+    "past",
+    "irregular-verbs"
+  ],
+  "sections": [
+    {
+      "heading": "High-frequency irregular verbs",
+      "body": "Many essential verbs have irregular preterite stems. These forms are common in conversation and storytelling.\n\n| Infinitive | eu | você/ele/ela | nós | eles/elas |\n|---|---|---|---|---|\n| ir/ser | fui | foi | fomos | foram |\n| ter | tive | teve | tivemos | tiveram |\n| fazer | fiz | fez | fizemos | fizeram |\n| dizer | disse | disse | dissemos | disseram |",
+      "examples": [
+        {
+          "pt": "Eu fui ao mercado.",
+          "en": "I went to the market."
+        },
+        {
+          "pt": "Ela teve uma ideia ótima.",
+          "en": "She had a great idea."
+        },
+        {
+          "pt": "Nós fizemos o jantar.",
+          "en": "We made dinner."
+        }
+      ]
+    },
+    {
+      "heading": "More useful irregulars",
+      "body": "Other everyday verbs include **estar → estive**, **poder → pude**, **querer → quis**, **saber → soube**, and **vir → vim**. Their meanings can be specific in the preterite.",
+      "examples": [
+        {
+          "pt": "Ontem eu não pude ir.",
+          "en": "Yesterday I couldn't go."
+        },
+        {
+          "pt": "Ele quis falar com você.",
+          "en": "He wanted to talk to you."
+        },
+        {
+          "pt": "Eu soube da notícia hoje.",
+          "en": "I found out the news today.",
+          "note": "saber in the preterite often means find out"
+        }
+      ]
+    },
+    {
+      "heading": "Ser and ir share forms",
+      "body": "In the preterite, **ser** and **ir** have the same forms. Context tells you whether it means 'was/were' or 'went'.",
+      "examples": [
+        {
+          "pt": "A festa foi ótima.",
+          "en": "The party was great.",
+          "note": "ser"
+        },
+        {
+          "pt": "A gente foi para Salvador.",
+          "en": "We went to Salvador.",
+          "note": "ir"
+        },
+        {
+          "pt": "Eles foram meus professores.",
+          "en": "They were my teachers.",
+          "note": "ser"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Irregular preterites must be memorized as whole forms.",
+    "Ser and ir are identical in the preterite: fui, foi, fomos, foram.",
+    "Saber in the preterite often means 'found out'.",
+    "Poder in the preterite often means 'managed/could in that situation'."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu fazi o almoço.",
+      "right": "Eu fiz o almoço.",
+      "note": "Fazer is irregular."
+    },
+    {
+      "wrong": "Ela foi cansada ontem.",
+      "right": "Ela esteve cansada ontem.",
+      "note": "Temporary state in the past uses estar: esteve."
+    },
+    {
+      "wrong": "Nós fomos em São Paulo.",
+      "right": "Nós fomos para São Paulo.",
+      "note": "For destination, use para/a, not em."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

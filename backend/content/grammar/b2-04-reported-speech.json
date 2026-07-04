@@ -1,0 +1,94 @@
+{
+  "id": "b2-04-reported-speech",
+  "level": "B2",
+  "order": 4,
+  "title": "Reported and Indirect Speech",
+  "titlePt": "Discurso indireto",
+  "summary": "Report what someone said by adjusting pronouns, time words, and verb tenses.",
+  "tags": [
+    "reported-speech",
+    "verbs",
+    "discourse"
+  ],
+  "sections": [
+    {
+      "heading": "Basic reporting with que",
+      "body": "Use reporting verbs such as **dizer**, **falar**, **explicar**, **perguntar**, and **responder** followed by **que** for statements.",
+      "examples": [
+        {
+          "pt": "Ela disse: 'Estou cansada.'",
+          "en": "She said: 'I am tired.'"
+        },
+        {
+          "pt": "Ela disse que estava cansada.",
+          "en": "She said that she was tired."
+        },
+        {
+          "pt": "O professor explicou que a prova seria curta.",
+          "en": "The teacher explained that the test would be short."
+        }
+      ]
+    },
+    {
+      "heading": "Tense and time shifts",
+      "body": "When reporting from a past point of view, present often becomes imperfect, future becomes conditional, and hoje/amanhã may become naquele dia/no dia seguinte.",
+      "examples": [
+        {
+          "pt": "Ele falou que morava em Santos.",
+          "en": "He said he lived in Santos."
+        },
+        {
+          "pt": "Ela disse que ligaria no dia seguinte.",
+          "en": "She said she would call the next day."
+        },
+        {
+          "pt": "Eles avisaram que estavam chegando.",
+          "en": "They warned that they were arriving."
+        }
+      ]
+    },
+    {
+      "heading": "Reported questions and requests",
+      "body": "Indirect questions use question words or **se** for yes/no questions. Requests often use **pedir para + infinitive** or **pedir que + subjunctive**.",
+      "examples": [
+        {
+          "pt": "Ele perguntou onde ficava o banheiro.",
+          "en": "He asked where the bathroom was."
+        },
+        {
+          "pt": "Ela perguntou se eu podia ajudar.",
+          "en": "She asked if I could help."
+        },
+        {
+          "pt": "Pediu para a gente esperar.",
+          "en": "He/she asked us to wait."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Reported statements usually use dizer/falar que.",
+    "Past reporting often shifts present to imperfect and future to conditional.",
+    "Indirect yes/no questions use se.",
+    "Requests can use pedir para + infinitive or pedir que + subjunctive."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Ela disse que estou cansada.",
+      "right": "Ela disse que estava cansada.",
+      "note": "From a past reporting point, shift to imperfect."
+    },
+    {
+      "wrong": "Ele perguntou que eu queria café.",
+      "right": "Ele perguntou se eu queria café.",
+      "note": "Use se for yes/no indirect questions."
+    },
+    {
+      "wrong": "Pediu a gente esperar.",
+      "right": "Pediu para a gente esperar.",
+      "note": "Use para before the infinitive subject."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

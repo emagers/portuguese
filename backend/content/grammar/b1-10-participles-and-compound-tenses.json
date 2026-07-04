@@ -1,0 +1,94 @@
+{
+  "id": "b1-10-participles-and-compound-tenses",
+  "level": "B1",
+  "order": 10,
+  "title": "Participles and Compound Tenses",
+  "titlePt": "Particípios e tempos compostos",
+  "summary": "Use regular and irregular participles in compound tenses, passive forms, and adjective-like uses.",
+  "tags": [
+    "participles",
+    "compound-tenses",
+    "verbs"
+  ],
+  "sections": [
+    {
+      "heading": "Regular participles",
+      "body": "Regular past participles end in **-ado** for -ar verbs and **-ido** for -er/-ir verbs. With **ter**, they form compound tenses and usually do not agree.",
+      "examples": [
+        {
+          "pt": "Tenho estudado muito.",
+          "en": "I have been studying a lot."
+        },
+        {
+          "pt": "Eles tinham vendido o carro.",
+          "en": "They had sold the car."
+        },
+        {
+          "pt": "Nós temos dividido as tarefas.",
+          "en": "We have been dividing the tasks."
+        }
+      ]
+    },
+    {
+      "heading": "Common irregular participles",
+      "body": "Many frequent verbs have irregular participles: **abrir → aberto**, **dizer → dito**, **fazer → feito**, **escrever → escrito**, **ver → visto**, **pôr → posto**.",
+      "examples": [
+        {
+          "pt": "Você já tinha visto esse filme?",
+          "en": "Had you already seen this movie?"
+        },
+        {
+          "pt": "Eu tinha feito a reserva.",
+          "en": "I had made the reservation."
+        },
+        {
+          "pt": "A porta foi aberta cedo.",
+          "en": "The door was opened early."
+        }
+      ]
+    },
+    {
+      "heading": "Participles as adjectives",
+      "body": "When participles function like adjectives or appear in passive voice with **ser/estar**, they agree with the noun in gender and number.",
+      "examples": [
+        {
+          "pt": "As janelas estão abertas.",
+          "en": "The windows are open."
+        },
+        {
+          "pt": "O relatório foi escrito ontem.",
+          "en": "The report was written yesterday."
+        },
+        {
+          "pt": "As cartas foram enviadas.",
+          "en": "The letters were sent."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Regular participles end in -ado or -ido.",
+    "With ter, participles are normally invariable: tenho feito.",
+    "With ser/estar as passive or adjective, participles agree.",
+    "Many high-frequency verbs have irregular participles."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu tenho fazido.",
+      "right": "Eu tenho feito.",
+      "note": "Fazer has irregular participle feito."
+    },
+    {
+      "wrong": "Ela tem estudada muito.",
+      "right": "Ela tem estudado muito.",
+      "note": "With ter, the participle does not agree."
+    },
+    {
+      "wrong": "As portas estão aberto.",
+      "right": "As portas estão abertas.",
+      "note": "Adjective-like participles agree."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,120 @@
+{
+  "id": "a2-medico",
+  "level": "A2",
+  "type": "conversation",
+  "title": "At the Doctor",
+  "titlePt": "No Médico",
+  "summary": "A patient describes common symptoms and receives simple advice.",
+  "lines": [
+    {
+      "speaker": "Médica",
+      "pt": "Bom dia, Carlos. O que você está sentindo?",
+      "en": "Good morning, Carlos. What are you feeling?"
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Estou com dor de garganta e febre.",
+      "en": "I have a sore throat and a fever."
+    },
+    {
+      "speaker": "Médica",
+      "pt": "Quando começou?",
+      "en": "When did it start?"
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Começou ontem à noite, depois do trabalho.",
+      "en": "It started last night, after work."
+    },
+    {
+      "speaker": "Médica",
+      "pt": "Você tossiu muito?",
+      "en": "Did you cough a lot?"
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Sim, tossi a madrugada inteira.",
+      "en": "Yes, I coughed the whole early morning."
+    },
+    {
+      "speaker": "Médica",
+      "pt": "Vou examinar sua garganta. Parece uma gripe leve.",
+      "en": "I am going to examine your throat. It seems like a mild flu."
+    },
+    {
+      "speaker": "Carlos",
+      "pt": "Preciso tomar remédio?",
+      "en": "Do I need to take medicine?"
+    },
+    {
+      "speaker": "Médica",
+      "pt": "Sim, e você deve beber água e descansar.",
+      "en": "Yes, and you should drink water and rest."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a dor de garganta",
+      "en": "the sore throat"
+    },
+    {
+      "pt": "a febre",
+      "en": "the fever"
+    },
+    {
+      "pt": "começou",
+      "en": "it started"
+    },
+    {
+      "pt": "tossir",
+      "en": "to cough"
+    },
+    {
+      "pt": "examinar",
+      "en": "to examine"
+    },
+    {
+      "pt": "a gripe",
+      "en": "the flu"
+    },
+    {
+      "pt": "descansar",
+      "en": "to rest"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What symptoms does Carlos have?",
+      "options": [
+        "Sore throat and fever",
+        "Back pain only",
+        "Stomachache and headache",
+        "A broken arm"
+      ],
+      "answer": "Sore throat and fever"
+    },
+    {
+      "id": "c2",
+      "question": "When did the problem start?",
+      "options": [
+        "Last night",
+        "Last week",
+        "This morning",
+        "During lunch"
+      ],
+      "answer": "Last night"
+    },
+    {
+      "id": "c3",
+      "question": "What does the doctor advise?",
+      "options": [
+        "Drink water and rest",
+        "Run in the park",
+        "Eat ice cream",
+        "Go to work immediately"
+      ],
+      "answer": "Drink water and rest"
+    }
+  ]
+}

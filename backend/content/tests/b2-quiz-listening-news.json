@@ -1,0 +1,93 @@
+{
+  "id": "b2-quiz-listening-news",
+  "level": "B2",
+  "title": "Listening: News & Reports",
+  "topic": "listening",
+  "description": "Listen to B2-level sentences about news, reports, and formal communication.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A proposta foi aprovada pela maioria dos vereadores.",
+      "options": [
+        "A proposta foi aprovada pela maioria dos vereadores.",
+        "A proposta foi rejeitada pela maioria dos vereadores.",
+        "A proposta foi aprovada por poucos vereadores.",
+        "A pesquisa foi aprovada pela maioria dos vereadores."
+      ],
+      "answer": "A proposta foi aprovada pela maioria dos vereadores.",
+      "explanation": "The passive phrase is 'foi aprovada pela maioria'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Se houvesse mais investimento, o serviço melhoraria.",
+      "options": [
+        "Se houvesse mais investimento, o serviço melhoraria.",
+        "Se houver mais investimento, o serviço melhorará.",
+        "Se houvesse menos investimento, o serviço melhoraria.",
+        "Se houvesse mais investimento, o preço aumentaria."
+      ],
+      "answer": "Se houvesse mais investimento, o serviço melhoraria.",
+      "explanation": "This is a hypothetical if-clause with 'houvesse' and 'melhoraria'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O ministro afirmou que não haveria mudanças imediatas.",
+      "options": [
+        "O ministro afirmou que não haveria mudanças imediatas.",
+        "O ministro afirmou que haveria mudanças imediatas.",
+        "O ministro negou que não haveria mudanças imediatas.",
+        "O ministro afirmou que não houve mudanças imediatas."
+      ],
+      "answer": "O ministro afirmou que não haveria mudanças imediatas.",
+      "explanation": "Listen for the negative 'não haveria'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Embora o prazo seja curto, a equipe está confiante.",
+      "options": [
+        "Embora o prazo seja curto, a equipe está confiante.",
+        "Embora o prazo seja longo, a equipe está confiante.",
+        "Embora o preço seja curto, a equipe está confiante.",
+        "Embora o prazo seja curto, a equipe estava confiante."
+      ],
+      "answer": "Embora o prazo seja curto, a equipe está confiante.",
+      "explanation": "'Embora' is followed by the subjunctive 'seja'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Os dados foram divulgados no fim da tarde.",
+      "options": [
+        "Os dados foram divulgados no fim da tarde.",
+        "Os dados foram apagados no fim da tarde.",
+        "Os dados serão divulgados no fim da tarde.",
+        "As datas foram divulgadas no fim da tarde."
+      ],
+      "answer": "Os dados foram divulgados no fim da tarde.",
+      "explanation": "'Foram divulgados' means 'were released'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Segundo o relatório, a demanda cresceu no último trimestre.",
+      "options": [
+        "Segundo o relatório, a demanda cresceu no último trimestre.",
+        "Segundo o relatório, a oferta cresceu no último trimestre.",
+        "Segundo o relatório, a demanda caiu no último trimestre.",
+        "Segundo o jornal, a demanda cresceu no último trimestre."
+      ],
+      "answer": "Segundo o relatório, a demanda cresceu no último trimestre.",
+      "explanation": "The sentence starts with 'Segundo o relatório' and mentions demand growth."
+    }
+  ]
+}

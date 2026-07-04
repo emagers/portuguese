@@ -1,0 +1,102 @@
+{
+  "id": "c2-minas-causo-do-fogao",
+  "level": "C2",
+  "type": "story",
+  "title": "A Tale by the Wood Stove",
+  "titlePt": "Causo no Fogão a Lenha",
+  "summary": "A Minas Gerais-style literary tale about family stories, exaggeration, and truth around a wood stove.",
+  "paragraphs": [
+    {
+      "pt": "Lá em casa, verdade nunca vinha crua; passava antes pelo fogão a lenha, pegava fumaça, engrossava no tacho e só então ia para a mesa. Meu tio Geraldo, homem de pouca pressa e muita sobrancelha, jurava que já tinha visto assombração pedir café na porteira. Ninguém acreditava, mas todo mundo servia mais broa, porque causo bom dispensa cartório.",
+      "en": "In our house, truth never came raw; it first passed by the wood stove, picked up smoke, thickened in the pan, and only then went to the table. My uncle Geraldo, a man of little hurry and much eyebrow, swore he had once seen a ghost ask for coffee at the gate. No one believed him, but everyone served more corn bread, because a good tale needs no notary office."
+    },
+    {
+      "pt": "Naquela noite, chovia miúdo, chuva de mineiro desconfiado, sem alarde mas sem pausa. A avó mexia doce de leite com uma paciência que parecia reza. Geraldo contou que a tal assombração usava chapéu de feltro e tinha educação fina: “Boa noite, seu moço, será que me arruma um cafezim?” Minha prima engasgou de rir; minha avó fez o sinal da cruz, mais por hábito que por medo.",
+      "en": "That night, it rained lightly, the rain of a suspicious Mineiro, without fuss but without pause. Grandmother stirred dulce de leche with a patience that seemed like prayer. Geraldo said that the ghost wore a felt hat and had fine manners: 'Good evening, sir, could you get me a little coffee?' My cousin choked with laughter; my grandmother made the sign of the cross, more from habit than fear."
+    },
+    {
+      "pt": "Anos depois, entendi que ninguém queria saber se o fantasma existira. O que importava era a roda: a lenha estalando, o doce quase no ponto, a família fingindo dúvida para que a história respirasse. Em Minas, às vezes a mentira não engana; ela hospeda uma verdade que, se viesse direta, perderia o encanto. E ai de quem confunda exagero com falsidade: tem trem que só chega ao coração dando volta.",
+      "en": "Years later, I understood that no one wanted to know whether the ghost had existed. What mattered was the circle: the wood crackling, the sweet nearly ready, the family pretending doubt so the story could breathe. In Minas, sometimes a lie does not deceive; it hosts a truth that, if it came directly, would lose its charm. And woe to those who confuse exaggeration with falsehood: some things only reach the heart by taking the long way around."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "fogão a lenha",
+      "en": "wood stove"
+    },
+    {
+      "pt": "tacho",
+      "en": "large pan / copper pot"
+    },
+    {
+      "pt": "assombração",
+      "en": "ghost / apparition"
+    },
+    {
+      "pt": "porteira",
+      "en": "farm gate"
+    },
+    {
+      "pt": "broa",
+      "en": "corn bread"
+    },
+    {
+      "pt": "causo",
+      "en": "folk tale / anecdote"
+    },
+    {
+      "pt": "cafezim",
+      "en": "little coffee (regional diminutive)"
+    },
+    {
+      "pt": "trem",
+      "en": "thing / stuff (Mineiro usage)"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "How does the narrator describe truth in the family?",
+      "options": [
+        "It passed through storytelling before reaching the table",
+        "It was always written in documents",
+        "It was forbidden at dinner",
+        "It never changed with smoke"
+      ],
+      "answer": "It passed through storytelling before reaching the table"
+    },
+    {
+      "id": "c2",
+      "question": "What did Uncle Geraldo claim to see?",
+      "options": [
+        "A ghost asking for coffee",
+        "A train in the kitchen",
+        "A talking cow",
+        "A city mayor"
+      ],
+      "answer": "A ghost asking for coffee"
+    },
+    {
+      "id": "c3",
+      "question": "What mattered more than proving the ghost existed?",
+      "options": [
+        "The family circle and the living story",
+        "Winning an argument",
+        "Calling a notary",
+        "Ending the rain"
+      ],
+      "answer": "The family circle and the living story"
+    },
+    {
+      "id": "c4",
+      "question": "What does the final idea suggest?",
+      "options": [
+        "Some truths arrive through exaggeration",
+        "All stories are useless",
+        "Exaggeration is always false",
+        "Coffee proves everything"
+      ],
+      "answer": "Some truths arrive through exaggeration"
+    }
+  ]
+}

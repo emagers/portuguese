@@ -1,0 +1,87 @@
+{
+  "id": "a1-quiz-numbers-time-colors",
+  "level": "A1",
+  "title": "Numbers, Time & Colors",
+  "topic": "vocab",
+  "description": "Practice basic numbers, clock times, days, and colors in Brazilian Portuguese.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What number is 'doze'?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "20"
+      ],
+      "answer": "12",
+      "explanation": "'Doze' means twelve."
+    },
+    {
+      "id": "q2",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'It is three o'clock.'",
+      "options": [
+        "São três horas.",
+        "É três horas.",
+        "São treze horas.",
+        "É uma hora."
+      ],
+      "answer": "São três horas.",
+      "explanation": "For times after one o'clock, Portuguese uses plural 'são'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which color is 'vermelho'?",
+      "options": [
+        "red",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "answer": "red",
+      "explanation": "'Vermelho' means red."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "Which day comes after 'segunda-feira'?",
+      "options": [
+        "terça-feira",
+        "domingo",
+        "sexta-feira",
+        "sábado"
+      ],
+      "answer": "terça-feira",
+      "explanation": "'Terça-feira' is Tuesday, the day after Monday."
+    },
+    {
+      "id": "q5",
+      "type": "fill_blank",
+      "prompt": "Complete: Eu tenho ___ anos. (18)",
+      "options": [
+        "dezoito",
+        "oitenta",
+        "oito",
+        "dezesseis"
+      ],
+      "answer": "dezoito",
+      "explanation": "The number 18 is 'dezoito' in Brazilian Portuguese."
+    },
+    {
+      "id": "q6",
+      "type": "translate_pt_en",
+      "prompt": "A camisa é azul.",
+      "options": [
+        "The shirt is blue.",
+        "The shirt is yellow.",
+        "The house is blue.",
+        "The shirt is red."
+      ],
+      "answer": "The shirt is blue.",
+      "explanation": "'Camisa' means shirt and 'azul' means blue."
+    }
+  ]
+}

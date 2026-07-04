@@ -1,0 +1,93 @@
+{
+  "id": "c2-quiz-listening-idioms",
+  "level": "C2",
+  "title": "Listening: Idioms & Nuance",
+  "topic": "listening",
+  "description": "Listen to advanced idiomatic and nuanced Brazilian Portuguese sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ele tentou contornar a situação sem criar atrito.",
+      "options": [
+        "Ele tentou contornar a situação sem criar atrito.",
+        "Ele tentou controlar a situação sem criar atrito.",
+        "Ele tentou contornar a decisão sem criar atraso.",
+        "Ele tentou confrontar a situação sem criar atrito."
+      ],
+      "answer": "Ele tentou contornar a situação sem criar atrito.",
+      "explanation": "'Contornar a situação' means to work around or handle the situation tactfully."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A resposta dele foi, no mínimo, evasiva.",
+      "options": [
+        "A resposta dele foi, no mínimo, evasiva.",
+        "A resposta dela foi, no mínimo, evasiva.",
+        "A proposta dele foi, no mínimo, evasiva.",
+        "A resposta dele foi, no máximo, evasiva."
+      ],
+      "answer": "A resposta dele foi, no mínimo, evasiva.",
+      "explanation": "'No mínimo' adds evaluative nuance: at the very least."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Não convém tomar partido sem conhecer os fatos.",
+      "options": [
+        "Não convém tomar partido sem conhecer os fatos.",
+        "Não convém tomar parte sem conhecer os fatos.",
+        "Não convém tomar partido sem reconhecer os fatos.",
+        "Não convém mudar de partido sem conhecer os fatos."
+      ],
+      "answer": "Não convém tomar partido sem conhecer os fatos.",
+      "explanation": "'Tomar partido' means to take sides."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ela fez vista grossa para o problema.",
+      "options": [
+        "Ela fez vista grossa para o problema.",
+        "Ela fez vista curta para o problema.",
+        "Ela viu a vista grossa do problema.",
+        "Ela fez vista grossa para o programa."
+      ],
+      "answer": "Ela fez vista grossa para o problema.",
+      "explanation": "'Fazer vista grossa' means to deliberately overlook something."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O argumento carece de fundamentação sólida.",
+      "options": [
+        "O argumento carece de fundamentação sólida.",
+        "O argumento cresce com fundamentação sólida.",
+        "O argumento carece de informação sólida.",
+        "O documento carece de fundamentação sólida."
+      ],
+      "answer": "O argumento carece de fundamentação sólida.",
+      "explanation": "'Carecer de' means 'to lack'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A decisão acabou saindo pela culatra.",
+      "options": [
+        "A decisão acabou saindo pela culatra.",
+        "A decisão acabou saindo pela entrada.",
+        "A decisão acabou sendo pela culatra.",
+        "A discussão acabou saindo pela culatra."
+      ],
+      "answer": "A decisão acabou saindo pela culatra.",
+      "explanation": "'Sair pela culatra' means to backfire."
+    }
+  ]
+}

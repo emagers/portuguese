@@ -1,0 +1,93 @@
+{
+  "id": "b2-quiz-listening-tech-environment",
+  "level": "B2",
+  "title": "Listening: Technology & Environment",
+  "topic": "listening",
+  "description": "Listen to B2-level sentences about sustainability, digital privacy, and innovation.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A plataforma coleta dados dos usuários.",
+      "options": [
+        "A plataforma coleta dados dos usuários.",
+        "A plataforma protege dados dos usuários.",
+        "A plataforma conecta dados dos usuários.",
+        "A plataforma coleta dados das empresas."
+      ],
+      "answer": "A plataforma coleta dados dos usuários.",
+      "explanation": "'Coleta dados' means 'collects data'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O relatório destaca os impactos ambientais.",
+      "options": [
+        "O relatório destaca os impactos ambientais.",
+        "O relatório descreve os impactos ambientais.",
+        "O relatório destaca os impostos ambientais.",
+        "O relatório destaca os impactos sociais."
+      ],
+      "answer": "O relatório destaca os impactos ambientais.",
+      "explanation": "Listen for 'destaca' and 'impactos ambientais'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A nova lei reforça a proteção de dados.",
+      "options": [
+        "A nova lei reforça a proteção de dados.",
+        "A nova lei reduz a proteção de dados.",
+        "A nova lei reforça a produção de dados.",
+        "A nova regra reforça a proteção de dados."
+      ],
+      "answer": "A nova lei reforça a proteção de dados.",
+      "explanation": "'Reforça' means strengthens, and the topic is data protection."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A energia solar ficou mais acessível.",
+      "options": [
+        "A energia solar ficou mais acessível.",
+        "A energia eólica ficou mais acessível.",
+        "A energia solar ficou menos acessível.",
+        "A energia solar ficou mais aceitável."
+      ],
+      "answer": "A energia solar ficou mais acessível.",
+      "explanation": "The sentence mentions solar energy becoming more accessible."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Especialistas alertam para o aumento das emissões.",
+      "options": [
+        "Especialistas alertam para o aumento das emissões.",
+        "Especialistas apontam para o aumento das emissões.",
+        "Especialistas alertam para a queda das emissões.",
+        "Empresários alertam para o aumento das emissões."
+      ],
+      "answer": "Especialistas alertam para o aumento das emissões.",
+      "explanation": "'Alertam para o aumento' means they warn about the increase."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A ferramenta foi desenvolvida por uma equipe brasileira.",
+      "options": [
+        "A ferramenta foi desenvolvida por uma equipe brasileira.",
+        "A ferramenta será desenvolvida por uma equipe brasileira.",
+        "A ferramenta foi divulgada por uma equipe brasileira.",
+        "A pesquisa foi desenvolvida por uma equipe brasileira."
+      ],
+      "answer": "A ferramenta foi desenvolvida por uma equipe brasileira.",
+      "explanation": "'Foi desenvolvida' is passive voice for 'was developed'."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "c2-01-advanced-stylistics",
+  "level": "C2",
+  "order": 1,
+  "title": "Advanced Stylistics and Sentence Rhythm",
+  "titlePt": "Estilística avançada e ritmo da frase",
+  "summary": "Shape Brazilian Portuguese prose through emphasis, word order, ellipsis, parallelism, and controlled repetition.",
+  "tags": [
+    "style",
+    "syntax",
+    "writing"
+  ],
+  "sections": [
+    {
+      "heading": "Information structure and emphasis",
+      "body": "Portuguese word order is flexible enough to highlight old and new information. Fronting an element can create contrast, emphasis, or a more literary rhythm, but overuse sounds artificial.",
+      "examples": [
+        {
+          "pt": "Esse problema, nós já resolvemos.",
+          "en": "That problem, we have already solved."
+        },
+        {
+          "pt": "Ao diretor cabia a decisão final.",
+          "en": "The final decision fell to the director.",
+          "note": "formal/literary inversion"
+        },
+        {
+          "pt": "Foi ela que encontrou a solução.",
+          "en": "It was she who found the solution.",
+          "note": "cleft for emphasis"
+        }
+      ]
+    },
+    {
+      "heading": "Ellipsis and cohesion",
+      "body": "Advanced writing often omits repeated material when the meaning remains clear. Good ellipsis creates cohesion; unclear ellipsis forces the reader to reconstruct too much.",
+      "examples": [
+        {
+          "pt": "Alguns aceitaram a proposta; outros, não.",
+          "en": "Some accepted the proposal; others did not."
+        },
+        {
+          "pt": "O primeiro argumento é econômico; o segundo, social.",
+          "en": "The first argument is economic; the second, social."
+        },
+        {
+          "pt": "Ela queria ficar; ele, partir.",
+          "en": "She wanted to stay; he, to leave."
+        }
+      ]
+    },
+    {
+      "heading": "Parallelism and controlled repetition",
+      "body": "Parallel structures make arguments memorable and balanced. Repetition can be elegant when intentional, but redundant when accidental.",
+      "examples": [
+        {
+          "pt": "Não se trata de negar o problema, mas de enfrentá-lo.",
+          "en": "It is not a matter of denying the problem, but of facing it."
+        },
+        {
+          "pt": "Quanto mais clara a regra, menor a margem para dúvida.",
+          "en": "The clearer the rule, the smaller the margin for doubt."
+        },
+        {
+          "pt": "O texto informa, orienta e convence.",
+          "en": "The text informs, guides, and persuades."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Word order can emphasize contrast or focus.",
+    "Ellipsis is effective when the omitted element is obvious.",
+    "Parallelism strengthens argument and rhythm.",
+    "Stylistic sophistication depends on control, not complexity alone."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Use inversion everywhere to sound advanced.",
+      "right": "Use inversion sparingly and purposefully.",
+      "note": "Excessive inversion sounds archaic or artificial."
+    },
+    {
+      "wrong": "Alguns aceitaram a proposta; outros.",
+      "right": "Alguns aceitaram a proposta; outros, não.",
+      "note": "Ellipsis must remain recoverable."
+    },
+    {
+      "wrong": "O texto informa, para orientar e convence.",
+      "right": "O texto informa, orienta e convence.",
+      "note": "Keep parallel forms parallel."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

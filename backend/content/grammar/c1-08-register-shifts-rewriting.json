@@ -1,0 +1,97 @@
+{
+  "id": "c1-08-register-shifts-rewriting",
+  "level": "C1",
+  "order": 8,
+  "title": "Register Shifts and Rewriting",
+  "titlePt": "Mudanças de registro e reescrita",
+  "summary": "Rewrite the same message for informal speech, neutral professional use, and formal writing.",
+  "tags": [
+    "register",
+    "rewriting",
+    "style"
+  ],
+  "sections": [
+    {
+      "heading": "Informal to neutral",
+      "body": "A strong C1 skill is recognizing informal features and replacing them without changing meaning. Common shifts include **tô → estou**, **pra → para**, **a gente → nós** or a verb-only form, and slang to neutral vocabulary.",
+      "examples": [
+        {
+          "pt": "Tô mandando o arquivo pra você.",
+          "en": "I'm sending you the file."
+        },
+        {
+          "pt": "Estou enviando o arquivo para você.",
+          "en": "I am sending you the file.",
+          "note": "neutral/professional"
+        },
+        {
+          "pt": "A gente resolveu o problema.",
+          "en": "We solved the problem.",
+          "note": "spoken neutral"
+        }
+      ]
+    },
+    {
+      "heading": "Neutral to formal",
+      "body": "Formal writing often uses more precise verbs, nominalizations, and explicit connectors, but should still be clear. Avoid making the sentence pompous.",
+      "examples": [
+        {
+          "pt": "Vamos mudar o prazo.",
+          "en": "We are going to change the deadline."
+        },
+        {
+          "pt": "O prazo será alterado.",
+          "en": "The deadline will be changed."
+        },
+        {
+          "pt": "Solicitamos a confirmação do recebimento.",
+          "en": "We request confirmation of receipt."
+        }
+      ]
+    },
+    {
+      "heading": "Formal to plain language",
+      "body": "Advanced control also means simplifying bureaucratic Portuguese. Plain language is valued in many professional contexts.",
+      "examples": [
+        {
+          "pt": "Cumpre informar que o pagamento encontra-se pendente.",
+          "en": "It should be informed that payment is pending."
+        },
+        {
+          "pt": "Informamos que o pagamento está pendente.",
+          "en": "We inform you that payment is pending."
+        },
+        {
+          "pt": "O pagamento ainda não foi confirmado.",
+          "en": "Payment has not yet been confirmed.",
+          "note": "plain and clear"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Register shifts affect contractions, pronouns, vocabulary, and syntax.",
+    "Formal does not mean obscure or unnecessarily long.",
+    "Plain professional Portuguese can be both polite and clear.",
+    "Rewrite according to audience, medium, and purpose."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Using slang in a formal complaint.",
+      "right": "Use neutral or formal vocabulary in official contexts.",
+      "note": "Match the social situation."
+    },
+    {
+      "wrong": "Replacing every verb with a nominalization.",
+      "right": "Use a mix of verbs and nouns for clarity.",
+      "note": "Over-formalization hurts readability."
+    },
+    {
+      "wrong": "A gente solicitamos.",
+      "right": "Solicitamos. / A gente solicita.",
+      "note": "Do not mix registers and agreement patterns."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "c1-06-idiomatic-structures",
+  "level": "C1",
+  "order": 6,
+  "title": "Common Idiomatic Structures",
+  "titlePt": "Estruturas idiomáticas comuns",
+  "summary": "Learn high-frequency Brazilian structures such as dar para, acabar de, deixar de, levar jeito, and ter a ver.",
+  "tags": [
+    "idioms",
+    "structures",
+    "spoken-portuguese"
+  ],
+  "sections": [
+    {
+      "heading": "Dar para and dá para",
+      "body": "**Dar para + infinitive** expresses possibility or feasibility. It is very common and often softer than poder.",
+      "examples": [
+        {
+          "pt": "Dá para ir a pé?",
+          "en": "Is it possible to go on foot?"
+        },
+        {
+          "pt": "Não deu para terminar hoje.",
+          "en": "It wasn't possible to finish today."
+        },
+        {
+          "pt": "Será que dá para remarcar?",
+          "en": "Do you think it would be possible to reschedule?"
+        }
+      ]
+    },
+    {
+      "heading": "Aspectual idioms",
+      "body": "Structures like **acabar de**, **deixar de**, **voltar a**, and **passar a** describe stages of an action: just did, stop doing, resume, start doing as a new pattern.",
+      "examples": [
+        {
+          "pt": "Acabei de chegar.",
+          "en": "I just arrived."
+        },
+        {
+          "pt": "Ela deixou de fumar.",
+          "en": "She stopped smoking."
+        },
+        {
+          "pt": "A empresa passou a aceitar Pix.",
+          "en": "The company started accepting Pix."
+        }
+      ]
+    },
+    {
+      "heading": "Evaluation and relation",
+      "body": "Idioms such as **ter a ver**, **não ter nada a ver**, **levar jeito para**, and **fazer questão de** are central to natural Brazilian expression.",
+      "examples": [
+        {
+          "pt": "Isso tem a ver com o trabalho.",
+          "en": "This has to do with work."
+        },
+        {
+          "pt": "Ele leva jeito para cozinhar.",
+          "en": "He has a knack for cooking."
+        },
+        {
+          "pt": "Faço questão de pagar.",
+          "en": "I insist on paying."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Dá para is a flexible way to ask about possibility.",
+    "Acabar de + infinitive means 'to have just done'.",
+    "Passar a + infinitive means to begin doing as a new practice.",
+    "Ter a ver means 'to have to do with', not literal seeing."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Acabei para chegar.",
+      "right": "Acabei de chegar.",
+      "note": "Use acabar de + infinitive."
+    },
+    {
+      "wrong": "Isso tem que ver com você?",
+      "right": "Isso tem a ver com você?",
+      "note": "The common structure is ter a ver."
+    },
+    {
+      "wrong": "Dá para eu posso entrar?",
+      "right": "Dá para eu entrar?",
+      "note": "After dá para, use the infinitive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

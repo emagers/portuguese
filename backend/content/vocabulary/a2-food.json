@@ -1,0 +1,130 @@
+{
+  "id": "a2-food",
+  "level": "A2",
+  "title": "Food & Drink",
+  "theme": "food",
+  "description": "Everyday Brazilian food and drink words for shopping, cooking and ordering meals.",
+  "cards": [
+    {
+      "id": "food-arroz",
+      "pt": "arroz",
+      "en": "rice",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aˈʁos",
+      "example": {
+        "pt": "Eu como arroz todo dia.",
+        "en": "I eat rice every day."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-feijao",
+      "pt": "feijão",
+      "en": "beans",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "fejˈʒɐ̃w",
+      "example": {
+        "pt": "Feijão com arroz é clássico no Brasil.",
+        "en": "Beans with rice is a classic in Brazil."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-carne",
+      "pt": "carne",
+      "en": "meat",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈkaʁ.ni",
+      "example": {
+        "pt": "Não como carne todos os dias.",
+        "en": "I do not eat meat every day."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-frango",
+      "pt": "frango",
+      "en": "chicken",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈfɾɐ̃.gu",
+      "example": {
+        "pt": "O frango está bem temperado.",
+        "en": "The chicken is well seasoned."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-pao",
+      "pt": "pão",
+      "en": "bread roll; bread",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "pɐ̃w",
+      "example": {
+        "pt": "Comprei pão na padaria.",
+        "en": "I bought bread at the bakery."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-suco",
+      "pt": "suco",
+      "en": "juice",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈsu.ku",
+      "example": {
+        "pt": "Quero um suco de laranja.",
+        "en": "I want an orange juice."
+      },
+      "tags": [
+        "drink"
+      ]
+    },
+    {
+      "id": "food-queijo",
+      "pt": "queijo",
+      "en": "cheese",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈkej.ʒu",
+      "example": {
+        "pt": "Esse queijo é de Minas.",
+        "en": "This cheese is from Minas."
+      },
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "food-acougue",
+      "pt": "açougue",
+      "en": "butcher shop",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "aˈso.gi",
+      "example": {
+        "pt": "Vou ao açougue comprar carne.",
+        "en": "I am going to the butcher shop to buy meat."
+      },
+      "tags": [
+        "shopping",
+        "food"
+      ]
+    }
+  ]
+}

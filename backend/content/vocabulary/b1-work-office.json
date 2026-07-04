@@ -1,0 +1,133 @@
+{
+  "id": "b1-work-office",
+  "level": "B1",
+  "title": "Work & Office",
+  "theme": "work",
+  "description": "Workplace vocabulary for meetings, tasks, teams and professional routines.",
+  "cards": [
+    {
+      "id": "work-reuniao",
+      "pt": "reunião",
+      "en": "meeting",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁewniˈɐ̃w",
+      "example": {
+        "pt": "A reunião começa em quinze minutos.",
+        "en": "The meeting starts in fifteen minutes."
+      },
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "id": "work-prazo",
+      "pt": "prazo",
+      "en": "deadline",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpɾa.zu",
+      "example": {
+        "pt": "O prazo do relatório é sexta-feira.",
+        "en": "The report deadline is Friday."
+      },
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "id": "work-equipe",
+      "pt": "equipe",
+      "en": "team",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "eˈki.pi",
+      "example": {
+        "pt": "Nossa equipe trabalha bem junta.",
+        "en": "Our team works well together."
+      },
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "id": "work-chefe",
+      "pt": "chefe",
+      "en": "boss",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈʃɛ.fi",
+      "example": {
+        "pt": "Minha chefe aprovou o projeto.",
+        "en": "My boss approved the project."
+      },
+      "tags": [
+        "work",
+        "people"
+      ]
+    },
+    {
+      "id": "work-planilha",
+      "pt": "planilha",
+      "en": "spreadsheet",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "plaˈni.ʎɐ",
+      "example": {
+        "pt": "Atualizei a planilha de custos.",
+        "en": "I updated the cost spreadsheet."
+      },
+      "tags": [
+        "work",
+        "technology"
+      ]
+    },
+    {
+      "id": "work-cargo",
+      "pt": "cargo",
+      "en": "position; role",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈkaʁ.gu",
+      "example": {
+        "pt": "Ele aceitou um cargo novo.",
+        "en": "He accepted a new position."
+      },
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "id": "work-salario",
+      "pt": "salário",
+      "en": "salary",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "saˈla.ɾju",
+      "example": {
+        "pt": "O salário será pago amanhã.",
+        "en": "The salary will be paid tomorrow."
+      },
+      "tags": [
+        "work",
+        "money"
+      ]
+    },
+    {
+      "id": "work-estagio",
+      "pt": "estágio",
+      "en": "internship",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "esˈta.ʒju",
+      "example": {
+        "pt": "Ela conseguiu um estágio em marketing.",
+        "en": "She got an internship in marketing."
+      },
+      "tags": [
+        "work",
+        "education"
+      ]
+    }
+  ]
+}

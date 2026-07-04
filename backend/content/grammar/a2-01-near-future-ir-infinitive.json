@@ -1,0 +1,95 @@
+{
+  "id": "a2-01-near-future-ir-infinitive",
+  "level": "A2",
+  "order": 1,
+  "title": "Near Future: IR + Infinitive",
+  "titlePt": "Futuro próximo: IR + infinitivo",
+  "summary": "Express plans and intentions with vou, vai, vamos, and vão plus an infinitive.",
+  "tags": [
+    "verbs",
+    "future",
+    "ir"
+  ],
+  "sections": [
+    {
+      "heading": "The structure",
+      "body": "Brazilian Portuguese usually expresses the near future with **ir + infinitive**, much like 'going to' in English. Conjugate **ir** and leave the main verb in the infinitive.\n\n| Subject | ir + infinitive |\n|---|---|\n| eu | vou estudar |\n| você/ele/ela | vai estudar |\n| nós | vamos estudar |\n| vocês/eles/elas | vão estudar |",
+      "examples": [
+        {
+          "pt": "Eu vou viajar amanhã.",
+          "en": "I am going to travel tomorrow."
+        },
+        {
+          "pt": "Ela vai comprar pão.",
+          "en": "She is going to buy bread."
+        },
+        {
+          "pt": "Nós vamos assistir ao jogo.",
+          "en": "We are going to watch the game."
+        }
+      ]
+    },
+    {
+      "heading": "Plans, predictions, and intentions",
+      "body": "Use this structure for personal plans, expected events, and decisions made now. It is the most common future form in speech.",
+      "examples": [
+        {
+          "pt": "Vai chover hoje à noite.",
+          "en": "It is going to rain tonight."
+        },
+        {
+          "pt": "Vou ligar para você depois.",
+          "en": "I will call you later."
+        },
+        {
+          "pt": "Eles vão chegar cedo.",
+          "en": "They are going to arrive early."
+        }
+      ]
+    },
+    {
+      "heading": "Negatives and questions",
+      "body": "Put **não** before the conjugated form of **ir**. Questions usually keep the same word order and use intonation.",
+      "examples": [
+        {
+          "pt": "Não vou sair hoje.",
+          "en": "I am not going out today."
+        },
+        {
+          "pt": "Você vai trabalhar amanhã?",
+          "en": "Are you going to work tomorrow?"
+        },
+        {
+          "pt": "A gente vai comer agora?",
+          "en": "Are we going to eat now?",
+          "note": "a gente uses vai"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Near future = ir in the present + infinitive.",
+    "It is the default future in everyday Brazilian speech.",
+    "Only ir is conjugated; the main verb stays in the infinitive.",
+    "A gente vai is very common for 'we are going to'."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu vou estudo.",
+      "right": "Eu vou estudar.",
+      "note": "After ir, use the infinitive."
+    },
+    {
+      "wrong": "Nós vai sair.",
+      "right": "Nós vamos sair.",
+      "note": "Nós needs vamos."
+    },
+    {
+      "wrong": "Vou para comprar pão.",
+      "right": "Vou comprar pão.",
+      "note": "Do not add para in the future structure."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

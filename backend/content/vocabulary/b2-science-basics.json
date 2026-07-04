@@ -1,0 +1,131 @@
+{
+  "id": "b2-science-basics",
+  "level": "B2",
+  "title": "Science Basics",
+  "theme": "science",
+  "description": "Foundational science vocabulary for experiments, data and explanations.",
+  "cards": [
+    {
+      "id": "sci-experimento",
+      "pt": "experimento",
+      "en": "experiment",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "espeɾiˈmẽ.tu",
+      "example": {
+        "pt": "O experimento confirmou a hipótese.",
+        "en": "The experiment confirmed the hypothesis."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-dados",
+      "pt": "dados",
+      "en": "data",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈda.dus",
+      "example": {
+        "pt": "Os dados foram coletados em campo.",
+        "en": "The data were collected in the field."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-metodo",
+      "pt": "método",
+      "en": "method",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈmɛ.to.du",
+      "example": {
+        "pt": "O método é simples e confiável.",
+        "en": "The method is simple and reliable."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-resultado",
+      "pt": "resultado",
+      "en": "result",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁezuʊˈta.du",
+      "example": {
+        "pt": "O resultado surpreendeu a equipe.",
+        "en": "The result surprised the team."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-observar",
+      "pt": "observar",
+      "en": "to observe",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "obzeʁˈvaʁ",
+      "example": {
+        "pt": "Os alunos observaram a reação.",
+        "en": "The students observed the reaction."
+      },
+      "tags": [
+        "science",
+        "verbs"
+      ]
+    },
+    {
+      "id": "sci-teoria",
+      "pt": "teoria",
+      "en": "theory",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "teoˈɾi.ɐ",
+      "example": {
+        "pt": "A teoria explica o fenômeno.",
+        "en": "The theory explains the phenomenon."
+      },
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci-comprovar",
+      "pt": "comprovar",
+      "en": "to prove; verify",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "kõpɾoˈvaʁ",
+      "example": {
+        "pt": "Ainda precisamos comprovar essa relação.",
+        "en": "We still need to verify this relationship."
+      },
+      "tags": [
+        "science",
+        "verbs"
+      ]
+    },
+    {
+      "id": "sci-fenomeno",
+      "pt": "fenômeno",
+      "en": "phenomenon",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "feˈnõ.me.nu",
+      "example": {
+        "pt": "Esse fenômeno ocorre no verão.",
+        "en": "This phenomenon occurs in summer."
+      },
+      "tags": [
+        "science"
+      ]
+    }
+  ]
+}

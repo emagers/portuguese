@@ -1,0 +1,103 @@
+{
+  "id": "c2-05-regional-colloquial-written-norm",
+  "level": "C2",
+  "order": 5,
+  "title": "Regional, Colloquial, and Written Norms",
+  "titlePt": "Norma regional, coloquial e escrita",
+  "summary": "Navigate variation between Brazilian regions, everyday speech, educated usage, and the written standard.",
+  "tags": [
+    "variation",
+    "register",
+    "norms"
+  ],
+  "sections": [
+    {
+      "heading": "Variation is not error by itself",
+      "body": "Brazilian Portuguese varies by region, class, age, context, and medium. Advanced learners need to identify what is regional or colloquial and choose appropriately for the situation.",
+      "examples": [
+        {
+          "pt": "Tu vai?",
+          "en": "Are you going?",
+          "note": "common in some regions; nonstandard agreement in formal writing"
+        },
+        {
+          "pt": "Você vai?",
+          "en": "Are you going?",
+          "note": "widely neutral in Brazil"
+        },
+        {
+          "pt": "O senhor poderia aguardar?",
+          "en": "Could you wait, sir?",
+          "note": "formal/polite service context"
+        }
+      ]
+    },
+    {
+      "heading": "Spoken grammar vs written norm",
+      "body": "Speech often uses structures that formal writing avoids, such as subject pronouns as objects, simplified agreement in fast speech, and sentence fragments. These are part of real usage but must be controlled by register.",
+      "examples": [
+        {
+          "pt": "Eu vi ela ontem.",
+          "en": "I saw her yesterday.",
+          "note": "common speech"
+        },
+        {
+          "pt": "Eu a vi ontem.",
+          "en": "I saw her yesterday.",
+          "note": "formal standard"
+        },
+        {
+          "pt": "A gente fomos lá.",
+          "en": "We went there.",
+          "note": "stigmatized; avoid in careful speech/writing"
+        }
+      ]
+    },
+    {
+      "heading": "Lexical regionalisms",
+      "body": "Different regions may prefer different words for everyday items, foods, or transport. Prefer widely understood Brazilian terms in learner materials unless teaching regional awareness.",
+      "examples": [
+        {
+          "pt": "mandioca / aipim / macaxeira",
+          "en": "cassava",
+          "note": "regional lexical variation"
+        },
+        {
+          "pt": "ônibus",
+          "en": "bus",
+          "note": "widely understood standard term"
+        },
+        {
+          "pt": "trem",
+          "en": "train; also 'thing' in parts of Minas Gerais",
+          "note": "context-dependent regional meaning"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Advanced competence includes recognizing variation and controlling register.",
+    "Colloquial does not automatically mean wrong, but it may be inappropriate in formal writing.",
+    "Use widely understood Brazilian forms for national communication.",
+    "Avoid stigmatized agreement patterns in careful speech and writing."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "If Brazilians say it, it is always safe in formal writing.",
+      "right": "Spoken forms may be natural but register-limited.",
+      "note": "Context determines appropriateness."
+    },
+    {
+      "wrong": "Tu vai is standard everywhere.",
+      "right": "Você vai is the safest national learner form.",
+      "note": "Tu usage is regional and agreement varies."
+    },
+    {
+      "wrong": "Eu vi ela in an academic essay.",
+      "right": "Eu a vi / Vi-a in formal contexts.",
+      "note": "Use standard object pronouns or recast the sentence."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

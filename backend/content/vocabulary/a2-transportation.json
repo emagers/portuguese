@@ -1,0 +1,131 @@
+{
+  "id": "a2-transportation",
+  "level": "A2",
+  "title": "Transportation",
+  "theme": "transportation",
+  "description": "Transportation vocabulary for commuting, buying tickets and getting around Brazil.",
+  "cards": [
+    {
+      "id": "trans-onibus",
+      "pt": "ônibus",
+      "en": "bus",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈõ.ni.bus",
+      "example": {
+        "pt": "Eu vou de ônibus para o trabalho.",
+        "en": "I go to work by bus."
+      },
+      "tags": [
+        "transportation"
+      ]
+    },
+    {
+      "id": "trans-metro",
+      "pt": "metrô",
+      "en": "subway",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "meˈtɾo",
+      "example": {
+        "pt": "O metrô está cheio hoje.",
+        "en": "The subway is crowded today."
+      },
+      "tags": [
+        "transportation"
+      ]
+    },
+    {
+      "id": "trans-trem",
+      "pt": "trem",
+      "en": "train",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "tɾẽj",
+      "example": {
+        "pt": "O trem sai às seis.",
+        "en": "The train leaves at six."
+      },
+      "tags": [
+        "transportation"
+      ]
+    },
+    {
+      "id": "trans-carro",
+      "pt": "carro",
+      "en": "car",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈka.ʁu",
+      "example": {
+        "pt": "Meu carro está na oficina.",
+        "en": "My car is at the repair shop."
+      },
+      "tags": [
+        "transportation"
+      ]
+    },
+    {
+      "id": "trans-bicicleta",
+      "pt": "bicicleta",
+      "en": "bicycle",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "bisiˈklɛ.tɐ",
+      "example": {
+        "pt": "Ela vai de bicicleta ao parque.",
+        "en": "She goes to the park by bicycle."
+      },
+      "tags": [
+        "transportation"
+      ]
+    },
+    {
+      "id": "trans-passagem",
+      "pt": "passagem",
+      "en": "ticket; fare",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "paˈsa.ʒẽj",
+      "example": {
+        "pt": "A passagem de ônibus aumentou.",
+        "en": "The bus fare went up."
+      },
+      "tags": [
+        "transportation",
+        "money"
+      ]
+    },
+    {
+      "id": "trans-motorista",
+      "pt": "motorista",
+      "en": "driver",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "motoˈɾis.tɐ",
+      "example": {
+        "pt": "O motorista foi muito educado.",
+        "en": "The driver was very polite."
+      },
+      "tags": [
+        "transportation",
+        "people"
+      ]
+    },
+    {
+      "id": "trans-engarrafamento",
+      "pt": "engarrafamento",
+      "en": "traffic jam",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ẽgaʁafaˈmẽ.tu",
+      "example": {
+        "pt": "Pegamos um engarrafamento enorme.",
+        "en": "We got stuck in a huge traffic jam."
+      },
+      "tags": [
+        "transportation"
+      ]
+    }
+  ]
+}

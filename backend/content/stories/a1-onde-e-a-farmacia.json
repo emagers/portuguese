@@ -1,0 +1,120 @@
+{
+  "id": "a1-onde-e-a-farmacia",
+  "level": "A1",
+  "type": "conversation",
+  "title": "Where Is the Pharmacy?",
+  "titlePt": "Onde É a Farmácia?",
+  "summary": "A simple dialogue about asking directions to a pharmacy near the square.",
+  "lines": [
+    {
+      "speaker": "Nico",
+      "pt": "Com licença. Onde é a farmácia?",
+      "en": "Excuse me. Where is the pharmacy?"
+    },
+    {
+      "speaker": "Mulher",
+      "pt": "A farmácia fica na Rua Bahia.",
+      "en": "The pharmacy is on Bahia Street."
+    },
+    {
+      "speaker": "Nico",
+      "pt": "É perto daqui?",
+      "en": "Is it near here?"
+    },
+    {
+      "speaker": "Mulher",
+      "pt": "Sim. Vá em frente até a praça.",
+      "en": "Yes. Go straight ahead to the square."
+    },
+    {
+      "speaker": "Nico",
+      "pt": "Depois eu viro?",
+      "en": "Then do I turn?"
+    },
+    {
+      "speaker": "Mulher",
+      "pt": "Vire à esquerda. A farmácia fica ao lado do mercado.",
+      "en": "Turn left. The pharmacy is next to the market."
+    },
+    {
+      "speaker": "Nico",
+      "pt": "Ao lado do mercado. Entendi.",
+      "en": "Next to the market. I understand."
+    },
+    {
+      "speaker": "Mulher",
+      "pt": "Isso. É uma farmácia verde.",
+      "en": "That's right. It is a green pharmacy."
+    },
+    {
+      "speaker": "Nico",
+      "pt": "Muito obrigado!",
+      "en": "Thank you very much!"
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a farmácia",
+      "en": "the pharmacy"
+    },
+    {
+      "pt": "a rua",
+      "en": "the street"
+    },
+    {
+      "pt": "a praça",
+      "en": "the square"
+    },
+    {
+      "pt": "Vá em frente",
+      "en": "Go straight ahead"
+    },
+    {
+      "pt": "Vire à esquerda",
+      "en": "Turn left"
+    },
+    {
+      "pt": "ao lado de",
+      "en": "next to"
+    },
+    {
+      "pt": "verde",
+      "en": "green"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What is Nico looking for?",
+      "options": [
+        "The pharmacy",
+        "The bakery",
+        "The bus stop",
+        "The school"
+      ],
+      "answer": "The pharmacy"
+    },
+    {
+      "id": "c2",
+      "question": "Where should Nico go first?",
+      "options": [
+        "To the square",
+        "To the beach",
+        "To the hotel",
+        "To the station"
+      ],
+      "answer": "To the square"
+    },
+    {
+      "id": "c3",
+      "question": "What is next to the pharmacy?",
+      "options": [
+        "The market",
+        "The bank",
+        "The church",
+        "The park"
+      ],
+      "answer": "The market"
+    }
+  ]
+}

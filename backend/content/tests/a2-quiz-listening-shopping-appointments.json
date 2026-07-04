@@ -1,0 +1,93 @@
+{
+  "id": "a2-quiz-listening-shopping-appointments",
+  "level": "A2",
+  "title": "Listening: Shopping & Appointments",
+  "topic": "listening",
+  "description": "Listen for prices, appointments, errands, and simple service interactions.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A consulta é às três da tarde.",
+      "options": [
+        "A consulta é às três da tarde.",
+        "A consulta é às seis da tarde.",
+        "A reunião é às três da tarde.",
+        "A consulta foi às três da tarde."
+      ],
+      "answer": "A consulta é às três da tarde.",
+      "explanation": "'Consulta' means appointment, and the time is three in the afternoon."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Quanto custa esta camiseta?",
+      "options": [
+        "Quanto custa esta camiseta?",
+        "Quanto custa esta passagem?",
+        "Quanto custa aquele casaco?",
+        "Quando custa esta camiseta?"
+      ],
+      "answer": "Quanto custa esta camiseta?",
+      "explanation": "The question asks the price of 'esta camiseta'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Eu te espero na entrada.",
+      "options": [
+        "Eu te espero na entrada.",
+        "Eu te encontro na entrada.",
+        "Eu me espero na entrada.",
+        "Eu te espero na escada."
+      ],
+      "answer": "Eu te espero na entrada.",
+      "explanation": "'Te espero' means 'I'll wait for you'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O ônibus passa a cada quinze minutos.",
+      "options": [
+        "O ônibus passa a cada quinze minutos.",
+        "O ônibus passa a cada cinco minutos.",
+        "O ônibus para a cada quinze minutos.",
+        "O metrô passa a cada quinze minutos."
+      ],
+      "answer": "O ônibus passa a cada quinze minutos.",
+      "explanation": "Listen for 'ônibus', 'passa', and 'quinze minutos'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ela comprou frutas na feira.",
+      "options": [
+        "Ela comprou frutas na feira.",
+        "Ela compra frutas na feira.",
+        "Ele comprou frutas na feira.",
+        "Ela comprou flores na feira."
+      ],
+      "answer": "Ela comprou frutas na feira.",
+      "explanation": "'Comprou' indicates a completed past purchase."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Pode repetir, por favor?",
+      "options": [
+        "Pode repetir, por favor?",
+        "Pode escrever, por favor?",
+        "Pode esperar, por favor?",
+        "Pode repetir amanhã?"
+      ],
+      "answer": "Pode repetir, por favor?",
+      "explanation": "This polite request asks someone to repeat."
+    }
+  ]
+}

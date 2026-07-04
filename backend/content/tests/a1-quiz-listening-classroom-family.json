@@ -1,0 +1,93 @@
+{
+  "id": "a1-quiz-listening-classroom-family",
+  "level": "A1",
+  "title": "Listening: Classroom & Family",
+  "topic": "listening",
+  "description": "Listen for simple classroom, family, and daily-life sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Este é meu professor.",
+      "options": [
+        "Este é meu professor.",
+        "Esta é minha professora.",
+        "Esse é meu irmão.",
+        "Este é meu livro."
+      ],
+      "answer": "Este é meu professor.",
+      "explanation": "Listen for 'este' and 'professor'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Minha mãe trabalha hoje.",
+      "options": [
+        "Minha mãe trabalha hoje.",
+        "Meu pai trabalha hoje.",
+        "Minha mãe estuda hoje.",
+        "Minha irmã trabalha hoje."
+      ],
+      "answer": "Minha mãe trabalha hoje.",
+      "explanation": "The sentence says 'my mother works today'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O livro está na mesa.",
+      "options": [
+        "O livro está na mesa.",
+        "O livro está na mochila.",
+        "A caneta está na mesa.",
+        "O livro é da mesa."
+      ],
+      "answer": "O livro está na mesa.",
+      "explanation": "'Na mesa' means 'on the table'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Eu estudo de manhã.",
+      "options": [
+        "Eu estudo de manhã.",
+        "Eu trabalho de manhã.",
+        "Eu estudo à noite.",
+        "Ela estuda de manhã."
+      ],
+      "answer": "Eu estudo de manhã.",
+      "explanation": "Listen for 'eu estudo' and 'de manhã'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A porta está aberta.",
+      "options": [
+        "A porta está aberta.",
+        "A porta está fechada.",
+        "A janela está aberta.",
+        "A porta é aberta."
+      ],
+      "answer": "A porta está aberta.",
+      "explanation": "'Aberta' means open and agrees with feminine 'porta'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Meu irmão tem dez anos.",
+      "options": [
+        "Meu irmão tem dez anos.",
+        "Minha irmã tem dez anos.",
+        "Meu irmão tem dois anos.",
+        "Meu primo tem dez anos."
+      ],
+      "answer": "Meu irmão tem dez anos.",
+      "explanation": "The audio says 'meu irmão' and 'dez anos'."
+    }
+  ]
+}

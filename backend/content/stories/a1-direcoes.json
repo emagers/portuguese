@@ -1,0 +1,120 @@
+{
+  "id": "a1-direcoes",
+  "level": "A1",
+  "type": "conversation",
+  "title": "Asking for Directions",
+  "titlePt": "Pedindo Direções",
+  "summary": "A visitor asks how to get to the bus stop using simple direction words.",
+  "lines": [
+    {
+      "speaker": "Rita",
+      "pt": "Com licença. Onde fica o ponto de ônibus?",
+      "en": "Excuse me. Where is the bus stop?"
+    },
+    {
+      "speaker": "Homem",
+      "pt": "Fica perto da praça.",
+      "en": "It is near the square."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "É longe daqui?",
+      "en": "Is it far from here?"
+    },
+    {
+      "speaker": "Homem",
+      "pt": "Não, é perto. Siga em frente.",
+      "en": "No, it is close. Go straight ahead."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "Depois?",
+      "en": "After that?"
+    },
+    {
+      "speaker": "Homem",
+      "pt": "Vire à direita na padaria.",
+      "en": "Turn right at the bakery."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "O ponto fica na praça?",
+      "en": "Is the stop in the square?"
+    },
+    {
+      "speaker": "Homem",
+      "pt": "Sim, fica em frente ao banco.",
+      "en": "Yes, it is across from the bank."
+    },
+    {
+      "speaker": "Rita",
+      "pt": "Muito obrigada!",
+      "en": "Thank you very much!"
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "Com licença",
+      "en": "Excuse me"
+    },
+    {
+      "pt": "o ponto de ônibus",
+      "en": "the bus stop"
+    },
+    {
+      "pt": "perto",
+      "en": "near"
+    },
+    {
+      "pt": "longe",
+      "en": "far"
+    },
+    {
+      "pt": "Siga em frente",
+      "en": "Go straight ahead"
+    },
+    {
+      "pt": "Vire à direita",
+      "en": "Turn right"
+    },
+    {
+      "pt": "em frente a",
+      "en": "across from / in front of"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What is Rita looking for?",
+      "options": [
+        "The bus stop",
+        "The hotel",
+        "The pharmacy",
+        "The train station"
+      ],
+      "answer": "The bus stop"
+    },
+    {
+      "id": "c2",
+      "question": "Where should Rita turn right?",
+      "options": [
+        "At the bakery",
+        "At the school",
+        "At the café",
+        "At the market"
+      ],
+      "answer": "At the bakery"
+    },
+    {
+      "id": "c3",
+      "question": "What is the bus stop across from?",
+      "options": [
+        "The bank",
+        "The beach",
+        "The hospital",
+        "The museum"
+      ],
+      "answer": "The bank"
+    }
+  ]
+}

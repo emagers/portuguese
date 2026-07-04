@@ -1,0 +1,97 @@
+{
+  "id": "a1-11-ter-haver-existence",
+  "level": "A1",
+  "order": 11,
+  "title": "TER and HAVER for Existence",
+  "titlePt": "TER e HAVER para existência",
+  "summary": "Use tem in everyday speech and há in more formal writing to say 'there is' or 'there are'.",
+  "tags": [
+    "verbs",
+    "ter",
+    "haver",
+    "existence"
+  ],
+  "sections": [
+    {
+      "heading": "Everyday Brazilian: tem",
+      "body": "In spoken Brazilian Portuguese, **tem** commonly means 'there is' or 'there are'. It is extremely natural in conversation, menus, signs, and informal writing.",
+      "examples": [
+        {
+          "pt": "Tem um mercado perto daqui.",
+          "en": "There is a market near here."
+        },
+        {
+          "pt": "Tem ônibus para o centro?",
+          "en": "Is there a bus to downtown?"
+        },
+        {
+          "pt": "Não tem problema.",
+          "en": "No problem.",
+          "note": "literally: there is no problem"
+        }
+      ]
+    },
+    {
+      "heading": "Formal standard: há",
+      "body": "**Há** also means 'there is/there are' and is preferred in formal writing. It does not change for plural nouns.",
+      "examples": [
+        {
+          "pt": "Há muitas opções no menu.",
+          "en": "There are many options on the menu."
+        },
+        {
+          "pt": "Há uma farmácia nesta rua.",
+          "en": "There is a pharmacy on this street."
+        },
+        {
+          "pt": "Não há vagas.",
+          "en": "There are no vacancies.",
+          "note": "common formal sign"
+        }
+      ]
+    },
+    {
+      "heading": "Ter as possession",
+      "body": "Do not confuse existential **tem** with personal **ter** meaning 'to have'. The form changes with the subject when it means possession.",
+      "examples": [
+        {
+          "pt": "Eu tenho dois irmãos.",
+          "en": "I have two brothers."
+        },
+        {
+          "pt": "Ela tem um carro.",
+          "en": "She has a car."
+        },
+        {
+          "pt": "Nós temos aula hoje.",
+          "en": "We have class today."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Tem = there is/there are in everyday Brazilian speech.",
+    "Há = there is/there are in formal or written style.",
+    "Há does not become hão for existence.",
+    "Ter changes with the subject when it means possession."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Têm uma padaria aqui.",
+      "right": "Tem uma padaria aqui.",
+      "note": "Existential tem is singular in everyday use."
+    },
+    {
+      "wrong": "Hão muitos problemas.",
+      "right": "Há muitos problemas.",
+      "note": "Existential haver stays singular."
+    },
+    {
+      "wrong": "Eu tem vinte anos.",
+      "right": "Eu tenho vinte anos.",
+      "note": "Possessive ter must agree with the subject."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

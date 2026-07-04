@@ -1,0 +1,131 @@
+{
+  "id": "b1-entrevista-emprego",
+  "level": "B1",
+  "type": "conversation",
+  "title": "Job Interview",
+  "titlePt": "Entrevista de Emprego",
+  "summary": "A candidate explains her experience and goals during a job interview.",
+  "lines": [
+    {
+      "speaker": "Entrevistador",
+      "pt": "Bom dia, Renata. Obrigado por vir à entrevista.",
+      "en": "Good morning, Renata. Thank you for coming to the interview."
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Eu que agradeço pela oportunidade.",
+      "en": "I am the one who thanks you for the opportunity."
+    },
+    {
+      "speaker": "Entrevistador",
+      "pt": "Você pode falar um pouco sobre sua experiência?",
+      "en": "Can you talk a little about your experience?"
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Claro. Trabalhei três anos em uma loja de roupas e aprendi a atender clientes com paciência.",
+      "en": "Of course. I worked for three years in a clothing store and learned to serve customers patiently."
+    },
+    {
+      "speaker": "Entrevistador",
+      "pt": "E por que você quer mudar de área?",
+      "en": "And why do you want to change fields?"
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Porque sempre gostei de tecnologia e fiz um curso de suporte técnico no ano passado.",
+      "en": "Because I have always liked technology and took a technical support course last year."
+    },
+    {
+      "speaker": "Entrevistador",
+      "pt": "Como você lida com problemas difíceis?",
+      "en": "How do you deal with difficult problems?"
+    },
+    {
+      "speaker": "Renata",
+      "pt": "Primeiro, escuto a pessoa. Depois, procuro a causa do problema e explico a solução com calma.",
+      "en": "First, I listen to the person. Then I look for the cause of the problem and explain the solution calmly."
+    },
+    {
+      "speaker": "Entrevistador",
+      "pt": "Ótimo. Entraremos em contato até sexta-feira.",
+      "en": "Great. We will get in touch by Friday."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "a entrevista",
+      "en": "the interview"
+    },
+    {
+      "pt": "a oportunidade",
+      "en": "the opportunity"
+    },
+    {
+      "pt": "atender clientes",
+      "en": "to serve customers"
+    },
+    {
+      "pt": "mudar de área",
+      "en": "to change fields"
+    },
+    {
+      "pt": "o suporte técnico",
+      "en": "technical support"
+    },
+    {
+      "pt": "lidar com",
+      "en": "to deal with"
+    },
+    {
+      "pt": "entrar em contato",
+      "en": "to get in touch"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Where did Renata work before?",
+      "options": [
+        "In a clothing store",
+        "In a hospital",
+        "At a hotel",
+        "In a school"
+      ],
+      "answer": "In a clothing store"
+    },
+    {
+      "id": "c2",
+      "question": "Why does she want to change fields?",
+      "options": [
+        "She likes technology",
+        "She dislikes customers",
+        "She is moving abroad",
+        "She wants shorter hours only"
+      ],
+      "answer": "She likes technology"
+    },
+    {
+      "id": "c3",
+      "question": "What does Renata do first with difficult problems?",
+      "options": [
+        "Listens to the person",
+        "Calls her manager immediately",
+        "Ignores the issue",
+        "Changes the subject"
+      ],
+      "answer": "Listens to the person"
+    },
+    {
+      "id": "c4",
+      "question": "When will the interviewer contact her?",
+      "options": [
+        "By Friday",
+        "Next month",
+        "Tonight",
+        "After vacation"
+      ],
+      "answer": "By Friday"
+    }
+  ]
+}

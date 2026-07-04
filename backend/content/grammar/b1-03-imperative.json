@@ -1,0 +1,93 @@
+{
+  "id": "b1-03-imperative",
+  "level": "B1",
+  "order": 3,
+  "title": "Imperative: Commands and Requests",
+  "titlePt": "Imperativo: ordens e pedidos",
+  "summary": "Give instructions, invitations, and polite requests using Brazilian você forms.",
+  "tags": [
+    "verbs",
+    "imperative"
+  ],
+  "sections": [
+    {
+      "heading": "Você commands in Brazil",
+      "body": "Everyday Brazilian Portuguese uses **você**, so commands usually match present subjunctive forms: **fale**, **coma**, **abra**, **venha**, **faça**. Tone depends on context and politeness markers like **por favor**.",
+      "examples": [
+        {
+          "pt": "Fale mais devagar, por favor.",
+          "en": "Speak more slowly, please."
+        },
+        {
+          "pt": "Venha aqui um minuto.",
+          "en": "Come here for a minute."
+        },
+        {
+          "pt": "Faça isso hoje.",
+          "en": "Do that today."
+        }
+      ]
+    },
+    {
+      "heading": "Negative commands",
+      "body": "Negative commands also use the subjunctive form with **não** before the verb.",
+      "examples": [
+        {
+          "pt": "Não fale tão alto.",
+          "en": "Don't speak so loudly."
+        },
+        {
+          "pt": "Não se esqueça da reunião.",
+          "en": "Don't forget the meeting."
+        },
+        {
+          "pt": "Não abra esse e-mail.",
+          "en": "Don't open that email."
+        }
+      ]
+    },
+    {
+      "heading": "Inclusive commands with vamos",
+      "body": "For 'let's', use **vamos + infinitive** or, more formally, subjunctive **façamos**. In speech, **vamos** is the natural choice.",
+      "examples": [
+        {
+          "pt": "Vamos sair agora.",
+          "en": "Let's leave now."
+        },
+        {
+          "pt": "Vamos pedir uma pizza.",
+          "en": "Let's order a pizza."
+        },
+        {
+          "pt": "Não vamos discutir isso agora.",
+          "en": "Let's not discuss that now."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Brazilian você commands often use present subjunctive forms.",
+    "Não + subjunctive forms negative commands.",
+    "Por favor, pode, and dá para soften requests.",
+    "Vamos + infinitive is the normal way to say 'let's'."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Fala mais devagar.",
+      "right": "Fale mais devagar.",
+      "note": "Fala is common informal speech, but fale is the standard você imperative."
+    },
+    {
+      "wrong": "Não abre a porta.",
+      "right": "Não abra a porta.",
+      "note": "Negative commands use subjunctive."
+    },
+    {
+      "wrong": "Vamos saímos.",
+      "right": "Vamos sair.",
+      "note": "After vamos for 'let's', use the infinitive."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

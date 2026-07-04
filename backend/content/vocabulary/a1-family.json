@@ -1,0 +1,129 @@
+{
+  "id": "a1-family",
+  "level": "A1",
+  "title": "Family & People",
+  "theme": "family",
+  "description": "Core family words for introducing relatives and talking about people close to you.",
+  "cards": [
+    {
+      "id": "fam-mae",
+      "pt": "mãe",
+      "en": "mother",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "mɐ̃j",
+      "example": {
+        "pt": "Minha mãe mora em Recife.",
+        "en": "My mother lives in Recife."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-pai",
+      "pt": "pai",
+      "en": "father",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "paj",
+      "example": {
+        "pt": "Meu pai gosta de café.",
+        "en": "My father likes coffee."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-filho",
+      "pt": "filho / filha",
+      "en": "son / daughter",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈfi.ʎu",
+      "example": {
+        "pt": "O filho dela estuda inglês.",
+        "en": "Her son studies English."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-irmao",
+      "pt": "irmão / irmã",
+      "en": "brother / sister",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "iʁˈmɐ̃w / iʁˈmɐ̃",
+      "example": {
+        "pt": "Tenho uma irmã mais nova.",
+        "en": "I have a younger sister."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-avo",
+      "pt": "avô / avó",
+      "en": "grandfather / grandmother",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "aˈvo / aˈvɔ",
+      "example": {
+        "pt": "Minha avó faz bolo aos domingos.",
+        "en": "My grandmother makes cake on Sundays."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-primo",
+      "pt": "primo / prima",
+      "en": "cousin",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ˈpɾi.mu",
+      "example": {
+        "pt": "Meu primo trabalha no centro.",
+        "en": "My cousin works downtown."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-marido",
+      "pt": "marido",
+      "en": "husband",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "maˈɾi.du",
+      "example": {
+        "pt": "O marido dela é professor.",
+        "en": "Her husband is a teacher."
+      },
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "id": "fam-esposa",
+      "pt": "esposa",
+      "en": "wife",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "esˈpo.zɐ",
+      "example": {
+        "pt": "Minha esposa chega hoje.",
+        "en": "My wife arrives today."
+      },
+      "tags": [
+        "family"
+      ]
+    }
+  ]
+}

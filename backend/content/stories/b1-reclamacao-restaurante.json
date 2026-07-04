@@ -1,0 +1,120 @@
+{
+  "id": "b1-reclamacao-restaurante",
+  "level": "B1",
+  "type": "conversation",
+  "title": "A Restaurant Complaint",
+  "titlePt": "Uma Reclamação no Restaurante",
+  "summary": "A customer politely complains about a wrong order and the waiter fixes the problem.",
+  "lines": [
+    {
+      "speaker": "Cliente",
+      "pt": "Com licença, acho que houve um engano no meu pedido.",
+      "en": "Excuse me, I think there was a mistake with my order."
+    },
+    {
+      "speaker": "Garçom",
+      "pt": "Sinto muito. O que aconteceu?",
+      "en": "I'm sorry. What happened?"
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Eu pedi peixe grelhado, mas recebi frango.",
+      "en": "I ordered grilled fish, but I received chicken."
+    },
+    {
+      "speaker": "Garçom",
+      "pt": "O senhor tem razão. Vou verificar na cozinha agora.",
+      "en": "You are right. I'll check in the kitchen now."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Obrigado. Também pedi a salada sem cebola.",
+      "en": "Thank you. I also asked for the salad without onion."
+    },
+    {
+      "speaker": "Garçom",
+      "pt": "Peço desculpas. Vamos preparar outro prato imediatamente.",
+      "en": "I apologize. We will prepare another dish immediately."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Tudo bem, eu entendo que o restaurante está cheio.",
+      "en": "That's okay, I understand that the restaurant is full."
+    },
+    {
+      "speaker": "Garçom",
+      "pt": "Para compensar, a sobremesa ficará por conta da casa.",
+      "en": "To make up for it, dessert will be on the house."
+    },
+    {
+      "speaker": "Cliente",
+      "pt": "Agradeço a atenção.",
+      "en": "I appreciate the attention."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "houve um engano",
+      "en": "there was a mistake"
+    },
+    {
+      "pt": "o pedido",
+      "en": "the order"
+    },
+    {
+      "pt": "peixe grelhado",
+      "en": "grilled fish"
+    },
+    {
+      "pt": "ter razão",
+      "en": "to be right"
+    },
+    {
+      "pt": "sem cebola",
+      "en": "without onion"
+    },
+    {
+      "pt": "imediatamente",
+      "en": "immediately"
+    },
+    {
+      "pt": "por conta da casa",
+      "en": "on the house"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What did the customer order?",
+      "options": [
+        "Grilled fish",
+        "Chicken",
+        "Pasta",
+        "Soup"
+      ],
+      "answer": "Grilled fish"
+    },
+    {
+      "id": "c2",
+      "question": "What was wrong with the salad request?",
+      "options": [
+        "It should be without onion",
+        "It had no lettuce",
+        "It was too small",
+        "It came with dessert"
+      ],
+      "answer": "It should be without onion"
+    },
+    {
+      "id": "c3",
+      "question": "How does the restaurant compensate the customer?",
+      "options": [
+        "Free dessert",
+        "A free hotel room",
+        "A new table",
+        "A cheaper drink only"
+      ],
+      "answer": "Free dessert"
+    }
+  ]
+}

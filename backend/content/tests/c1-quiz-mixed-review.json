@@ -1,0 +1,88 @@
+{
+  "id": "c1-quiz-mixed-review",
+  "level": "C1",
+  "title": "C1 Mixed Review",
+  "topic": "mixed",
+  "description": "Review connectors, formal phrasing, colloquial contractions, and nuanced meanings.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is most neutral and professional?",
+      "options": [
+        "Agradecemos o retorno e seguiremos com a análise.",
+        "Valeu pelo toque, vamos ver isso aí.",
+        "Brigadão, a gente olha depois.",
+        "Show, vamos dar uma olhada."
+      ],
+      "answer": "Agradecemos o retorno e seguiremos com a análise.",
+      "explanation": "This option uses formal vocabulary and avoids slang."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: O projeto avançou; ___, ainda há pontos pendentes.",
+      "options": [
+        "contudo",
+        "portanto",
+        "além disso",
+        "por conseguinte"
+      ],
+      "answer": "contudo",
+      "explanation": "'Contudo' introduces contrast: the project advanced, but issues remain."
+    },
+    {
+      "id": "q3",
+      "type": "translate_pt_en",
+      "prompt": "Ela deu a entender que não concordava.",
+      "options": [
+        "She implied that she did not agree.",
+        "She clearly agreed with everyone.",
+        "She understood that he disagreed.",
+        "She asked why no one agreed."
+      ],
+      "answer": "She implied that she did not agree.",
+      "explanation": "'Dar a entender' means to imply."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What does 'pois não?' often mean in service situations in Brazil?",
+      "options": [
+        "How can I help you?",
+        "Absolutely not.",
+        "Why not?",
+        "I disagree."
+      ],
+      "answer": "How can I help you?",
+      "explanation": "In shops or restaurants, 'pois não?' can be a polite offer of assistance."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate formally: 'Due to unforeseen circumstances, the event was postponed.'",
+      "options": [
+        "Devido a imprevistos, o evento foi adiado.",
+        "Por causa de umas coisas, o evento ficou pra depois.",
+        "Como deu ruim, o evento mudou.",
+        "Devido imprevistos, o evento adiou."
+      ],
+      "answer": "Devido a imprevistos, o evento foi adiado.",
+      "explanation": "'Devido a imprevistos' and passive 'foi adiado' form a formal sentence."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Fiquei meio receoso de insistir no assunto.",
+      "options": [
+        "Fiquei meio receoso de insistir no assunto.",
+        "Fiquei meio ansioso de desistir do assunto.",
+        "Fiquei muito receoso de iniciar o assunto.",
+        "Fiquei meio curioso de insistir no assunto."
+      ],
+      "answer": "Fiquei meio receoso de insistir no assunto.",
+      "explanation": "'Receoso' means hesitant or apprehensive."
+    }
+  ]
+}

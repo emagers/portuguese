@@ -1,0 +1,87 @@
+{
+  "id": "b2-quiz-environment-tech-vocab",
+  "level": "B2",
+  "title": "Environment & Technology Vocabulary",
+  "topic": "vocab",
+  "description": "Review vocabulary for sustainability, digital life, privacy, and innovation.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "What does 'aquecimento global' mean?",
+      "options": [
+        "global warming",
+        "air conditioning",
+        "solar energy",
+        "climate agreement"
+      ],
+      "answer": "global warming",
+      "explanation": "'Aquecimento global' is the standard term for global warming."
+    },
+    {
+      "id": "q2",
+      "type": "translate_pt_en",
+      "prompt": "A empresa investiu em fontes renováveis.",
+      "options": [
+        "The company invested in renewable sources.",
+        "The company invested in reliable sources.",
+        "The company sold renewable sources.",
+        "The company invested in new employees."
+      ],
+      "answer": "The company invested in renewable sources.",
+      "explanation": "'Fontes renováveis' means renewable sources."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which word best translates 'privacy'?",
+      "options": [
+        "privacidade",
+        "prioridade",
+        "propriedade",
+        "publicidade"
+      ],
+      "answer": "privacidade",
+      "explanation": "'Privacidade' means privacy; 'publicidade' means advertising."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "prompt": "What is 'inteligência artificial'?",
+      "options": [
+        "artificial intelligence",
+        "smart advertising",
+        "digital privacy",
+        "environmental policy"
+      ],
+      "answer": "artificial intelligence",
+      "explanation": "'Inteligência artificial' is the direct term for AI."
+    },
+    {
+      "id": "q5",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'data protection'",
+      "options": [
+        "proteção de dados",
+        "produção de dados",
+        "proteção de datas",
+        "projeção de dados"
+      ],
+      "answer": "proteção de dados",
+      "explanation": "'Proteção de dados' is the correct phrase for data protection."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'carbon footprint'?",
+      "options": [
+        "pegada de carbono",
+        "marca de carvão",
+        "pista carbônica",
+        "rastro de gasolina"
+      ],
+      "answer": "pegada de carbono",
+      "explanation": "'Pegada de carbono' is the common expression for carbon footprint."
+    }
+  ]
+}

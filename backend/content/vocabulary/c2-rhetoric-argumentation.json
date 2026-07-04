@@ -1,0 +1,132 @@
+{
+  "id": "c2-rhetoric-argumentation",
+  "level": "C2",
+  "title": "Rhetoric & Argumentation",
+  "theme": "rhetoric",
+  "description": "Advanced rhetorical terms for persuasion, discourse analysis and refined debate.",
+  "cards": [
+    {
+      "id": "rhet-premissa",
+      "pt": "premissa",
+      "en": "premise",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pɾeˈmi.sɐ",
+      "example": {
+        "pt": "A premissa implícita sustenta o argumento.",
+        "en": "The implicit premise supports the argument."
+      },
+      "tags": [
+        "rhetoric",
+        "argument"
+      ]
+    },
+    {
+      "id": "rhet-refutacao",
+      "pt": "refutação",
+      "en": "refutation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ʁefutaˈsɐ̃w",
+      "example": {
+        "pt": "A refutação foi direta e convincente.",
+        "en": "The refutation was direct and convincing."
+      },
+      "tags": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "rhet-sofisma",
+      "pt": "sofisma",
+      "en": "sophism; fallacious argument",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "soˈfiz.mɐ",
+      "example": {
+        "pt": "O debatedor recorreu a um sofisma.",
+        "en": "The debater resorted to a sophism."
+      },
+      "tags": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "rhet-digressao",
+      "pt": "digressão",
+      "en": "digression",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "dʒigɾeˈsɐ̃w",
+      "example": {
+        "pt": "A digressão quebrou o ritmo da palestra.",
+        "en": "The digression broke the rhythm of the lecture."
+      },
+      "tags": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "rhet-elocucao",
+      "pt": "elocução",
+      "en": "delivery; elocution",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "elokuˈsɐ̃w",
+      "example": {
+        "pt": "A elocução clara valorizou o discurso.",
+        "en": "Clear delivery enhanced the speech."
+      },
+      "tags": [
+        "rhetoric",
+        "speech"
+      ]
+    },
+    {
+      "id": "rhet-persuasivo",
+      "pt": "persuasivo / persuasiva",
+      "en": "persuasive",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "peʁsu.aˈzi.vu",
+      "example": {
+        "pt": "O texto é persuasivo sem ser agressivo.",
+        "en": "The text is persuasive without being aggressive."
+      },
+      "tags": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "rhet-retorico",
+      "pt": "retórico / retórica",
+      "en": "rhetorical",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ʁeˈtɔɾiku",
+      "example": {
+        "pt": "A pergunta retórica encerrou o argumento.",
+        "en": "The rhetorical question closed the argument."
+      },
+      "tags": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "rhet-concessao",
+      "pt": "concessão",
+      "en": "concession",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kõseˈsɐ̃w",
+      "example": {
+        "pt": "A concessão tornou a tese mais equilibrada.",
+        "en": "The concession made the thesis more balanced."
+      },
+      "tags": [
+        "rhetoric",
+        "argument"
+      ]
+    }
+  ]
+}

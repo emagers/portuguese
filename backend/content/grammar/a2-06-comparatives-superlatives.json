@@ -1,0 +1,95 @@
+{
+  "id": "a2-06-comparatives-superlatives",
+  "level": "A2",
+  "order": 6,
+  "title": "Comparatives and Superlatives",
+  "titlePt": "Comparativos e superlativos",
+  "summary": "Compare people and things with mais, menos, tão, melhor, pior, and o mais.",
+  "tags": [
+    "adjectives",
+    "comparisons"
+  ],
+  "sections": [
+    {
+      "heading": "More, less, and as...as",
+      "body": "Use **mais... do que** for 'more than', **menos... do que** for 'less than', and **tão... quanto/como** for equality.",
+      "examples": [
+        {
+          "pt": "São Paulo é maior do que Recife.",
+          "en": "São Paulo is bigger than Recife."
+        },
+        {
+          "pt": "Este celular é menos caro do que aquele.",
+          "en": "This phone is less expensive than that one."
+        },
+        {
+          "pt": "Ela é tão simpática quanto o irmão.",
+          "en": "She is as nice as her brother."
+        }
+      ]
+    },
+    {
+      "heading": "Better, worse, bigger, smaller",
+      "body": "Some comparisons have special forms: **melhor** (better), **pior** (worse), **maior** (bigger/older), **menor** (smaller/younger).",
+      "examples": [
+        {
+          "pt": "Este restaurante é melhor do que o outro.",
+          "en": "This restaurant is better than the other one."
+        },
+        {
+          "pt": "O trânsito hoje está pior.",
+          "en": "Traffic is worse today."
+        },
+        {
+          "pt": "Minha irmã é mais nova do que eu.",
+          "en": "My sister is younger than I am.",
+          "note": "mais nova is common for age"
+        }
+      ]
+    },
+    {
+      "heading": "Superlatives",
+      "body": "Use **o/a/os/as mais** or **menos** to say 'the most' or 'the least'. For very high degree, add **muito** or use **-íssimo/a** in more expressive language.",
+      "examples": [
+        {
+          "pt": "É o bairro mais bonito da cidade.",
+          "en": "It is the most beautiful neighborhood in the city."
+        },
+        {
+          "pt": "Ela é a pessoa mais organizada da equipe.",
+          "en": "She is the most organized person on the team."
+        },
+        {
+          "pt": "O bolo está deliciosíssimo.",
+          "en": "The cake is extremely delicious.",
+          "note": "expressive and a bit emphatic"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Mais/menos ... do que compares inequality.",
+    "Tão ... quanto/como expresses equality.",
+    "Melhor and pior replace mais bom and mais ruim in standard Portuguese.",
+    "Superlatives use o/a mais or o/a menos."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "mais bom",
+      "right": "melhor",
+      "note": "Use melhor for better."
+    },
+    {
+      "wrong": "Ela é mais alta que eu?",
+      "right": "Ela é mais alta do que eu?",
+      "note": "Both que and do que occur; do que is a safe full form."
+    },
+    {
+      "wrong": "O mais bonito bairro",
+      "right": "O bairro mais bonito",
+      "note": "The adjective phrase normally follows the noun."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

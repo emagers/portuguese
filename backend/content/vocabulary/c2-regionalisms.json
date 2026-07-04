@@ -1,0 +1,137 @@
+{
+  "id": "c2-regionalisms",
+  "level": "C2",
+  "title": "Brazilian Regionalisms",
+  "theme": "regionalisms",
+  "description": "Tasteful regional Brazilian words that reveal local culture and everyday speech.",
+  "cards": [
+    {
+      "id": "reg-arretado",
+      "pt": "arretado",
+      "en": "great; impressive; tough",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "aʁeˈta.du",
+      "example": {
+        "pt": "O show foi arretado demais.",
+        "en": "The concert was really great."
+      },
+      "tags": [
+        "regionalisms",
+        "northeast"
+      ]
+    },
+    {
+      "id": "reg-oxente",
+      "pt": "oxente",
+      "en": "wow; what?",
+      "pos": "interj",
+      "gender": null,
+      "ipa": "oˈʃẽ.tʃi",
+      "example": {
+        "pt": "Oxente, você chegou cedo!",
+        "en": "Wow, you arrived early!"
+      },
+      "tags": [
+        "regionalisms",
+        "northeast"
+      ]
+    },
+    {
+      "id": "reg-bah",
+      "pt": "bah",
+      "en": "wow; geez",
+      "pos": "interj",
+      "gender": null,
+      "ipa": "ba",
+      "example": {
+        "pt": "Bah, que frio hoje!",
+        "en": "Geez, it is cold today!"
+      },
+      "tags": [
+        "regionalisms",
+        "south"
+      ]
+    },
+    {
+      "id": "reg-guri",
+      "pt": "guri / guria",
+      "en": "kid; boy / girl",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "guˈɾi",
+      "example": {
+        "pt": "O guri correu para a escola.",
+        "en": "The kid ran to school."
+      },
+      "tags": [
+        "regionalisms",
+        "south"
+      ]
+    },
+    {
+      "id": "reg-trem",
+      "pt": "trem",
+      "en": "thing; stuff",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "tɾẽj",
+      "example": {
+        "pt": "Que trem difícil de explicar!",
+        "en": "What a hard thing to explain!"
+      },
+      "tags": [
+        "regionalisms",
+        "minas"
+      ]
+    },
+    {
+      "id": "reg-uai",
+      "pt": "uai",
+      "en": "well; huh",
+      "pos": "interj",
+      "gender": null,
+      "ipa": "waj",
+      "example": {
+        "pt": "Uai, pensei que você sabia.",
+        "en": "Well, I thought you knew."
+      },
+      "tags": [
+        "regionalisms",
+        "minas"
+      ]
+    },
+    {
+      "id": "reg-massa",
+      "pt": "massa",
+      "en": "cool; great",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ˈma.sɐ",
+      "example": {
+        "pt": "Essa ideia é massa.",
+        "en": "That idea is cool."
+      },
+      "tags": [
+        "regionalisms",
+        "informal"
+      ]
+    },
+    {
+      "id": "reg-pihe",
+      "pt": "piá",
+      "en": "boy; kid",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "piˈa",
+      "example": {
+        "pt": "O piá brinca na rua.",
+        "en": "The boy plays in the street."
+      },
+      "tags": [
+        "regionalisms",
+        "south"
+      ]
+    }
+  ]
+}

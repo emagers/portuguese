@@ -1,0 +1,93 @@
+{
+  "id": "a1-quiz-listening-basics",
+  "level": "A1",
+  "title": "Listening: Basic Sentences",
+  "topic": "listening",
+  "description": "Listen for simple words and short everyday sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Eu sou Ana.",
+      "options": [
+        "Eu sou Ana.",
+        "Eu sou André.",
+        "Ela é Ana.",
+        "Eu estou Ana."
+      ],
+      "answer": "Eu sou Ana.",
+      "explanation": "The sentence says 'Eu sou Ana' — 'I am Ana'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Você fala português?",
+      "options": [
+        "Você fala português?",
+        "Você fala inglês?",
+        "Vocês falam português?",
+        "Eu falo português?"
+      ],
+      "answer": "Você fala português?",
+      "explanation": "Listen for singular 'você' and the verb 'fala'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "O café está quente.",
+      "options": [
+        "O café está quente.",
+        "O café está frio.",
+        "A casa está quente.",
+        "O chá está quente."
+      ],
+      "answer": "O café está quente.",
+      "explanation": "'Café' and 'quente' identify the correct sentence."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Nós moramos aqui.",
+      "options": [
+        "Nós moramos aqui.",
+        "Nós moramos ali.",
+        "Eles moram aqui.",
+        "Eu moro aqui."
+      ],
+      "answer": "Nós moramos aqui.",
+      "explanation": "The speaker says 'nós moramos', meaning 'we live'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A menina tem dois livros.",
+      "options": [
+        "A menina tem dois livros.",
+        "O menino tem dois livros.",
+        "A menina tem três livros.",
+        "A mulher tem dois livros."
+      ],
+      "answer": "A menina tem dois livros.",
+      "explanation": "The sentence includes 'menina' and 'dois livros'."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Hoje é segunda-feira.",
+      "options": [
+        "Hoje é segunda-feira.",
+        "Hoje é sexta-feira.",
+        "Amanhã é segunda-feira.",
+        "Hoje é domingo."
+      ],
+      "answer": "Hoje é segunda-feira.",
+      "explanation": "Listen for 'hoje' and 'segunda-feira'."
+    }
+  ]
+}

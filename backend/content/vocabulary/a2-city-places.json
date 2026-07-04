@@ -1,0 +1,135 @@
+{
+  "id": "a2-city-places",
+  "level": "A2",
+  "title": "City Places",
+  "theme": "city",
+  "description": "Places around town for asking directions and describing errands.",
+  "cards": [
+    {
+      "id": "city-mercado",
+      "pt": "mercado",
+      "en": "market; grocery store",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "meʁˈka.du",
+      "example": {
+        "pt": "O mercado fecha às oito.",
+        "en": "The market closes at eight."
+      },
+      "tags": [
+        "city",
+        "shopping"
+      ]
+    },
+    {
+      "id": "city-farmacia",
+      "pt": "farmácia",
+      "en": "pharmacy",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "faʁˈma.si.ɐ",
+      "example": {
+        "pt": "Preciso passar na farmácia.",
+        "en": "I need to stop by the pharmacy."
+      },
+      "tags": [
+        "city",
+        "health"
+      ]
+    },
+    {
+      "id": "city-banco",
+      "pt": "banco",
+      "en": "bank",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈbɐ̃.ku",
+      "example": {
+        "pt": "O banco fica na esquina.",
+        "en": "The bank is on the corner."
+      },
+      "tags": [
+        "city",
+        "money"
+      ]
+    },
+    {
+      "id": "city-praca",
+      "pt": "praça",
+      "en": "square; plaza",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈpɾa.sɐ",
+      "example": {
+        "pt": "As crianças brincam na praça.",
+        "en": "The children play in the square."
+      },
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "id": "city-padaria",
+      "pt": "padaria",
+      "en": "bakery",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "padaˈɾi.ɐ",
+      "example": {
+        "pt": "A padaria vende pão quente.",
+        "en": "The bakery sells warm bread."
+      },
+      "tags": [
+        "city",
+        "food"
+      ]
+    },
+    {
+      "id": "city-hospital",
+      "pt": "hospital",
+      "en": "hospital",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ospiˈtaw",
+      "example": {
+        "pt": "O hospital é perto daqui.",
+        "en": "The hospital is near here."
+      },
+      "tags": [
+        "city",
+        "health"
+      ]
+    },
+    {
+      "id": "city-ponto-onibus",
+      "pt": "ponto de ônibus",
+      "en": "bus stop",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ˈpõ.tu dʒi ˈõ.ni.bus",
+      "example": {
+        "pt": "O ponto de ônibus está lotado.",
+        "en": "The bus stop is crowded."
+      },
+      "tags": [
+        "city",
+        "transportation"
+      ]
+    },
+    {
+      "id": "city-esquina",
+      "pt": "esquina",
+      "en": "corner",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "esˈki.nɐ",
+      "example": {
+        "pt": "Vire à direita na esquina.",
+        "en": "Turn right at the corner."
+      },
+      "tags": [
+        "directions"
+      ]
+    }
+  ]
+}

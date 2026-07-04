@@ -1,0 +1,131 @@
+{
+  "id": "b1-health-body",
+  "level": "B1",
+  "title": "Health & Body",
+  "theme": "health",
+  "description": "Practical health vocabulary for symptoms, appointments and taking care of the body.",
+  "cards": [
+    {
+      "id": "health-dor",
+      "pt": "dor",
+      "en": "pain",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "doʁ",
+      "example": {
+        "pt": "Estou com dor de cabeça.",
+        "en": "I have a headache."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-febre",
+      "pt": "febre",
+      "en": "fever",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈfɛ.bɾi",
+      "example": {
+        "pt": "A criança está com febre.",
+        "en": "The child has a fever."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-tosse",
+      "pt": "tosse",
+      "en": "cough",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈtɔ.si",
+      "example": {
+        "pt": "Essa tosse não melhora.",
+        "en": "This cough is not getting better."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-remedio",
+      "pt": "remédio",
+      "en": "medicine",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "ʁeˈmɛ.dʒju",
+      "example": {
+        "pt": "Tome o remédio depois do almoço.",
+        "en": "Take the medicine after lunch."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-consulta",
+      "pt": "consulta",
+      "en": "medical appointment",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kõˈsuw.tɐ",
+      "example": {
+        "pt": "Marquei uma consulta para amanhã.",
+        "en": "I scheduled an appointment for tomorrow."
+      },
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": "health-enfermeira",
+      "pt": "enfermeiro / enfermeira",
+      "en": "nurse",
+      "pos": "noun",
+      "gender": null,
+      "ipa": "ẽfeʁˈmej.ɾu",
+      "example": {
+        "pt": "A enfermeira foi muito atenciosa.",
+        "en": "The nurse was very attentive."
+      },
+      "tags": [
+        "health",
+        "people"
+      ]
+    },
+    {
+      "id": "health-respirar",
+      "pt": "respirar",
+      "en": "to breathe",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "ʁespiˈɾaʁ",
+      "example": {
+        "pt": "Respire fundo e fique calmo.",
+        "en": "Breathe deeply and stay calm."
+      },
+      "tags": [
+        "health",
+        "verbs"
+      ]
+    },
+    {
+      "id": "health-cansaco",
+      "pt": "cansaço",
+      "en": "tiredness",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "kɐ̃ˈsa.su",
+      "example": {
+        "pt": "O cansaço aumentou no fim do dia.",
+        "en": "The tiredness increased at the end of the day."
+      },
+      "tags": [
+        "health"
+      ]
+    }
+  ]
+}

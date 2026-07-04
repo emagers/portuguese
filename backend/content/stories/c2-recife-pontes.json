@@ -1,0 +1,102 @@
+{
+  "id": "c2-recife-pontes",
+  "level": "C2",
+  "type": "story",
+  "title": "Bridges of Recife",
+  "titlePt": "Pontes do Recife",
+  "summary": "A lyrical urban text with Northeastern flavor about Recife, bridges, rivers, and memory.",
+  "paragraphs": [
+    {
+      "pt": "Recife não caminha: atravessa. A cidade aprende cedo que para chegar a qualquer canto é preciso negociar com água, ponte, maré e memória. O Capibaribe, feito bicho antigo, passa olhando as fachadas descascadas e os prédios novos com a mesma ironia líquida. Quem mora ali sabe: ponte não é só concreto; é costume de ligar o que insiste em se separar.",
+      "en": "Recife does not walk: it crosses. The city learns early that to get anywhere one must negotiate with water, bridge, tide, and memory. The Capibaribe River, like an ancient creature, passes looking at peeling façades and new buildings with the same liquid irony. Those who live there know: a bridge is not just concrete; it is the habit of connecting what insists on separating."
+    },
+    {
+      "pt": "No fim da tarde, Doralice vendia tapioca perto de uma parada de ônibus e media o movimento pelo cheiro: quando vinha maresia forte, o povo chegava mais calado; quando o frevo escapava de algum ensaio, até estudante endividado comprava coco. Ela dizia que Recife era cabeça quente e pé molhado, cidade que briga no trânsito e pede desculpa com bolo de rolo.",
+      "en": "In the late afternoon, Doralice sold tapioca near a bus stop and measured the movement by smell: when strong sea air came, people arrived quieter; when frevo escaped from some rehearsal, even indebted students bought coconut water. She said Recife was hot-headed and wet-footed, a city that fights in traffic and apologizes with bolo de rolo."
+    },
+    {
+      "pt": "Certa vez, um turista perguntou qual ponte era a mais bonita. Doralice pensou na pergunta como quem prova caldo sem sal. Bonita? Depende da saudade que se carrega. Para quem volta, a ponte mais bonita é a primeira que anuncia casa; para quem parte, é a última que finge não ver. O turista sorriu, sem saber se recebera resposta ou charada. Em Recife, dá no mesmo: toda travessia cobra interpretação.",
+      "en": "Once, a tourist asked which bridge was the most beautiful. Doralice considered the question like someone tasting broth without salt. Beautiful? It depends on the longing one carries. For those returning, the most beautiful bridge is the first that announces home; for those leaving, it is the last that pretends not to see. The tourist smiled, unsure whether he had received an answer or a riddle. In Recife, it amounts to the same thing: every crossing demands interpretation."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "atravessar",
+      "en": "to cross"
+    },
+    {
+      "pt": "maré",
+      "en": "tide"
+    },
+    {
+      "pt": "fachadas descascadas",
+      "en": "peeling façades"
+    },
+    {
+      "pt": "maresia",
+      "en": "sea air / salt breeze"
+    },
+    {
+      "pt": "frevo",
+      "en": "a dance and music style from Recife"
+    },
+    {
+      "pt": "bolo de rolo",
+      "en": "rolled guava cake from Pernambuco"
+    },
+    {
+      "pt": "saudade",
+      "en": "longing / nostalgia"
+    },
+    {
+      "pt": "charada",
+      "en": "riddle"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What does the text say Recife must negotiate with?",
+      "options": [
+        "Water, bridge, tide, and memory",
+        "Snow and mountains",
+        "Silence and deserts",
+        "Only traffic lights"
+      ],
+      "answer": "Water, bridge, tide, and memory"
+    },
+    {
+      "id": "c2",
+      "question": "What does Doralice sell?",
+      "options": [
+        "Tapioca",
+        "Books",
+        "Umbrellas",
+        "Bus tickets"
+      ],
+      "answer": "Tapioca"
+    },
+    {
+      "id": "c3",
+      "question": "How does Doralice describe Recife?",
+      "options": [
+        "Hot-headed and wet-footed",
+        "Cold and silent",
+        "Dry and empty",
+        "Simple and straight"
+      ],
+      "answer": "Hot-headed and wet-footed"
+    },
+    {
+      "id": "c4",
+      "question": "What determines the most beautiful bridge?",
+      "options": [
+        "The longing one carries",
+        "Its official height",
+        "The number of cars",
+        "The tourist map"
+      ],
+      "answer": "The longing one carries"
+    }
+  ]
+}

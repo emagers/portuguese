@@ -1,0 +1,94 @@
+{
+  "id": "b1-06-por-vs-para",
+  "level": "B1",
+  "order": 6,
+  "title": "POR vs PARA",
+  "titlePt": "POR vs PARA",
+  "summary": "Choose para for destination and purpose, and por for cause, route, exchange, and duration.",
+  "tags": [
+    "prepositions",
+    "por",
+    "para"
+  ],
+  "sections": [
+    {
+      "heading": "Para: direction, recipient, purpose",
+      "body": "Use **para** for destination, deadline, intended recipient, and purpose. It often points forward to a goal.",
+      "examples": [
+        {
+          "pt": "Vou para Brasília amanhã.",
+          "en": "I am going to Brasília tomorrow."
+        },
+        {
+          "pt": "Este presente é para você.",
+          "en": "This gift is for you."
+        },
+        {
+          "pt": "Estudo português para viajar pelo Brasil.",
+          "en": "I study Portuguese in order to travel around Brazil."
+        }
+      ]
+    },
+    {
+      "heading": "Por: reason, route, exchange",
+      "body": "Use **por** for cause/reason, movement through a place, exchange, means, and vague time periods. It often explains the path or reason.",
+      "examples": [
+        {
+          "pt": "Obrigado pela ajuda.",
+          "en": "Thank you for the help."
+        },
+        {
+          "pt": "Passei pelo parque.",
+          "en": "I passed through the park."
+        },
+        {
+          "pt": "Comprei o livro por trinta reais.",
+          "en": "I bought the book for thirty reais."
+        }
+      ]
+    },
+    {
+      "heading": "Time expressions",
+      "body": "Use **por** for duration and approximate periods; use **para** for deadlines or scheduled future times.",
+      "examples": [
+        {
+          "pt": "Vou ficar aqui por duas semanas.",
+          "en": "I will stay here for two weeks."
+        },
+        {
+          "pt": "O relatório é para sexta-feira.",
+          "en": "The report is due for Friday."
+        },
+        {
+          "pt": "Marquei a consulta para as três.",
+          "en": "I scheduled the appointment for three."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Para often points to a goal, destination, recipient, or deadline.",
+    "Por often gives a reason, route, exchange, or duration.",
+    "Obrigado por/pela means thanks for.",
+    "Pelo/pela are contractions of por + article."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Vou por São Paulo.",
+      "right": "Vou para São Paulo.",
+      "note": "Destination uses para."
+    },
+    {
+      "wrong": "Obrigado para sua ajuda.",
+      "right": "Obrigado pela sua ajuda.",
+      "note": "Thanks for uses por/pelo/pela."
+    },
+    {
+      "wrong": "Fiquei aqui para três dias.",
+      "right": "Fiquei aqui por três dias.",
+      "note": "Duration uses por."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

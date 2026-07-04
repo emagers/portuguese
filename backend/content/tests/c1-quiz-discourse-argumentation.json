@@ -1,0 +1,87 @@
+{
+  "id": "c1-quiz-discourse-argumentation",
+  "level": "C1",
+  "title": "Discourse & Argumentation",
+  "topic": "grammar",
+  "description": "Practice cohesive devices and nuanced phrasing for sophisticated arguments.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "prompt": "Which connector best introduces a reservation or caveat?",
+      "options": [
+        "ressalva-se que",
+        "além disso",
+        "em suma",
+        "por isso"
+      ],
+      "answer": "ressalva-se que",
+      "explanation": "'Ressalva-se que' signals a caveat or important qualification."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: A medida é necessária; ___, deve ser aplicada com cautela.",
+      "options": [
+        "ainda assim",
+        "por conseguinte",
+        "em primeiro lugar",
+        "desse modo"
+      ],
+      "answer": "ainda assim",
+      "explanation": "'Ainda assim' introduces contrast: necessary, but still requiring caution."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which sentence sounds most cohesive in an academic paragraph?",
+      "options": [
+        "Isso se deve, em parte, à falta de investimento.",
+        "É porque falta dinheiro, tipo assim.",
+        "Daí não tem investimento e tal.",
+        "Foi por causa que faltou investimento."
+      ],
+      "answer": "Isso se deve, em parte, à falta de investimento.",
+      "explanation": "The phrase is precise, formal, and cohesive."
+    },
+    {
+      "id": "q4",
+      "type": "translate_en_pt",
+      "prompt": "Translate formally: 'This does not necessarily imply a contradiction.'",
+      "options": [
+        "Isso não implica necessariamente uma contradição.",
+        "Isso não quer dizer uma contradição necessária.",
+        "Isso não implica uma contradição sempre.",
+        "Isso não fala necessariamente contradição."
+      ],
+      "answer": "Isso não implica necessariamente uma contradição.",
+      "explanation": "'Implicar' plus a direct object is the formal equivalent of 'imply'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Which phrase best means 'from this perspective'?",
+      "options": [
+        "sob essa perspectiva",
+        "apesar dessa perspectiva",
+        "por trás dessa perspectiva",
+        "fora essa perspectiva"
+      ],
+      "answer": "sob essa perspectiva",
+      "explanation": "'Sob essa perspectiva' is a formal way to frame an argument."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "prompt": "Complete: O argumento procede, ___ não resolva todos os problemas.",
+      "options": [
+        "ainda que",
+        "logo",
+        "visto que",
+        "de modo que"
+      ],
+      "answer": "ainda que",
+      "explanation": "'Ainda que' introduces concession and takes the subjunctive 'resolva'."
+    }
+  ]
+}

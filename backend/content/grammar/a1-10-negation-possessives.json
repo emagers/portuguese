@@ -1,0 +1,98 @@
+{
+  "id": "a1-10-negation-possessives",
+  "level": "A1",
+  "order": 10,
+  "title": "Negation and Possessives",
+  "titlePt": "Negação e possessivos",
+  "summary": "Make sentences negative with não and show possession with meu, seu, nosso, and related forms.",
+  "tags": [
+    "negation",
+    "possessives",
+    "pronouns"
+  ],
+  "sections": [
+    {
+      "heading": "Basic negation with não",
+      "body": "Put **não** before the verb to make a sentence negative. In conversation, Brazilians often reinforce it with a second **não** at the end.",
+      "examples": [
+        {
+          "pt": "Eu não falo espanhol.",
+          "en": "I do not speak Spanish."
+        },
+        {
+          "pt": "Ela não está em casa.",
+          "en": "She is not at home."
+        },
+        {
+          "pt": "Não sei, não.",
+          "en": "I don't know.",
+          "note": "common spoken reinforcement"
+        }
+      ]
+    },
+    {
+      "heading": "Possessive adjectives",
+      "body": "Possessives agree with the thing possessed, not with the owner. **Seu/sua/seus/suas** can mean your, his, her, or their, so context matters.\n\n| Owner | Masculine | Feminine |\n|---|---|---|\n| eu | meu(s) | minha(s) |\n| você/ele/ela | seu(s) | sua(s) |\n| nós | nosso(s) | nossa(s) |",
+      "examples": [
+        {
+          "pt": "Meu celular está aqui.",
+          "en": "My phone is here.",
+          "note": "celular is masculine"
+        },
+        {
+          "pt": "Minha chave está na bolsa.",
+          "en": "My key is in the purse.",
+          "note": "chave is feminine"
+        },
+        {
+          "pt": "Nossa casa é pequena.",
+          "en": "Our house is small."
+        }
+      ]
+    },
+    {
+      "heading": "Avoiding ambiguity with dele/dela",
+      "body": "Because **seu/sua** can be ambiguous, Brazilians often use **dele**, **dela**, **deles**, or **delas** after the noun to mean his/her/their.",
+      "examples": [
+        {
+          "pt": "Este é o carro dele.",
+          "en": "This is his car."
+        },
+        {
+          "pt": "A mãe dela mora em Recife.",
+          "en": "Her mother lives in Recife."
+        },
+        {
+          "pt": "Você trouxe seu documento?",
+          "en": "Did you bring your document?",
+          "note": "context makes 'your' clear"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Put não before the verb.",
+    "Spoken Brazilian Portuguese may repeat não at the end for emphasis.",
+    "Possessives agree with the possessed noun: meu livro, minha casa.",
+    "Use dele/dela when seu/sua would be ambiguous."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Eu falo não português.",
+      "right": "Eu não falo português.",
+      "note": "Não goes before the verb."
+    },
+    {
+      "wrong": "Meu casa",
+      "right": "Minha casa",
+      "note": "Casa is feminine."
+    },
+    {
+      "wrong": "Sua carro",
+      "right": "Seu carro",
+      "note": "Carro is masculine."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

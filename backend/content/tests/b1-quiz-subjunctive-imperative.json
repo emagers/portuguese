@@ -1,0 +1,87 @@
+{
+  "id": "b1-quiz-subjunctive-imperative",
+  "level": "B1",
+  "title": "Subjunctive Intro & Imperative",
+  "topic": "grammar",
+  "description": "Practice common triggers for the present subjunctive and everyday commands.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "fill_blank",
+      "prompt": "Complete: Espero que você ___ bem. (estar)",
+      "options": [
+        "está",
+        "esteja",
+        "esteve",
+        "estava"
+      ],
+      "answer": "esteja",
+      "explanation": "'Espero que' expresses a wish, so it takes the present subjunctive 'esteja'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "prompt": "Complete: É importante que eles ___ cedo. (chegar)",
+      "options": [
+        "chegam",
+        "chegaram",
+        "cheguem",
+        "chegavam"
+      ],
+      "answer": "cheguem",
+      "explanation": "After 'é importante que', use the subjunctive: 'cheguem'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "prompt": "Which is a natural affirmative command for 'você'?",
+      "options": [
+        "Fale mais devagar.",
+        "Falares mais devagar.",
+        "Falou mais devagar.",
+        "Falando mais devagar."
+      ],
+      "answer": "Fale mais devagar.",
+      "explanation": "The formal/standard command for 'você' uses the subjunctive form 'fale'."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "prompt": "Complete: Talvez eu ___ amanhã. (viajar)",
+      "options": [
+        "viajo",
+        "viaje",
+        "viajei",
+        "viajava"
+      ],
+      "answer": "viaje",
+      "explanation": "'Talvez' often triggers the subjunctive when the action is uncertain."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "prompt": "Choose the negative command: 'Don't forget!'",
+      "options": [
+        "Não esqueça!",
+        "Não esqueceu!",
+        "Não esquecendo!",
+        "Não esquecer!"
+      ],
+      "answer": "Não esqueça!",
+      "explanation": "Negative commands for 'você' use the subjunctive form: 'não esqueça'."
+    },
+    {
+      "id": "q6",
+      "type": "translate_en_pt",
+      "prompt": "Translate: 'I want you to read this email.'",
+      "options": [
+        "Quero que você leia este e-mail.",
+        "Quero que você lê este e-mail.",
+        "Quero você ler este e-mail.",
+        "Quis que você leia este e-mail."
+      ],
+      "answer": "Quero que você leia este e-mail.",
+      "explanation": "'Quero que' requires the subjunctive 'leia'."
+    }
+  ]
+}

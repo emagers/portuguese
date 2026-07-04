@@ -1,0 +1,130 @@
+{
+  "id": "c1-abstract-concepts",
+  "level": "C1",
+  "title": "Abstract Concepts",
+  "theme": "abstract",
+  "description": "Nuanced abstract nouns and adjectives for sophisticated argument and analysis.",
+  "cards": [
+    {
+      "id": "abs-ambiguidade",
+      "pt": "ambiguidade",
+      "en": "ambiguity",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ɐ̃bigwiˈda.dʒi",
+      "example": {
+        "pt": "A ambiguidade do texto gerou debate.",
+        "en": "The ambiguity of the text generated debate."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-coerencia",
+      "pt": "coerência",
+      "en": "coherence",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "koeˈɾẽ.si.ɐ",
+      "example": {
+        "pt": "Falta coerência à proposta.",
+        "en": "The proposal lacks coherence."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-contradicao",
+      "pt": "contradição",
+      "en": "contradiction",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "kõtɾadʒiˈsɐ̃w",
+      "example": {
+        "pt": "Há uma contradição no argumento.",
+        "en": "There is a contradiction in the argument."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-sutileza",
+      "pt": "sutileza",
+      "en": "subtlety",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "sutiˈle.zɐ",
+      "example": {
+        "pt": "Ele percebeu a sutileza da crítica.",
+        "en": "He noticed the subtlety of the criticism."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-autonomia",
+      "pt": "autonomia",
+      "en": "autonomy",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "awtonoˈmi.ɐ",
+      "example": {
+        "pt": "A autonomia dos estudantes é valorizada.",
+        "en": "Student autonomy is valued."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-legitimidade",
+      "pt": "legitimidade",
+      "en": "legitimacy",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "leʒitʃimiˈda.dʒi",
+      "example": {
+        "pt": "A decisão perdeu legitimidade pública.",
+        "en": "The decision lost public legitimacy."
+      },
+      "tags": [
+        "abstract",
+        "politics"
+      ]
+    },
+    {
+      "id": "abs-vulnerabilidade",
+      "pt": "vulnerabilidade",
+      "en": "vulnerability",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "vuwneɾabiliˈda.dʒi",
+      "example": {
+        "pt": "A vulnerabilidade social aumentou.",
+        "en": "Social vulnerability increased."
+      },
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "abs-inevitavel",
+      "pt": "inevitável",
+      "en": "inevitable",
+      "pos": "adj",
+      "gender": null,
+      "ipa": "ineviˈta.vew",
+      "example": {
+        "pt": "A mudança parecia inevitável.",
+        "en": "The change seemed inevitable."
+      },
+      "tags": [
+        "abstract"
+      ]
+    }
+  ]
+}

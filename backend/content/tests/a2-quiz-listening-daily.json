@@ -1,0 +1,93 @@
+{
+  "id": "a2-quiz-listening-daily",
+  "level": "A2",
+  "title": "Listening: Daily Plans",
+  "topic": "listening",
+  "description": "Listen for common A2 sentences about plans, errands, and past actions.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ontem eu fui ao mercado.",
+      "options": [
+        "Ontem eu fui ao mercado.",
+        "Ontem eu vou ao mercado.",
+        "Hoje eu fui ao mercado.",
+        "Ontem nós fomos ao mercado."
+      ],
+      "answer": "Ontem eu fui ao mercado.",
+      "explanation": "'Fui' marks a completed past action by 'eu'."
+    },
+    {
+      "id": "q2",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Vamos viajar no fim de semana.",
+      "options": [
+        "Vamos viajar no fim de semana.",
+        "Vamos trabalhar no fim de semana.",
+        "Vão viajar no fim de semana.",
+        "Vamos viajar na semana passada."
+      ],
+      "answer": "Vamos viajar no fim de semana.",
+      "explanation": "Listen for 'viajar' and 'fim de semana'."
+    },
+    {
+      "id": "q3",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Ela me ligou de manhã.",
+      "options": [
+        "Ela me ligou de manhã.",
+        "Ela me liga de manhã.",
+        "Ele me ligou de manhã.",
+        "Ela te ligou de manhã."
+      ],
+      "answer": "Ela me ligou de manhã.",
+      "explanation": "'Me ligou' means 'called me'."
+    },
+    {
+      "id": "q4",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Eu vou pegar o ônibus às oito.",
+      "options": [
+        "Eu vou pegar o ônibus às oito.",
+        "Eu vou pegar o ônibus às nove.",
+        "Eu peguei o ônibus às oito.",
+        "Eu vou pagar o ônibus às oito."
+      ],
+      "answer": "Eu vou pegar o ônibus às oito.",
+      "explanation": "The sentence uses near future: 'vou pegar'."
+    },
+    {
+      "id": "q5",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "A farmácia fica na esquina.",
+      "options": [
+        "A farmácia fica na esquina.",
+        "A padaria fica na esquina.",
+        "A farmácia fica no centro.",
+        "A farmácia fica na rua."
+      ],
+      "answer": "A farmácia fica na esquina.",
+      "explanation": "'Farmácia' and 'esquina' are the key words."
+    },
+    {
+      "id": "q6",
+      "type": "listening",
+      "prompt": "Listen and choose what you hear.",
+      "audioText": "Você já almoçou?",
+      "options": [
+        "Você já almoçou?",
+        "Você já jantou?",
+        "Vocês já almoçaram?",
+        "Você vai almoçar?"
+      ],
+      "answer": "Você já almoçou?",
+      "explanation": "'Já almoçou?' asks whether the person has already had lunch."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "b2-08-reported-speech-deeper",
+  "level": "B2",
+  "order": 8,
+  "title": "Reported Speech in Depth",
+  "titlePt": "Discurso indireto em profundidade",
+  "summary": "Handle tense backshift, pronoun changes, time references, and reported commands with precision.",
+  "tags": [
+    "reported-speech",
+    "tense",
+    "discourse"
+  ],
+  "sections": [
+    {
+      "heading": "Backshift as perspective",
+      "body": "Backshift is not mechanical; it depends on whether the original statement is still presented from the past perspective. In careful reporting, present often becomes imperfect and future becomes conditional.",
+      "examples": [
+        {
+          "pt": "Ana disse: 'Moro em Campinas.'",
+          "en": "Ana said: 'I live in Campinas.'"
+        },
+        {
+          "pt": "Ana disse que morava em Campinas.",
+          "en": "Ana said that she lived in Campinas."
+        },
+        {
+          "pt": "Ana disse que mora em Campinas.",
+          "en": "Ana said that she lives in Campinas.",
+          "note": "possible if the speaker emphasizes it is still true"
+        }
+      ]
+    },
+    {
+      "heading": "Deixis: here, now, tomorrow",
+      "body": "Words tied to the original situation often change: **aqui → ali/lá**, **hoje → naquele dia**, **amanhã → no dia seguinte**, **ontem → no dia anterior**.",
+      "examples": [
+        {
+          "pt": "Ele falou: 'Chego amanhã.'",
+          "en": "He said: 'I arrive tomorrow.'"
+        },
+        {
+          "pt": "Ele falou que chegaria no dia seguinte.",
+          "en": "He said he would arrive the next day."
+        },
+        {
+          "pt": "Ela disse que não ficaria ali.",
+          "en": "She said she would not stay there."
+        }
+      ]
+    },
+    {
+      "heading": "Commands, requests, and advice",
+      "body": "Reported commands often use **mandar**, **pedir**, **recomendar**, or **aconselhar** with **para + infinitive** or **que + subjunctive**.",
+      "examples": [
+        {
+          "pt": "O médico pediu para eu descansar.",
+          "en": "The doctor asked me to rest."
+        },
+        {
+          "pt": "Ela recomendou que nós chegássemos cedo.",
+          "en": "She recommended that we arrive early."
+        },
+        {
+          "pt": "Meu chefe mandou entregar o relatório hoje.",
+          "en": "My boss ordered the report to be delivered today."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Backshift reflects reporting perspective, not a rigid rule.",
+    "Time and place words often shift in indirect speech.",
+    "Reported yes/no questions use se.",
+    "Reported requests use pedir para + infinitive or pedir que + subjunctive."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Ele disse que chega amanhã.",
+      "right": "Ele disse que chegaria no dia seguinte.",
+      "note": "From a past reporting perspective, shift future and time reference."
+    },
+    {
+      "wrong": "Ela perguntou onde era aqui.",
+      "right": "Ela perguntou onde era ali.",
+      "note": "Aqui usually shifts to ali/lá in reported speech."
+    },
+    {
+      "wrong": "Pediu para mim descansar.",
+      "right": "Pediu para eu descansar.",
+      "note": "Subject of infinitive is eu."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "c1-artigo-memoria-digital",
+  "level": "C1",
+  "type": "story",
+  "title": "Digital Memory and Forgetting",
+  "titlePt": "Memória Digital e Esquecimento",
+  "summary": "A technology article reflects on cloud archives, memory, and the right to forget.",
+  "paragraphs": [
+    {
+      "pt": "Nunca fotografamos tanto, escrevemos tanto, armazenamos tanto. A promessa da memória digital é sedutora: nenhuma viagem se perde, nenhuma conversa desaparece, nenhum aniversário depende apenas da lembrança humana. Em servidores invisíveis, acumulamos provas de que estivemos aqui. No entanto, quanto mais guardamos, menos sabemos o que merece ser reencontrado.",
+      "en": "We have never photographed so much, written so much, stored so much. The promise of digital memory is seductive: no trip is lost, no conversation disappears, no birthday depends only on human remembrance. On invisible servers, we accumulate proof that we were here. However, the more we keep, the less we know what deserves to be found again."
+    },
+    {
+      "pt": "O arquivo infinito muda nossa relação com o passado. Antes, esquecer era parte natural da experiência; cartas se perdiam, fotografias desbotavam, versões antigas de nós mesmos desapareciam sem cerimônia. Agora, uma busca rápida pode trazer de volta opiniões imaturas, relações encerradas e dores que talvez precisassem repousar. A memória deixou de ser apenas íntima e passou a ser administrada por empresas, políticas de privacidade e termos de uso que poucos leem.",
+      "en": "The infinite archive changes our relationship with the past. Before, forgetting was a natural part of experience; letters were lost, photographs faded, old versions of ourselves disappeared without ceremony. Now, a quick search can bring back immature opinions, ended relationships, and pains that perhaps needed to rest. Memory has ceased to be merely intimate and has come to be managed by companies, privacy policies, and terms of use that few read."
+    },
+    {
+      "pt": "Não se trata de defender uma amnésia conveniente. Registros digitais podem denunciar abusos, preservar histórias familiares e democratizar acervos. Mas uma sociedade saudável precisa discutir também o direito ao desaparecimento parcial: apagar, arquivar, silenciar, deixar que certas marcas percam nitidez. Lembrar é importante; esquecer, às vezes, é condição para continuar.",
+      "en": "This is not about defending convenient amnesia. Digital records can denounce abuses, preserve family histories, and democratize collections. But a healthy society also needs to discuss the right to partial disappearance: to delete, archive, silence, let certain marks lose sharpness. Remembering is important; forgetting, sometimes, is a condition for continuing."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "armazenar",
+      "en": "to store"
+    },
+    {
+      "pt": "sedutora",
+      "en": "seductive"
+    },
+    {
+      "pt": "servidores invisíveis",
+      "en": "invisible servers"
+    },
+    {
+      "pt": "desbotar",
+      "en": "to fade"
+    },
+    {
+      "pt": "termos de uso",
+      "en": "terms of use"
+    },
+    {
+      "pt": "amnésia conveniente",
+      "en": "convenient amnesia"
+    },
+    {
+      "pt": "acervos",
+      "en": "collections / archives"
+    },
+    {
+      "pt": "nitidez",
+      "en": "sharpness / clarity"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What paradox does the first paragraph present?",
+      "options": [
+        "We store more but know less about what deserves return",
+        "We never store anything",
+        "Digital memory has no appeal",
+        "Birthdays no longer exist"
+      ],
+      "answer": "We store more but know less about what deserves return"
+    },
+    {
+      "id": "c2",
+      "question": "How has memory changed according to the article?",
+      "options": [
+        "It is also managed by companies and policies",
+        "It is only handwritten now",
+        "It has become purely natural",
+        "It no longer affects pain"
+      ],
+      "answer": "It is also managed by companies and policies"
+    },
+    {
+      "id": "c3",
+      "question": "What positive role can digital records play?",
+      "options": [
+        "They can denounce abuses and preserve histories",
+        "They can erase all mistakes automatically",
+        "They can replace families",
+        "They can end privacy questions"
+      ],
+      "answer": "They can denounce abuses and preserve histories"
+    },
+    {
+      "id": "c4",
+      "question": "What right does the author say society should discuss?",
+      "options": [
+        "The right to partial disappearance",
+        "The right to remember every detail forever",
+        "The right to avoid archives entirely",
+        "The right to ban photographs"
+      ],
+      "answer": "The right to partial disappearance"
+    }
+  ]
+}

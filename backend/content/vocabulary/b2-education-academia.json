@@ -1,0 +1,131 @@
+{
+  "id": "b2-education-academia",
+  "level": "B2",
+  "title": "Education & Academia",
+  "theme": "education",
+  "description": "Academic vocabulary for courses, research, assessment and university life.",
+  "cards": [
+    {
+      "id": "edu-pesquisa",
+      "pt": "pesquisa",
+      "en": "research",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "pesˈki.zɐ",
+      "example": {
+        "pt": "A pesquisa foi publicada em junho.",
+        "en": "The research was published in June."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-bolsa",
+      "pt": "bolsa",
+      "en": "scholarship; grant",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "ˈbow.sɐ",
+      "example": {
+        "pt": "Ela ganhou uma bolsa de estudos.",
+        "en": "She won a scholarship."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-dissertacao",
+      "pt": "dissertação",
+      "en": "dissertation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "dʒiseʁtaˈsɐ̃w",
+      "example": {
+        "pt": "A dissertação analisa políticas públicas.",
+        "en": "The dissertation analyzes public policies."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-orientador",
+      "pt": "orientador",
+      "en": "academic advisor",
+      "pos": "noun",
+      "gender": "m",
+      "ipa": "oɾjẽtaˈdoʁ",
+      "example": {
+        "pt": "Meu orientador revisou o capítulo.",
+        "en": "My advisor reviewed the chapter."
+      },
+      "tags": [
+        "education",
+        "people"
+      ]
+    },
+    {
+      "id": "edu-avaliacao",
+      "pt": "avaliação",
+      "en": "assessment; evaluation",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "avaljaˈsɐ̃w",
+      "example": {
+        "pt": "A avaliação será contínua.",
+        "en": "The assessment will be continuous."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-matricula",
+      "pt": "matrícula",
+      "en": "enrollment",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "maˈtɾi.ku.lɐ",
+      "example": {
+        "pt": "A matrícula termina hoje.",
+        "en": "Enrollment ends today."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-palestra",
+      "pt": "palestra",
+      "en": "lecture; talk",
+      "pos": "noun",
+      "gender": "f",
+      "ipa": "paˈlɛs.tɾɐ",
+      "example": {
+        "pt": "A palestra atraiu muitos alunos.",
+        "en": "The lecture attracted many students."
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "edu-aprofundar",
+      "pt": "aprofundar",
+      "en": "to deepen",
+      "pos": "verb",
+      "gender": null,
+      "ipa": "apɾofũˈdaʁ",
+      "example": {
+        "pt": "Quero aprofundar meus conhecimentos.",
+        "en": "I want to deepen my knowledge."
+      },
+      "tags": [
+        "education",
+        "verbs"
+      ]
+    }
+  ]
+}

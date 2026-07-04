@@ -1,0 +1,93 @@
+{
+  "id": "b1-05-relative-pronouns",
+  "level": "B1",
+  "order": 5,
+  "title": "Relative Pronouns",
+  "titlePt": "Pronomes relativos",
+  "summary": "Connect ideas with que, quem, onde, and cujo in clear Portuguese sentences.",
+  "tags": [
+    "pronouns",
+    "relative-clauses"
+  ],
+  "sections": [
+    {
+      "heading": "Que: the workhorse",
+      "body": "**Que** is the most common relative pronoun. It can mean who, that, or which, and refers to people or things.",
+      "examples": [
+        {
+          "pt": "A mulher que mora aqui é médica.",
+          "en": "The woman who lives here is a doctor."
+        },
+        {
+          "pt": "O livro que você recomendou é ótimo.",
+          "en": "The book that you recommended is great."
+        },
+        {
+          "pt": "Tenho um amigo que trabalha no banco.",
+          "en": "I have a friend who works at the bank."
+        }
+      ]
+    },
+    {
+      "heading": "Quem and onde",
+      "body": "Use **quem** for people, usually after a preposition. Use **onde** only for places; for non-places, use **em que** or **no qual/na qual** in formal writing.",
+      "examples": [
+        {
+          "pt": "A pessoa com quem falei foi muito gentil.",
+          "en": "The person I spoke with was very kind."
+        },
+        {
+          "pt": "Esta é a cidade onde nasci.",
+          "en": "This is the city where I was born."
+        },
+        {
+          "pt": "Esse é o assunto em que pensei.",
+          "en": "This is the subject I thought about."
+        }
+      ]
+    },
+    {
+      "heading": "Cujo/cuja",
+      "body": "**Cujo** means 'whose' and agrees with the thing possessed, not the owner. It is formal but important for reading and precise writing.",
+      "examples": [
+        {
+          "pt": "O escritor cujo livro ganhou o prêmio mora em São Paulo.",
+          "en": "The writer whose book won the prize lives in São Paulo."
+        },
+        {
+          "pt": "A professora cuja aula perdi enviou o material.",
+          "en": "The teacher whose class I missed sent the material."
+        },
+        {
+          "pt": "As empresas cujos funcionários participaram receberam certificado.",
+          "en": "The companies whose employees participated received certificates."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Que is the most common relative pronoun.",
+    "Quem usually appears after a preposition and refers to people.",
+    "Onde should refer to a physical or metaphorical place.",
+    "Cujo agrees with the possessed noun: cujo livro, cuja casa, cujos filhos."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "A pessoa que eu falei.",
+      "right": "A pessoa com quem eu falei.",
+      "note": "Falar com requires com."
+    },
+    {
+      "wrong": "O assunto onde pensei.",
+      "right": "O assunto em que pensei.",
+      "note": "Onde is for places."
+    },
+    {
+      "wrong": "A mulher cujo filha...",
+      "right": "A mulher cuja filha...",
+      "note": "Cujo agrees with filha."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

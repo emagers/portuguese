@@ -1,0 +1,94 @@
+{
+  "id": "c1-02-discourse-connectors",
+  "level": "C1",
+  "order": 2,
+  "title": "Discourse Connectors",
+  "titlePt": "Conectores discursivos",
+  "summary": "Link arguments smoothly with contrast, cause, consequence, concession, and reformulation markers.",
+  "tags": [
+    "connectors",
+    "discourse",
+    "writing"
+  ],
+  "sections": [
+    {
+      "heading": "Contrast and concession",
+      "body": "Use connectors to control the relationship between ideas. **Mas** is neutral; **porém**, **contudo**, and **no entanto** are more written. **Embora** introduces concession and usually takes the subjunctive.",
+      "examples": [
+        {
+          "pt": "O projeto é caro, mas necessário.",
+          "en": "The project is expensive but necessary."
+        },
+        {
+          "pt": "A proposta parece boa; no entanto, exige cautela.",
+          "en": "The proposal seems good; however, it requires caution."
+        },
+        {
+          "pt": "Embora seja difícil, é possível.",
+          "en": "Although it is difficult, it is possible."
+        }
+      ]
+    },
+    {
+      "heading": "Cause and consequence",
+      "body": "**Porque**, **pois**, **já que**, and **uma vez que** give reasons. **Portanto**, **por isso**, **assim**, and **desse modo** introduce consequences or conclusions.",
+      "examples": [
+        {
+          "pt": "Não saí porque estava chovendo.",
+          "en": "I didn't go out because it was raining."
+        },
+        {
+          "pt": "Já que você está aqui, vamos conversar.",
+          "en": "Since you are here, let's talk."
+        },
+        {
+          "pt": "Os custos aumentaram; portanto, o plano mudou.",
+          "en": "Costs increased; therefore, the plan changed."
+        }
+      ]
+    },
+    {
+      "heading": "Reformulation and organization",
+      "body": "Advanced speech and writing often use connectors to clarify structure: **ou seja**, **isto é**, **em outras palavras**, **além disso**, **por outro lado**, **em primeiro lugar**.",
+      "examples": [
+        {
+          "pt": "Ele é autônomo, ou seja, trabalha por conta própria.",
+          "en": "He is self-employed, that is, he works for himself."
+        },
+        {
+          "pt": "Além disso, precisamos considerar o prazo.",
+          "en": "In addition, we need to consider the deadline."
+        },
+        {
+          "pt": "Por outro lado, a solução é mais barata.",
+          "en": "On the other hand, the solution is cheaper."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Connectors signal logic and register.",
+    "Embora generally takes the subjunctive.",
+    "Portanto is more formal than por isso.",
+    "Use punctuation carefully: many formal connectors follow a semicolon or period."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Embora é caro, vale a pena.",
+      "right": "Embora seja caro, vale a pena.",
+      "note": "Embora triggers subjunctive."
+    },
+    {
+      "wrong": "Por causa que choveu...",
+      "right": "Porque choveu... / Por causa da chuva...",
+      "note": "Avoid nonstandard por causa que in formal language."
+    },
+    {
+      "wrong": "Mas, no entanto, a ideia funciona.",
+      "right": "No entanto, a ideia funciona.",
+      "note": "Avoid redundant contrast connectors."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

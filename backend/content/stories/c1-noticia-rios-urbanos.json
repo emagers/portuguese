@@ -1,0 +1,102 @@
+{
+  "id": "c1-noticia-rios-urbanos",
+  "level": "C1",
+  "type": "story",
+  "title": "Cities Rediscover Their Rivers",
+  "titlePt": "Cidades Redescobrem seus Rios",
+  "summary": "A news-style article reports on Brazilian cities restoring urban streams and riverbanks.",
+  "paragraphs": [
+    {
+      "pt": "Depois de décadas tratando córregos como obstáculos a serem canalizados, algumas cidades brasileiras começam a rever sua relação com a água. Projetos recentes em capitais e municípios médios propõem retirar concreto das margens, criar parques lineares e recuperar nascentes soterradas. A mudança é lenta, cara e politicamente delicada, mas ganhou força após enchentes sucessivas exporem o limite das soluções puramente cinzentas.",
+      "en": "After decades of treating streams as obstacles to be channeled, some Brazilian cities are beginning to reconsider their relationship with water. Recent projects in capitals and mid-sized municipalities propose removing concrete from riverbanks, creating linear parks, and restoring buried springs. The change is slow, expensive, and politically delicate, but it gained strength after successive floods exposed the limits of purely gray solutions."
+    },
+    {
+      "pt": "Especialistas ouvidos pela reportagem afirmam que renaturalizar rios urbanos não significa abandonar engenharia. Ao contrário: exige estudos hidrológicos, reassentamento cuidadoso de famílias em áreas de risco e manutenção constante. O que muda é a lógica. Em vez de expulsar a água o mais rápido possível, tenta-se devolver espaço para que ela transborde sem destruir casas, escolas e comércios.",
+      "en": "Experts interviewed for the report state that renaturalizing urban rivers does not mean abandoning engineering. On the contrary: it requires hydrological studies, careful resettlement of families in risk areas, and constant maintenance. What changes is the logic. Instead of expelling water as quickly as possible, the aim is to return space so that it can overflow without destroying homes, schools, and businesses."
+    },
+    {
+      "pt": "Moradores, porém, cobram transparência. Em um bairro da zona norte, a promessa de parque trouxe esperança, mas também medo de valorização imobiliária e remoções apressadas. Ambientalistas defendem que os projetos incluam moradia, saneamento e participação popular desde o início. Sem isso, alertam, a recuperação dos rios pode virar apenas paisagem bonita para poucos. Com planejamento, entretanto, os cursos d'água esquecidos podem voltar a cumprir funções ecológicas e sociais dentro da cidade.",
+      "en": "Residents, however, demand transparency. In a neighborhood on the north side, the promise of a park brought hope, but also fear of real estate appreciation and rushed removals. Environmentalists argue that projects should include housing, sanitation, and popular participation from the beginning. Without that, they warn, river restoration may become merely a beautiful landscape for a few. With planning, however, forgotten waterways can once again fulfill ecological and social functions within the city."
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "córregos",
+      "en": "streams"
+    },
+    {
+      "pt": "canalizados",
+      "en": "channeled"
+    },
+    {
+      "pt": "parques lineares",
+      "en": "linear parks"
+    },
+    {
+      "pt": "nascentes soterradas",
+      "en": "buried springs"
+    },
+    {
+      "pt": "renaturalizar",
+      "en": "to renaturalize"
+    },
+    {
+      "pt": "reassentamento",
+      "en": "resettlement"
+    },
+    {
+      "pt": "valorização imobiliária",
+      "en": "real estate appreciation"
+    },
+    {
+      "pt": "saneamento",
+      "en": "sanitation"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "What are some cities beginning to reconsider?",
+      "options": [
+        "Their relationship with urban water and streams",
+        "Their school calendars",
+        "The color of buses",
+        "The use of street markets"
+      ],
+      "answer": "Their relationship with urban water and streams"
+    },
+    {
+      "id": "c2",
+      "question": "According to experts, what does renaturalizing rivers require?",
+      "options": [
+        "Engineering studies, careful resettlement, and maintenance",
+        "Removing all engineering",
+        "Closing every park",
+        "Ignoring flood risks"
+      ],
+      "answer": "Engineering studies, careful resettlement, and maintenance"
+    },
+    {
+      "id": "c3",
+      "question": "What do residents demand?",
+      "options": [
+        "Transparency",
+        "More concrete only",
+        "Secret meetings",
+        "Fewer parks"
+      ],
+      "answer": "Transparency"
+    },
+    {
+      "id": "c4",
+      "question": "What risk do environmentalists warn about?",
+      "options": [
+        "Restoration becoming a beautiful landscape for few people",
+        "Rivers disappearing from maps",
+        "Too much popular participation",
+        "All homes becoming schools"
+      ],
+      "answer": "Restoration becoming a beautiful landscape for few people"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "b2-07-crase-in-depth",
+  "level": "B2",
+  "order": 7,
+  "title": "Crase (à) in Depth",
+  "titlePt": "Crase em profundidade",
+  "summary": "Understand when preposition a combines with feminine articles and pronouns to form à.",
+  "tags": [
+    "crase",
+    "prepositions",
+    "orthography"
+  ],
+  "sections": [
+    {
+      "heading": "What crase is",
+      "body": "**Crase** is the written accent marking the contraction of the preposition **a** with a feminine article or pronoun: **a + a = à**, **a + as = às**. It is not a pronunciation stress mark.",
+      "examples": [
+        {
+          "pt": "Vou à farmácia.",
+          "en": "I am going to the pharmacy."
+        },
+        {
+          "pt": "Cheguei às oito.",
+          "en": "I arrived at eight."
+        },
+        {
+          "pt": "Entreguei o relatório à professora.",
+          "en": "I handed the report to the teacher."
+        }
+      ]
+    },
+    {
+      "heading": "When there is no crase",
+      "body": "There is no crase before masculine words, most verbs, indefinite articles, or plural feminine nouns without the plural article **as**.",
+      "examples": [
+        {
+          "pt": "Vou a pé.",
+          "en": "I go on foot.",
+          "note": "fixed expression, no article"
+        },
+        {
+          "pt": "Comecei a estudar cedo.",
+          "en": "I started to study early.",
+          "note": "before verb"
+        },
+        {
+          "pt": "Refiro-me a pessoas interessadas.",
+          "en": "I refer to interested people.",
+          "note": "no plural article"
+        }
+      ]
+    },
+    {
+      "heading": "Useful tests and fixed expressions",
+      "body": "If you can replace the feminine noun with a masculine one and get **ao**, crase is likely: vou à escola → vou ao banco. Many adverbial expressions with feminine nouns take crase.",
+      "examples": [
+        {
+          "pt": "Estudo à noite.",
+          "en": "I study at night."
+        },
+        {
+          "pt": "Ela saiu às pressas.",
+          "en": "She left in a hurry."
+        },
+        {
+          "pt": "Ficamos frente a frente.",
+          "en": "We stood face to face.",
+          "note": "repeated words usually do not take crase"
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Crase marks a + a/as, written à/às.",
+    "It depends on both the preceding word requiring a and the following feminine article/pronoun.",
+    "No crase before verbs or masculine nouns.",
+    "The ao substitution test is useful but not perfect."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Vou à pé.",
+      "right": "Vou a pé.",
+      "note": "No article before pé in this expression."
+    },
+    {
+      "wrong": "Comecei à estudar.",
+      "right": "Comecei a estudar.",
+      "note": "No crase before verbs."
+    },
+    {
+      "wrong": "Entreguei o livro a professora.",
+      "right": "Entreguei o livro à professora.",
+      "note": "Entregar a + a professora = à professora."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}

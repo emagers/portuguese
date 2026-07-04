@@ -1,0 +1,120 @@
+{
+  "id": "a2-telefone",
+  "level": "A2",
+  "type": "conversation",
+  "title": "A Phone Call",
+  "titlePt": "Uma Ligação",
+  "summary": "Friends talk by phone and arrange to return a borrowed book.",
+  "lines": [
+    {
+      "speaker": "Bia",
+      "pt": "Alô, Pedro? É a Bia.",
+      "en": "Hello, Pedro? It's Bia."
+    },
+    {
+      "speaker": "Pedro",
+      "pt": "Oi, Bia! Eu vi sua mensagem, mas não pude responder.",
+      "en": "Hi, Bia! I saw your message, but I couldn't reply."
+    },
+    {
+      "speaker": "Bia",
+      "pt": "Tudo bem. Você ainda está com meu livro?",
+      "en": "That's okay. Do you still have my book?"
+    },
+    {
+      "speaker": "Pedro",
+      "pt": "Estou, sim. Terminei ontem à noite.",
+      "en": "Yes, I do. I finished it last night."
+    },
+    {
+      "speaker": "Bia",
+      "pt": "Gostou da história?",
+      "en": "Did you like the story?"
+    },
+    {
+      "speaker": "Pedro",
+      "pt": "Gostei muito. O final foi surpreendente.",
+      "en": "I liked it a lot. The ending was surprising."
+    },
+    {
+      "speaker": "Bia",
+      "pt": "Você pode trazer o livro amanhã?",
+      "en": "Can you bring the book tomorrow?"
+    },
+    {
+      "speaker": "Pedro",
+      "pt": "Posso. Vou passar na sua casa depois do almoço.",
+      "en": "I can. I'll stop by your house after lunch."
+    },
+    {
+      "speaker": "Bia",
+      "pt": "Combinado. Até amanhã!",
+      "en": "Deal. See you tomorrow!"
+    }
+  ],
+  "glossary": [
+    {
+      "pt": "Alô",
+      "en": "Hello (on the phone)"
+    },
+    {
+      "pt": "a mensagem",
+      "en": "the message"
+    },
+    {
+      "pt": "responder",
+      "en": "to reply"
+    },
+    {
+      "pt": "terminar",
+      "en": "to finish"
+    },
+    {
+      "pt": "surpreendente",
+      "en": "surprising"
+    },
+    {
+      "pt": "passar na sua casa",
+      "en": "to stop by your house"
+    },
+    {
+      "pt": "Combinado",
+      "en": "Deal / agreed"
+    }
+  ],
+  "comprehension": [
+    {
+      "id": "c1",
+      "question": "Why is Bia calling?",
+      "options": [
+        "To ask about her book",
+        "To order food",
+        "To cancel a trip",
+        "To ask for directions"
+      ],
+      "answer": "To ask about her book"
+    },
+    {
+      "id": "c2",
+      "question": "When did Pedro finish the book?",
+      "options": [
+        "Last night",
+        "This morning",
+        "Last year",
+        "After lunch today"
+      ],
+      "answer": "Last night"
+    },
+    {
+      "id": "c3",
+      "question": "When will Pedro stop by?",
+      "options": [
+        "After lunch tomorrow",
+        "Tonight",
+        "Before breakfast",
+        "Next week"
+      ],
+      "answer": "After lunch tomorrow"
+    }
+  ]
+}

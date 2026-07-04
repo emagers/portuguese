@@ -1,0 +1,94 @@
+{
+  "id": "b1-07-present-perfect-tenho-feito",
+  "level": "B1",
+  "order": 7,
+  "title": "Brazilian Present Perfect: Tenho feito",
+  "titlePt": "Pretérito perfeito composto: tenho feito",
+  "summary": "Use tenho feito to describe repeated or ongoing actions continuing into the present, not a simple past event.",
+  "tags": [
+    "verbs",
+    "aspect",
+    "compound-tenses"
+  ],
+  "sections": [
+    {
+      "heading": "Not the same as English present perfect",
+      "body": "Portuguese **tenho + past participle** usually means an action has been repeated or ongoing lately. It does **not** normally translate a single completed experience like English 'I have been to Brazil'.",
+      "examples": [
+        {
+          "pt": "Tenho estudado muito ultimamente.",
+          "en": "I have been studying a lot lately."
+        },
+        {
+          "pt": "Ela tem trabalhado demais.",
+          "en": "She has been working too much."
+        },
+        {
+          "pt": "A gente tem comido fora toda semana.",
+          "en": "We have been eating out every week."
+        }
+      ]
+    },
+    {
+      "heading": "Formation",
+      "body": "Use the present of **ter** plus the past participle: falado, comido, aberto. The participle stays masculine singular in this compound tense.",
+      "examples": [
+        {
+          "pt": "Eu tenho falado com ele todos os dias.",
+          "en": "I have been speaking with him every day."
+        },
+        {
+          "pt": "Nós temos recebido muitas mensagens.",
+          "en": "We have been receiving many messages."
+        },
+        {
+          "pt": "Eles têm feito exercícios.",
+          "en": "They have been exercising."
+        }
+      ]
+    },
+    {
+      "heading": "Simple past for completed experiences",
+      "body": "For a completed experience or a specific past event, Portuguese usually uses the **pretérito perfeito** instead.",
+      "examples": [
+        {
+          "pt": "Já fui ao Brasil.",
+          "en": "I have been to Brazil."
+        },
+        {
+          "pt": "Você já viu esse filme?",
+          "en": "Have you seen this movie?"
+        },
+        {
+          "pt": "Ela terminou o curso ontem.",
+          "en": "She finished the course yesterday."
+        }
+      ]
+    }
+  ],
+  "keyPoints": [
+    "Tenho feito means repeated or ongoing action up to now.",
+    "It is not a general equivalent of English 'have done'.",
+    "Use simple preterite with já for life experiences.",
+    "The participle does not agree in tenho feito."
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Tenho ido ao Brasil uma vez.",
+      "right": "Fui ao Brasil uma vez.",
+      "note": "A single completed experience uses preterite."
+    },
+    {
+      "wrong": "Ela tem feita a lição.",
+      "right": "Ela tem feito a lição.",
+      "note": "The participle is invariable here."
+    },
+    {
+      "wrong": "Eu tenho visto esse filme ontem.",
+      "right": "Eu vi esse filme ontem.",
+      "note": "Specific completed time uses preterite."
+    }
+  ],
+  "relatedVocab": [],
+  "quizId": null
+}
