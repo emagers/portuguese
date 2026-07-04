@@ -9,6 +9,7 @@ const links = [
   { to: "/quizzes", label: "Knowledge Tests", ico: "✅" },
   { to: "/listening", label: "Listening", ico: "🎧" },
   { to: "/pronunciation", label: "Pronunciation", ico: "🎙️" },
+  { to: "/reinforcement", label: "Reinforcement", ico: "🔁" },
 ];
 
 export default function Layout({ children }: { children: ReactNode }) {

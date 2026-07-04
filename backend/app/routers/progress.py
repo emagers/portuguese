@@ -38,6 +38,11 @@ class DeckIn(BaseModel):
     status: str = "completed"
 
 
+class PhraseIn(BaseModel):
+    collection_id: str
+    status: str = "completed"
+
+
 @router.get("/summary")
 def summary():
     return {
@@ -46,6 +51,7 @@ def summary():
         "recent_quizzes": db.quiz_history(limit=10),
         "lessons": db.lesson_statuses(),
         "decks": db.deck_statuses(),
+        "phrases": db.phrase_statuses(),
     }
 
 
@@ -94,6 +100,13 @@ def lesson(body: LessonIn):
 @router.post("/deck")
 def deck(body: DeckIn):
     db.set_deck_status(body.deck_id, body.status)
+    return {"ok": True}
+
+
+# --- Phrase collection completion --- #
+@router.post("/phrases")
+def phrases(body: PhraseIn):
+    db.set_phrase_status(body.collection_id, body.status)
     return {"ok": True}
 
 

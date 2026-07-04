@@ -4,8 +4,12 @@ import type {
   Assessment,
   ContentSummary,
   GrammarLesson,
+  KnowledgeTest,
   LevelInfo,
+  PhraseCollection,
+  Problem,
   Quiz,
+  ReinforcementStatus,
   Story,
   SystemStatus,
   VocabDeck,
@@ -43,6 +47,11 @@ export const api = {
     get<ContentSummary[]>(`/content/stories${level ? `?level=${level}` : ""}`),
   story: (id: string) => get<Story>(`/content/stories/${id}`),
 
+  phraseList: (level?: string) =>
+    get<ContentSummary[]>(`/content/phrases${level ? `?level=${level}` : ""}`),
+  phraseTopics: () => get<string[]>("/content/phrases/topics"),
+  phrases: (id: string) => get<PhraseCollection>(`/content/phrases/${id}`),
+
   quizList: (level?: string) =>
     get<ContentSummary[]>(`/content/quizzes${level ? `?level=${level}` : ""}`),
   quiz: (id: string) => get<Quiz>(`/content/quizzes/${id}`),
@@ -62,6 +71,8 @@ export const api = {
     post<any>("/progress/lesson", { lesson_id, status }),
   markDeck: (deck_id: string, status = "completed") =>
     post<any>("/progress/deck", { deck_id, status }),
+  markPhrases: (collection_id: string, status = "completed") =>
+    post<any>("/progress/phrases", { collection_id, status }),
   quizHistory: () => get<any[]>("/progress/quiz/history"),
   pronunciationHistory: () => get<any[]>("/progress/pronunciation/history"),
 
@@ -81,4 +92,18 @@ export const api = {
     }
     return res.json();
   },
+
+  // Practice: knowledge tests + reinforcement
+  knowledgeVocab: (deckId: string) =>
+    get<KnowledgeTest>(`/practice/knowledge/vocab/${deckId}`),
+  knowledgeGrammar: (lessonId: string) =>
+    get<KnowledgeTest>(`/practice/knowledge/grammar/${lessonId}`),
+  knowledgePhrases: (collectionId: string) =>
+    get<KnowledgeTest>(`/practice/knowledge/phrases/${collectionId}`),
+  reinforcementStatus: () =>
+    get<ReinforcementStatus>("/practice/reinforcement/status"),
+  reinforcementSession: (scope = "all", count = 12, pronunciation = true) =>
+    get<{ scope: string; count: number; problems: Problem[] }>(
+      `/practice/reinforcement/session?scope=${encodeURIComponent(scope)}&count=${count}&pronunciation=${pronunciation}`,
+    ),
 };

@@ -1,0 +1,70 @@
+{
+  "id": "phr-appointments",
+  "level": "A2",
+  "title": "Appointments",
+  "topic": "numbers-time",
+  "situation": "Scheduling and changing appointments",
+  "description": "Phrases for making, confirming, rescheduling and canceling appointments.",
+  "phrases": [
+    {
+      "id": "appt-1",
+      "pt": "Quero marcar um horário.",
+      "en": "I want to schedule an appointment.",
+      "ipa": "ˈkɛ.ɾu maʁˈkaʁ ũ oˈɾa.ɾju"
+    },
+    {
+      "id": "appt-2",
+      "pt": "Tem horário disponível hoje?",
+      "en": "Do you have any time available today?",
+      "ipa": "tẽj oˈɾa.ɾju dʒis.poˈni.vew ˈo.ʒi"
+    },
+    {
+      "id": "appt-3",
+      "pt": "Pode ser amanhã de manhã?",
+      "en": "Can it be tomorrow morning?",
+      "ipa": "ˈpɔ.dʒi seʁ a.maˈɲɐ̃ dʒi maˈɲɐ̃"
+    },
+    {
+      "id": "appt-4",
+      "pt": "Preciso remarcar minha consulta.",
+      "en": "I need to reschedule my appointment.",
+      "ipa": "pɾeˈsi.zu ʁe.maʁˈkaʁ ˈmi.ɲɐ kõˈsuw.tɐ"
+    },
+    {
+      "id": "appt-5",
+      "pt": "Qual é o endereço?",
+      "en": "What is the address?",
+      "ipa": "kwaw ɛ u ẽ.deˈɾe.su"
+    },
+    {
+      "id": "appt-6",
+      "pt": "Vou chegar cinco minutos atrasado.",
+      "en": "I’ll arrive five minutes late.",
+      "ipa": "vow ʃeˈɡaʁ ˈsĩ.ku miˈnu.tus a.tɾaˈza.du"
+    },
+    {
+      "id": "appt-7",
+      "pt": "Pode confirmar para mim?",
+      "en": "Can you confirm it for me?",
+      "ipa": "ˈpɔ.dʒi kõ.fiʁˈmaʁ ˈpa.ɾɐ mĩ"
+    },
+    {
+      "id": "appt-8",
+      "pt": "Preciso cancelar.",
+      "en": "I need to cancel.",
+      "ipa": "pɾeˈsi.zu kɐ̃.seˈlaʁ"
+    },
+    {
+      "id": "appt-9",
+      "pt": "Quanto tempo demora?",
+      "en": "How long does it take?",
+      "ipa": "ˈkwɐ̃.tu ˈtẽ.pu dʒeˈmɔ.ɾɐ"
+    },
+    {
+      "id": "appt-10",
+      "pt": "Cheguei para o horário das duas.",
+      "en": "I’m here for the two o’clock appointment.",
+      "ipa": "ʃeˈɡej ˈpa.ɾɐ u oˈɾa.ɾju das ˈdu.as"
+    }
+  ]
+}

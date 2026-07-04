@@ -1,0 +1,70 @@
+{
+  "id": "phr-sightseeing-tickets",
+  "level": "A2",
+  "title": "Sightseeing & Tickets",
+  "topic": "tourism",
+  "situation": "Visiting attractions and buying tickets",
+  "description": "Phrases for museums, landmarks, entry fees, hours and guided visits.",
+  "phrases": [
+    {
+      "id": "st-1",
+      "pt": "Quanto custa a entrada?",
+      "en": "How much is admission?",
+      "ipa": "ˈkwɐ̃.tu ˈkus.tɐ a ẽˈtɾa.dɐ"
+    },
+    {
+      "id": "st-2",
+      "pt": "Tem desconto para estudante?",
+      "en": "Is there a student discount?",
+      "ipa": "tẽj dʒisˈkõ.tu ˈpa.ɾɐ es.tuˈdɐ̃.tʃi"
+    },
+    {
+      "id": "st-3",
+      "pt": "O museu abre que horas?",
+      "en": "What time does the museum open?",
+      "ipa": "u muˈzew ˈa.bɾi ki ˈɔ.ɾas"
+    },
+    {
+      "id": "st-4",
+      "pt": "Posso comprar ingresso online?",
+      "en": "Can I buy a ticket online?",
+      "ipa": "ˈpɔ.su kõˈpɾaʁ ĩˈɡɾe.su õˈlaj.ni"
+    },
+    {
+      "id": "st-5",
+      "pt": "A visita guiada está incluída?",
+      "en": "Is the guided tour included?",
+      "ipa": "a viˈzi.tɐ ɡiˈa.dɐ eʃˈta ĩ.kluˈi.dɐ"
+    },
+    {
+      "id": "st-6",
+      "pt": "Quanto tempo dura o passeio?",
+      "en": "How long does the tour last?",
+      "ipa": "ˈkwɐ̃.tu ˈtẽ.pu ˈdu.ɾɐ u paˈsej.u"
+    },
+    {
+      "id": "st-7",
+      "pt": "Pode tirar foto aqui?",
+      "en": "Can you take pictures here?",
+      "ipa": "ˈpɔ.dʒi tʃiˈɾaʁ ˈfɔ.tu aˈki"
+    },
+    {
+      "id": "st-8",
+      "pt": "Onde fica a saída?",
+      "en": "Where is the exit?",
+      "ipa": "ˈõ.dʒi ˈfi.kɐ a saˈi.dɐ"
+    },
+    {
+      "id": "st-9",
+      "pt": "Tem banheiro por perto?",
+      "en": "Is there a restroom nearby?",
+      "ipa": "tẽj bɐˈɲej.ɾu poʁ ˈpɛʁ.tu"
+    },
+    {
+      "id": "st-10",
+      "pt": "Vale muito a pena visitar.",
+      "en": "It’s really worth visiting.",
+      "ipa": "ˈva.li ˈmũj.tu a ˈpe.nɐ vi.ziˈtaʁ"
+    }
+  ]
+}

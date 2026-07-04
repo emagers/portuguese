@@ -1,0 +1,70 @@
+{
+  "id": "phr-lost-items-accidents",
+  "level": "B1",
+  "title": "Lost Items & Accidents",
+  "topic": "emergencies",
+  "situation": "Reporting lost belongings or accidents",
+  "description": "Phrases for describing what happened, asking for first aid and recovering belongings.",
+  "phrases": [
+    {
+      "id": "lia-1",
+      "pt": "Perdi meu celular.",
+      "en": "I lost my phone.",
+      "ipa": "peʁˈdʒi mew se.luˈlaʁ"
+    },
+    {
+      "id": "lia-2",
+      "pt": "Você viu uma carteira preta?",
+      "en": "Did you see a black wallet?",
+      "ipa": "voˈse viw ˈu.mɐ kaʁˈtej.ɾɐ ˈpɾe.tɐ"
+    },
+    {
+      "id": "lia-3",
+      "pt": "Acho que deixei no táxi.",
+      "en": "I think I left it in the taxi.",
+      "ipa": "ˈa.ʃu ki dejˈʃej nu ˈtak.si"
+    },
+    {
+      "id": "lia-4",
+      "pt": "Tem achados e perdidos aqui?",
+      "en": "Is there a lost and found here?",
+      "ipa": "tẽj aˈʃa.dus i peʁˈdʒi.dus aˈki"
+    },
+    {
+      "id": "lia-5",
+      "pt": "Houve um acidente na rua.",
+      "en": "There was an accident on the street.",
+      "ipa": "ˈo.vi ũ a.siˈdẽ.tʃi na ˈʁu.ɐ"
+    },
+    {
+      "id": "lia-6",
+      "pt": "Alguém está machucado.",
+      "en": "Someone is hurt.",
+      "ipa": "awˈɡẽj eʃˈta ma.ʃuˈka.du"
+    },
+    {
+      "id": "lia-7",
+      "pt": "Chame uma ambulância.",
+      "en": "Call an ambulance.",
+      "ipa": "ˈʃa.mi ˈu.mɐ ɐ̃.buˈlɐ̃.sjɐ"
+    },
+    {
+      "id": "lia-8",
+      "pt": "Eu bati a cabeça.",
+      "en": "I hit my head.",
+      "ipa": "ew baˈtʃi a kaˈbe.sɐ"
+    },
+    {
+      "id": "lia-9",
+      "pt": "Não consigo mexer o braço.",
+      "en": "I can’t move my arm.",
+      "ipa": "nɐ̃w kõˈsi.ɡu meˈʃeʁ u ˈbɾa.su"
+    },
+    {
+      "id": "lia-10",
+      "pt": "Preciso ligar para o seguro.",
+      "en": "I need to call the insurance company.",
+      "ipa": "pɾeˈsi.zu liˈɡaʁ ˈpa.ɾɐ u seˈɡu.ɾu"
+    }
+  ]
+}

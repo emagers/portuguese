@@ -1,0 +1,72 @@
+{
+  "id": "phr-social-politeness-apologies",
+  "level": "A1",
+  "title": "Politeness & Apologies",
+  "topic": "social",
+  "situation": "Being courteous in everyday interactions",
+  "description": "Useful polite expressions for asking, thanking, apologizing and responding naturally.",
+  "phrases": [
+    {
+      "id": "spa-1",
+      "pt": "Por favor, você pode me ajudar?",
+      "en": "Please, can you help me?",
+      "ipa": "poʁ faˈvoʁ voˈse ˈpɔ.dʒi mi aʒuˈdaʁ"
+    },
+    {
+      "id": "spa-2",
+      "pt": "Muito obrigado pela ajuda.",
+      "en": "Thank you very much for the help.",
+      "ipa": "ˈmũj.tu obɾiˈɡa.du ˈpe.lɐ aˈʒu.dɐ",
+      "note": "Men usually say “obrigado”; women usually say “obrigada”."
+    },
+    {
+      "id": "spa-3",
+      "pt": "Imagina, não foi nada.",
+      "en": "No problem, it was nothing.",
+      "ipa": "i.maˈʒi.nɐ nɐ̃w foj ˈna.dɐ"
+    },
+    {
+      "id": "spa-4",
+      "pt": "Com licença, posso passar?",
+      "en": "Excuse me, may I pass?",
+      "ipa": "kõ liˈsẽ.sɐ ˈpɔ.su paˈsaʁ"
+    },
+    {
+      "id": "spa-5",
+      "pt": "Desculpa o incômodo.",
+      "en": "Sorry for the trouble.",
+      "ipa": "dʒisˈkuw.pɐ u ĩˈko.mo.du"
+    },
+    {
+      "id": "spa-6",
+      "pt": "Foi sem querer.",
+      "en": "It was an accident.",
+      "ipa": "foj sẽ keˈɾeʁ",
+      "literal": "It was without wanting."
+    },
+    {
+      "id": "spa-7",
+      "pt": "Não se preocupe.",
+      "en": "Don’t worry.",
+      "ipa": "nɐ̃w si pɾe.oˈku.pi"
+    },
+    {
+      "id": "spa-8",
+      "pt": "Você foi muito gentil.",
+      "en": "You were very kind.",
+      "ipa": "voˈse foj ˈmũj.tu ʒẽwˈtʃiw"
+    },
+    {
+      "id": "spa-9",
+      "pt": "Dá pra repetir, por favor?",
+      "en": "Could you repeat that, please?",
+      "ipa": "da pɾɐ ʁe.peˈtʃiʁ poʁ faˈvoʁ"
+    },
+    {
+      "id": "spa-10",
+      "pt": "Sem problema, tudo bem.",
+      "en": "No problem, it’s all right.",
+      "ipa": "sẽ pɾoˈble.mɐ ˈtu.du ˈbẽj"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "phr-office-meetings",
+  "level": "B1",
+  "title": "Office & Meetings",
+  "topic": "work",
+  "situation": "Working with colleagues and joining meetings",
+  "description": "Phrases for scheduling, discussing tasks and participating in workplace meetings.",
+  "phrases": [
+    {
+      "id": "om-1",
+      "pt": "Podemos marcar uma reunião para amanhã?",
+      "en": "Can we schedule a meeting for tomorrow?",
+      "ipa": "poˈde.mus maʁˈkaʁ ˈu.mɐ ʁe.uˈni.ɐ̃w ˈpa.ɾɐ a.maˈɲɐ̃"
+    },
+    {
+      "id": "om-2",
+      "pt": "Qual é a pauta da reunião?",
+      "en": "What is the meeting agenda?",
+      "ipa": "kwaw ɛ a ˈpaw.tɐ da ʁe.uˈni.ɐ̃w"
+    },
+    {
+      "id": "om-3",
+      "pt": "Vou compartilhar minha tela.",
+      "en": "I’m going to share my screen.",
+      "ipa": "vow kõ.paʁ.tʃiˈʎaʁ ˈmi.ɲɐ ˈtɛ.lɐ"
+    },
+    {
+      "id": "om-4",
+      "pt": "Você pode me atualizar sobre o projeto?",
+      "en": "Can you update me on the project?",
+      "ipa": "voˈse ˈpɔ.dʒi mi a.tu.a.liˈzaʁ ˈso.bɾi u pɾoˈʒɛ.tu"
+    },
+    {
+      "id": "om-5",
+      "pt": "Ainda estou trabalhando nisso.",
+      "en": "I’m still working on it.",
+      "ipa": "aˈĩ.dɐ eʃˈtow tɾa.baˈʎɐ̃.du ˈni.su"
+    },
+    {
+      "id": "om-6",
+      "pt": "Qual é o prazo de entrega?",
+      "en": "What is the deadline?",
+      "ipa": "kwaw ɛ u ˈpɾa.zu dʒi ẽˈtɾe.ɡɐ"
+    },
+    {
+      "id": "om-7",
+      "pt": "Vou mandar um resumo por e-mail.",
+      "en": "I’ll send a summary by email.",
+      "ipa": "vow mɐ̃ˈdaʁ ũ ʁeˈzu.mu poʁ iˈmejw"
+    },
+    {
+      "id": "om-8",
+      "pt": "Concordo com essa proposta.",
+      "en": "I agree with this proposal.",
+      "ipa": "kõˈkɔʁ.du kõ ˈe.sɐ pɾoˈpɔs.tɐ"
+    },
+    {
+      "id": "om-9",
+      "pt": "Precisamos alinhar os próximos passos.",
+      "en": "We need to align the next steps.",
+      "ipa": "pɾe.siˈza.mus a.liˈɲaʁ us ˈpɾɔ.si.mus ˈpa.sus"
+    },
+    {
+      "id": "om-10",
+      "pt": "Vamos retomar esse assunto depois.",
+      "en": "Let’s come back to this subject later.",
+      "ipa": "ˈvɐ.mus ʁe.toˈmaʁ ˈe.si aˈsũ.tu deˈpojs"
+    }
+  ]
+}

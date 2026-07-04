@@ -1,0 +1,70 @@
+{
+  "id": "phr-plans-party",
+  "level": "A2",
+  "title": "Making Plans & Parties",
+  "topic": "socializing",
+  "situation": "Invitations and meeting friends",
+  "description": "Natural phrases for inviting people, confirming plans and chatting at parties.",
+  "phrases": [
+    {
+      "id": "pp-1",
+      "pt": "Vamos sair no sábado?",
+      "en": "Shall we go out on Saturday?",
+      "ipa": "ˈvɐ.mus saˈiʁ nu ˈsa.ba.du"
+    },
+    {
+      "id": "pp-2",
+      "pt": "Que horas a gente se encontra?",
+      "en": "What time do we meet?",
+      "ipa": "ki ˈɔ.ɾas a ˈʒẽ.tʃi si ẽˈkõ.tɾɐ"
+    },
+    {
+      "id": "pp-3",
+      "pt": "Pode ser às oito?",
+      "en": "Can it be at eight?",
+      "ipa": "ˈpɔ.dʒi seʁ az ˈoj.tu"
+    },
+    {
+      "id": "pp-4",
+      "pt": "Vou chegar um pouco atrasado.",
+      "en": "I’m going to arrive a little late.",
+      "ipa": "vow ʃeˈɡaʁ ũ ˈpo.ku a.tɾaˈza.du"
+    },
+    {
+      "id": "pp-5",
+      "pt": "Me manda o endereço.",
+      "en": "Send me the address.",
+      "ipa": "mi ˈmɐ̃.dɐ u ẽ.deˈɾe.su"
+    },
+    {
+      "id": "pp-6",
+      "pt": "Posso levar um amigo?",
+      "en": "Can I bring a friend?",
+      "ipa": "ˈpɔ.su leˈvaʁ ũ aˈmi.ɡu"
+    },
+    {
+      "id": "pp-7",
+      "pt": "A festa está animada.",
+      "en": "The party is lively.",
+      "ipa": "a ˈfɛs.tɐ eʃˈta a.niˈma.dɐ"
+    },
+    {
+      "id": "pp-8",
+      "pt": "Conhece muita gente aqui?",
+      "en": "Do you know many people here?",
+      "ipa": "koˈɲe.si ˈmũj.tɐ ˈʒẽ.tʃi aˈki"
+    },
+    {
+      "id": "pp-9",
+      "pt": "Foi ótimo te ver.",
+      "en": "It was great to see you.",
+      "ipa": "foj ˈɔ.tʃi.mu tʃi veʁ"
+    },
+    {
+      "id": "pp-10",
+      "pt": "Vamos marcar de novo.",
+      "en": "Let’s make plans again.",
+      "ipa": "ˈvɐ.mus maʁˈkaʁ dʒi ˈno.vu"
+    }
+  ]
+}

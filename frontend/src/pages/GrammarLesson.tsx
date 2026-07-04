@@ -86,8 +86,11 @@ export default function GrammarLessonPage() {
       )}
 
       <div className="row mt-lg">
+        <Link className="btn" to={`/knowledge/grammar/${lesson.id}`}>
+          ✅ Knowledge test →
+        </Link>
         {lesson.quizId && (
-          <Link className="btn" to={`/quizzes/${lesson.quizId}`}>
+          <Link className="btn ghost" to={`/quizzes/${lesson.quizId}`}>
             Take the quiz →
           </Link>
         )}

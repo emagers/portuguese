@@ -1,0 +1,70 @@
+{
+  "id": "phr-city-directions",
+  "level": "A1",
+  "title": "City Directions",
+  "topic": "directions",
+  "situation": "Asking and giving directions in town",
+  "description": "Essential phrases for finding places and understanding simple directions.",
+  "phrases": [
+    {
+      "id": "cd-1",
+      "pt": "Onde fica a farmácia mais próxima?",
+      "en": "Where is the nearest pharmacy?",
+      "ipa": "ˈõ.dʒi ˈfi.kɐ a faʁˈma.sjɐ majs ˈpɾɔ.si.mɐ"
+    },
+    {
+      "id": "cd-2",
+      "pt": "É longe daqui?",
+      "en": "Is it far from here?",
+      "ipa": "ɛ ˈlõ.ʒi daˈki"
+    },
+    {
+      "id": "cd-3",
+      "pt": "Dá para ir a pé?",
+      "en": "Can I go on foot?",
+      "ipa": "da ˈpa.ɾɐ iʁ a pɛ"
+    },
+    {
+      "id": "cd-4",
+      "pt": "Vire à direita no semáforo.",
+      "en": "Turn right at the traffic light.",
+      "ipa": "ˈvi.ɾi a dʒiˈɾej.tɐ nu seˈma.fo.ɾu"
+    },
+    {
+      "id": "cd-5",
+      "pt": "Siga reto por duas quadras.",
+      "en": "Go straight for two blocks.",
+      "ipa": "ˈsi.ɡɐ ˈʁe.tu poʁ ˈdu.as ˈkwa.dɾas"
+    },
+    {
+      "id": "cd-6",
+      "pt": "Fica do outro lado da rua.",
+      "en": "It’s on the other side of the street.",
+      "ipa": "ˈfi.kɐ du ˈow.tɾu ˈla.du da ˈʁu.ɐ"
+    },
+    {
+      "id": "cd-7",
+      "pt": "Passe pela praça e vire à esquerda.",
+      "en": "Go past the square and turn left.",
+      "ipa": "ˈpa.si ˈpe.lɐ ˈpɾa.sɐ i ˈvi.ɾi a esˈkeʁ.dɐ"
+    },
+    {
+      "id": "cd-8",
+      "pt": "Você vai ver uma padaria na esquina.",
+      "en": "You’ll see a bakery on the corner.",
+      "ipa": "voˈse vaj veʁ ˈu.mɐ pa.daˈɾi.ɐ na esˈki.nɐ"
+    },
+    {
+      "id": "cd-9",
+      "pt": "A entrada é pela lateral.",
+      "en": "The entrance is on the side.",
+      "ipa": "a ẽˈtɾa.dɐ ɛ ˈpe.lɐ la.teˈɾaw"
+    },
+    {
+      "id": "cd-10",
+      "pt": "Acho que estou perdido.",
+      "en": "I think I’m lost.",
+      "ipa": "ˈa.ʃu ki eʃˈtow peʁˈdʒi.du"
+    }
+  ]
+}

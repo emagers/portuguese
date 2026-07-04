@@ -1,0 +1,70 @@
+{
+  "id": "phr-doctor-symptoms",
+  "level": "B1",
+  "title": "Doctor & Symptoms",
+  "topic": "health",
+  "situation": "Describing health problems to a doctor",
+  "description": "Phrases for appointments, symptoms, pain, exams and treatment.",
+  "phrases": [
+    {
+      "id": "ds-1",
+      "pt": "Marquei uma consulta para hoje.",
+      "en": "I scheduled an appointment for today.",
+      "ipa": "maʁˈkej ˈu.mɐ kõˈsuw.tɐ ˈpa.ɾɐ ˈo.ʒi"
+    },
+    {
+      "id": "ds-2",
+      "pt": "Estou sentindo dor no peito.",
+      "en": "I’m feeling chest pain.",
+      "ipa": "eʃˈtow sẽˈtʃĩ.du doʁ nu ˈpej.tu"
+    },
+    {
+      "id": "ds-3",
+      "pt": "A dor começou ontem à noite.",
+      "en": "The pain started last night.",
+      "ipa": "a doʁ ko.meˈsow ˈõ.tẽj a ˈnoj.tʃi"
+    },
+    {
+      "id": "ds-4",
+      "pt": "Fico tonto quando levanto.",
+      "en": "I get dizzy when I stand up.",
+      "ipa": "ˈfi.ku ˈtõ.tu ˈkwɐ̃.du leˈvɐ̃.tu"
+    },
+    {
+      "id": "ds-5",
+      "pt": "Tenho pressão alta.",
+      "en": "I have high blood pressure.",
+      "ipa": "ˈtẽ.ɲu pɾeˈsɐ̃w ˈaw.tɐ"
+    },
+    {
+      "id": "ds-6",
+      "pt": "Sou alérgico a penicilina.",
+      "en": "I’m allergic to penicillin.",
+      "ipa": "sow aˈlɛʁ.ʒi.ku a pe.ni.siˈli.nɐ"
+    },
+    {
+      "id": "ds-7",
+      "pt": "Preciso fazer algum exame?",
+      "en": "Do I need to do any exam?",
+      "ipa": "pɾeˈsi.zu faˈzeʁ awˈɡũ eˈza.mi"
+    },
+    {
+      "id": "ds-8",
+      "pt": "Qual é o tratamento?",
+      "en": "What is the treatment?",
+      "ipa": "kwaw ɛ u tɾa.taˈmẽ.tu"
+    },
+    {
+      "id": "ds-9",
+      "pt": "Devo voltar se piorar?",
+      "en": "Should I come back if it gets worse?",
+      "ipa": "ˈdɛ.vu vowˈtaʁ si pjoˈɾaʁ"
+    },
+    {
+      "id": "ds-10",
+      "pt": "Você pode me dar um atestado?",
+      "en": "Can you give me a medical note?",
+      "ipa": "voˈse ˈpɔ.dʒi mi daʁ ũ a.teʃˈta.du"
+    }
+  ]
+}

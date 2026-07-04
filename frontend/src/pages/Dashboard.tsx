@@ -103,13 +103,17 @@ export default function Dashboard() {
 
       <h2 className="mt-lg">Practice</h2>
       <div className="grid mt">
+        <Link className="card link" to="/reinforcement">
+          <h3>🔁 Reinforcement</h3>
+          <p className="sub">Mixed, randomized practice of everything you've completed — pictures, audio, translation & more.</p>
+        </Link>
         <Link className="card link" to="/pronunciation">
           <h3>🎙️ Pronunciation coach</h3>
-          <p className="sub">Record yourself and get a score plus sound-by-sound tips.</p>
+          <p className="sub">Work through phrases by topic; record yourself and get sound-by-sound tips.</p>
         </Link>
         <Link className="card link" to="/listening">
           <h3>🎧 Listening practice</h3>
-          <p className="sub">Train your ear with spoken phrases and dictation.</p>
+          <p className="sub">Hear real Brazilian phrases and rebuild them from a word bank.</p>
         </Link>
       </div>
     </div>

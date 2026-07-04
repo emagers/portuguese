@@ -1,0 +1,70 @@
+{
+  "id": "phr-weather-seasons",
+  "level": "A1",
+  "title": "Weather & Seasons",
+  "topic": "weather",
+  "situation": "Talking about the weather",
+  "description": "Everyday phrases for heat, rain, cold fronts and seasonal weather in Brazil.",
+  "phrases": [
+    {
+      "id": "ws-1",
+      "pt": "Hoje está muito calor.",
+      "en": "It’s very hot today.",
+      "ipa": "ˈo.ʒi eʃˈta ˈmũj.tu kaˈloʁ"
+    },
+    {
+      "id": "ws-2",
+      "pt": "Vai chover mais tarde.",
+      "en": "It’s going to rain later.",
+      "ipa": "vaj ʃoˈveʁ majs ˈtaʁ.dʒi"
+    },
+    {
+      "id": "ws-3",
+      "pt": "Está fazendo frio.",
+      "en": "It’s cold.",
+      "ipa": "eʃˈta faˈzẽ.du ˈfɾi.u"
+    },
+    {
+      "id": "ws-4",
+      "pt": "O tempo virou de repente.",
+      "en": "The weather changed suddenly.",
+      "ipa": "u ˈtẽ.pu viˈɾow dʒi ʁeˈpẽ.tʃi"
+    },
+    {
+      "id": "ws-5",
+      "pt": "Leva um guarda-chuva.",
+      "en": "Take an umbrella.",
+      "ipa": "ˈlɛ.vɐ ũ ɡwaʁ.dɐ ˈʃu.vɐ"
+    },
+    {
+      "id": "ws-6",
+      "pt": "A previsão é de sol.",
+      "en": "The forecast is sunny.",
+      "ipa": "a pɾe.viˈzɐ̃w ɛ dʒi sɔw"
+    },
+    {
+      "id": "ws-7",
+      "pt": "Está abafado hoje.",
+      "en": "It’s muggy today.",
+      "ipa": "eʃˈta a.baˈfa.du ˈo.ʒi"
+    },
+    {
+      "id": "ws-8",
+      "pt": "Chegou uma frente fria.",
+      "en": "A cold front arrived.",
+      "ipa": "ʃeˈɡow ˈu.mɐ ˈfɾẽ.tʃi ˈfɾi.ɐ"
+    },
+    {
+      "id": "ws-9",
+      "pt": "No verão chove bastante.",
+      "en": "In summer it rains a lot.",
+      "ipa": "nu veˈɾɐ̃w ˈʃɔ.vi basˈtɐ̃.tʃi"
+    },
+    {
+      "id": "ws-10",
+      "pt": "O céu está limpo.",
+      "en": "The sky is clear.",
+      "ipa": "u sɛw eʃˈta ˈlĩ.pu"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "phr-hotel-checkin",
+  "level": "A2",
+  "title": "Hotel Check-In & Check-Out",
+  "topic": "accommodation",
+  "situation": "Arriving at and leaving a hotel",
+  "description": "Useful phrases for reservations, keys, breakfast and checking out.",
+  "phrases": [
+    {
+      "id": "hc-1",
+      "pt": "Tenho uma reserva em meu nome.",
+      "en": "I have a reservation under my name.",
+      "ipa": "ˈtẽ.ɲu ˈu.mɐ ʁeˈzɛʁ.vɐ ẽj mew ˈno.mi"
+    },
+    {
+      "id": "hc-2",
+      "pt": "Meu nome é Carolina Souza.",
+      "en": "My name is Carolina Souza.",
+      "ipa": "mew ˈno.mi ɛ kaɾoˈli.nɐ ˈso.zɐ"
+    },
+    {
+      "id": "hc-3",
+      "pt": "Qual é o horário do check-in?",
+      "en": "What time is check-in?",
+      "ipa": "kwaw ɛ u oˈɾa.ɾju du tʃeˈkĩ"
+    },
+    {
+      "id": "hc-4",
+      "pt": "O café da manhã está incluído?",
+      "en": "Is breakfast included?",
+      "ipa": "u kaˈfɛ da maˈɲɐ̃ eʃˈta ĩ.kluˈi.du"
+    },
+    {
+      "id": "hc-5",
+      "pt": "Pode me dar a senha do Wi-Fi?",
+      "en": "Can you give me the Wi-Fi password?",
+      "ipa": "ˈpɔ.dʒi mi daʁ a ˈse.ɲɐ du waj faj"
+    },
+    {
+      "id": "hc-6",
+      "pt": "Meu quarto fica em qual andar?",
+      "en": "What floor is my room on?",
+      "ipa": "mew ˈkwaʁ.tu ˈfi.kɐ ẽj kwaw ɐ̃ˈdaʁ"
+    },
+    {
+      "id": "hc-7",
+      "pt": "Preciso de uma segunda chave.",
+      "en": "I need a second key.",
+      "ipa": "pɾeˈsi.zu dʒi ˈu.mɐ seˈɡũ.dɐ ˈʃa.vi"
+    },
+    {
+      "id": "hc-8",
+      "pt": "Até que horas é o check-out?",
+      "en": "Until what time is check-out?",
+      "ipa": "aˈtɛ ki ˈɔ.ɾas ɛ u tʃeˈkawtʃ"
+    },
+    {
+      "id": "hc-9",
+      "pt": "Pode guardar minha mala por algumas horas?",
+      "en": "Can you store my bag for a few hours?",
+      "ipa": "ˈpɔ.dʒi ɡwaʁˈdaʁ ˈmi.ɲɐ ˈma.lɐ poʁ awˈɡu.mɐs ˈɔ.ɾas"
+    },
+    {
+      "id": "hc-10",
+      "pt": "Quero fechar a conta.",
+      "en": "I’d like to check out.",
+      "ipa": "ˈkɛ.ɾu feˈʃaʁ a ˈkõ.tɐ"
+    }
+  ]
+}

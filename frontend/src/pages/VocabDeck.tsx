@@ -81,6 +81,9 @@ export default function VocabDeckPage() {
           <button className="btn green" onClick={markComplete} disabled={completed}>
             {completed ? "✓ Completed" : "Mark complete"}
           </button>
+          <Link className="btn" to={`/knowledge/vocab/${deck.id}`}>
+            ✅ Knowledge test
+          </Link>
         </div>
       </div>
 

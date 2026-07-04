@@ -1,0 +1,70 @@
+{
+  "id": "phr-clarifying-understanding",
+  "level": "A1",
+  "title": "Clarifying & Understanding",
+  "topic": "communication",
+  "situation": "Asking people to repeat or explain",
+  "description": "Essential phrases for communication breakdowns and learning Portuguese in real conversations.",
+  "phrases": [
+    {
+      "id": "cu-1",
+      "pt": "Desculpa, não entendi.",
+      "en": "Sorry, I didn’t understand.",
+      "ipa": "dʒisˈkuw.pɐ nɐ̃w ẽ.tẽˈdʒi"
+    },
+    {
+      "id": "cu-2",
+      "pt": "Pode repetir, por favor?",
+      "en": "Can you repeat, please?",
+      "ipa": "ˈpɔ.dʒi ʁe.peˈtʃiʁ poʁ faˈvoʁ"
+    },
+    {
+      "id": "cu-3",
+      "pt": "Pode falar mais devagar?",
+      "en": "Can you speak more slowly?",
+      "ipa": "ˈpɔ.dʒi faˈlaʁ majs dʒe.vaˈɡaʁ"
+    },
+    {
+      "id": "cu-4",
+      "pt": "Como se diz isso em português?",
+      "en": "How do you say this in Portuguese?",
+      "ipa": "ˈko.mu si dʒiz ˈi.su ẽj poʁ.tuˈɡes"
+    },
+    {
+      "id": "cu-5",
+      "pt": "O que significa essa palavra?",
+      "en": "What does this word mean?",
+      "ipa": "u ke siɡ.niˈfi.kɐ ˈe.sɐ paˈlavɾɐ"
+    },
+    {
+      "id": "cu-6",
+      "pt": "Pode escrever para mim?",
+      "en": "Can you write it for me?",
+      "ipa": "ˈpɔ.dʒi es.kɾeˈveʁ ˈpa.ɾɐ mĩ"
+    },
+    {
+      "id": "cu-7",
+      "pt": "Eu ainda estou aprendendo português.",
+      "en": "I’m still learning Portuguese.",
+      "ipa": "ew aˈĩ.dɐ eʃˈtow a.pɾẽˈdẽ.du poʁ.tuˈɡes"
+    },
+    {
+      "id": "cu-8",
+      "pt": "Você fala inglês?",
+      "en": "Do you speak English?",
+      "ipa": "voˈse ˈfa.lɐ ĩˈɡles"
+    },
+    {
+      "id": "cu-9",
+      "pt": "Entendi, obrigado.",
+      "en": "I understand, thank you.",
+      "ipa": "ẽ.tẽˈdʒi obɾiˈɡa.du"
+    },
+    {
+      "id": "cu-10",
+      "pt": "Só um minuto, por favor.",
+      "en": "Just a minute, please.",
+      "ipa": "sɔ ũ miˈnu.tu poʁ faˈvoʁ"
+    }
+  ]
+}

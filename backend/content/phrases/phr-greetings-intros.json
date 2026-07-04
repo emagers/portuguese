@@ -1,0 +1,22 @@
+{
+  "id": "phr-greetings-intros",
+  "level": "A1",
+  "title": "Greetings & Introductions",
+  "topic": "social",
+  "situation": "Meeting people and making introductions",
+  "description": "Everyday phrases for saying hello, introducing yourself and reacting politely in Brazil.",
+  "phrases": [
+    { "id": "gi-1", "pt": "Oi, tudo bem?", "en": "Hi, how are you?", "ipa": "oj ˈtu.du ˈbẽj", "note": "The most common casual greeting; 'tudo bem?' works as both 'how are you?' and 'all good?'." },
+    { "id": "gi-2", "pt": "Tudo bem, e você?", "en": "I'm fine, and you?", "ipa": "ˈtu.du ˈbẽj i voˈse" },
+    { "id": "gi-3", "pt": "Bom dia! Como vai?", "en": "Good morning! How's it going?", "ipa": "bõ ˈdʒi.ɐ ˈko.mu vaj" },
+    { "id": "gi-4", "pt": "Meu nome é Ana. E o seu?", "en": "My name is Ana. And yours?", "ipa": "mew ˈno.mi ɛ ˈɐ.nɐ i u sew", "literal": "My name is Ana. And the yours?" },
+    { "id": "gi-5", "pt": "Prazer em conhecer você!", "en": "Nice to meet you!", "ipa": "pɾaˈzeʁ ẽj ko.ɲeˈseʁ voˈse" },
+    { "id": "gi-6", "pt": "De onde você é?", "en": "Where are you from?", "ipa": "dʒi ˈõ.dʒi voˈse ɛ" },
+    { "id": "gi-7", "pt": "Eu sou dos Estados Unidos.", "en": "I'm from the United States.", "ipa": "ew so dus esˈta.dus uˈni.dus" },
+    { "id": "gi-8", "pt": "Como você se chama?", "en": "What's your name?", "ipa": "ˈko.mu voˈse si ˈʃɐ.mɐ", "literal": "How do you call yourself?" },
+    { "id": "gi-9", "pt": "Muito prazer, igualmente.", "en": "Nice to meet you, likewise.", "ipa": "ˈmũj.tu pɾaˈzeʁ i.ɡwawˈmẽ.tʃi" },
+    { "id": "gi-10", "pt": "Até logo! A gente se vê.", "en": "See you soon! See you around.", "ipa": "aˈtɛ ˈlo.gu a ˈʒẽ.tʃi si ve", "note": "'A gente se vê' is a very natural, friendly way to say goodbye." },
+    { "id": "gi-11", "pt": "Tchau, tenha um bom dia!", "en": "Bye, have a good day!", "ipa": "tʃaw ˈtẽ.ɲɐ ũ bõ ˈdʒi.ɐ" },
+    { "id": "gi-12", "pt": "Desculpa, não entendi seu nome.", "en": "Sorry, I didn't catch your name.", "ipa": "dʒisˈkuw.pɐ nɐ̃w ẽ.tẽˈdʒi sew ˈno.mi" }
+  ]
+}

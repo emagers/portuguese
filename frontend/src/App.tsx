@@ -11,6 +11,8 @@ import QuizList from "./pages/QuizList";
 import QuizPage from "./pages/Quiz";
 import Pronunciation from "./pages/Pronunciation";
 import Listening from "./pages/Listening";
+import Reinforcement from "./pages/Reinforcement";
+import KnowledgeTestPage from "./pages/KnowledgeTest";
 
 export default function App() {
   return (
@@ -27,6 +29,8 @@ export default function App() {
         <Route path="/quizzes/:id" element={<QuizPage />} />
         <Route path="/pronunciation" element={<Pronunciation />} />
         <Route path="/listening" element={<Listening />} />
+        <Route path="/reinforcement" element={<Reinforcement />} />
+        <Route path="/knowledge/:type/:id" element={<KnowledgeTestPage />} />
       </Routes>
     </Layout>
   );

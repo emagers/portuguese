@@ -1,0 +1,71 @@
+{
+  "id": "phr-clothes-shopping",
+  "level": "A2",
+  "title": "Clothes Shopping",
+  "topic": "shopping",
+  "situation": "Trying on and buying clothes",
+  "description": "Phrases for sizes, fitting rooms, colors and returns in clothing stores.",
+  "phrases": [
+    {
+      "id": "cs-1",
+      "pt": "Tem esse modelo no tamanho M?",
+      "en": "Do you have this style in size medium?",
+      "ipa": "tẽj ˈe.si moˈdɛ.lu nu taˈmɐ.ɲu ˈɛ.mi"
+    },
+    {
+      "id": "cs-2",
+      "pt": "Posso experimentar?",
+      "en": "Can I try it on?",
+      "ipa": "ˈpɔ.su es.pe.ɾi.mẽˈtaʁ"
+    },
+    {
+      "id": "cs-3",
+      "pt": "Onde fica o provador?",
+      "en": "Where is the fitting room?",
+      "ipa": "ˈõ.dʒi ˈfi.kɐ u pɾo.vaˈdoʁ"
+    },
+    {
+      "id": "cs-4",
+      "pt": "Ficou um pouco apertado.",
+      "en": "It’s a little tight.",
+      "ipa": "fiˈkow ũ ˈpo.ku a.peʁˈta.du"
+    },
+    {
+      "id": "cs-5",
+      "pt": "Tem uma cor mais clara?",
+      "en": "Do you have a lighter color?",
+      "ipa": "tẽj ˈu.mɐ koʁ majs ˈkla.ɾɐ"
+    },
+    {
+      "id": "cs-6",
+      "pt": "Essa calça tem desconto?",
+      "en": "Are these pants discounted?",
+      "ipa": "ˈe.sɐ ˈkaw.sɐ tẽj dʒisˈkõ.tu"
+    },
+    {
+      "id": "cs-7",
+      "pt": "Posso trocar se não servir?",
+      "en": "Can I exchange it if it doesn’t fit?",
+      "ipa": "ˈpɔ.su tɾoˈkaʁ si nɐ̃w seʁˈviʁ"
+    },
+    {
+      "id": "cs-8",
+      "pt": "Vou dar uma olhada primeiro.",
+      "en": "I’ll take a look first.",
+      "ipa": "vow daʁ ˈu.mɐ oˈʎa.dɐ pɾiˈmej.ɾu"
+    },
+    {
+      "id": "cs-9",
+      "pt": "Pode embrulhar para presente?",
+      "en": "Can you gift wrap it?",
+      "ipa": "ˈpɔ.dʒi ẽ.bɾuˈʎaʁ ˈpa.ɾɐ pɾeˈzẽ.tʃi"
+    },
+    {
+      "id": "cs-10",
+      "pt": "Vou pagar parcelado.",
+      "en": "I’ll pay in installments.",
+      "ipa": "vow paˈɡaʁ paʁ.seˈla.du",
+      "note": "Installment payments are very common in Brazil."
+    }
+  ]
+}

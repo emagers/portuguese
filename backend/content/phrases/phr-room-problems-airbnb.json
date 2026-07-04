@@ -1,0 +1,70 @@
+{
+  "id": "phr-room-problems-airbnb",
+  "level": "B1",
+  "title": "Room Problems & Airbnb",
+  "topic": "accommodation",
+  "situation": "Reporting issues with a stay",
+  "description": "Phrases for explaining problems with a hotel room, apartment or Airbnb host.",
+  "phrases": [
+    {
+      "id": "rpa-1",
+      "pt": "O ar-condicionado não está funcionando.",
+      "en": "The air conditioning isn’t working.",
+      "ipa": "u aʁ kõ.dʒi.si.oˈna.du nɐ̃w eʃˈta fũ.si.oˈnɐ̃.du"
+    },
+    {
+      "id": "rpa-2",
+      "pt": "O chuveiro não esquenta.",
+      "en": "The shower doesn’t get hot.",
+      "ipa": "u ʃuˈvej.ɾu nɐ̃w esˈkẽ.tɐ"
+    },
+    {
+      "id": "rpa-3",
+      "pt": "A internet está caindo toda hora.",
+      "en": "The internet keeps dropping all the time.",
+      "ipa": "a ĩ.teʁˈnɛ.tʃi eʃˈta kaˈĩ.du ˈto.dɐ ˈɔ.ɾɐ"
+    },
+    {
+      "id": "rpa-4",
+      "pt": "Tem muito barulho no corredor.",
+      "en": "There’s a lot of noise in the hallway.",
+      "ipa": "tẽj ˈmũj.tu baˈʁu.ʎu nu ko.ʁeˈdoʁ"
+    },
+    {
+      "id": "rpa-5",
+      "pt": "A fechadura está emperrada.",
+      "en": "The lock is stuck.",
+      "ipa": "a fe.ʃaˈdu.ɾɐ eʃˈta ẽ.peˈʁa.dɐ"
+    },
+    {
+      "id": "rpa-6",
+      "pt": "Não encontrei as toalhas.",
+      "en": "I couldn’t find the towels.",
+      "ipa": "nɐ̃w ẽ.kõˈtɾej as toˈa.ʎas"
+    },
+    {
+      "id": "rpa-7",
+      "pt": "O apartamento não estava limpo.",
+      "en": "The apartment wasn’t clean.",
+      "ipa": "u a.paʁ.taˈmẽ.tu nɐ̃w eʃˈta.vɐ ˈlĩ.pu"
+    },
+    {
+      "id": "rpa-8",
+      "pt": "Como faço para entrar no prédio?",
+      "en": "How do I get into the building?",
+      "ipa": "ˈko.mu ˈfa.su ˈpa.ɾɐ ẽˈtɾaʁ nu ˈpɾɛ.dʒu"
+    },
+    {
+      "id": "rpa-9",
+      "pt": "Pode mandar alguém para verificar?",
+      "en": "Can you send someone to check?",
+      "ipa": "ˈpɔ.dʒi mɐ̃ˈdaʁ awˈɡẽj ˈpa.ɾɐ ve.ɾi.fiˈkaʁ"
+    },
+    {
+      "id": "rpa-10",
+      "pt": "Preciso falar com o anfitrião.",
+      "en": "I need to speak with the host.",
+      "ipa": "pɾeˈsi.zu faˈlaʁ kõ u a.nfi.tɾiˈɐ̃w"
+    }
+  ]
+}

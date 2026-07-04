@@ -1,0 +1,71 @@
+{
+  "id": "phr-cafe-bar",
+  "level": "A1",
+  "title": "Café & Bar",
+  "topic": "food",
+  "situation": "Ordering drinks and snacks",
+  "description": "Easy phrases for cafés, bakeries, juice bars and casual bars.",
+  "phrases": [
+    {
+      "id": "cb-1",
+      "pt": "Um café com leite, por favor.",
+      "en": "A coffee with milk, please.",
+      "ipa": "ũ kaˈfɛ kõ ˈlej.tʃi poʁ faˈvoʁ"
+    },
+    {
+      "id": "cb-2",
+      "pt": "Tem pão de queijo?",
+      "en": "Do you have cheese bread?",
+      "ipa": "tẽj pɐ̃w dʒi ˈkej.ʒu"
+    },
+    {
+      "id": "cb-3",
+      "pt": "Quero um suco de laranja natural.",
+      "en": "I want a fresh orange juice.",
+      "ipa": "ˈkɛ.ɾu ũ ˈsu.ku dʒi laˈɾɐ̃.ʒɐ na.tuˈɾaw"
+    },
+    {
+      "id": "cb-4",
+      "pt": "Pode ser sem açúcar?",
+      "en": "Can it be without sugar?",
+      "ipa": "ˈpɔ.dʒi seʁ sẽ aˈsu.kaʁ"
+    },
+    {
+      "id": "cb-5",
+      "pt": "Esse salgado é de quê?",
+      "en": "What is this savory snack filled with?",
+      "ipa": "ˈe.si sawˈɡa.du ɛ dʒi ke"
+    },
+    {
+      "id": "cb-6",
+      "pt": "Me vê uma água com gás.",
+      "en": "Get me a sparkling water.",
+      "ipa": "mi ve ˈu.mɐ ˈa.ɡwɐ kõ ɡas",
+      "note": "“Me vê...” is a casual, common way to order at a counter."
+    },
+    {
+      "id": "cb-7",
+      "pt": "A cerveja está gelada?",
+      "en": "Is the beer cold?",
+      "ipa": "a seʁˈve.ʒɐ eʃˈta ʒeˈla.dɐ"
+    },
+    {
+      "id": "cb-8",
+      "pt": "Vamos pedir uma porção?",
+      "en": "Shall we order a shared appetizer?",
+      "ipa": "ˈvɐ.mus peˈdʒiʁ ˈu.mɐ poʁˈsɐ̃w"
+    },
+    {
+      "id": "cb-9",
+      "pt": "Pode fechar a comanda.",
+      "en": "You can close my tab.",
+      "ipa": "ˈpɔ.dʒi feˈʃaʁ a koˈmɐ̃.dɐ"
+    },
+    {
+      "id": "cb-10",
+      "pt": "Aceita cartão?",
+      "en": "Do you take cards?",
+      "ipa": "aˈsej.tɐ kaʁˈtɐ̃w"
+    }
+  ]
+}

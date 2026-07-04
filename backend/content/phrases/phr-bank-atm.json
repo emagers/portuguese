@@ -1,0 +1,70 @@
+{
+  "id": "phr-bank-atm",
+  "level": "A2",
+  "title": "Bank & ATM",
+  "topic": "money",
+  "situation": "Using banks, ATMs and cash",
+  "description": "Phrases for withdrawing cash, card problems and basic banking needs.",
+  "phrases": [
+    {
+      "id": "ba-1",
+      "pt": "Onde tem um caixa eletrônico por aqui?",
+      "en": "Where is there an ATM around here?",
+      "ipa": "ˈõ.dʒi tẽj ũ ˈkaj.ʃɐ e.leˈtɾõ.ni.ku poʁ aˈki"
+    },
+    {
+      "id": "ba-2",
+      "pt": "Quero sacar dinheiro.",
+      "en": "I want to withdraw cash.",
+      "ipa": "ˈkɛ.ɾu saˈkaʁ dʒiˈɲej.ɾu"
+    },
+    {
+      "id": "ba-3",
+      "pt": "O caixa não aceitou meu cartão.",
+      "en": "The ATM didn’t accept my card.",
+      "ipa": "u ˈkaj.ʃɐ nɐ̃w a.sejˈtow mew kaʁˈtɐ̃w"
+    },
+    {
+      "id": "ba-4",
+      "pt": "Minha senha não está funcionando.",
+      "en": "My password isn’t working.",
+      "ipa": "ˈmi.ɲɐ ˈse.ɲɐ nɐ̃w eʃˈta fũ.si.oˈnɐ̃.du"
+    },
+    {
+      "id": "ba-5",
+      "pt": "Qual é a taxa de saque?",
+      "en": "What is the withdrawal fee?",
+      "ipa": "kwaw ɛ a ˈta.ksɐ dʒi ˈsa.ki"
+    },
+    {
+      "id": "ba-6",
+      "pt": "Preciso trocar dólares por reais.",
+      "en": "I need to exchange dollars for reais.",
+      "ipa": "pɾeˈsi.zu tɾoˈkaʁ ˈdɔ.la.ɾis poʁ ʁeˈajs"
+    },
+    {
+      "id": "ba-7",
+      "pt": "O câmbio está bom hoje?",
+      "en": "Is the exchange rate good today?",
+      "ipa": "u ˈkɐ̃.bju eʃˈta bõ ˈo.ʒi"
+    },
+    {
+      "id": "ba-8",
+      "pt": "Meu cartão foi bloqueado.",
+      "en": "My card was blocked.",
+      "ipa": "mew kaʁˈtɐ̃w foj blo.keˈa.du"
+    },
+    {
+      "id": "ba-9",
+      "pt": "Posso falar com o gerente?",
+      "en": "Can I speak with the manager?",
+      "ipa": "ˈpɔ.su faˈlaʁ kõ u ʒeˈɾẽ.tʃi"
+    },
+    {
+      "id": "ba-10",
+      "pt": "Preciso de um comprovante.",
+      "en": "I need a receipt/proof.",
+      "ipa": "pɾeˈsi.zu dʒi ũ kõ.pɾoˈvɐ̃.tʃi"
+    }
+  ]
+}

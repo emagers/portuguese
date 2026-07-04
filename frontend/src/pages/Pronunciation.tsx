@@ -1,8 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import { api } from "../api/client";
 import { Recorder, speak } from "../api/audio";
-import type { Assessment } from "../types";
-import { SpeakButton } from "../components/common";
+import type { Assessment, PhraseCollection, Problem } from "../types";
+import { Loading, SpeakButton } from "../components/common";
+import PhraseTopicList from "../components/PhraseTopicList";
+import ProblemSession from "../components/ProblemSession";
 
 const SUGGESTIONS = [
   "Bom dia! Tudo bem?",
@@ -24,6 +26,85 @@ function scoreColor(s: number) {
 }
 
 export default function Pronunciation() {
+  const [tab, setTab] = useState<"phrases" | "free">("phrases");
+  const [collectionId, setCollectionId] = useState<string | null>(null);
+
+  return (
+    <div>
+      <div className="page-head">
+        <div>
+          <h1>🎙️ Pronunciation Coach</h1>
+          <p className="muted">
+            Work through common Brazilian phrases by topic, or practise any phrase
+            freely. Recording is scored locally with sound-by-sound tips.
+          </p>
+        </div>
+        <div className="row">
+          <button
+            className={`level-pill ${tab === "phrases" ? "active" : ""}`}
+            onClick={() => { setTab("phrases"); setCollectionId(null); }}
+          >
+            Phrase collections
+          </button>
+          <button
+            className={`level-pill ${tab === "free" ? "active" : ""}`}
+            onClick={() => setTab("free")}
+          >
+            Free practice
+          </button>
+        </div>
+      </div>
+
+      {tab === "free" ? (
+        <FreePractice />
+      ) : collectionId ? (
+        <PhraseWorkthrough collectionId={collectionId} onBack={() => setCollectionId(null)} />
+      ) : (
+        <PhraseTopicList onOpen={setCollectionId} actionLabel="Practise aloud" />
+      )}
+    </div>
+  );
+}
+
+function PhraseWorkthrough({ collectionId, onBack }: { collectionId: string; onBack: () => void }) {
+  const [collection, setCollection] = useState<PhraseCollection | null>(null);
+
+  useEffect(() => {
+    api.phrases(collectionId).then(setCollection).catch(() => setCollection(null));
+  }, [collectionId]);
+
+  if (!collection) return <Loading what="phrases" />;
+
+  const problems: Problem[] = collection.phrases.map((p) => ({
+    id: p.id,
+    kind: "pronounce",
+    instruction: "Say this out loud, then record:",
+    prompt_text: p.pt,
+    audio_text: p.pt,
+    target: p.pt,
+    translation: p.en,
+  }));
+
+  return (
+    <div>
+      <button className="btn ghost" onClick={onBack}>← All topics</button>
+      <div className="page-head mt">
+        <div>
+          <span className="badge blue">{collection.level}</span>
+          <h2 style={{ marginTop: 8 }}>{collection.title}</h2>
+        </div>
+      </div>
+      <ProblemSession
+        problems={problems}
+        onComplete={() => api.markPhrases(collection.id).catch(() => {})}
+        restartLabel="Practice again"
+        onRestart={() => {}}
+      />
+    </div>
+  );
+}
+
+function FreePractice() {
   const [target, setTarget] = useState(SUGGESTIONS[0]);
   const [status, setStatus] = useState<any>(null);
   const [recording, setRecording] = useState(false);
@@ -83,16 +164,6 @@ export default function Pronunciation() {
 
   return (
     <div>
-      <div className="page-head">
-        <div>
-          <h1>🎙️ Pronunciation Coach</h1>
-          <p className="muted">
-            Listen to the phrase, record yourself, and get a score with
-            sound-by-sound feedback — all processed locally.
-          </p>
-        </div>
-      </div>
-
       {!asrReady && (
         <div className="banner">
           <strong>Speech recognition isn't set up yet.</strong> Run{" "}

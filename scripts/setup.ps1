@@ -76,9 +76,13 @@ npm install
 Pop-Location
 
 # --- models ---
-Write-Host "`nDownloading models (Piper voice + Whisper)..." -ForegroundColor Yellow
+Write-Host "`nDownloading models (Piper voices + Whisper)..." -ForegroundColor Yellow
 $env:PYTHONIOENCODING = "utf-8"
 & $venvPy (Join-Path $PSScriptRoot "download_models.py")
+
+# --- picture assets (OpenMoji SVGs for vocabulary emoji) ---
+Write-Host "`nDownloading picture assets (OpenMoji)..." -ForegroundColor Yellow
+& $venvPy (Join-Path $PSScriptRoot "download_emoji.py")
 
 Write-Host "`n=== Setup complete! ===" -ForegroundColor Green
 Write-Host "Start the app with:  powershell -ExecutionPolicy Bypass -File scripts\run.ps1"

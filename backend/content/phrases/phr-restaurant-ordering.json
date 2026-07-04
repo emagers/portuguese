@@ -1,0 +1,71 @@
+{
+  "id": "phr-restaurant-ordering",
+  "level": "A2",
+  "title": "At the Restaurant",
+  "topic": "food",
+  "situation": "Ordering and dining out",
+  "description": "Common phrases for getting a table, ordering food and asking for the check in Brazil.",
+  "phrases": [
+    {
+      "id": "res-1",
+      "pt": "Uma mesa para dois, por favor.",
+      "en": "A table for two, please.",
+      "ipa": "ˈu.mɐ ˈme.zɐ ˈpa.ɾɐ dojs poʁ faˈvoʁ"
+    },
+    {
+      "id": "res-2",
+      "pt": "Tem mesa na área externa?",
+      "en": "Do you have a table outside?",
+      "ipa": "tẽj ˈme.zɐ na ˈa.ɾjɐ eʃˈtɛʁ.nɐ"
+    },
+    {
+      "id": "res-3",
+      "pt": "Posso ver o cardápio?",
+      "en": "Can I see the menu?",
+      "ipa": "ˈpɔ.su veʁ u kaʁˈda.pju"
+    },
+    {
+      "id": "res-4",
+      "pt": "Qual é o prato do dia?",
+      "en": "What’s the dish of the day?",
+      "ipa": "kwaw ɛ u ˈpɾa.tu du ˈdʒi.ɐ"
+    },
+    {
+      "id": "res-5",
+      "pt": "Eu vou querer a moqueca.",
+      "en": "I’ll have the moqueca.",
+      "ipa": "ew vow keˈɾeʁ a moˈkɛ.kɐ"
+    },
+    {
+      "id": "res-6",
+      "pt": "Sem cebola, por favor.",
+      "en": "No onion, please.",
+      "ipa": "sẽ seˈbɔ.lɐ poʁ faˈvoʁ"
+    },
+    {
+      "id": "res-7",
+      "pt": "A carne vem bem passada?",
+      "en": "Does the meat come well done?",
+      "ipa": "a ˈkaʁ.ni vẽj bẽj paˈsa.dɐ"
+    },
+    {
+      "id": "res-8",
+      "pt": "Pode trazer mais guardanapos?",
+      "en": "Can you bring more napkins?",
+      "ipa": "ˈpɔ.dʒi tɾaˈzeʁ majs ɡwaʁ.daˈna.pus"
+    },
+    {
+      "id": "res-9",
+      "pt": "A conta, por favor.",
+      "en": "The check, please.",
+      "ipa": "a ˈkõ.tɐ poʁ faˈvoʁ"
+    },
+    {
+      "id": "res-10",
+      "pt": "O serviço já está incluído?",
+      "en": "Is the service charge already included?",
+      "ipa": "u seʁˈvi.su ʒa eʃˈta ĩ.kluˈi.du",
+      "note": "Many restaurants add a suggested 10% service charge."
+    }
+  ]
+}

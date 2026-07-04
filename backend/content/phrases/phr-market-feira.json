@@ -1,0 +1,72 @@
+{
+  "id": "phr-market-feira",
+  "level": "A1",
+  "title": "Market & Feira",
+  "topic": "shopping",
+  "situation": "Buying food at markets and street fairs",
+  "description": "Natural phrases for choosing produce, asking prices and paying at a feira.",
+  "phrases": [
+    {
+      "id": "mf-1",
+      "pt": "Quanto custa o quilo da banana?",
+      "en": "How much is a kilo of bananas?",
+      "ipa": "ˈkwɐ̃.tu ˈkus.tɐ u ˈki.lu da baˈnɐ̃.nɐ"
+    },
+    {
+      "id": "mf-2",
+      "pt": "Pode escolher para mim?",
+      "en": "Can you pick them for me?",
+      "ipa": "ˈpɔ.dʒi es.koˈʎeʁ ˈpa.ɾɐ mĩ"
+    },
+    {
+      "id": "mf-3",
+      "pt": "Essas mangas estão maduras?",
+      "en": "Are these mangoes ripe?",
+      "ipa": "ˈe.sas ˈmɐ̃.ɡas eʃˈtɐ̃w maˈdu.ɾas"
+    },
+    {
+      "id": "mf-4",
+      "pt": "Quero meio quilo de tomate.",
+      "en": "I want half a kilo of tomatoes.",
+      "ipa": "ˈkɛ.ɾu ˈmej.u ˈki.lu dʒi toˈma.tʃi"
+    },
+    {
+      "id": "mf-5",
+      "pt": "Tem coentro?",
+      "en": "Do you have cilantro?",
+      "ipa": "tẽj koˈẽ.tɾu"
+    },
+    {
+      "id": "mf-6",
+      "pt": "Pode pesar, por favor.",
+      "en": "Can you weigh it, please?",
+      "ipa": "ˈpɔ.dʒi peˈzaʁ poʁ faˈvoʁ"
+    },
+    {
+      "id": "mf-7",
+      "pt": "Está muito caro hoje.",
+      "en": "It’s very expensive today.",
+      "ipa": "eʃˈta ˈmũj.tu ˈka.ɾu ˈo.ʒi"
+    },
+    {
+      "id": "mf-8",
+      "pt": "Faz um descontinho?",
+      "en": "Can you give me a little discount?",
+      "ipa": "fajs ũ dʒis.kõˈtʃi.ɲu",
+      "note": "The diminutive makes the request sound friendlier."
+    },
+    {
+      "id": "mf-9",
+      "pt": "Vou levar só isso.",
+      "en": "I’ll take just this.",
+      "ipa": "vow leˈvaʁ sɔ ˈi.su"
+    },
+    {
+      "id": "mf-10",
+      "pt": "Aceita Pix?",
+      "en": "Do you accept Pix?",
+      "ipa": "aˈsej.tɐ piks",
+      "note": "Pix is Brazil’s instant payment system and is accepted almost everywhere."
+    }
+  ]
+}

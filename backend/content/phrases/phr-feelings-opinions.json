@@ -1,0 +1,70 @@
+{
+  "id": "phr-feelings-opinions",
+  "level": "B1",
+  "title": "Feelings & Opinions",
+  "topic": "feelings",
+  "situation": "Expressing emotions and viewpoints",
+  "description": "Phrases for saying how you feel, agreeing, disagreeing and giving opinions.",
+  "phrases": [
+    {
+      "id": "fo-1",
+      "pt": "Estou muito feliz por você.",
+      "en": "I’m very happy for you.",
+      "ipa": "eʃˈtow ˈmũj.tu feˈliz poʁ voˈse"
+    },
+    {
+      "id": "fo-2",
+      "pt": "Fiquei preocupado com a notícia.",
+      "en": "I got worried about the news.",
+      "ipa": "fiˈkej pɾe.o.kuˈpa.du kõ a noˈtʃi.sjɐ"
+    },
+    {
+      "id": "fo-3",
+      "pt": "Estou meio cansado hoje.",
+      "en": "I’m kind of tired today.",
+      "ipa": "eʃˈtow ˈmej.u kɐ̃ˈsa.du ˈo.ʒi"
+    },
+    {
+      "id": "fo-4",
+      "pt": "Isso me deixou chateado.",
+      "en": "That upset me.",
+      "ipa": "ˈi.su mi dejˈʃow ʃa.teˈa.du"
+    },
+    {
+      "id": "fo-5",
+      "pt": "Na minha opinião, vale a pena.",
+      "en": "In my opinion, it’s worth it.",
+      "ipa": "na ˈmi.ɲɐ o.pi.niˈɐ̃w ˈva.li a ˈpe.nɐ"
+    },
+    {
+      "id": "fo-6",
+      "pt": "Concordo totalmente.",
+      "en": "I totally agree.",
+      "ipa": "kõˈkɔʁ.du to.tawˈmẽ.tʃi"
+    },
+    {
+      "id": "fo-7",
+      "pt": "Não concordo muito com isso.",
+      "en": "I don’t really agree with that.",
+      "ipa": "nɐ̃w kõˈkɔʁ.du ˈmũj.tu kõ ˈi.su"
+    },
+    {
+      "id": "fo-8",
+      "pt": "Acho melhor esperar um pouco.",
+      "en": "I think it’s better to wait a little.",
+      "ipa": "ˈa.ʃu meˈʎɔʁ es.peˈɾaʁ ũ ˈpo.ku"
+    },
+    {
+      "id": "fo-9",
+      "pt": "Faz sentido.",
+      "en": "That makes sense.",
+      "ipa": "fajs sẽˈtʃi.du"
+    },
+    {
+      "id": "fo-10",
+      "pt": "Não tenho certeza ainda.",
+      "en": "I’m not sure yet.",
+      "ipa": "nɐ̃w ˈtẽ.ɲu seʁˈte.zɐ aˈĩ.dɐ"
+    }
+  ]
+}

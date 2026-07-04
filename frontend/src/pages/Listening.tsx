@@ -1,20 +1,15 @@
 import { useEffect, useMemo, useState } from "react";
 import { api } from "../api/client";
 import { speak } from "../api/audio";
-import { LevelFilter, Loading } from "../components/common";
+import type { PhraseCollection } from "../types";
+import { Loading, SpeakButton } from "../components/common";
+import PhraseTopicList from "../components/PhraseTopicList";
 
-interface Item {
-  pt: string;
-  en: string;
-}
 interface Pill {
   id: number;
   word: string;
-  target: boolean;
 }
 
-// Split a sentence into words, stripping surrounding punctuation but keeping
-// internal hyphens/apostrophes (e.g. "segunda-feira").
 function tokenize(sentence: string): string[] {
   return sentence
     .replace(/[“”"'’‘]/g, "")
@@ -22,7 +17,6 @@ function tokenize(sentence: string): string[] {
     .map((w) => w.replace(/^[^\p{L}\p{N}-]+|[^\p{L}\p{N}-]+$/gu, ""))
     .filter(Boolean);
 }
-
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let k = a.length - 1; k > 0; k--) {
@@ -31,121 +25,131 @@ function shuffle<T>(arr: T[]): T[] {
   }
   return a;
 }
-
 const clamp = (n: number, lo: number, hi: number) => Math.max(lo, Math.min(hi, n));
 
 export default function Listening() {
-  const [level, setLevel] = useState<string | null>(null);
-  const [pool, setPool] = useState<Item[] | null>(null);
-  const [bank, setBank] = useState<string[]>([]);
-  const [i, setI] = useState(0);
+  const [collectionId, setCollectionId] = useState<string | null>(null);
+  const [collection, setCollection] = useState<PhraseCollection | null>(null);
+  const [idx, setIdx] = useState(0);
   const [pills, setPills] = useState<Pill[]>([]);
   const [selected, setSelected] = useState<number[]>([]);
   const [checked, setChecked] = useState(false);
+  const [finished, setFinished] = useState(false);
 
   useEffect(() => {
-    setPool(null);
-    setI(0);
-    (async () => {
-      const summaries = await api.storyList(level || undefined).catch(() => []);
-      const chosen = summaries.slice(0, 8);
-      const stories = await Promise.all(chosen.map((s) => api.story(s.id).catch(() => null)));
-      const items: Item[] = [];
-      for (const st of stories) {
-        if (!st) continue;
-        if (st.type === "conversation")
-          st.lines.forEach((l) => items.push({ pt: l.pt, en: l.en }));
-        else st.paragraphs.forEach((p) => items.push({ pt: p.pt, en: p.en }));
+    if (!collectionId) {
+      setCollection(null);
+      return;
+    }
+    setIdx(0);
+    setFinished(false);
+    api.phrases(collectionId).then(setCollection).catch(() => setCollection(null));
+  }, [collectionId]);
+
+  const phrase = collection?.phrases[idx];
+  const target = useMemo(() => (phrase ? tokenize(phrase.pt) : []), [phrase]);
+
+  // Word bank = target words + distractors drawn from the collection's other phrases.
+  useEffect(() => {
+    if (!collection || !phrase) return;
+    const bankWords = new Map<string, string>();
+    for (const p of collection.phrases)
+      for (const w of tokenize(p.pt)) {
+        const k = w.toLowerCase();
+        if (!bankWords.has(k)) bankWords.set(k, w);
       }
-      // Keep sentences that make a manageable word-bank exercise.
-      const playable = items.filter((it) => {
-        const n = tokenize(it.pt).length;
-        return n >= 3 && n <= 12;
-      });
-      // Distractor bank: every unique word across the playable set.
-      const seen = new Map<string, string>();
-      for (const it of playable)
-        for (const w of tokenize(it.pt)) {
-          const key = w.toLowerCase();
-          if (!seen.has(key)) seen.set(key, w);
-        }
-      setBank([...seen.values()]);
-      setPool(shuffle(playable).slice(0, 40));
-    })();
-  }, [level]);
-
-  const item = useMemo(() => pool?.[i], [pool, i]);
-  const target = useMemo(() => (item ? tokenize(item.pt) : []), [item]);
-
-  // Build the word bank (target words + distractors) whenever the clip changes.
-  useEffect(() => {
-    if (!item) return;
     const targetLower = new Set(target.map((w) => w.toLowerCase()));
-    const distractors = shuffle(bank.filter((w) => !targetLower.has(w.toLowerCase()))).slice(
-      0,
-      clamp(Math.round(target.length * 0.8), 3, 8),
-    );
-    const built: Pill[] = [
-      ...target.map((w, k) => ({ id: k, word: w, target: true })),
-      ...distractors.map((w, k) => ({ id: 1000 + k, word: w, target: false })),
-    ];
-    setPills(shuffle(built));
+    const distractors = shuffle(
+      [...bankWords.values()].filter((w) => !targetLower.has(w.toLowerCase())),
+    ).slice(0, clamp(Math.round(target.length * 0.7), 2, 6));
+    const built: Pill[] = shuffle([
+      ...target.map((w, k) => ({ id: k, word: w })),
+      ...distractors.map((w, k) => ({ id: 1000 + k, word: w })),
+    ]);
+    setPills(built);
     setSelected([]);
     setChecked(false);
-  }, [item, target, bank]);
+    // Auto-play the phrase when it appears.
+    speak(phrase.pt);
+  }, [collection, phrase, target]);
 
-  if (!pool) return <Loading what="audio clips" />;
-  if (!item)
+  if (!collectionId) {
     return (
       <div>
         <div className="page-head">
-          <h1>🎧 Listening Practice</h1>
-          <LevelFilter value={level} onChange={setLevel} />
+          <div>
+            <h1>🎧 Listening Practice</h1>
+            <p className="muted">
+              Pick a topic and work through real Brazilian phrases: hear each one and
+              rebuild it by tapping the words (some are extras, to test your ear).
+            </p>
+          </div>
         </div>
-        <div className="empty">No listening material for this level yet.</div>
+        <PhraseTopicList onOpen={setCollectionId} actionLabel="Listen & build" />
       </div>
     );
+  }
+
+  if (!collection || !phrase) return <Loading what="phrases" />;
 
   const pillById = (id: number) => pills.find((p) => p.id === id);
   const selectedWords = selected.map((id) => pillById(id)?.word ?? "");
   const available = pills.filter((p) => !selected.includes(p.id));
-
   const posOk = (k: number) =>
     !!target[k] && selectedWords[k]?.toLowerCase() === target[k].toLowerCase();
-  const correctCount = target.reduce((acc, _w, k) => acc + (posOk(k) ? 1 : 0), 0);
-  const exact =
-    checked && selectedWords.length === target.length && correctCount === target.length;
+  const correctCount = target.reduce((a, _w, k) => a + (posOk(k) ? 1 : 0), 0);
+  const exact = checked && selectedWords.length === target.length && correctCount === target.length;
 
-  const next = () => setI((n) => (n + 1 < pool.length ? n + 1 : 0));
+  const next = () => {
+    if (idx + 1 < collection.phrases.length) {
+      setIdx(idx + 1);
+    } else {
+      api.markPhrases(collection.id).catch(() => {});
+      setFinished(true);
+    }
+  };
+
+  if (finished) {
+    return (
+      <div>
+        <button className="btn ghost" onClick={() => setCollectionId(null)}>← All topics</button>
+        <div className="card center mt-lg">
+          <h1>✓ {collection.title}</h1>
+          <p className="muted">You worked through all {collection.phrases.length} phrases.</p>
+          <div className="row center mt">
+            <button className="btn green" onClick={() => { setIdx(0); setFinished(false); }}>
+              Practice again
+            </button>
+            <a className="btn" href={`/knowledge/phrases/${collection.id}`}>Knowledge test →</a>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div>
-      <div className="page-head">
+      <button className="btn ghost" onClick={() => setCollectionId(null)}>← All topics</button>
+      <div className="page-head mt">
         <div>
-          <h1>🎧 Listening Practice</h1>
-          <p className="muted">
-            Play the sentence, then tap the words in the order you hear them. Some
-            words are extras that were not said — choose carefully!
-          </p>
+          <span className="badge blue">{collection.level}</span>
+          <h1 style={{ marginTop: 8 }}>🎧 {collection.title}</h1>
         </div>
-        <LevelFilter value={level} onChange={setLevel} />
+        <span className="muted">Phrase {idx + 1} / {collection.phrases.length}</span>
+      </div>
+      <div className="progress" style={{ marginBottom: 14 }}>
+        <span style={{ width: `${((idx + 1) / collection.phrases.length) * 100}%` }} />
       </div>
 
       <div className="card">
-        <div className="row spread small muted">
-          <span>Clip {i + 1} / {pool.length}</span>
-          <span>{target.length} words to find</span>
+        <div className="center row" style={{ justifyContent: "center" }}>
+          <button className="btn big" onClick={() => speak(phrase.pt)}>🔊 Play</button>
+          <button className="btn ghost" onClick={() => speak(phrase.pt, 0.7)}>🐢 Slow</button>
         </div>
 
-        <div className="center row" style={{ justifyContent: "center", marginTop: 8 }}>
-          <button className="btn big" onClick={() => speak(item.pt)}>🔊 Play</button>
-          <button className="btn ghost" onClick={() => speak(item.pt, 0.7)}>🐢 Slow</button>
-        </div>
-
-        {/* Your answer */}
         <div className="answer-box mt">
           {selected.length === 0 ? (
-            <span className="muted">Tap words below to build the sentence…</span>
+            <span className="muted">Tap the words in the order you hear them…</span>
           ) : (
             selected.map((id, k) => {
               let cls = "answer-pill";
@@ -154,8 +158,7 @@ export default function Listening() {
                 <button
                   key={id}
                   className={cls}
-                  onClick={() => !checked && setSelected(selected.filter((_, idx) => idx !== k))}
-                  title={checked ? undefined : "Tap to remove"}
+                  onClick={() => !checked && setSelected(selected.filter((_, i) => i !== k))}
                 >
                   {pillById(id)?.word}
                 </button>
@@ -164,7 +167,6 @@ export default function Listening() {
           )}
         </div>
 
-        {/* Word bank */}
         {!checked && (
           <div className="pill-tray mt">
             {available.map((p) => (
@@ -178,48 +180,34 @@ export default function Listening() {
         {checked && (
           <div className={`banner ${exact ? "" : "err"} mt`}>
             {exact ? (
-              <strong>✅ Perfeito! You got every word.</strong>
+              <strong>✅ Perfeito!</strong>
             ) : (
               <>
-                <div>
-                  You matched <strong>{correctCount}</strong> / {target.length} words.
-                </div>
+                <div>You matched <strong>{correctCount}</strong> / {target.length} words.</div>
                 <div className="pt mt" style={{ fontSize: "1.1rem" }}>
-                  Correct answer: {item.pt}
+                  {phrase.pt} <SpeakButton text={phrase.pt} />
                 </div>
               </>
             )}
-            <div className="en mt">{item.en}</div>
+            <div className="en mt">{phrase.en}</div>
+            {phrase.note && <div className="small muted mt">💡 {phrase.note}</div>}
           </div>
         )}
 
         <div className="row mt">
           {!checked ? (
             <>
-              <button
-                className="btn green"
-                onClick={() => setChecked(true)}
-                disabled={selected.length === 0}
-              >
+              <button className="btn green" onClick={() => setChecked(true)} disabled={selected.length === 0}>
                 Check
               </button>
-              <button
-                className="btn ghost"
-                onClick={() => setSelected([])}
-                disabled={selected.length === 0}
-              >
+              <button className="btn ghost" onClick={() => setSelected([])} disabled={selected.length === 0}>
                 Clear
               </button>
             </>
           ) : (
-            <>
-              {!exact && (
-                <button className="btn ghost" onClick={() => { setSelected([]); setChecked(false); }}>
-                  Try again
-                </button>
-              )}
-              <button className="btn" onClick={next}>Next clip →</button>
-            </>
+            <button className="btn" onClick={next}>
+              {idx + 1 < collection.phrases.length ? "Next phrase →" : "Finish"}
+            </button>
           )}
           <button className="btn ghost" onClick={next}>Skip</button>
         </div>

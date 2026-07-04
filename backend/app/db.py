@@ -72,6 +72,12 @@ def init_db() -> None:
                 updated_at TEXT NOT NULL
             );
 
+            CREATE TABLE IF NOT EXISTS phrase_progress (
+                collection_id TEXT PRIMARY KEY,
+                status        TEXT NOT NULL,
+                updated_at    TEXT NOT NULL
+            );
+
             CREATE TABLE IF NOT EXISTS pronunciation_attempts (
                 id         INTEGER PRIMARY KEY AUTOINCREMENT,
                 phrase     TEXT NOT NULL,
@@ -249,6 +255,42 @@ def deck_statuses() -> dict:
     with get_conn() as conn:
         rows = conn.execute("SELECT deck_id, status FROM deck_progress").fetchall()
     return {r["deck_id"]: r["status"] for r in rows}
+
+
+# --------------------------------------------------------------------------- #
+# Phrase collection completion
+# --------------------------------------------------------------------------- #
+def set_phrase_status(collection_id: str, status: str) -> None:
+    with get_conn() as conn:
+        conn.execute(
+            "INSERT INTO phrase_progress(collection_id, status, updated_at) VALUES(?,?,?) "
+            "ON CONFLICT(collection_id) DO UPDATE SET status=excluded.status, updated_at=excluded.updated_at",
+            (collection_id, status, _now()),
+        )
+        conn.commit()
+    log_activity()
+
+
+def phrase_statuses() -> dict:
+    with get_conn() as conn:
+        rows = conn.execute("SELECT collection_id, status FROM phrase_progress").fetchall()
+    return {r["collection_id"]: r["status"] for r in rows}
+
+
+def completed_deck_ids() -> list[str]:
+    with get_conn() as conn:
+        rows = conn.execute(
+            "SELECT deck_id FROM deck_progress WHERE status = 'completed'"
+        ).fetchall()
+    return [r["deck_id"] for r in rows]
+
+
+def completed_phrase_ids() -> list[str]:
+    with get_conn() as conn:
+        rows = conn.execute(
+            "SELECT collection_id FROM phrase_progress WHERE status = 'completed'"
+        ).fetchall()
+    return [r["collection_id"] for r in rows]
 
 
 # --------------------------------------------------------------------------- #

@@ -1,0 +1,70 @@
+{
+  "id": "phr-car-trouble",
+  "level": "B1",
+  "title": "Car Trouble",
+  "topic": "transport",
+  "situation": "Handling breakdowns and repairs",
+  "description": "Phrases for car problems, mechanics, towing and roadside help.",
+  "phrases": [
+    {
+      "id": "ctr-1",
+      "pt": "Meu carro quebrou na estrada.",
+      "en": "My car broke down on the road.",
+      "ipa": "mew ˈka.ʁu keˈbɾow na esˈtɾa.dɐ"
+    },
+    {
+      "id": "ctr-2",
+      "pt": "O pneu furou.",
+      "en": "The tire went flat.",
+      "ipa": "u piˈnew fuˈɾow"
+    },
+    {
+      "id": "ctr-3",
+      "pt": "A bateria descarregou.",
+      "en": "The battery died.",
+      "ipa": "a ba.teˈɾi.ɐ dʒes.kaʁ.ɡow"
+    },
+    {
+      "id": "ctr-4",
+      "pt": "Preciso de um guincho.",
+      "en": "I need a tow truck.",
+      "ipa": "pɾeˈsi.zu dʒi ũ ˈɡĩ.ʃu"
+    },
+    {
+      "id": "ctr-5",
+      "pt": "Tem uma oficina por perto?",
+      "en": "Is there a repair shop nearby?",
+      "ipa": "tẽj ˈu.mɐ o.fiˈsi.nɐ poʁ ˈpɛʁ.tu"
+    },
+    {
+      "id": "ctr-6",
+      "pt": "O motor está fazendo um barulho estranho.",
+      "en": "The engine is making a strange noise.",
+      "ipa": "u moˈtoʁ eʃˈta faˈzẽ.du ũ baˈʁu.ʎu esˈtɾɐ̃.ɲu"
+    },
+    {
+      "id": "ctr-7",
+      "pt": "A luz do painel acendeu.",
+      "en": "The dashboard light came on.",
+      "ipa": "a luz du paˈnew a.sẽˈdew"
+    },
+    {
+      "id": "ctr-8",
+      "pt": "Quanto tempo vai levar o conserto?",
+      "en": "How long will the repair take?",
+      "ipa": "ˈkwɐ̃.tu ˈtẽ.pu vaj leˈvaʁ u kõˈsɛʁ.tu"
+    },
+    {
+      "id": "ctr-9",
+      "pt": "Pode fazer um orçamento?",
+      "en": "Can you give me an estimate?",
+      "ipa": "ˈpɔ.dʒi faˈzeʁ ũ oʁ.saˈmẽ.tu"
+    },
+    {
+      "id": "ctr-10",
+      "pt": "Preciso pegar a estrada hoje.",
+      "en": "I need to hit the road today.",
+      "ipa": "pɾeˈsi.zu peˈɡaʁ a esˈtɾa.dɐ ˈo.ʒi"
+    }
+  ]
+}

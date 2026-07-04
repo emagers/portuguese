@@ -15,6 +15,9 @@ frontend/vite.config.d.ts
 # Downloaded models (large, fetched by scripts/download_models.py)
 backend/models_cache/
 
+# Downloaded OpenMoji SVG assets (fetched by scripts/download_emoji.py)
+frontend/public/openmoji/
+
 # Runtime data (user progress, cached audio)
 backend/data/
 !backend/data/.gitkeep

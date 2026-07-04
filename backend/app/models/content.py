@@ -63,6 +63,7 @@ class VocabCard(_Base):
     pos: Optional[str] = None  # part of speech
     gender: Optional[str] = None  # m / f / None
     ipa: Optional[str] = None
+    emoji: Optional[str] = None  # picture for this word (rendered via OpenMoji)
     example: Optional[Example] = None
     tags: List[str] = Field(default_factory=list)
 
@@ -74,6 +75,28 @@ class VocabDeck(_Base):
     theme: str = "general"
     description: str = ""
     cards: List[VocabCard] = Field(default_factory=list)
+
+
+# --------------------------------------------------------------------------- #
+# Phrasebook (common phrases grouped by situation/topic)
+# --------------------------------------------------------------------------- #
+class Phrase(_Base):
+    id: str
+    pt: str
+    en: str
+    ipa: Optional[str] = None
+    literal: Optional[str] = None  # word-for-word gloss, when helpful
+    note: Optional[str] = None
+
+
+class PhraseCollection(_Base):
+    id: str
+    level: Level
+    title: str
+    topic: str = "general"  # category, e.g. food, travel, social
+    situation: str = ""  # short human description of the situation
+    description: str = ""
+    phrases: List[Phrase] = Field(default_factory=list)
 
 
 # --------------------------------------------------------------------------- #

@@ -1,0 +1,72 @@
+{
+  "id": "phr-social-small-talk",
+  "level": "A1",
+  "title": "Small Talk",
+  "topic": "social",
+  "situation": "Casual everyday conversation",
+  "description": "Friendly phrases for light conversations with people you meet in Brazil.",
+  "phrases": [
+    {
+      "id": "sst-1",
+      "pt": "E aí, tudo certo?",
+      "en": "Hey, all good?",
+      "ipa": "i aˈi ˈtu.du ˈsɛʁ.tu",
+      "note": "Very common and casual among friends and coworkers."
+    },
+    {
+      "id": "sst-2",
+      "pt": "Como foi seu dia?",
+      "en": "How was your day?",
+      "ipa": "ˈko.mu foj sew ˈdʒi.ɐ"
+    },
+    {
+      "id": "sst-3",
+      "pt": "Tá fazendo o quê de bom?",
+      "en": "What have you been up to?",
+      "ipa": "ta faˈzẽ.du u ke dʒi bõ",
+      "literal": "Are you doing what good?"
+    },
+    {
+      "id": "sst-4",
+      "pt": "Faz tempo que a gente não se vê.",
+      "en": "It’s been a while since we saw each other.",
+      "ipa": "fajs ˈtẽ.pu ki a ˈʒẽ.tʃi nɐ̃w si ve"
+    },
+    {
+      "id": "sst-5",
+      "pt": "Que bom te ver!",
+      "en": "It’s so good to see you!",
+      "ipa": "ki bõ tʃi veʁ"
+    },
+    {
+      "id": "sst-6",
+      "pt": "Você mora por aqui?",
+      "en": "Do you live around here?",
+      "ipa": "voˈse ˈmɔ.ɾɐ poʁ aˈki"
+    },
+    {
+      "id": "sst-7",
+      "pt": "Eu trabalho aqui perto.",
+      "en": "I work nearby.",
+      "ipa": "ew tɾaˈba.ʎu aˈki ˈpɛʁ.tu"
+    },
+    {
+      "id": "sst-8",
+      "pt": "Hoje o dia tá corrido.",
+      "en": "Today is a busy day.",
+      "ipa": "ˈo.ʒi u ˈdʒi.ɐ ta koˈʁi.du"
+    },
+    {
+      "id": "sst-9",
+      "pt": "Depois a gente conversa melhor.",
+      "en": "We’ll talk more later.",
+      "ipa": "deˈpojs a ˈʒẽ.tʃi kõˈvɛʁ.sɐ meˈʎɔʁ"
+    },
+    {
+      "id": "sst-10",
+      "pt": "Foi bom falar com você.",
+      "en": "It was nice talking to you.",
+      "ipa": "foj bõ faˈlaʁ kõ voˈse"
+    }
+  ]
+}

@@ -42,6 +42,7 @@ export interface VocabCard {
   pos?: string;
   gender?: string | null;
   ipa?: string;
+  emoji?: string | null;
   example?: Example | null;
   tags: string[];
 }
@@ -130,6 +131,66 @@ export interface ContentSummary {
   subtitle?: string;
   count?: number;
   tags: string[];
+}
+
+export interface Phrase {
+  id: string;
+  pt: string;
+  en: string;
+  ipa?: string;
+  literal?: string;
+  note?: string;
+}
+
+export interface PhraseCollection {
+  id: string;
+  level: Level;
+  title: string;
+  topic: string;
+  situation: string;
+  description: string;
+  phrases: Phrase[];
+}
+
+export type ProblemKind =
+  | "mc_text"
+  | "picture_to_word"
+  | "word_to_picture"
+  | "listening"
+  | "cloze"
+  | "pronounce";
+
+export interface Problem {
+  id: string;
+  kind: ProblemKind;
+  instruction: string;
+  prompt_text?: string | null;
+  prompt_emoji?: string | null;
+  audio_text?: string | null;
+  options?: string[];
+  options_are_emoji?: boolean;
+  answer?: string;
+  target?: string | null;
+  translation?: string | null;
+  reveal_text?: string | null;
+  explanation?: string | null;
+  speak_options?: boolean;
+  source?: string;
+}
+
+export interface KnowledgeTest {
+  id: string;
+  title: string;
+  kind: string;
+  section: { type: string; id: string; title: string; level: Level };
+  problems: Problem[];
+}
+
+export interface ReinforcementStatus {
+  completed_decks: { id: string; title: string; level: Level }[];
+  completed_phrase_collections: { id: string; title: string; level: Level }[];
+  term_count: number;
+  ready: boolean;
 }
 
 export interface LevelInfo {

@@ -1,0 +1,70 @@
+{
+  "id": "phr-phone-internet",
+  "level": "A2",
+  "title": "Phone & Internet",
+  "topic": "communication",
+  "situation": "Making calls and getting connected",
+  "description": "Phrases for phones, Wi-Fi, signal, data plans and messaging.",
+  "phrases": [
+    {
+      "id": "pi-1",
+      "pt": "Você tem Wi-Fi aqui?",
+      "en": "Do you have Wi-Fi here?",
+      "ipa": "voˈse tẽj waj faj aˈki"
+    },
+    {
+      "id": "pi-2",
+      "pt": "Qual é a senha da internet?",
+      "en": "What is the internet password?",
+      "ipa": "kwaw ɛ a ˈse.ɲɐ da ĩ.teʁˈnɛ.tʃi"
+    },
+    {
+      "id": "pi-3",
+      "pt": "Meu celular está sem sinal.",
+      "en": "My phone has no signal.",
+      "ipa": "mew se.luˈlaʁ eʃˈta sẽ siˈnaw"
+    },
+    {
+      "id": "pi-4",
+      "pt": "A internet está muito lenta.",
+      "en": "The internet is very slow.",
+      "ipa": "a ĩ.teʁˈnɛ.tʃi eʃˈta ˈmũj.tu ˈlẽ.tɐ"
+    },
+    {
+      "id": "pi-5",
+      "pt": "Preciso comprar créditos.",
+      "en": "I need to buy phone credit.",
+      "ipa": "pɾeˈsi.zu kõˈpɾaʁ ˈkɾɛ.dʒi.tus"
+    },
+    {
+      "id": "pi-6",
+      "pt": "Você pode me mandar pelo WhatsApp?",
+      "en": "Can you send it to me on WhatsApp?",
+      "ipa": "voˈse ˈpɔ.dʒi mi mɐ̃ˈdaʁ ˈpe.lu waˈtsap"
+    },
+    {
+      "id": "pi-7",
+      "pt": "A chamada está cortando.",
+      "en": "The call is cutting out.",
+      "ipa": "a ʃaˈma.dɐ eʃˈta koʁˈtɐ̃.du"
+    },
+    {
+      "id": "pi-8",
+      "pt": "Não consigo ouvir direito.",
+      "en": "I can’t hear properly.",
+      "ipa": "nɐ̃w kõˈsi.ɡu oˈviʁ dʒiˈɾej.tu"
+    },
+    {
+      "id": "pi-9",
+      "pt": "Vou te ligar mais tarde.",
+      "en": "I’ll call you later.",
+      "ipa": "vow tʃi liˈɡaʁ majs ˈtaʁ.dʒi"
+    },
+    {
+      "id": "pi-10",
+      "pt": "Meu carregador não funciona.",
+      "en": "My charger doesn’t work.",
+      "ipa": "mew ka.ʁe.ɡaˈdoʁ nɐ̃w fũ.siˈo.nɐ"
+    }
+  ]
+}

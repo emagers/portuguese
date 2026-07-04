@@ -1,0 +1,70 @@
+{
+  "id": "phr-emergency-help-police",
+  "level": "A2",
+  "title": "Help & Police",
+  "topic": "emergencies",
+  "situation": "Asking for urgent help",
+  "description": "Important phrases for emergencies, calling police and getting assistance quickly.",
+  "phrases": [
+    {
+      "id": "ehp-1",
+      "pt": "Socorro!",
+      "en": "Help!",
+      "ipa": "soˈko.ʁu"
+    },
+    {
+      "id": "ehp-2",
+      "pt": "Chame a polícia, por favor.",
+      "en": "Call the police, please.",
+      "ipa": "ˈʃa.mi a poˈli.sjɐ poʁ faˈvoʁ"
+    },
+    {
+      "id": "ehp-3",
+      "pt": "Preciso de ajuda agora.",
+      "en": "I need help now.",
+      "ipa": "pɾeˈsi.zu dʒi aˈʒu.dɐ aˈɡɔ.ɾɐ"
+    },
+    {
+      "id": "ehp-4",
+      "pt": "Roubaram minha bolsa.",
+      "en": "They stole my bag.",
+      "ipa": "ʁowˈba.ɾɐ̃w ˈmi.ɲɐ ˈbow.sɐ"
+    },
+    {
+      "id": "ehp-5",
+      "pt": "Fui assaltado.",
+      "en": "I was mugged.",
+      "ipa": "fuj a.sawˈta.du"
+    },
+    {
+      "id": "ehp-6",
+      "pt": "Onde fica a delegacia mais próxima?",
+      "en": "Where is the nearest police station?",
+      "ipa": "ˈõ.dʒi ˈfi.kɐ a de.le.ɡaˈsi.ɐ majs ˈpɾɔ.si.mɐ"
+    },
+    {
+      "id": "ehp-7",
+      "pt": "Quero fazer um boletim de ocorrência.",
+      "en": "I want to file a police report.",
+      "ipa": "ˈkɛ.ɾu faˈzeʁ ũ bo.leˈtʃĩ dʒi o.koˈʁẽ.sjɐ"
+    },
+    {
+      "id": "ehp-8",
+      "pt": "Não estou me sentindo seguro.",
+      "en": "I don’t feel safe.",
+      "ipa": "nɐ̃w eʃˈtow mi sẽˈtʃĩ.du seˈɡu.ɾu"
+    },
+    {
+      "id": "ehp-9",
+      "pt": "Tem alguém me seguindo.",
+      "en": "Someone is following me.",
+      "ipa": "tẽj awˈɡẽj mi seˈɡĩ.du"
+    },
+    {
+      "id": "ehp-10",
+      "pt": "Pode ficar comigo até a ajuda chegar?",
+      "en": "Can you stay with me until help arrives?",
+      "ipa": "ˈpɔ.dʒi fiˈkaʁ koˈmi.ɡu aˈtɛ a aˈʒu.dɐ ʃeˈɡaʁ"
+    }
+  ]
+}

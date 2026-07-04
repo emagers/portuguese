@@ -1,0 +1,70 @@
+{
+  "id": "phr-taxi-uber",
+  "level": "A1",
+  "title": "Taxi & Uber",
+  "topic": "travel",
+  "situation": "Taking rides around town",
+  "description": "Simple phrases for calling rides, confirming destinations and handling payments.",
+  "phrases": [
+    {
+      "id": "tu-1",
+      "pt": "Você é o motorista do aplicativo?",
+      "en": "Are you the app driver?",
+      "ipa": "voˈse ɛ u mo.toˈɾis.tɐ du a.pli.kaˈtʃi.vu"
+    },
+    {
+      "id": "tu-2",
+      "pt": "O destino é este endereço.",
+      "en": "The destination is this address.",
+      "ipa": "u dʒesˈtʃi.nu ɛ ˈeʃ.tʃi ẽ.deˈɾe.su"
+    },
+    {
+      "id": "tu-3",
+      "pt": "Pode seguir pelo GPS.",
+      "en": "You can follow the GPS.",
+      "ipa": "ˈpɔ.dʒi seˈɡiʁ pelu ʒe pe ɛs"
+    },
+    {
+      "id": "tu-4",
+      "pt": "Tem trânsito agora?",
+      "en": "Is there traffic now?",
+      "ipa": "tẽj ˈtɾɐ̃.zi.tu aˈɡɔ.ɾɐ"
+    },
+    {
+      "id": "tu-5",
+      "pt": "Pode parar aqui na esquina.",
+      "en": "You can stop here at the corner.",
+      "ipa": "ˈpɔ.dʒi paˈɾaʁ aˈki na esˈki.nɐ"
+    },
+    {
+      "id": "tu-6",
+      "pt": "Quanto deu a corrida?",
+      "en": "How much was the ride?",
+      "ipa": "ˈkwɐ̃.tu dew a koˈʁi.dɐ"
+    },
+    {
+      "id": "tu-7",
+      "pt": "Vou pagar no cartão.",
+      "en": "I’ll pay by card.",
+      "ipa": "vow paˈɡaʁ nu kaʁˈtɐ̃w"
+    },
+    {
+      "id": "tu-8",
+      "pt": "Pode ligar o ar-condicionado?",
+      "en": "Can you turn on the air conditioning?",
+      "ipa": "ˈpɔ.dʒi liˈɡaʁ u aʁ kõ.dʒi.si.oˈna.du"
+    },
+    {
+      "id": "tu-9",
+      "pt": "Estou com pressa.",
+      "en": "I’m in a hurry.",
+      "ipa": "eʃˈtow kõ ˈpɾɛ.sɐ"
+    },
+    {
+      "id": "tu-10",
+      "pt": "Obrigado, boa noite.",
+      "en": "Thanks, good night.",
+      "ipa": "obɾiˈɡa.du ˈbo.ɐ ˈnoj.tʃi"
+    }
+  ]
+}

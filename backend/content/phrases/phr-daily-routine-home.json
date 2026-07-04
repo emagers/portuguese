@@ -1,0 +1,70 @@
+{
+  "id": "phr-daily-routine-home",
+  "level": "A1",
+  "title": "Daily Routine & Home",
+  "topic": "daily",
+  "situation": "Talking about everyday life at home",
+  "description": "Simple phrases for describing routines, meals, work and home activities.",
+  "phrases": [
+    {
+      "id": "drh-1",
+      "pt": "Eu acordo às sete horas.",
+      "en": "I wake up at seven o’clock.",
+      "ipa": "ew aˈkɔʁ.du as ˈsɛ.tʃi ˈɔ.ɾas"
+    },
+    {
+      "id": "drh-2",
+      "pt": "Tomo café da manhã em casa.",
+      "en": "I have breakfast at home.",
+      "ipa": "ˈto.mu kaˈfɛ da maˈɲɐ̃ ẽj ˈka.zɐ"
+    },
+    {
+      "id": "drh-3",
+      "pt": "Vou trabalhar de ônibus.",
+      "en": "I go to work by bus.",
+      "ipa": "vow tɾa.baˈʎaʁ dʒi ˈõ.ni.bus"
+    },
+    {
+      "id": "drh-4",
+      "pt": "Chego em casa tarde.",
+      "en": "I get home late.",
+      "ipa": "ˈʃe.ɡu ẽj ˈka.zɐ ˈtaʁ.dʒi"
+    },
+    {
+      "id": "drh-5",
+      "pt": "Hoje vou cozinhar.",
+      "en": "Today I’m going to cook.",
+      "ipa": "ˈo.ʒi vow ko.ziˈɲaʁ"
+    },
+    {
+      "id": "drh-6",
+      "pt": "A geladeira está vazia.",
+      "en": "The fridge is empty.",
+      "ipa": "a ʒe.laˈdej.ɾɐ eʃˈta vaˈzi.ɐ"
+    },
+    {
+      "id": "drh-7",
+      "pt": "Vou tomar banho.",
+      "en": "I’m going to take a shower.",
+      "ipa": "vow toˈmaʁ ˈbɐ.ɲu"
+    },
+    {
+      "id": "drh-8",
+      "pt": "Preciso descansar um pouco.",
+      "en": "I need to rest a little.",
+      "ipa": "pɾeˈsi.zu dʒes.kɐ̃ˈsaʁ ũ ˈpo.ku"
+    },
+    {
+      "id": "drh-9",
+      "pt": "Vou dormir cedo hoje.",
+      "en": "I’m going to sleep early today.",
+      "ipa": "vow doʁˈmiʁ ˈse.du ˈo.ʒi"
+    },
+    {
+      "id": "drh-10",
+      "pt": "Amanhã eu resolvo isso.",
+      "en": "I’ll handle this tomorrow.",
+      "ipa": "a.maˈɲɐ̃ ew ʁeˈzɔw.vu ˈi.su"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "phr-photos-tours",
+  "level": "B1",
+  "title": "Photos & Tours",
+  "topic": "tourism",
+  "situation": "Taking photos and arranging tours",
+  "description": "Phrases for asking for photos, booking tours and enjoying tourist experiences.",
+  "phrases": [
+    {
+      "id": "ptour-1",
+      "pt": "Você pode tirar uma foto nossa?",
+      "en": "Can you take a photo of us?",
+      "ipa": "voˈse ˈpɔ.dʒi tʃiˈɾaʁ ˈu.mɐ ˈfɔ.tu ˈnɔ.sɐ"
+    },
+    {
+      "id": "ptour-2",
+      "pt": "Pode tirar mais uma na horizontal?",
+      "en": "Can you take one more horizontally?",
+      "ipa": "ˈpɔ.dʒi tʃiˈɾaʁ majs ˈu.mɐ na o.ɾi.zõˈtaw"
+    },
+    {
+      "id": "ptour-3",
+      "pt": "Onde é o melhor lugar para ver o pôr do sol?",
+      "en": "Where is the best place to watch the sunset?",
+      "ipa": "ˈõ.dʒi ɛ u meˈʎɔʁ luˈɡaʁ ˈpa.ɾɐ veʁ u poʁ du sɔw"
+    },
+    {
+      "id": "ptour-4",
+      "pt": "Queremos fazer um passeio de barco.",
+      "en": "We want to take a boat tour.",
+      "ipa": "keˈɾe.mus faˈzeʁ ũ paˈsej.u dʒi ˈbaʁ.ku"
+    },
+    {
+      "id": "ptour-5",
+      "pt": "O guia fala português e inglês?",
+      "en": "Does the guide speak Portuguese and English?",
+      "ipa": "u ˈɡi.ɐ ˈfa.lɐ poʁ.tuˈɡes i ĩˈɡles"
+    },
+    {
+      "id": "ptour-6",
+      "pt": "O passeio inclui transporte?",
+      "en": "Does the tour include transportation?",
+      "ipa": "u paˈsej.u ĩˈkluj tɾɐ̃sˈpɔʁ.tʃi"
+    },
+    {
+      "id": "ptour-7",
+      "pt": "Que roupa devo usar?",
+      "en": "What clothes should I wear?",
+      "ipa": "ki ˈʁo.pɐ ˈdɛ.vu uˈzaʁ"
+    },
+    {
+      "id": "ptour-8",
+      "pt": "Precisa levar água?",
+      "en": "Do we need to bring water?",
+      "ipa": "pɾeˈsi.zɐ leˈvaʁ ˈa.ɡwɐ"
+    },
+    {
+      "id": "ptour-9",
+      "pt": "Foi uma experiência incrível.",
+      "en": "It was an incredible experience.",
+      "ipa": "foj ˈu.mɐ es.pe.ɾiˈẽ.sjɐ ĩˈkɾi.vew"
+    },
+    {
+      "id": "ptour-10",
+      "pt": "Você recomenda outro lugar?",
+      "en": "Do you recommend another place?",
+      "ipa": "voˈse ʁe.koˈmẽ.dɐ ˈow.tɾu luˈɡaʁ"
+    }
+  ]
+}

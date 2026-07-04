@@ -77,6 +77,13 @@ except Exception as exc:  # pragma: no cover
     logger.warning("Progress router unavailable: %s", exc)
 
 try:
+    from .routers import practice as practice_router
+
+    app.include_router(practice_router.router)
+except Exception as exc:  # pragma: no cover
+    logger.warning("Practice router unavailable: %s", exc)
+
+try:
     from .routers import tts as tts_router
 
     app.include_router(tts_router.router)

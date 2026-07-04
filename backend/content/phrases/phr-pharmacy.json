@@ -1,0 +1,70 @@
+{
+  "id": "phr-pharmacy",
+  "level": "A2",
+  "title": "At the Pharmacy",
+  "topic": "health",
+  "situation": "Buying medicine and basic health items",
+  "description": "Phrases for asking a pharmacist about common medicines and instructions.",
+  "phrases": [
+    {
+      "id": "ph-1",
+      "pt": "Preciso de um remédio para dor de cabeça.",
+      "en": "I need medicine for a headache.",
+      "ipa": "pɾeˈsi.zu dʒi ũ ʁeˈmɛ.dʒu ˈpa.ɾɐ doʁ dʒi kaˈbe.sɐ"
+    },
+    {
+      "id": "ph-2",
+      "pt": "Tem genérico desse medicamento?",
+      "en": "Do you have a generic version of this medication?",
+      "ipa": "tẽj ʒeˈnɛ.ɾi.ku ˈde.si me.dʒi.kaˈmẽ.tu"
+    },
+    {
+      "id": "ph-3",
+      "pt": "Precisa de receita?",
+      "en": "Do I need a prescription?",
+      "ipa": "pɾeˈsi.zɐ dʒi ʁeˈsej.tɐ"
+    },
+    {
+      "id": "ph-4",
+      "pt": "Como eu devo tomar?",
+      "en": "How should I take it?",
+      "ipa": "ˈko.mu ew ˈdɛ.vu toˈmaʁ"
+    },
+    {
+      "id": "ph-5",
+      "pt": "Quantas vezes por dia?",
+      "en": "How many times a day?",
+      "ipa": "ˈkwɐ̃.tas ˈve.zis poʁ ˈdʒi.ɐ"
+    },
+    {
+      "id": "ph-6",
+      "pt": "Estou com tosse e febre.",
+      "en": "I have a cough and a fever.",
+      "ipa": "eʃˈtow kõ ˈtɔ.si i ˈfɛ.bɾi"
+    },
+    {
+      "id": "ph-7",
+      "pt": "Tem algo para alergia?",
+      "en": "Do you have something for allergies?",
+      "ipa": "tẽj ˈaw.ɡu ˈpa.ɾɐ a.leʁˈʒi.ɐ"
+    },
+    {
+      "id": "ph-8",
+      "pt": "Esse remédio dá sono?",
+      "en": "Does this medicine make you sleepy?",
+      "ipa": "ˈe.si ʁeˈmɛ.dʒu da ˈso.nu"
+    },
+    {
+      "id": "ph-9",
+      "pt": "Estou procurando protetor solar.",
+      "en": "I’m looking for sunscreen.",
+      "ipa": "eʃˈtow pɾo.kuˈɾɐ̃.du pɾo.teˈtoʁ soˈlaʁ"
+    },
+    {
+      "id": "ph-10",
+      "pt": "Pode me explicar a dosagem?",
+      "en": "Can you explain the dosage to me?",
+      "ipa": "ˈpɔ.dʒi mi es.pliˈkaʁ a doˈza.ʒẽj"
+    }
+  ]
+}

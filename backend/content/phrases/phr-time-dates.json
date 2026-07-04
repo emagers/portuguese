@@ -1,0 +1,70 @@
+{
+  "id": "phr-time-dates",
+  "level": "A1",
+  "title": "Time & Dates",
+  "topic": "numbers-time",
+  "situation": "Telling time and dates",
+  "description": "Common phrases for asking the time, saying dates and talking about schedules.",
+  "phrases": [
+    {
+      "id": "td-1",
+      "pt": "Que horas são?",
+      "en": "What time is it?",
+      "ipa": "ki ˈɔ.ɾas sɐ̃w"
+    },
+    {
+      "id": "td-2",
+      "pt": "São três e meia.",
+      "en": "It’s three thirty.",
+      "ipa": "sɐ̃w tɾes i ˈmej.ɐ"
+    },
+    {
+      "id": "td-3",
+      "pt": "Hoje é segunda-feira.",
+      "en": "Today is Monday.",
+      "ipa": "ˈo.ʒi ɛ seˈɡũ.dɐ ˈfej.ɾɐ"
+    },
+    {
+      "id": "td-4",
+      "pt": "Meu aniversário é em julho.",
+      "en": "My birthday is in July.",
+      "ipa": "mew a.ni.veʁˈsa.ɾju ɛ ẽj ˈʒu.ʎu"
+    },
+    {
+      "id": "td-5",
+      "pt": "A loja abre às nove.",
+      "en": "The store opens at nine.",
+      "ipa": "a ˈlɔ.ʒɐ ˈa.bɾi az ˈnɔ.vi"
+    },
+    {
+      "id": "td-6",
+      "pt": "Fecha ao meio-dia.",
+      "en": "It closes at noon.",
+      "ipa": "ˈfe.ʃɐ aw ˈmej.u ˈdʒi.ɐ"
+    },
+    {
+      "id": "td-7",
+      "pt": "Chego em quinze minutos.",
+      "en": "I’ll arrive in fifteen minutes.",
+      "ipa": "ˈʃe.ɡu ẽj ˈkĩ.zi miˈnu.tus"
+    },
+    {
+      "id": "td-8",
+      "pt": "Daqui a pouco eu vou.",
+      "en": "I’ll go in a little while.",
+      "ipa": "daˈki a ˈpo.ku ew vow"
+    },
+    {
+      "id": "td-9",
+      "pt": "Semana que vem estou livre.",
+      "en": "I’m free next week.",
+      "ipa": "seˈmɐ̃.nɐ ki vẽj eʃˈtow ˈli.vɾi"
+    },
+    {
+      "id": "td-10",
+      "pt": "Ontem foi feriado.",
+      "en": "Yesterday was a holiday.",
+      "ipa": "ˈõ.tẽj foj fe.ɾiˈa.du"
+    }
+  ]
+}

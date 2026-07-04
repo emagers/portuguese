@@ -1,0 +1,70 @@
+{
+  "id": "phr-airport",
+  "level": "A2",
+  "title": "At the Airport",
+  "topic": "travel",
+  "situation": "Arrivals, departures and airport services",
+  "description": "Practical phrases for navigating Brazilian airports and flights.",
+  "phrases": [
+    {
+      "id": "air-1",
+      "pt": "Onde fica o balcão de check-in?",
+      "en": "Where is the check-in counter?",
+      "ipa": "ˈõ.dʒi ˈfi.kɐ u bawˈkɐ̃w dʒi tʃeˈkĩ"
+    },
+    {
+      "id": "air-2",
+      "pt": "Tenho uma mala para despachar.",
+      "en": "I have a bag to check.",
+      "ipa": "ˈtẽ.ɲu ˈu.mɐ ˈma.lɐ ˈpa.ɾɐ dʒis.paˈʃaʁ"
+    },
+    {
+      "id": "air-3",
+      "pt": "Qual é o portão de embarque?",
+      "en": "What is the boarding gate?",
+      "ipa": "kwaw ɛ u poʁˈtɐ̃w dʒi ẽˈbaʁ.ki"
+    },
+    {
+      "id": "air-4",
+      "pt": "Meu voo está atrasado?",
+      "en": "Is my flight delayed?",
+      "ipa": "mew vo.u eʃˈta a.tɾaˈza.du"
+    },
+    {
+      "id": "air-5",
+      "pt": "Perdi minha conexão.",
+      "en": "I missed my connection.",
+      "ipa": "peʁˈdʒi ˈmi.ɲɐ ko.neˈksɐ̃w"
+    },
+    {
+      "id": "air-6",
+      "pt": "Onde pego a minha bagagem?",
+      "en": "Where do I pick up my luggage?",
+      "ipa": "ˈõ.dʒi ˈpɛ.ɡu a ˈmi.ɲɐ baˈɡa.ʒẽj"
+    },
+    {
+      "id": "air-7",
+      "pt": "Minha mala não apareceu.",
+      "en": "My bag didn’t show up.",
+      "ipa": "ˈmi.ɲɐ ˈma.lɐ nɐ̃w a.pa.ɾeˈsew"
+    },
+    {
+      "id": "air-8",
+      "pt": "Preciso declarar alguma coisa?",
+      "en": "Do I need to declare anything?",
+      "ipa": "pɾeˈsi.zu de.klaˈɾaʁ awˈɡu.mɐ ˈkoj.zɐ"
+    },
+    {
+      "id": "air-9",
+      "pt": "Tem táxi oficial aqui?",
+      "en": "Is there an official taxi here?",
+      "ipa": "tẽj ˈtak.si o.fi.siˈaw aˈki"
+    },
+    {
+      "id": "air-10",
+      "pt": "Onde compro um chip para celular?",
+      "en": "Where can I buy a SIM card for my phone?",
+      "ipa": "ˈõ.dʒi ˈkõ.pɾu ũ ʃip ˈpa.ɾɐ se.luˈlaʁ"
+    }
+  ]
+}

@@ -15,6 +15,7 @@ from .config import LEVELS, settings
 from .models import (
     ContentSummary,
     GrammarLesson,
+    PhraseCollection,
     Quiz,
     Story,
     VocabDeck,
@@ -37,6 +38,7 @@ class ContentStore:
         self.vocab: Dict[str, VocabDeck] = {}
         self.stories: Dict[str, Story] = {}
         self.quizzes: Dict[str, Quiz] = {}
+        self.phrases: Dict[str, PhraseCollection] = {}
         self.errors: List[str] = []
         self.reload()
 
@@ -46,12 +48,14 @@ class ContentStore:
         self.vocab.clear()
         self.stories.clear()
         self.quizzes.clear()
+        self.phrases.clear()
         self.errors.clear()
 
         self._load_dir("grammar", GrammarLesson, self.grammar)
         self._load_dir("vocabulary", VocabDeck, self.vocab)
         self._load_dir("stories", Story, self.stories)
         self._load_dir("tests", Quiz, self.quizzes)
+        self._load_dir("phrases", PhraseCollection, self.phrases)
 
     def _load_dir(self, sub: str, model, target: Dict) -> None:
         directory = self.content_dir / sub
@@ -154,6 +158,28 @@ class ContentStore:
         ]
 
     # ------------------------------------------------------------------ #
+    # Phrasebook
+    # ------------------------------------------------------------------ #
+    def phrase_list(self, level: Optional[str] = None) -> List[ContentSummary]:
+        cols = [c for c in self.phrases.values() if not level or c.level == level]
+        cols.sort(key=lambda c: (c.topic, _level_sort_key(c.level), c.title))
+        return [
+            ContentSummary(
+                id=c.id,
+                level=c.level,
+                title=c.title,
+                kind="phrases",
+                subtitle=c.situation or c.description,
+                count=len(c.phrases),
+                tags=[c.topic],
+            )
+            for c in cols
+        ]
+
+    def phrase_topics(self) -> List[str]:
+        return sorted({c.topic for c in self.phrases.values()})
+
+    # ------------------------------------------------------------------ #
     def stats(self) -> dict:
         return {
             "grammar": len(self.grammar),
@@ -162,6 +188,8 @@ class ContentStore:
             "stories": len(self.stories),
             "quizzes": len(self.quizzes),
             "quiz_questions": sum(len(q.questions) for q in self.quizzes.values()),
+            "phrase_collections": len(self.phrases),
+            "phrases": sum(len(c.phrases) for c in self.phrases.values()),
             "errors": self.errors,
         }
 

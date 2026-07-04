@@ -1,0 +1,70 @@
+{
+  "id": "phr-driving-gas",
+  "level": "A2",
+  "title": "Driving & Gas Station",
+  "topic": "transport",
+  "situation": "Driving and fueling a car",
+  "description": "Phrases for roads, parking, fuel and basic driving needs.",
+  "phrases": [
+    {
+      "id": "dg-1",
+      "pt": "Onde tem um posto de gasolina?",
+      "en": "Where is there a gas station?",
+      "ipa": "ˈõ.dʒi tẽj ũ ˈpos.tu dʒi ɡa.zoˈli.nɐ"
+    },
+    {
+      "id": "dg-2",
+      "pt": "Completa com gasolina, por favor.",
+      "en": "Fill it with gasoline, please.",
+      "ipa": "kõˈplɛ.tɐ kõ ɡa.zoˈli.nɐ poʁ faˈvoʁ"
+    },
+    {
+      "id": "dg-3",
+      "pt": "Pode calibrar os pneus?",
+      "en": "Can you check the tire pressure?",
+      "ipa": "ˈpɔ.dʒi ka.liˈbɾaʁ us piˈnews"
+    },
+    {
+      "id": "dg-4",
+      "pt": "Tem estacionamento por aqui?",
+      "en": "Is there parking around here?",
+      "ipa": "tẽj es.ta.si.o.naˈmẽ.tu poʁ aˈki"
+    },
+    {
+      "id": "dg-5",
+      "pt": "É permitido estacionar aqui?",
+      "en": "Is parking allowed here?",
+      "ipa": "ɛ peʁ.miˈtʃi.du es.ta.si.oˈnaʁ aˈki"
+    },
+    {
+      "id": "dg-6",
+      "pt": "A estrada está boa?",
+      "en": "Is the road good?",
+      "ipa": "a esˈtɾa.dɐ eʃˈta ˈbo.ɐ"
+    },
+    {
+      "id": "dg-7",
+      "pt": "Tem pedágio no caminho?",
+      "en": "Is there a toll on the way?",
+      "ipa": "tẽj peˈda.ʒju nu kaˈmi.ɲu"
+    },
+    {
+      "id": "dg-8",
+      "pt": "O limite de velocidade é oitenta.",
+      "en": "The speed limit is eighty.",
+      "ipa": "u liˈmi.tʃi dʒi ve.lo.siˈda.dʒi ɛ ojˈtẽ.tɐ"
+    },
+    {
+      "id": "dg-9",
+      "pt": "Preciso alugar um carro.",
+      "en": "I need to rent a car.",
+      "ipa": "pɾeˈsi.zu a.luˈɡaʁ ũ ˈka.ʁu"
+    },
+    {
+      "id": "dg-10",
+      "pt": "O seguro está incluído?",
+      "en": "Is insurance included?",
+      "ipa": "u seˈɡu.ɾu eʃˈta ĩ.kluˈi.du"
+    }
+  ]
+}

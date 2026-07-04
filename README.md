@@ -9,12 +9,14 @@ records your voice and gives sound-by-sound feedback.
 
 | # | Feature | What it does |
 |---|---------|--------------|
-| 1 | **Knowledge tests** | 37+ interactive quizzes / 220+ questions — MC, fill-blank, translation, listening — with instant feedback + saved scores |
+| 1 | **Knowledge tests** | Interactive quizzes plus an auto-generated knowledge test for **every** grammar lesson, vocab deck and phrase collection — MC, fill-blank, translation, listening — with instant feedback + saved scores |
 | 2 | **Grammar lessons** | 70+ lessons A1→C2 with full conjugation tables, examples, key points, common-mistake callouts, and per-cell click-to-listen. Completion is tracked. |
-| 3 | **Vocabulary** | 50+ themed decks / 570+ cards (finite sets like days, months, numbers and colours are complete) with IPA, audio, flashcards + SM-2 spaced repetition and deck completion tracking |
+| 3 | **Vocabulary** | 50+ themed decks / 570+ cards (finite sets like days, months, numbers and colours are complete) with IPA, pictures, audio, flashcards + SM-2 spaced repetition and deck completion tracking |
 | 4 | **Stories & conversations** | 45 graded dialogues (named, believable characters) and stories with glossaries + comprehension questions. Translations are hidden by default so you decode via the glossary. |
-| 5 | **Audio** | Natural offline text-to-speech (Piper) on every phrase, with multiple Brazilian voices so dialogue characters sound different; plus a dictation/listening practice mode |
-| 6 | **Pronunciation coach** | Record yourself → local speech recognition (Whisper) transcribes it → word- and phoneme-level scoring with targeted, Brazilian-specific tips |
+| 5 | **Phrasebook** | 30 topic-organized collections / 300+ common Brazilian phrases (restaurant, travel, health, work…) you work through like the grammar sections |
+| 6 | **Listening** | Hear real phrases by topic and rebuild each from a tap-to-build word bank (with distractors) — no keyboard needed |
+| 7 | **Pronunciation coach** | Work through phrases by topic (or any free text) → record → local Whisper transcribes → word- and phoneme-level scoring with Brazilian-specific tips |
+| 8 | **Reinforcement** | Randomized, multi-modal review drawn only from what you've completed: picture→word, word→picture, listening, fill-in-the-blank, translation and pronunciation. Every session is different and always provably correct (built from validated content). |
 
 Everything is graded across the six **CEFR levels** (A1 beginner → C2 proficient).
 
@@ -25,6 +27,7 @@ Everything is graded across the six **CEFR levels** (A1 beginner → C2 proficie
 - **Speech recognition (ASR):** [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (runs on your GPU/CPU)
 - **Text-to-speech (TTS):** [Piper](https://github.com/rhasspy/piper) with three Brazilian Portuguese voices
 - **Pronunciation phonemes:** eSpeak NG (reference IPA) + optional wav2vec2 acoustic phoneme model
+- **Pictures:** [OpenMoji](https://openmoji.org) SVGs (CC BY-SA 4.0), bundled locally
 - **Storage:** JSON content files + SQLite for progress. No external services.
 
 ## Prerequisites
@@ -95,6 +98,11 @@ needed for the optional acoustic phoneme model.
 | faster-whisper `small` | ~460 MB | Speech recognition for pronunciation scoring |
 | `facebook/wav2vec2-lv-60-espeak-cv-ft` | ~1.2 GB | Optional acoustic phoneme recognition (only if PyTorch is installed) |
 
+**Picture assets** (downloaded by `scripts/download_emoji.py` into `frontend/public/openmoji/`, git-ignored):
+Only the [OpenMoji](https://openmoji.org) SVGs actually referenced by the
+vocabulary (~130 small files, a few hundred KB total) are fetched, plus a
+`manifest.json`. OpenMoji is licensed **CC BY-SA 4.0**.
+
 ## Manual setup (if you prefer)
 
 ```powershell
@@ -108,6 +116,8 @@ cd ..
 
 # Models (Piper voices + Whisper; wav2vec2 too if torch is installed)
 .\backend\.venv\Scripts\python.exe scripts\download_models.py
+# Picture assets (OpenMoji SVGs used by the vocabulary)
+.\backend\.venv\Scripts\python.exe scripts\download_emoji.py
 
 # Frontend
 cd frontend
@@ -139,7 +149,7 @@ The app degrades gracefully — each layer activates when its dependency is pres
 
 ## Adding your own content
 
-Content lives as JSON under `backend/content/{grammar,vocabulary,stories,tests}`.
+Content lives as JSON under `backend/content/{grammar,vocabulary,stories,tests,phrases}`.
 Drop in a new file and hit **"Reload"** (`POST /api/content/reload`) or restart —
 no rebuild needed. Copy the shape of the seed files:
 
@@ -147,6 +157,12 @@ no rebuild needed. Copy the shape of the seed files:
 - `backend/content/vocabulary/a1-greetings.json`
 - `backend/content/stories/a1-cafe.json`
 - `backend/content/tests/a1-quiz-pronouns-ser.json`
+- `backend/content/phrases/phr-greetings-intros.json`
+
+To give a vocab word a picture, add an `"emoji"` field (e.g. `"emoji": "🐶"`) and
+re-run `scripts/download_emoji.py` to fetch its OpenMoji SVG. Per-section
+knowledge tests and reinforcement problems are generated automatically from this
+content — no extra authoring needed.
 
 Schemas are defined in `backend/app/models/content.py`. Validation errors (and
 their causes) are reported at `GET /api/system/status` and `GET /api/content/stats`.
@@ -160,16 +176,17 @@ portugues/
 │   │   ├── main.py            # FastAPI app (always starts; speech features are optional)
 │   │   ├── config.py          # paths + model settings (env-overridable)
 │   │   ├── content_loader.py  # loads + validates JSON content
-│   │   ├── db.py              # SQLite progress + SM-2 spaced repetition
+│   │   ├── db.py              # SQLite progress + SM-2 spaced repetition + completion
 │   │   ├── models/            # Pydantic content schemas
-│   │   ├── routers/           # content, progress, tts, pronunciation
-│   │   └── services/          # tts, asr, phonemes, scoring
+│   │   ├── routers/           # content, progress, tts, pronunciation, practice
+│   │   └── services/          # tts, asr, phonemes, scoring, generator
 │   ├── content/               # the curriculum (JSON) — edit freely
 │   ├── models_cache/          # downloaded models (git-ignored)
 │   └── requirements.txt
 ├── frontend/                  # React + Vite + TypeScript
+│   ├── public/openmoji/       # downloaded OpenMoji SVGs (git-ignored)
 │   └── src/{pages,components,api}
-└── scripts/                   # bootstrap.ps1, setup.ps1, run.ps1, download_models.py
+└── scripts/                   # bootstrap.ps1, setup.ps1, run.ps1, download_models.py, download_emoji.py
 ```
 
 ## Configuration

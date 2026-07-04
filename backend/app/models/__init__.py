@@ -10,6 +10,8 @@ from .content import (  # noqa: F401
     Level,
     Mistake,
     Paragraph,
+    Phrase,
+    PhraseCollection,
     Question,
     Quiz,
     Story,

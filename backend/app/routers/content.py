@@ -104,3 +104,24 @@ def quiz_detail(quiz_id: str):
     if not quiz:
         raise HTTPException(404, f"Quiz '{quiz_id}' not found")
     return quiz
+
+
+# --------------------------------------------------------------------------- #
+# Phrasebook
+# --------------------------------------------------------------------------- #
+@router.get("/phrases")
+def phrase_list(level: Optional[str] = Query(None)):
+    return get_store().phrase_list(level)
+
+
+@router.get("/phrases/topics")
+def phrase_topics():
+    return get_store().phrase_topics()
+
+
+@router.get("/phrases/{collection_id}")
+def phrase_detail(collection_id: str):
+    col = get_store().phrases.get(collection_id)
+    if not col:
+        raise HTTPException(404, f"Phrase collection '{collection_id}' not found")
+    return col
