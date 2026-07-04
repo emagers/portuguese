@@ -18,7 +18,7 @@ if (-not (Test-Path $venvPy)) {
     exit 1
 }
 
-Write-Host "Starting backend on http://127.0.0.1:$BackendPort …" -ForegroundColor Cyan
+Write-Host "Starting backend on http://127.0.0.1:$BackendPort ..." -ForegroundColor Cyan
 Start-Process powershell -ArgumentList @(
     "-NoExit", "-Command",
     "`$env:PYTHONIOENCODING='utf-8'; Set-Location '$backend'; " +
@@ -27,7 +27,7 @@ Start-Process powershell -ArgumentList @(
 
 Start-Sleep -Seconds 2
 
-Write-Host "Starting frontend on http://localhost:$FrontendPort …" -ForegroundColor Cyan
+Write-Host "Starting frontend on http://localhost:$FrontendPort ..." -ForegroundColor Cyan
 Start-Process powershell -ArgumentList @(
     "-NoExit", "-Command",
     "Set-Location '$frontend'; npm run dev -- --port $FrontendPort"

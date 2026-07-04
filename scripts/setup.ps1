@@ -31,23 +31,24 @@ Write-Host ("Node   : " + (node --version))
 # --- backend venv + deps ---
 $venvPy = Join-Path $backend ".venv\Scripts\python.exe"
 if (-not (Test-Path $venvPy)) {
-    Write-Host "`nCreating Python virtual environment…" -ForegroundColor Yellow
+    Write-Host "`nCreating Python virtual environment..." -ForegroundColor Yellow
     python -m venv (Join-Path $backend ".venv")
 }
-Write-Host "Installing backend dependencies…" -ForegroundColor Yellow
+Write-Host "Installing backend dependencies..." -ForegroundColor Yellow
 & $venvPy -m pip install --upgrade pip
 & $venvPy -m pip install -r (Join-Path $backend "requirements.txt")
 
 # --- PyTorch (for the acoustic phoneme layer) ---
 if (-not $SkipTorch) {
-    Write-Host "`nInstalling PyTorch (for detailed pronunciation analysis)…" -ForegroundColor Yellow
+    Write-Host "`nInstalling PyTorch (for detailed pronunciation analysis)..." -ForegroundColor Yellow
     $hasCuda = $false
     if (-not $CpuTorch) {
         try { if (Get-Command nvidia-smi -ErrorAction SilentlyContinue) { $hasCuda = $true } } catch {}
     }
     if ($hasCuda) {
-        Write-Host "  NVIDIA GPU detected — installing CUDA build." -ForegroundColor Green
-        & $venvPy -m pip install torch --index-url https://download.pytorch.org/whl/cu121
+        Write-Host "  NVIDIA GPU detected - installing CUDA build." -ForegroundColor Green
+        # cu124 has wheels for current Python versions (incl. 3.13); cu121 does not.
+        & $venvPy -m pip install torch --index-url https://download.pytorch.org/whl/cu124
     } else {
         Write-Host "  Installing CPU build of PyTorch." -ForegroundColor Green
         & $venvPy -m pip install torch --index-url https://download.pytorch.org/whl/cpu
@@ -59,23 +60,23 @@ if (-not $SkipTorch) {
 # --- espeak-ng (reference phonemes for pronunciation tips) ---
 if (-not (Get-Command espeak-ng -ErrorAction SilentlyContinue) -and
     -not (Test-Path "C:\Program Files\eSpeak NG\espeak-ng.exe")) {
-    Write-Host "`nInstalling espeak-ng (phoneme tips)…" -ForegroundColor Yellow
+    Write-Host "`nInstalling espeak-ng (phoneme tips)..." -ForegroundColor Yellow
     if (Get-Command winget -ErrorAction SilentlyContinue) {
         try { winget install --id eSpeak-NG.eSpeak-NG -e --accept-package-agreements --accept-source-agreements }
-        catch { Write-Host "  winget install failed — you can install eSpeak NG manually later." -ForegroundColor DarkYellow }
+        catch { Write-Host "  winget install failed - you can install eSpeak NG manually later." -ForegroundColor DarkYellow }
     } else {
         Write-Host "  winget not available. Install eSpeak NG from https://github.com/espeak-ng/espeak-ng/releases to enable phoneme tips." -ForegroundColor DarkYellow
     }
 }
 
 # --- frontend deps ---
-Write-Host "`nInstalling frontend dependencies…" -ForegroundColor Yellow
+Write-Host "`nInstalling frontend dependencies..." -ForegroundColor Yellow
 Push-Location $frontend
 npm install
 Pop-Location
 
 # --- models ---
-Write-Host "`nDownloading models (Piper voice + Whisper)…" -ForegroundColor Yellow
+Write-Host "`nDownloading models (Piper voice + Whisper)..." -ForegroundColor Yellow
 $env:PYTHONIOENCODING = "utf-8"
 & $venvPy (Join-Path $PSScriptRoot "download_models.py")
 

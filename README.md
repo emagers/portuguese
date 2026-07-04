@@ -23,33 +23,77 @@ Everything is graded across the six **CEFR levels** (A1 beginner → C2 proficie
 - **Backend:** Python + FastAPI
 - **Frontend:** React + Vite + TypeScript
 - **Speech recognition (ASR):** [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (runs on your GPU/CPU)
-- **Text-to-speech (TTS):** [Piper](https://github.com/rhasspy/piper) with a Brazilian Portuguese voice
+- **Text-to-speech (TTS):** [Piper](https://github.com/rhasspy/piper) with three Brazilian Portuguese voices
 - **Pronunciation phonemes:** eSpeak NG (reference IPA) + optional wav2vec2 acoustic phoneme model
 - **Storage:** JSON content files + SQLite for progress. No external services.
 
 ## Prerequisites
 
-- Windows 10/11 (scripts are PowerShell; the app itself is cross-platform)
-- [Python 3.10+](https://www.python.org/) and [Node.js 18+](https://nodejs.org/)
-- ~2 GB free disk for models (more if you enable the acoustic phoneme model)
-- A microphone (for the pronunciation coach)
-- An NVIDIA GPU is used automatically if available, but everything works on CPU.
+You only need these two things installed yourself — the bootstrap script fetches
+everything else automatically:
+
+- **Windows 10/11** (the helper scripts are PowerShell; the app itself is cross-platform)
+- **[Python 3.10+](https://www.python.org/downloads/)** and **[Node.js 18+](https://nodejs.org/)**
+  (both must be on your `PATH`). If they're missing and you have `winget`, the
+  bootstrap script offers to install them for you.
+
+Also helpful:
+- **~4 GB free disk** for all models (or ~1.5 GB if you skip the acoustic phoneme model with `-SkipTorch`).
+- **A microphone** (for the pronunciation coach).
+- **An NVIDIA GPU** is used automatically if present (via the CUDA PyTorch build); everything also works on CPU.
 
 ## Quick start
 
-```powershell
-# 1. Install everything (Python + Node deps, models, optional PyTorch)
-powershell -ExecutionPolicy Bypass -File scripts\setup.ps1
+One command installs everything (dependencies, tools, and models) and launches the app:
 
-# 2. Run both servers
-powershell -ExecutionPolicy Bypass -File scripts\run.ps1
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\bootstrap.ps1
 ```
 
-Then open **http://localhost:5173**.
+It opens **http://localhost:5173** when ready. That's it.
 
-`setup.ps1` flags:
-- `-SkipTorch` — skip the large PyTorch install (word + phoneme scoring still work).
-- `-CpuTorch` — force the CPU build of PyTorch.
+Useful flags:
+- `-SkipTorch` — skip the large PyTorch download (word + phoneme scoring still work; only the acoustic-voice layer is disabled).
+- `-CpuTorch` — force the CPU build of PyTorch instead of CUDA.
+- `-NoRun` — install everything but don't launch the servers.
+
+Prefer to do it in two steps? `scripts\setup.ps1` installs everything, then
+`scripts\run.ps1` launches the backend + frontend.
+
+## External dependencies (what gets downloaded & installed)
+
+Everything below is free and open-source. Once fetched, the app runs fully
+offline. The bootstrap/setup scripts handle all of it automatically.
+
+**System tools (installed via `winget`, or install manually):**
+
+| Tool | Why | Source / auto-install |
+|------|-----|-----------------------|
+| Python 3.10+ | Backend runtime | winget `Python.Python.3.12` |
+| Node.js 18+ | Frontend build/dev server | winget `OpenJS.NodeJS.LTS` |
+| eSpeak NG | Reference IPA phonemes for pronunciation tips | winget `eSpeak-NG.eSpeak-NG` (pulls in the VC++ 2015+ redistributable it needs) |
+
+**Python packages** (`backend/requirements.txt`, installed into `backend/.venv`):
+`fastapi`, `uvicorn[standard]`, `pydantic`, `python-multipart`,
+`faster-whisper` (bundles PyAV, so **no separate ffmpeg install** is needed),
+`numpy`, `transformers`, `phonemizer`.
+
+**PyTorch** (installed separately by `setup.ps1` so the right build is chosen):
+CUDA `cu124` build if an NVIDIA GPU is detected, otherwise the CPU build. Only
+needed for the optional acoustic phoneme model.
+
+**Node packages** (`frontend/package.json`, via `npm install`):
+`react`, `react-dom`, `react-router-dom`, plus dev tools `vite`,
+`@vitejs/plugin-react`, `typescript`, and type definitions.
+
+**Models** (downloaded by `scripts/download_models.py` into `backend/models_cache/`, git-ignored):
+
+| Model | Size | Purpose |
+|-------|------|---------|
+| Piper Windows binary + ONNX runtime | ~25 MB | Neural text-to-speech engine |
+| Piper voices: `pt_BR-faber`, `pt_BR-cadu`, `pt_BR-jeff` (medium) | ~60 MB each | Distinct Brazilian voices for dialogue characters |
+| faster-whisper `small` | ~460 MB | Speech recognition for pronunciation scoring |
+| `facebook/wav2vec2-lv-60-espeak-cv-ft` | ~1.2 GB | Optional acoustic phoneme recognition (only if PyTorch is installed) |
 
 ## Manual setup (if you prefer)
 
@@ -58,12 +102,11 @@ Then open **http://localhost:5173**.
 cd backend
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-# (optional, for the acoustic phoneme layer)
-.\.venv\Scripts\python.exe -m pip install torch --index-url https://download.pytorch.org/whl/cu121
-.\.venv\Scripts\python.exe -m pip install transformers
+# (optional, for the acoustic phoneme layer — use cu124 for GPU, or /cpu)
+.\.venv\Scripts\python.exe -m pip install torch --index-url https://download.pytorch.org/whl/cu124
 cd ..
 
-# Models (Piper voice + Whisper; wav2vec2 too if torch is installed)
+# Models (Piper voices + Whisper; wav2vec2 too if torch is installed)
 .\backend\.venv\Scripts\python.exe scripts\download_models.py
 
 # Frontend
@@ -126,7 +169,7 @@ portugues/
 │   └── requirements.txt
 ├── frontend/                  # React + Vite + TypeScript
 │   └── src/{pages,components,api}
-└── scripts/                   # setup.ps1, run.ps1, download_models.py
+└── scripts/                   # bootstrap.ps1, setup.ps1, run.ps1, download_models.py
 ```
 
 ## Configuration

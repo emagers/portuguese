@@ -99,6 +99,20 @@ def setup_whisper() -> None:
         print(f"  ! could not fetch whisper model: {exc}")
 
 
+def _ensure_espeak_library() -> None:
+    """Point phonemizer at the espeak-ng shared library (needed to construct the
+    wav2vec2-phoneme tokenizer). No-op if already set or not found."""
+    if os.environ.get("PHONEMIZER_ESPEAK_LIBRARY"):
+        return
+    for p in (
+        r"C:\Program Files\eSpeak NG\libespeak-ng.dll",
+        r"C:\Program Files (x86)\eSpeak NG\libespeak-ng.dll",
+    ):
+        if Path(p).exists():
+            os.environ["PHONEMIZER_ESPEAK_LIBRARY"] = p
+            return
+
+
 def setup_phoneme_model() -> None:
     print("[3/3] Acoustic phoneme model (optional)")
     try:
@@ -106,11 +120,18 @@ def setup_phoneme_model() -> None:
     except Exception:
         print("  = torch/transformers not installed — skipping (word-level scoring still works).")
         return
+    _ensure_espeak_library()
     model_id = os.getenv("PHONEME_MODEL", "facebook/wav2vec2-lv-60-espeak-cv-ft")
     try:
         print(f"  fetching {model_id}…")
-        AutoProcessor.from_pretrained(model_id, cache_dir=str(CACHE / "hf"))
+        # Download weights first (independent of the tokenizer/espeak).
         AutoModelForCTC.from_pretrained(model_id, cache_dir=str(CACHE / "hf"))
+        try:
+            AutoProcessor.from_pretrained(model_id, cache_dir=str(CACHE / "hf"))
+        except Exception as exc:
+            print(f"  ! model weights fetched, but processor needs espeak-ng: {exc}")
+            print("    Install eSpeak NG (setup.ps1 does this) to enable the acoustic layer.")
+            return
         print("  ✓ phoneme model ready")
     except Exception as exc:
         print(f"  ! could not fetch phoneme model: {exc}")
