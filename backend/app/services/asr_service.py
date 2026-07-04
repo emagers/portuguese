@@ -1,7 +1,7 @@
 """Offline speech recognition using faster-whisper.
 
 The Whisper model is loaded lazily on first use so the server starts instantly.
-On a CUDA GPU (e.g. the RTX 3060) it uses float16; otherwise it falls back to
+On a CUDA GPU it uses float16; otherwise it falls back to
 int8 on CPU, which is still fast for the short phrases used in pronunciation
 practice.
 """
