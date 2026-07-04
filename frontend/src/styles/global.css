@@ -382,6 +382,42 @@ td.speak-cell:hover::after { content: " 🔊"; opacity: 0.6; font-size: 0.8em; }
 }
 .banner.err { background: #fef2f2; border-color: #fecaca; }
 
+/* Listening word-bank exercise */
+.answer-box {
+  min-height: 54px;
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  background: #fbfcfe;
+}
+.answer-pill {
+  background: #eef2ff;
+  border: 1px solid #c7d2fe;
+  color: var(--text);
+  border-radius: 999px;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.answer-pill.ok { background: #dcfce7; border-color: #86efac; color: #166534; }
+.answer-pill.bad { background: #fee2e2; border-color: #fecaca; color: #991b1b; }
+.pill-tray { display: flex; flex-wrap: wrap; gap: 10px; }
+.pill {
+  border: 1px solid var(--border);
+  background: #fff;
+  border-radius: 999px;
+  padding: 9px 16px;
+  cursor: pointer;
+  font-size: 1.05rem;
+  box-shadow: var(--shadow);
+}
+.pill:hover { border-color: var(--blue-light); background: #f0f5ff; }
+.pill:active { transform: translateY(1px); }
+
 .loading { color: var(--muted); padding: 40px; text-align: center; }
 
 .empty {
